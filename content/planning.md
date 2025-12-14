@@ -1,8 +1,45 @@
 ---
-title: "規劃 (Planning)"
+title: "個人筆記規劃 (Planning)"
 layout: "single" 
 url: "/planning/"
-summary: "Planning notes for future projects."
+summary: "哈爸個人筆記網站的內容架構與未來文章規劃"
 weight: 1
 ---
 
+## 內容架構規劃 (Content Strategy)
+
+本網站「哈爸筆記」定位為個人知識庫與學習歷程的紀錄，涵蓋技術鑽研、GenAI 探索、專案實作與生活思考。
+
+### Categories (分類)
+
+分類用於廣泛的主題領域區分：
+
+1.  **GenAI (生成式 AI)**
+    *   專注於 LLM、Prompt Engineering、AI Agent 設計與應用。
+    *   包含：模型測試心得、RAG 實作、AI 工具評測。
+2.  **Technology (技術)**
+    *   軟體開發技術筆記、架構設計、新工具探索。
+    *   包含：Web 開發、DevOps、資料庫管理、程式語言學習。
+3.  **Project (專案)**
+    *   個人 Side Project 或大型專案的開發紀錄與成果展示。
+    *   包含：需求分析、實作過程、問題解決紀錄。
+4.  **Knowledge Base (知識庫)**
+    *   讀書筆記、課程學習心得、系統化的知識整理。
+    *   包含：技術書籍摘要、線上課程筆記。
+5.  **Life & Thoughts (生活與隨筆)**
+    *   日常生活紀錄、個人觀點闡述、反思與成長。
+    *   包含：雜感、旅遊、家庭生活。
+
+### Series (系列)
+
+系列用於將特定主題的多篇文章串連成一個完整的學習路徑或專案歷程：
+
+*(目前暫無特定規劃，待未來累積足夠同主題文章後再行歸納)*
+
+---
+
+## 待辦事項 (Todo List)
+
+- [ ] 撰寫網站「關於我」(About) 頁面，介紹哈爸與本站目的。
+- [ ] 整理並遷移過去散落在其他地方的筆記。
+- [ ] 設定 Giscus 或其他評論系統。
