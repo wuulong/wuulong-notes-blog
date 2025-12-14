@@ -1,0 +1,72 @@
+baseURL: "https://your-username.github.io/wuulong-notes-blog/"
+languageCode: "zh-tw"
+title: "哈爸筆記"
+theme: "PaperMod"
+pagination:
+  pagerSize: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: false
+
+
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "台灣河川探索誌"
+  description: "紀錄大甲溪與台灣各大河川的深度探訪之旅"
+  keywords: [Blog, Portfolio, PaperMod, Taiwan, River]
+  author: "Wuulong"
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2006-01-02"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  TocOpen: true
+  disableSpecial1stPost: false
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: series
+      name: Series
+      url: /series/
+      weight: 15
+    - identifier: planning
+      name: Planning
+      url: /planning/
+      weight: 20
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 30
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
