@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>README on 哈爸筆記</title>
+    <link>https://your-username.github.io/wuulong-notes-blog/</link>
+    <description>Recent content in README on 哈爸筆記</description>
+    <image>
+      <title>哈爸筆記</title>
+      <url>https://your-username.github.io/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://your-username.github.io/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-tw</language>
+    <atom:link href="https://your-username.github.io/wuulong-notes-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>規劃 (Planning)</title>
+      <link>https://your-username.github.io/wuulong-notes-blog/planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://your-username.github.io/wuulong-notes-blog/planning/</guid>
+      <description>Planning notes for future projects.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://your-username.github.io/wuulong-notes-blog/posts/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://your-username.github.io/wuulong-notes-blog/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;categories-general&#34;&gt;title: &amp;ldquo;First Post&amp;rdquo;
+date: 2025-12-15T06:42:20+08:00
+draft: false
+tags: [&amp;ldquo;test&amp;rdquo;]
+categories: [&amp;ldquo;general&amp;rdquo;]&lt;/h2&gt;
+&lt;p&gt;This is my first post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
