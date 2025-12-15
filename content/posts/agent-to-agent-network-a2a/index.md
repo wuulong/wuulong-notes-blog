@@ -1,5 +1,5 @@
 ---
-title: "系統整和太難？試試看「AI 代理人網絡 (A2A)」的新解法"
+title: "系統整合太難？試試看「AI 代理人網絡 (A2A)」的新解法"
 date: 2025-12-15T12:33:11+08:00
 categories: ["GenAI", "Technology"]
 tags: ["AI Agent", "HealthTech", "System Integration", "A2A"]
