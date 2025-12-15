@@ -70,3 +70,15 @@ https://www.facebook.com/reel/1006034868380087
 這次 GAI 忘年會給我最大的衝擊是：我們常常想著「怎麼用 AI 幫我現在的工作省時間」，但真正的強者在想的是**「有了 AI，這個工作流程本身是不是該打掉重練？」**。
 
 從 Context 化的公司治理，到手作原型的產品經理，這些都是 AI 賦能後長出的新物種。這場聚會，吃得很飽，腦袋更飽！
+
+---
+
+### AI 協作宣告 (AI Collaboration Disclosure)
+
+> ![AI Generated](https://img.shields.io/badge/Content-AI%20Assisted-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white) 
+> ![Human Reviewed](https://img.shields.io/badge/Review-Human%20Verified-green?style=flat-square)
+>
+> **本文內容由 AI 協作生成**：
+> 1.  **素材來源**：講者口述分享與會議筆記。
+> 2.  **AI 工具**：使用 GenAI 進行語音轉錄、摘要整理與草稿撰寫。
+> 3.  **人工審核**：由哈爸本人確認觀點準確性並進行最終潤飾。
