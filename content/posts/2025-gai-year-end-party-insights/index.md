@@ -58,10 +58,11 @@ draft: false
 
 
 ## 延伸
-- 原來佛心講師之前有分享影片，連結如下，附上萃取後的摘要圖
-https://www.facebook.com/reel/1006034868380087
-
+- [投影片-親愛的，我把整間公司變成上下文](https://drive.google.com/file/d/1jgUBVU1HI17wkQ_IzuFZcXWDFPzVjwzf/edit?fbclid=IwY2xjawOtletleHRuA2FlbQIxMABicmlkETFYTFZmejFGYXdZZjA0RGQyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnaDXl8iAhYPXGcHx6c1HXokPzqT_c-kxMn5WZEdSSH7LARTV0wM_C37VWu5_aem_nKv_Ta_piuDTm6jJyg-VvA)
+- 這應該是會議上提到的 repo: [company-as-context](https://github.com/chenjackle45/company-as-context)
+- 原來佛心講師之前有[分享影片](https://www.facebook.com/reel/1006034868380087)，附上萃取後的摘要圖，以及摘要：[AI驅動的工作流程革新：小型團隊的PDCA永動機](AI驅動的工作流程革新：小型團隊的PDCA永動機.txt)
 ![會議PDCA](會議PDCA.png)
+
 
 
 
