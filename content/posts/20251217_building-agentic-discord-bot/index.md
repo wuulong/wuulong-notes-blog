@@ -15,6 +15,8 @@ top: true
 
 這篇文章紀錄了我將它從「鸚鵡」進化成「智慧助理 (Agent)」的過程。
 
+![n8n_agentic_discord](n8n_agentic_discord.png)
+
 ## 第一階段：接上大腦 (LLM Integration)
 
 一開始的想法很簡單：把 Discord 收到的訊息，丟給 Google Gemini，再把 Gemini 的回覆丟回 Discord。
