@@ -3,6 +3,7 @@ title: "【系慶快報】交大機械系 50 週年特展籌備啟動！邀您�
 date: 2025-12-17T16:00:00+08:00
 draft: false
 tags: ["DME", "50th Anniversary", "Exhibition", "Alumni", "Data Release"]
+series: ["哈爸生活與社群"]
 categories: ["Event", "Announcement"]
 description: "交大機械系 50 週年系慶特展籌備小組於 12/17 召開會議，定案將於 4 月 11 日舉辦系友回娘家活動，透過實體與數位雙軌展覽，重現半世紀風華。本次更創新提出「歷史資料集 (Data Release)」概念，結合 AI 技術活化系史。"
 summary: "機械系即將迎來 50 歲生日！籌備小組於今日 (12/17) 齊聚一堂，敲定了 4 月 11 日的系慶大活動。除了圖書館與系館的雙展區規劃，我們更計畫將珍貴的歷史照片與文件數位化，釋出為「系史資料集」，讓這些回憶能透過 AI 永續流傳。我們需要各位系友的熱情參與，不管是提供老照片、老儀器，還是當天回來走走，都是對系上最大的支持！"
@@ -52,6 +53,10 @@ top: false
 您可以選擇將實體文物寄回系辦 (展後可歸還)，或是直接上傳電子檔。
 [歷屆系友照片](https://drive.google.com/drive/folders/11WKB-5OxsVsELpbdzo3IzkgTAZcbMcaT?usp=drive_link)
 機械 50，不僅是系的生日，更是我們共同記憶的慶典。期待在 4 月 11 日見到大家！
+
+## 好物
+![wine](wine.jpg)
+![cup](cup.jpg)
 
 ### AI 協作宣告 (AI Collaboration Disclosure)
 
