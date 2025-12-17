@@ -114,3 +114,13 @@ gcloud compute addresses create my-static-ip \
 每月的帳單從原本因為閒置硬碟而墊高的 $30+ USD，降回了純運算的 **$9 USD (台幣約 300 元)** 左右。
 
 以每個月一杯星巴克的價格，擁有一台獨立 IP、Root 權限、且架構乾淨的 PostgreSQL 伺服器，這絕對是高 CP 值的選擇。
+
+### AI 協作宣告 (AI Collaboration Disclosure)
+
+> ![AI Generated](https://img.shields.io/badge/Content-AI%20Assisted-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white) 
+> ![Human Reviewed](https://img.shields.io/badge/Review-Human%20Verified-green?style=flat-square)
+>
+> **本文內容由 AI 協作生成**：
+> 1.  **素材來源**：作者實際操作經驗與技術筆記。
+> 2.  **AI 工具**：使用 Antigravity (Gemini) 協助指令執行、除錯與文章撰寫。
+> 3.  **人工審核**：由哈爸本人確認觀點準確性並進行最終潤飾。
