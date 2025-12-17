@@ -15,7 +15,7 @@ top: true
 
 這篇文章紀錄了我將它從「鸚鵡」進化成「智慧助理 (Agent)」的過程。
 
-![n8n_agentic_discord](n8n_agentic_discord.png)
+
 
 ## 第一階段：接上大腦 (LLM Integration)
 
@@ -38,6 +38,7 @@ top: true
 
 在 n8n 裡，這透過 **`AI Agent`** 節點來實現。這是我目前的架構圖：
 
+![n8n_agentic_discord](n8n_agentic_discord.png)
 *(在此處想像一張完美的 n8n 節點連接圖)*
 
 ### 架構解析
@@ -73,11 +74,53 @@ top: true
 
 這就是 Agentic AI 的魅力。它不再是單純的文字接龍，而是真正具有 **「解決問題能力」** 的智慧體。
 
-## 下一步
+## 第三階段：打造法律專家 (SQL Tool Integration)
 
-現在它已經會算數、會查維基了。下一步，我打算把 **Wikipedia** 換成我自己的 **Google Cloud Postgres 資料庫**。
+現在它已經會算數、會查維基了。但我的終極目標是讓它能查詢我自己建立的 **Postgres 法律資料庫**。
 
-想像一下，當我問法律問題時，它能自動去 Query 相關的法規，那才是我心目中真正的「法律 AI 助理雛形」。
+這一步是最具挑戰性，也最迷人的地方。我並沒有寫死什麼「關鍵字查詢」功能，而是做了一個 **「通用 SQL 執行器」**，並透過 Prompt Engineering 讓 AI 自己學會寫 SQL。
+
+![UsingDBOK](UsingDBOK.png)
+*(圖：接上了 Postgres 資料庫的 Agentic Workflow 完整架構)*
+
+### 關鍵設定解析
+
+要達成這個效果，不再是靠程式碼，而是靠「溝通」。設定上只有這兩個重點：
+
+#### 1. 工具端 (The Hand)：只負責執行
+
+我建立了一個 Sub-Workflow，它的邏輯非常暴力簡單：
+*   **Input**: 接收一個字串參數，我們把它定義為 `sql_str`。
+*   **Action**: 把這個字串原封不動地丟給 Postgres 節點去執行 (Execute Query)。
+*   **Output**: 回傳 SQL 執行的結果。
+
+它就像一隻手，完全不管內容，給什麼執行什麼。
+
+#### 2. Agent 端 (The Brain)：教它資料結構
+
+這才是真正的魔法所在。
+在主流程的 **Call Workflow Tool** 節點中，我在 **Description** 欄位寫了一大段「說明書」。
+
+這段說明書不只是說「這是查資料庫用的」，更重要的是**把資料庫的 Schema 全部告訴它**！
+
+我的 Description 大概是這樣寫的：
+> "Help the user query their PostgreSQL database by executing SQL queries. This database named 'lawdb' includes a table named **'articles'** with columns **'id', 'content', 'chapter'**..."
+
+![UsingDBLog](UsingDBLog.png)
+*(圖：關鍵的設定細節。注意 Description 欄位裡，我把 Table Schema 都塞進去了，這樣 Gemini 才知道怎麼寫 SQL)*
+
+### 成果：Text-to-SQL
+
+當我問它：「政府採購法總共有幾條？」
+
+Gemini 的思考過程是這樣的：
+1.  **理解問題**：用戶想算數量 (Count)。
+2.  **查詢記憶**：看過 Tool Description，知道有一個 `articles` 表。
+3.  **生成 SQL**：它自己寫出了 `SELECT COUNT(*) FROM articles WHERE ...`。
+4.  **呼叫工具**：把這段 SQL 丟給我的 Sub-Workflow。
+5.  **回答**：「總共有 123 條。」
+
+這就是 **Agentic AI** 強大的地方。我不需要為每一個查詢需求寫程式，我只需要把「資料結構」教給它，剩下的 SQL，它自己會寫！
 
 ### AI 協作宣告 (AI Collaboration Disclosure)
 
