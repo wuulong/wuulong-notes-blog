@@ -1,0 +1,85 @@
+---
+title: "新科技需要新流程！參加 2025 GAI 忘年會的兩個關鍵反思"
+date: 2025-12-16T06:35:03+08:00
+categories: ["GenAI", "Life & Thoughts"]
+tags: ["GAI 忘年會", "PDCA", "Context Engineering", "PM Prototype", "Workflow Innovation"]
+summary: "參加講者尾牙「GAI 忘年會」，原本只是想輕鬆聚聚，卻帶回了兩個重磅的思維升級。當公司可以被 Context 化，當 PM 可以直接用 AI 寫 Code，我們的管理模式與工作流程正在經歷一場寧靜的革命。"
+draft: false
+---
+
+參加「Generative AI 年會」的講者尾牙（忘年會），原本預期是大夥吃吃喝喝、交流感情的場合。沒想到在輕鬆的氛圍下，聽到了幾段含金量極高的分享，讓我對 AI 在組織與流程中的應用有了新的體悟。
+
+這次聚會不僅僅是吃飯，更像是一場高品質的腦力激盪。其中有兩個核心洞見，我認為非常值得記錄下來，與大家分享。
+
+![開場](IMG_3094.jpg)
+*(全場都是 GenAI 講師，含金量高)*
+
+![自己的關鍵心得](忘年會-心得.png)
+*(哈爸的心得，是用語音口述摘要的)*
+
+
+
+## 洞見一：會議不是時間黑洞，而是「營運引擎」
+
+我們常抱怨會議多又沒效率，但在這次分享中，我看到了一種全新的可能性：**以 AI 驅動 PDCA 循環**。
+
+講者分享了一種將公司運作與 AI 深度結合的模式：
+1.  **Plan (規劃)**：讓 AI 根據既有的公司脈絡 (Context)，引導會議議程。
+2.  **Do (執行)**：會議過程全程錄音，AI 即時轉化為紀錄、摘要。
+3.  **Check & Act (查核與行動)**：AI 直接從會議內容中捕捉待辦事項 (Action Items)，並追蹤執行結果。
+4.  **Loop (回饋)**：執行結果又變成了下一次會議的輸入資料。
+
+這聽起來很像傳統的 PDCA，但關鍵差異在於**「全公司的 Context 化」**。
+當整間公司的資訊——從知識庫、決策歷史到即時會議記錄——都被轉化為 AI 讀得懂的脈絡時，AI 就不再只是旁聽者，而是成為了會議的「Facilitator (引導者)」與「Tracker (追蹤者)」。
+
+這讓會議從「消耗時間的黑洞」，轉變為推動公司前進的**「營運引擎」**。
+
+
+## 洞見二：新科技需要新流程——PM 不再只是寫 PRD
+
+另一項讓我很有共鳴的反思是：**「新科技不能只用來加速舊流程，而是要創造新流程。」**
+
+以軟體開發為例，傳統流程是：
+`PM 寫 PRD (需求文件)` -> `工程師看文件` -> `寫程式`
+
+但在 GenAI 時代，這個邊界模糊了。講者提到這場「職責的位移」：
+*   **Old Way**：PM 絞盡腦汁寫 PRD，這其實就是「紙上談兵」。有時候寫出來的需求既天馬行空又難以實作。
+*   **New Way**：**PM 直接用 AI 寫 Code，做出 Prototype (原型)**。
+
+因為有了 AI 輔助，PM 具備了基本的實作與驗證能力 (Verify coding/prototyping)。這意味著：
+1.  **溝通更精準**：拿著一個會動的原型跟工程師溝通，比幾千字的 PRD 有效一百倍。
+2.  **可行性驗證**：PM 在動手做的過程中，自己就會發現哪些想法不切實際，避免了後續工程師收到「爛需求」的慘劇。
+
+這就像是從古早的「手繪建築藍圖」，進化到直接給你看「3D 列印模型」。問題在早期就被解決了，而不是等到蓋樓時才發現樑柱對不上。
+
+
+![東西好吃又豐富](IMG_3092.jpg)
+*(聚會的餐點非常豐富美味)*
+
+
+## 延伸
+- [投影片-親愛的，我把整間公司變成上下文](https://drive.google.com/file/d/1jgUBVU1HI17wkQ_IzuFZcXWDFPzVjwzf/edit?fbclid=IwY2xjawOtletleHRuA2FlbQIxMABicmlkETFYTFZmejFGYXdZZjA0RGQyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnaDXl8iAhYPXGcHx6c1HXokPzqT_c-kxMn5WZEdSSH7LARTV0wM_C37VWu5_aem_nKv_Ta_piuDTm6jJyg-VvA)
+- 這應該是會議上提到的 repo: [company-as-context](https://github.com/chenjackle45/company-as-context)
+- 原來佛心講師之前有[分享影片](https://www.facebook.com/reel/1006034868380087)，附上萃取後的摘要圖，以及摘要：[AI驅動的工作流程革新：小型團隊的PDCA永動機](AI驅動的工作流程革新：小型團隊的PDCA永動機.txt)
+![會議PDCA](會議PDCA.png)
+
+
+
+
+## 結語
+
+這次 GAI 忘年會給我最大的衝擊是：我們常常想著「怎麼用 AI 幫我現在的工作省時間」，但真正的強者在想的是**「有了 AI，這個工作流程本身是不是該打掉重練？」**。
+
+從 Context 化的公司治理，到手作原型的產品經理，這些都是 AI 賦能後長出的新物種。這場聚會，吃得很飽，腦袋更飽！
+
+---
+
+### AI 協作宣告 (AI Collaboration Disclosure)
+
+> ![AI Generated](https://img.shields.io/badge/Content-AI%20Assisted-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white) 
+> ![Human Reviewed](https://img.shields.io/badge/Review-Human%20Verified-green?style=flat-square)
+>
+> **本文內容由 AI 協作生成**：
+> 1.  **素材來源**：講者口述分享與會議筆記。
+> 2.  **AI 工具**：使用 GenAI 進行語音轉錄、摘要整理與草稿撰寫。
+> 3.  **人工審核**：由哈爸本人確認觀點準確性並進行最終潤飾。
