@@ -75,3 +75,13 @@ images: ["n8n_drive_workflow.png"]
 *   讀取內容後，直接在 Discord 回答我的問題。
 
 這樣我就擁有一個隨身攜帶的個人知識庫助理了！
+
+### AI 協作宣告 (AI Collaboration Disclosure)
+
+> ![AI Generated](https://img.shields.io/badge/Content-AI%20Assisted-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white) 
+> ![Human Reviewed](https://img.shields.io/badge/Review-Human%20Verified-green?style=flat-square)
+>
+> **本文內容由 AI 協作生成**：
+> 1.  **素材來源**：作者實際 n8n 實作截圖與需求。
+> 2.  **AI 工具**：使用 Antigravity (Gemini) 協助整理 Google OAuth 流程與撰寫技術筆記。
+> 3.  **人工審核**：由哈爸本人確認實作流程與技術細節準確性。

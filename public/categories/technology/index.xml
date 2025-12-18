@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technology on 哈爸筆記</title>
+    <link>http://localhost:1313/wuulong-notes-blog/categories/technology/</link>
+    <description>Recent content in Technology on 哈爸筆記</description>
+    <image>
+      <title>哈爸筆記</title>
+      <url>http://localhost:1313/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 15 Dec 2025 13:00:56 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/wuulong-notes-blog/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>從口述到發布：我如何用 NotebookLM &#43; Antigravity 打造極速內容生產線</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251215_voice-to-blog-genai-workflow/</link>
+      <pubDate>Mon, 15 Dec 2025 13:00:56 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251215_voice-to-blog-genai-workflow/</guid>
+      <description>很多精彩的想法都消失在會議室的空氣中？本文分享我的一套 GenAI 工作流：從手機錄音開始，透過 Google NotebookLM 生成摘要與圖表，再經由 Agentic AI (Antigravity) 改寫，最後自動部署到個人的 Hugo 網誌。這是一條讓「隨機討論」快速變成「結構化知識」的高速公路。</description>
+    </item>
+    <item>
+      <title>系統整合太難？試試看「AI 代理人網絡 (A2A)」的新解法</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251215_agent-to-agent-network-a2a/</link>
+      <pubDate>Mon, 15 Dec 2025 12:33:11 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251215_agent-to-agent-network-a2a/</guid>
+      <description>醫療資訊系統整合總是卡關？如果我們不強求系統對接，而是讓每個角色都有一個「AI 秘書」來幫忙傳話呢？這篇文章探討 Agent-to-Agent (A2A) 架構如何繞過技術債，用更彈性、更像人類協作的方式解決資訊孤島問題。</description>
+    </item>
+  </channel>
+</rss>

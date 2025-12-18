@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on 台灣河川探索誌</title>
+    <link>http://localhost:1313/river-exploration-blog/tags/python/</link>
+    <description>Recent content in Python on 台灣河川探索誌</description>
+    <image>
+      <title>台灣河川探索誌</title>
+      <url>http://localhost:1313/river-exploration-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/river-exploration-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 13 Dec 2025 13:29:48 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/river-exploration-blog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>實驗紀錄：使用 Fabric 封裝 Gemini CLI 提升 AI Agent 協作效率</title>
+      <link>http://localhost:1313/river-exploration-blog/posts/fabric_gemini_integration/</link>
+      <pubDate>Sat, 13 Dec 2025 13:29:48 +0800</pubDate>
+      <guid>http://localhost:1313/river-exploration-blog/posts/fabric_gemini_integration/</guid>
+      <description>本實驗記錄了如何透過 Python Fabric 構建中間層來驅動 Google Gemini CLI，解決直接操作命令列時遇到的轉義字元問題、日誌雜訊干擾，並實現模型參數的靈活配置。</description>
+    </item>
+  </channel>
+</rss>

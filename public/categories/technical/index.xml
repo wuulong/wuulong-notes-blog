@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technical on 哈爸筆記</title>
+    <link>http://localhost:1313/wuulong-notes-blog/categories/technical/</link>
+    <description>Recent content in Technical on 哈爸筆記</description>
+    <image>
+      <title>哈爸筆記</title>
+      <url>http://localhost:1313/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 18 Dec 2025 12:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/wuulong-notes-blog/categories/technical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>社群經營自動化暖身：用 n8n 打造 Discord 每日歡迎機器人</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251218_discord-welcome-bot/</link>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251218_discord-welcome-bot/</guid>
+      <description>在打造複雜的 AI Agent 之前，我們先來個社群自動化的暖身操。這篇文章教學如何使用 n8n 建立一個「Discord 每日歡迎機器人」，不但能定時整理新加入的夥伴名單，還能自動抓取社群討論內容，透過 Gemini 生成「昨日懶人包」，讓歡迎訊息變得更有料！</description>
+    </item>
+    <item>
+      <title>【實戰】我的 Discord Bot 進化史：從鸚鵡學舌到 Agentic AI 的奇幻漂流</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251217_building-agentic-discord-bot/</link>
+      <pubDate>Wed, 17 Dec 2025 15:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251217_building-agentic-discord-bot/</guid>
+      <description>這篇文章紀錄了我的 Discord Bot 成長三部曲：從最基礎的 Echo Bot，到接上 Google Gemini 大腦，最後透過 n8n 的 Agent 節點賦予它使用工具 (計算機、維基百科) 的能力，真正實現 Agentic AI。</description>
+    </item>
+    <item>
+      <title>【踩坑筆記】用 n8n 打造 Discord Bot：那些官方文件沒說的「隱形牆」</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251217_n8n-discord-bot-troubleshooting/</link>
+      <pubDate>Wed, 17 Dec 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251217_n8n-discord-bot-troubleshooting/</guid>
+      <description>紀錄使用 n8n 開發 Discord Bot 時遇到的三大地雷：收不到訊息 Trigger、權限 Intent 設定陷阱，以及 Workflow 卡死無法刪除的解決方案。</description>
+    </item>
+    <item>
+      <title>自架 n8n 不求人：用 Zeabur 輕鬆部署自動化神器</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251217_zeabur-n8n-deployment/</link>
+      <pubDate>Wed, 17 Dec 2025 11:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251217_zeabur-n8n-deployment/</guid>
+      <description>分享如何利用 Zeabur 平台快速部署 n8n 自動化工具。相比傳統 Docker 部署，Zeabur 解決了繁瑣的維運問題，讓開發者能專注於打造 Workflow，同時保有自架的彈性與隱私。</description>
+    </item>
+    <item>
+      <title>GCP 雲端省錢術：PostgreSQL 瘦身與架構優化實錄</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251217_gcp-postgres-cost-optimization/</link>
+      <pubDate>Wed, 17 Dec 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251217_gcp-postgres-cost-optimization/</guid>
+      <description>如何將 GCP 上的 PostgreSQL 資料庫成本最佳化？紀錄從刪除閒置的 500GB 硬碟，到利用 Docker 容器化部署、設定權限分流，以及申請免費固定 IP 的完整過程。</description>
+    </item>
+  </channel>
+</rss>

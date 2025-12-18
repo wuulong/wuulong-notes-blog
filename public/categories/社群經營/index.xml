@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>社群經營 on 台灣河川探索誌</title>
+    <link>http://localhost:1313/river-exploration-blog/categories/%E7%A4%BE%E7%BE%A4%E7%B6%93%E7%87%9F/</link>
+    <description>Recent content in 社群經營 on 台灣河川探索誌</description>
+    <image>
+      <title>台灣河川探索誌</title>
+      <url>http://localhost:1313/river-exploration-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/river-exploration-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 13 Dec 2025 07:53:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/river-exploration-blog/categories/%E7%A4%BE%E7%BE%A4%E7%B6%93%E7%87%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>打造個人品牌宇宙：Discord 單一伺服器多專案管理策略</title>
+      <link>http://localhost:1313/river-exploration-blog/posts/discord_community_strategy/</link>
+      <pubDate>Sat, 13 Dec 2025 07:53:46 +0800</pubDate>
+      <guid>http://localhost:1313/river-exploration-blog/posts/discord_community_strategy/</guid>
+      <description>&lt;h1 id=&#34;一個人多個興趣該開幾個-discord&#34;&gt;一個人，多個興趣，該開幾個 Discord？&lt;/h1&gt;
+&lt;p&gt;作為一個斜槓探索者，我同時經營著「GenAI 研究 (LearnLLM)」與「河流探索 (River Exploration)」等多個截然不同的專案。
+這引發了一個常見的社群經營難題：&lt;strong&gt;我應該為每個專案開一個獨立的 Discord 伺服器，還是把所有雞蛋放在同一個籃子裡？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;經過批判性思考與分析，我選擇了 &lt;strong&gt;「單一伺服器 + 強力分流」&lt;/strong&gt; 的策略，將 Discord 打造為個人的「品牌宇宙」。&lt;/p&gt;
+&lt;h2 id=&#34;1-決策分析為什麼選擇單一伺服器&#34;&gt;1. 決策分析：為什麼選擇「單一伺服器」？&lt;/h2&gt;
+&lt;h3 id=&#34;選項-a每個專案獨立伺服器-project-based&#34;&gt;選項 A：每個專案獨立伺服器 (Project-based)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;❌ &lt;strong&gt;缺點&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;冷啟動困難&lt;/strong&gt;：每個新專案都要重新招募前 10 個核心成員，非常累。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;注意力分散&lt;/strong&gt;：需要在多個伺服器間切換，訊息容易漏接。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;流量浪費&lt;/strong&gt;：喜歡我的 LLM 分享的人，可能也會喜歡我的車泊分享，但分開後就失去了跨域連結的機會。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;選項-b個人品牌伺服器-person-based-&#34;&gt;選項 B：個人品牌伺服器 (Person-based) ✅&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;⭕ &lt;strong&gt;優點&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;流量聚合&lt;/strong&gt;：將所有關注「Wuulong」這個人的人流匯集在一起，人多才熱鬧。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;管理單純&lt;/strong&gt;：只要維護一套 Bot、一組版規、一群管理員。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;跨域驚喜&lt;/strong&gt;：成員可能因為 LLM 進來，卻意外跌入露營坑，增加社群黏著度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-核心挑戰如何解決雜訊&#34;&gt;2. 核心挑戰：如何解決「雜訊」？&lt;/h2&gt;
+&lt;p&gt;最大的疑慮是：&lt;em&gt;「想看河流的人，不想被 Python 程式碼洗版；想學 AI 的人，不想看露營裝備。」&lt;/em&gt;
+解決方案是 &lt;strong&gt;「Opt-in (主動選擇) 機制」&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;策略邏輯&#34;&gt;策略邏輯：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;預設狀態&lt;/strong&gt;：新成員進來只能看到「大廳」與「閒聊區」。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;權限控制&lt;/strong&gt;：透過領取「身分組 (Role)」，解鎖特定的頻道類別。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;平行時空&lt;/strong&gt;：擁有不同身分組的人，在同一個伺服器內，看到的是完全不同的頻道列表，互不干擾。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;3-實作教學discord-身分組分流術&#34;&gt;3. 實作教學：Discord 身分組分流術&lt;/h2&gt;
+&lt;h3 id=&#34;step-1-建立身分組-roles&#34;&gt;Step 1: 建立身分組 (Roles)&lt;/h3&gt;
+&lt;p&gt;前往 &lt;code&gt;伺服器設定&lt;/code&gt; -&amp;gt; &lt;code&gt;身分組&lt;/code&gt;，建立對應專案的標籤：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>從廣播到連結：台灣河流探索社群的運作架構</title>
+      <link>http://localhost:1313/river-exploration-blog/posts/community_structure/</link>
+      <pubDate>Sat, 13 Dec 2025 07:40:42 +0800</pubDate>
+      <guid>http://localhost:1313/river-exploration-blog/posts/community_structure/</guid>
+      <description>&lt;h1 id=&#34;我們如何連結彼此社群運作的思考&#34;&gt;我們如何連結彼此？社群運作的思考&lt;/h1&gt;
+&lt;p&gt;隨著「台灣河流探索」計畫的啟動，除了產出攻略與知識外，我更希望能連結一群志同道合的夥伴。
+但在數位時代，工具太多，注意力太碎。為了避免「LINE 群組洗版焦慮」或「FB 演算法綁架」，我們設計了一套&lt;strong&gt;分層的社群運作架構&lt;/strong&gt;，讓不同需求的夥伴都能找到舒服的位置。&lt;/p&gt;
+&lt;h2 id=&#34;-三層漏斗架構-the-funnel&#34;&gt;📍 三層漏斗架構 (The Funnel)&lt;/h2&gt;
+&lt;p&gt;我們依照「資訊密度」與「互動頻率」，將社群分為三個同心圓：&lt;/p&gt;
+&lt;h3 id=&#34;1-廣播站-broadcasting&#34;&gt;1. 廣播站 (Broadcasting)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;平台&lt;/strong&gt;：&lt;strong&gt;Hugo 部落格 (本站)&lt;/strong&gt;、&lt;strong&gt;Facebook 個人頁&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定位&lt;/strong&gt;：公開、單向、精華導覽。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;適合誰？&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;想看完整遊記與攻略的人。&lt;/li&gt;
+&lt;li&gt;還是「路人粉」，想先觀察看看我們在幹嘛的人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;運作&lt;/strong&gt;：所有活動預告、深度文章都在此發布。這裡是入口。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-探險基地-the-base&#34;&gt;2. 探險基地 (The Base)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;平台&lt;/strong&gt;：&lt;strong&gt;&lt;a href=&#34;https://discord.gg/DMknUBmV&#34;&gt;Discord 伺服器 (🧪 哈爸實驗室)&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定位&lt;/strong&gt;：半公開、非同步討論、知識沈澱。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;適合誰？&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;對「河流探索」或「GenAI 應用」有興趣，想長期交流的人。&lt;/li&gt;
+&lt;li&gt;想獲取更細節資訊（如 GPX 檔、私房點座標）的人。&lt;/li&gt;
+&lt;li&gt;想許願下一條河去哪裡的人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;運作&lt;/strong&gt;：這裡是我們的「線上戰情室」。我們不在這裡閒聊早餐吃什麼，而是討論裝備、技術與路線。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;⚠️ 新手必讀：如何解鎖頻道？&lt;/strong&gt;
+為了避免雜訊干擾，我們採用「這我不想看」的設計。
+&lt;strong&gt;剛加入時，您可能只看得到大廳。請務必前往「導覽 (Onboarding)」或公告區，回答「你對什麼主題感興趣？」&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;選 &lt;strong&gt;[河流]&lt;/strong&gt; 👉 才會解鎖車泊與河流頻道。&lt;/li&gt;
+&lt;li&gt;選 &lt;strong&gt;[技術]&lt;/strong&gt; 👉 才會解鎖 GenAI 與程式碼頻道。&lt;/li&gt;
+&lt;li&gt;(全選當然也可以！)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;3-戰術小隊-tactical-squad&#34;&gt;3. 戰術小隊 (Tactical Squad)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;平台&lt;/strong&gt;：&lt;strong&gt;LINE 群組&lt;/strong&gt; (活動限定)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;定位&lt;/strong&gt;：私密、即時通訊、任務導向。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;適合誰？&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;確認報名參加當次行程&lt;/strong&gt;的實體旅伴。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;運作&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;僅在確認出團名單後建立，活動結束後即解散（或轉為靜音存檔）。&lt;/li&gt;
+&lt;li&gt;處理「我到了」、「塞車」、「今晚吃什麼」等高頻且即時的資訊，避免干擾 Discord 的知識討論。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-discord-頻道設計哲學&#34;&gt;🛠️ Discord 頻道設計哲學&lt;/h2&gt;
+&lt;p&gt;為什麼選擇 Discord 作為基地？因為它能精準地分流資訊。針對本計畫的核心精神——&lt;strong&gt;「河流探索」&lt;strong&gt;與&lt;/strong&gt;「科技賦能」&lt;/strong&gt;，我們精簡出以下四大區塊：&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>幕後花絮 on 台灣河川探索誌</title>
+    <link>http://localhost:1313/river-exploration-blog/categories/%E5%B9%95%E5%BE%8C%E8%8A%B1%E7%B5%AE/</link>
+    <description>Recent content in 幕後花絮 on 台灣河川探索誌</description>
+    <image>
+      <title>台灣河川探索誌</title>
+      <url>http://localhost:1313/river-exploration-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/river-exploration-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 13 Dec 2025 07:06:56 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/river-exploration-blog/categories/%E5%B9%95%E5%BE%8C%E8%8A%B1%E7%B5%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>幕後紀實：GenAI 如何協助我從零啟動「台灣河流探索」計畫</title>
+      <link>http://localhost:1313/river-exploration-blog/posts/genai_project_launch_notes/</link>
+      <pubDate>Sat, 13 Dec 2025 07:06:56 +0800</pubDate>
+      <guid>http://localhost:1313/river-exploration-blog/posts/genai_project_launch_notes/</guid>
+      <description>&lt;h1 id=&#34;當靈感遇上-ai一個上午的加速實踐&#34;&gt;當靈感遇上 AI：一個上午的加速實踐&lt;/h1&gt;
+&lt;p&gt;這篇文章不是遊記，而是關於&lt;strong&gt;這個網站與這個計畫是如何誕生&lt;/strong&gt;的紀錄。
+過去，當我們萌生一個「想去探索台灣河流」的念頭時，往往會卡在繁瑣的規劃、資料蒐集，甚至是架設網站的技術門檻上。但這次，我嘗試了一種全新的工作模式——&lt;strong&gt;與 Agentic AI (Antigravity) 協作規劃&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;以下是我們在短短時間內，從「一個想法」到「網站上線」的歷程筆記。&lt;/p&gt;
+&lt;h2 id=&#34;第一階段從模糊到具象-the-brainstorming&#34;&gt;第一階段：從模糊到具象 (The Brainstorming)&lt;/h2&gt;
+&lt;h3 id=&#34;1-結構化龐雜資訊&#34;&gt;1. 結構化龐雜資訊&lt;/h3&gt;
+&lt;p&gt;一開始，我只有「想探索河流」這個模糊的概念。我請 AI 扮演&lt;strong&gt;研究分析師&lt;/strong&gt;，快速梳理了台灣北部、中部、南部、東部的主要河川。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;關鍵產出&lt;/strong&gt;：AI 幫我列出了一份包含 11 條主要河川的清單，並針對每一條河列出了「景觀」、「生態」與「人文」的探索重點。這份清單成為了後續所有行程的骨架。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-定義探索方法論&#34;&gt;2. 定義探索方法論&lt;/h3&gt;
+&lt;p&gt;我們不只是去玩，而是希望帶入**「流域治理」&lt;strong&gt;與&lt;/strong&gt;「開放資料」**的視角。AI 協助我將這些硬核的知識轉化為一篇名為〈數位河流學〉的方法論文章，確立了這個部落格「知性與感性兼具」的基調。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第二階段技術苦工的自動化-the-infrastructure&#34;&gt;第二階段：技術苦工的自動化 (The Infrastructure)&lt;/h2&gt;
+&lt;p&gt;有了內容，需要載體。我選擇了 &lt;strong&gt;Hugo&lt;/strong&gt; 這個靜態網站產生器，但技術細節往往是最磨人的。&lt;/p&gt;
+&lt;h3 id=&#34;genai-解決了什麼&#34;&gt;GenAI 解決了什麼？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;環境建置&lt;/strong&gt;：從 &lt;code&gt;hugo.yml&lt;/code&gt; 的基礎設定，到 PaperMod 主題的調整。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;功能客製化&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google Maps 嵌入&lt;/strong&gt;：解決了 Hugo 預設擋掉 iframe 的安全性設定。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自動目錄 (TOC)&lt;/strong&gt;：協助開啟全站的文章導覽，解決了不同頁面顯示不一致的問題。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;系列分類 (Series Taxonomy)&lt;/strong&gt;：建立特殊的「Series」頁面，讓針對同一條河流（如大甲溪）的不同文章能自動聚合，並擁有專屬的介紹首頁。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;除錯 (Debugging)&lt;/strong&gt;：最經典的是 &lt;strong&gt;&amp;ldquo;Future Date&amp;rdquo;&lt;/strong&gt; 問題。當我看不到新文章時，AI 迅速指出是因为我的文章日期設在「明天」，並教我設定 &lt;code&gt;buildFuture: true&lt;/code&gt; 來解決。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第三階段內容深度的擴充-the-content&#34;&gt;第三階段：內容深度的擴充 (The Content)&lt;/h2&gt;
+&lt;p&gt;在撰寫《大甲溪車宿攻略》與《后里環保公園指南》時，AI 扮演了&lt;strong&gt;編輯與資料庫&lt;/strong&gt;的角色。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;它記住了我要去「后里」，並能提醒我那邊是合法的車泊點，甚至補充了「洗澡要去附近游泳池」這種在地細節。&lt;/li&gt;
+&lt;li&gt;當我需要針對「歷史文化」做補充時，它能迅速生成一段關於大甲溪流域開發史的背景介紹，讓我能專注於個人體驗的書寫，而非重複查閱維基百科。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;第四階段連結真實社群-the-connection&#34;&gt;第四階段：連結真實社群 (The Connection)&lt;/h2&gt;
+&lt;p&gt;最後，為了讓這個計畫落地，我們建立了一個 &lt;strong&gt;&amp;ldquo;Planning&amp;rdquo; (旅程規劃)&lt;/strong&gt; 頁面。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

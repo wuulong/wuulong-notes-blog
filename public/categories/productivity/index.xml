@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Productivity on 哈爸筆記</title>
+    <link>http://localhost:1313/wuulong-notes-blog/categories/productivity/</link>
+    <description>Recent content in Productivity on 哈爸筆記</description>
+    <image>
+      <title>哈爸筆記</title>
+      <url>http://localhost:1313/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 17 Dec 2025 11:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/wuulong-notes-blog/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自架 n8n 不求人：用 Zeabur 輕鬆部署自動化神器</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251217_zeabur-n8n-deployment/</link>
+      <pubDate>Wed, 17 Dec 2025 11:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251217_zeabur-n8n-deployment/</guid>
+      <description>分享如何利用 Zeabur 平台快速部署 n8n 自動化工具。相比傳統 Docker 部署，Zeabur 解決了繁瑣的維運問題，讓開發者能專注於打造 Workflow，同時保有自架的彈性與隱私。</description>
+    </item>
+    <item>
+      <title>出一隻嘴做系統管理：AI Agent 讓 GCP 變得像點餐一樣簡單</title>
+      <link>http://localhost:1313/wuulong-notes-blog/posts/20251217_ai-driven-cloud-management/</link>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/posts/20251217_ai-driven-cloud-management/</guid>
+      <description>以前面對 GCP 複雜的 Web Console 和記不完的 CLI 命令總是很頭痛，也不知道該選什麼服務才划算。現在發現透過 AI Agent (Antigravity) 搭配 gcloud，只需要用口語下指令，就能輕鬆完成複雜的雲端維運，甚至連計費模式都能問得清清楚楚。</description>
+    </item>
+  </channel>
+</rss>

@@ -2,15 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on 哈爸筆記</title>
-    <link>https://your-username.github.io/wuulong-notes-blog/series/</link>
+    <link>http://localhost:1313/wuulong-notes-blog/series/</link>
     <description>Recent content in Series on 哈爸筆記</description>
     <image>
       <title>哈爸筆記</title>
-      <url>https://your-username.github.io/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://your-username.github.io/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/wuulong-notes-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-tw</language>
-    <atom:link href="https://your-username.github.io/wuulong-notes-blog/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Dec 2025 18:45:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/wuulong-notes-blog/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Agent 開發實戰</title>
+      <link>http://localhost:1313/wuulong-notes-blog/series/ai-agent-%E9%96%8B%E7%99%BC%E5%AF%A6%E6%88%B0/</link>
+      <pubDate>Thu, 18 Dec 2025 18:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/series/ai-agent-%E9%96%8B%E7%99%BC%E5%AF%A6%E6%88%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>哈爸生活與社群</title>
+      <link>http://localhost:1313/wuulong-notes-blog/series/%E5%93%88%E7%88%B8%E7%94%9F%E6%B4%BB%E8%88%87%E7%A4%BE%E7%BE%A4/</link>
+      <pubDate>Wed, 17 Dec 2025 18:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/series/%E5%93%88%E7%88%B8%E7%94%9F%E6%B4%BB%E8%88%87%E7%A4%BE%E7%BE%A4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>雲端架構與精實維運</title>
+      <link>http://localhost:1313/wuulong-notes-blog/series/%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E8%88%87%E7%B2%BE%E5%AF%A6%E7%B6%AD%E9%81%8B/</link>
+      <pubDate>Wed, 17 Dec 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/series/%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E8%88%87%E7%B2%BE%E5%AF%A6%E7%B6%AD%E9%81%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI 生產力與思考術</title>
+      <link>http://localhost:1313/wuulong-notes-blog/series/genai-%E7%94%9F%E7%94%A2%E5%8A%9B%E8%88%87%E6%80%9D%E8%80%83%E8%A1%93/</link>
+      <pubDate>Tue, 16 Dec 2025 06:35:03 +0800</pubDate>
+      <guid>http://localhost:1313/wuulong-notes-blog/series/genai-%E7%94%9F%E7%94%A2%E5%8A%9B%E8%88%87%E6%80%9D%E8%80%83%E8%A1%93/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
