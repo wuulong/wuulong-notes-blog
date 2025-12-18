@@ -9,6 +9,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 .hugo_build.lock
+public/
+resources/
 
 # C extensions
 *.so
