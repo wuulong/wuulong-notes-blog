@@ -27,7 +27,7 @@ weight: 2
     原「河川探索」網站的所有文章（包含大甲溪車宿攻略、GIS 圖層研究、專案啟動筆記等），都已經完整遷移至本站。
     
 2.  **新的入口**：
-    您可以在本站的 **[Series (系列) -> 2026 台灣河流探索](/series/2026台灣河流探索/)** 中，找到所有相關文章。這樣結構化的呈現，反而比原本獨立網站的平鋪直敘更具系統性。
+    您可以在本站的 **[Series (系列) -> 2026 台灣河流探索]({{< ref "/series/2026台灣河流探索" >}})** 中，找到所有相關文章。這樣結構化的呈現，反而比原本獨立網站的平鋪直敘更具系統性。
 
 3.  **舊站退役**：
     原有的獨立 Repo 與 GitHub Pages 網站將會在近期停止更新，並最終下線或設定重導向至此。請原本有訂閱或書籤的朋友，改為關注本站。
@@ -49,3 +49,13 @@ weight: 2
 *   結合 Discord 社群的線下探索活動紀錄。
 
 感謝大家的支持，讓我們在「哈爸筆記」繼續這趟旅程！🚀
+
+### AI 協作宣告 (AI Collaboration Disclosure)
+
+> ![AI Generated](https://img.shields.io/badge/Content-AI%20Assisted-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white) 
+> ![Human Reviewed](https://img.shields.io/badge/Review-Human%20Verified-green?style=flat-square)
+>
+> **本文內容由 AI 協作生成**：
+> 1.  **素材來源**：AI 彙整架構圖。
+> 2.  **AI 工具**：使用 Antigravity (Gemini) 協助撰寫文章架構與技術細節說明。
+> 3.  **人工審核**：哈爸。
