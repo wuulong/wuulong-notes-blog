@@ -7,7 +7,7 @@ tags: ["README"]
 draft: false
 ShowToc: true
 TocOpen: true
-weight: 1
+
 ---
 
 # GenAI 學習歷程

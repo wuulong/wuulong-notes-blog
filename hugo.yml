@@ -3,7 +3,7 @@ languageCode: "zh-tw"
 title: "哈爸筆記"
 theme: "PaperMod"
 pagination:
-  pagerSize: 5
+  pagerSize: 10
 
 enableRobotsTXT: true
 buildDrafts: false
