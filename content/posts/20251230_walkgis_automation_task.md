@@ -79,6 +79,10 @@ Agent 開始運作，分批搜尋座標、撰寫 Python 腳本來生成檔案。
 
 以下是我們經過迭代後，最終定版的 Task 定義檔，您可以下載並參考使用：
 
-*   📥 **Task 定義檔下載**: [create-walkgis-map-from-list.md](/wuulong-notes-blog/walkgis_prj/tasks/create-walkgis-map-from-list.md)
+
+---
+### 🤖 AI 協作宣告
+*   **本文內容**: 由人類作者規劃，Antigravity 協助撰寫。
+*   **自動化設計**: 文中提及的 Task 與 Python 腳本邏輯由 AI 建議並實作，經人類驗證後定版。
 
 
