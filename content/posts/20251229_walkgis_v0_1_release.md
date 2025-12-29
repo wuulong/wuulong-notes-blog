@@ -87,12 +87,42 @@ WalkGIS V0.1 目前已整合於本部落格的專案庫中：
 `events/notes/wuulong-notes-blog/walkgis_prj/`
 
 你可以找到：
-*   **`walkgis.db`**: 包含所有資料的 SQLite 資料庫。
-*   **技術文件**:
-    *   [README (專案概觀)](/wuulong-notes-blog/walkgis_prj/README.md)
-    *   [SCHEMA (資料庫規格)](/wuulong-notes-blog/walkgis_prj/SCHEMA.md)
-*   **QGIS Project**: 我們支援使用 QGIS 直接讀取這些資料進行視覺化。
-*   **Markdown Features**: 每個景點都有獨立的 Markdown介紹檔。
+### 📍 包含景點 (Points of Interest)
+
+這張地圖收錄了 24 個景點，分為四個遊憩路段：
+
+**1. 后豐鐵馬道 (Houfeng Section)**
+*   [后里馬場](/wuulong-notes-blog/walkgis_prj/features/20251229_houli_ranch.md) (起點)
+*   [樟樹平台](/wuulong-notes-blog/walkgis_prj/features/20251229_camphor_platform.md)
+*   [夫妻樹](/wuulong-notes-blog/walkgis_prj/features/20251229_couple_tree.md)
+*   [九號隧道](/wuulong-notes-blog/walkgis_prj/features/20251229_tunnel_9.md) (百年古蹟)
+*   [花樑鋼橋](/wuulong-notes-blog/walkgis_prj/features/20251229_old_beam_bridge.md) (大甲溪景觀)
+*   [鐵道之鄉酒莊](/wuulong-notes-blog/walkgis_prj/features/20251229_winery.md)
+*   [榮町雜貨店](/wuulong-notes-blog/walkgis_prj/features/20251229_rongting_grocery.md)
+*   [綠廊交接處](/wuulong-notes-blog/walkgis_prj/features/20251229_greenway_junction.md)
+
+**2. 東豐綠廊-起點段 (Dongfeng Start)**
+*   [豐原大道自行車道](/wuulong-notes-blog/walkgis_prj/features/20251229_fengyuan_blvd_bike.md)
+*   [朴口車站](/wuulong-notes-blog/walkgis_prj/features/20251229_pukou_station.md)
+*   [200days冰店](/wuulong-notes-blog/walkgis_prj/features/20251229_200_days_ice.md) (網美打卡點)
+*   [豐榮水利碑](/wuulong-notes-blog/walkgis_prj/features/20251229_fengrong_stele.md)
+*   [公老坪](/wuulong-notes-blog/walkgis_prj/features/20251229_kunglaoping.md) (周邊觀景)
+
+**3. 石岡精華段 (Shigang Section)**
+*   [石岡水壩](/wuulong-notes-blog/walkgis_prj/features/20251229_shigang_dam.md)
+*   [石岡斷層月台](/wuulong-notes-blog/walkgis_prj/features/20251229_shigang_fault.md) (921地震遺跡)
+*   [0蛋月台](/wuulong-notes-blog/walkgis_prj/features/20251229_0_dan_platform.md)
+*   [九房3D彩繪村](/wuulong-notes-blog/walkgis_prj/features/20251229_jiufang_3d.md)
+*   [石岡旅客服務中心](/wuulong-notes-blog/walkgis_prj/features/20251229_shigang_visitor.md)
+*   [情人木橋](/wuulong-notes-blog/walkgis_prj/features/20251229_lovers_bridge.md)
+*   [石岡土牛客家文化館](/wuulong-notes-blog/walkgis_prj/features/20251229_tuniu_hakka.md)
+
+**4. 東勢終點段 (Dongshi Section)**
+*   [梅子車站](/wuulong-notes-blog/walkgis_prj/features/20251229_meizi_station.md)
+*   [梅子百年芒果樹](/wuulong-notes-blog/walkgis_prj/features/20251229_meizi_mango.md)
+*   [梅子鐵橋](/wuulong-notes-blog/walkgis_prj/features/20251229_meizi_iron_bridge.md)
+*   [東勢客家文化園區](/wuulong-notes-blog/walkgis_prj/features/20251229_dongshi_hakka.md) (終點)
+
 
 ## 🔮 下一步 (Roadmap)
 我們會繼續在這個基礎上，探索更多可能性：

@@ -5,7 +5,6 @@ categories: ["AI 應用", "旅遊心得", "GenAI"]
 tags: ["大阪", "Agentic AI", "NotebookLM", "NotebookLM", "Antigravity", "旅遊規劃", "梅田大迷宮"]
 series: ["2025日本行", "AI生活實踐"]
 draft: false
-weight: 3
 ---
 
 這次來大阪旅遊，除了享受美食與美景，我還做了一個特別的實驗：**練習使用生成式 AI (GenAI) 來輔助旅遊規劃與決策**。這不僅僅是問 Gemini「大阪哪裡好玩」，而是更深入地利用 AI 的邏輯推演與資料整理能力，來解決旅遊中遇到的「資訊過載」與「複雜交通」問題。
