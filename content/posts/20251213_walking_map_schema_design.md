@@ -1,24 +1,24 @@
 ---
-title: "大甲溪散步地圖：SQLite Schema 設計與 SpatiaLite 應用"
+title: "大甲溪散步地圖：SQLite Schema 設計 (AI 友善 WKT 版本)"
 date: 2025-12-14T07:45:00+08:00
 categories: ["GIS", "技術筆記"]
 series: ["2026台灣河流探索","GenAI"]
-tags: ["SQLite", "SpatiaLite", "Schema Design", "QGIS", "Open Data"]
+tags: ["SQLite", "WKT", "Schema Design", "QGIS", "AI Compatible"]
 draft: false
 ShowToc: true
 TocOpen: true
 ---
 
-# 散步地圖資料庫 Schema 設計與考量
+# 散步地圖資料庫 Schema 設計 (AI 友善版)
 
 ## 導言
-本文件旨在闡述為「大甲溪散步地圖」專案設計的 SQLite 資料庫 Schema。此設計旨在平衡資料的結構化、靈活性與地理空間處理能力，以有效支援從網路資料蒐集到現場資料查證，再到最終 GIS 呈現的完整工作流程。
+本文件旨在闡述為「大甲溪散步地圖」專案設計的 SQLite 資料庫 Schema。此設計特別考量了 **GenAI 協作 (Agentic Workflow)** 的需求，選擇使用標準的 **WKT (Well-Known Text)** 格式來處理地理空間資料，取代依賴性較高的 SpatiaLite 二進位格式。這確保了從資料蒐集、AI 處理到 QGIS 呈現的過程中，資料具有最高的可讀性與移植性。
 
 ## 整體設計哲學
 *   **核心資料結構化**：確保地理特徵的基本資訊（名稱、描述、類型）保持一致性，便於查詢與管理。
-*   **非核心資料彈性化**：利用 JSON 格式的 `meta_data` 欄位，提供高度彈性來儲存多樣化且不斷演進的非核心屬性，無需頻繁修改資料庫 Schema。
-*   **GIS 原生支援**：透過 SpatiaLite 擴展，直接在資料庫層面支援地理空間資料的儲存、查詢與分析。
-*   **圖層正規化管理**：獨立的 `layers` 表格用於管理圖層的分類和 QGIS 呈現樣式，提高資料一致性和維護效率。
+*   **非核心資料彈性化**：利用 JSON 格式的 `meta_data` 欄位，提供高度彈性來儲存多樣化且不斷演進的非核心屬性。
+*   **AI 幾何可讀性 (WKT)**：全面採用 WKT 字串儲存幾何資料，讓 AI 代理能直接理解、生成與驗證座標，無需複雜的 GIS 驅動程式。
+*   **圖層正規化管理**：獨立的 `layers` 表格用於管理圖層的分類和 QGIS 呈現樣式。
 *   **AI 協作友好**：結構化且彈性的 Schema 設計，極大地方便 AI 代理進行資料的自動化處理、分析與驗證。
 
 ## 社區 GIS 背景資訊與 Layer 分類設計架構
@@ -81,41 +81,44 @@ INSERT INTO layers (layer_type, layer_subtype, qgis_qml, description, meta_data)
 ```sql
 CREATE TABLE walking_map_features (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
+    feature_id TEXT UNIQUE,                     -- 【新增】唯一識別碼 (例如: 20251212_houli)，對應 features/ 目錄下的 Markdown 檔名
     name TEXT NOT NULL,                         -- 特徵名稱 (例如：后里馬場、大甲溪河流線、緩衝區範圍)
     description TEXT,                           -- 特徵簡要描述 (Markdown 格式)
     layer_id INTEGER NOT NULL,                  -- 外鍵，關聯到 layers.layer_id
-    geometry_type TEXT NOT NULL,                -- 幾何類型 (例如：Point, LineString, Polygon)
+    geometry_type TEXT NOT NULL,                -- 幾何類型 (例如：Point, LineString, Polygon) - 用於應用層快速判斷
+    geometry_wkt TEXT NOT NULL,                 -- 【核心修改】使用 WKT (Well-Known Text) 純文字儲存幾何資料，AI 可讀
     meta_data TEXT,                             -- JSON 格式的非核心屬性
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP, -- 創建時間
     updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,  -- 最後更新時間
     FOREIGN KEY (layer_id) REFERENCES layers(layer_id)
 );
--- SpatiaLite 幾何欄位會在表格創建後添加
--- SELECT AddGeometryColumn('walking_map_features', 'geom', 4326, 'GEOMETRY', 'XY');
+-- 為了加速查詢，可針對圖層與名稱建立索引
+CREATE INDEX idx_features_layer ON walking_map_features(layer_id);
+CREATE INDEX idx_features_fid ON walking_map_features(feature_id);
 ```
 
 #### 欄位說明
-*   **`id`**: 唯一識別碼，自動遞增。
+*   **`id`**: 系統自動生成的序列號。
+*   **`feature_id`**: 人類可讀的唯一 ID，用於關聯外部 Markdown 檔案 (如 `20251212_houli`)。
 *   **`name`**: 地理特徵的名稱，例如「后里馬場」。
 *   **`description`**: 該特徵的詳細描述，支持 Markdown 格式。
 *   **`layer_id`**: 外鍵，指向 `layers` 表格中的 `layer_id`，建立特徵與圖層定義的關聯。
-*   **`geometry_type`**: 明確指定該特徵的幾何類型，例如 `Point`, `LineString`, `Polygon`。
+*   **`geometry_type`**: 雖從 WKT 可解析，但為了查詢便利仍保留此欄位（如 Point, LineString）。
+*   **`geometry_wkt`**: **(AI 核心)** 儲存標準 WKT 字串，如 `POINT(120.735 24.298)`。
 *   **`meta_data`**: 用於儲存該特徵獨有的、非核心的詳細屬性，以 JSON 格式儲存。
 *   **`created_at` / `updated_at`**: 時間戳記，追蹤記錄的生命週期。
-*   **`geom`**: 由 SpatiaLite 管理的幾何欄位，儲存實際的地理空間資料。
 
 #### 範例 INSERT 語句 (后里馬場點位)
 ```sql
-INSERT INTO walking_map_features (name, description, layer_id, geometry_type, meta_data) VALUES
-('后里馬場', 
+INSERT INTO walking_map_features (feature_id, name, description, layer_id, geometry_type, geometry_wkt, meta_data) VALUES
+('20251212_houli', -- 對應 features/20251212_houli.md
+'后里馬場', 
 '### 后里馬場\n\n**地點**：台中市后里區\n\n自行車租借與大甲溪沿線鐵馬道騎乘的絕佳出發點。\n\n**特色**：腹地廣大，適合家庭活動與休憩。',
-1, -- 假設 layer_id=1 對應到 '水文與親水層', '親水點' (需從 layers 表中獲取)
+1, -- 假設 layer_id=1 對應到 '水文與親水層', '親水點'
 'Point',
+'POINT(120.73582 24.298637)', -- 直接插入 WKT 字串
 '{"activities": ["自行車", "野餐", "兒童遊樂"], "facilities": {"廁所": "有", "餐飲": "有", "停車": "有"}, "best_visit_time": "上午"}'
 );
-
--- 插入幾何資料 (範例：經緯度 120.73582, 24.298637)
--- UPDATE walking_map_features SET geom = ST_PointFromText('POINT(120.73582 24.298637)', 4326) WHERE id = (SELECT last_insert_rowid());
 ```
 
 ### 3. `meta_data_templates` 表格：元數據範本
@@ -153,11 +156,14 @@ INSERT INTO meta_data_templates (template_name, applies_to_layer_type, applies_t
 ---
 
 
-## SpatiaLite 幾何整合
-上述 Schema 設計中，`walking_map_features` 表格的地理空間資料將由 SpatiaLite 進行管理。在創建 `walking_map_features` 表格後，我們將執行以下命令來添加幾何欄位：
+## WKT 幾何整合 (取代 SpatiaLite)
+為了確保與 GenAI 和 MCP (Model Context Protocol) 環境的最大相容性，本設計**摒棄了原生的 SpatiaLite 二進位格式**，改採 **WKT (Well-Known Text)** 純文字格式來儲存地理空間資料。
 
-```sql
-SELECT AddGeometryColumn('walking_map_features', 'geom', 4326, 'GEOMETRY', 'XY');
-```
-*   `'GEOMETRY'` 類型允許 `walking_map_features` 表格儲存任何幾何類型（點、線、面），提供了極高的靈活性。
-*   `4326` 為 WGS84 經緯度座標系統，是地理空間資料的標準。
+### 修改理由
+1.  **AI 友善 (AI-Friendly)**: AI 代理可以直接讀取並理解 `POINT(121.5 25.0)` 這樣的字串，但無法理解 SpatiaLite 的 Binary BLOB。
+2.  **零依賴 (Zero Dependency)**: 無需在 MCP Server 或執行環境中安裝 C 語言擴充套件 (`mod_spatialite`)，任何標準 SQLite 工具皆可讀寫。
+3.  **QGIS 支援**: QGIS 可透過 "Add Delimited Text Layer" 或 Virtual Layer 輕鬆讀取 WKT 欄位並繪製地圖。
+
+### 空間資料處理策略
+*   **儲存**: 所有空間數據（點、線、面）均以標準 WKT 字串存入 `geometry_wkt` 欄位。
+*   **計算**: 若需進行複雜空間運算（如交集、緩衝區），建議在應用層使用 Python 的 `shapely` 或是 `geopandas` 套件處理，而非依賴資料庫層級的函數。
