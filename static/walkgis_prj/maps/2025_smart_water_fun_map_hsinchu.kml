@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>智慧水圳玩樂地圖-新竹管理處</name>
+    <description>探索新竹地區的重要水利設施。</description>
+
+    <Placemark>
+      <name>三叉埤</name>
+      <description>三叉埤</description>
+      <Point>
+        <coordinates>121.1268,24.7137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>汀甫圳</name>
+      <description>汀甫圳</description>
+      <Point>
+        <coordinates>120.996,24.8024,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>汀甫圳幹線</name>
+      <description>汀甫圳幹線</description>
+      <Point>
+        <coordinates>120.99,24.798,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>竹東圳 (分水沉沙池)</name>
+      <description>竹東圳 (分水沉沙池)</description>
+      <Point>
+        <coordinates>121.0436,24.7203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東興舊港圳圓環</name>
+      <description>東興舊港圳圓環</description>
+      <Point>
+        <coordinates>121.0664,24.7715,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>街頭圳幹線</name>
+      <description>街頭圳幹線</description>
+      <Point>
+        <coordinates>121.121,24.717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>隆恩圳 (東大路旁)</name>
+      <description>隆恩圳 (東大路旁)</description>
+      <Point>
+        <coordinates>121.0163,24.7985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>貓兒錠幹線3支線</name>
+      <description>貓兒錠幹線3支線</description>
+      <Point>
+        <coordinates>121.112,24.832,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
