@@ -2,7 +2,8 @@
 title: "[公告] 匯流成河：河川探索計畫正式併入哈爸筆記"
 date: 2025-12-19T05:40:00+08:00
 draft: false
-categories: ["Announcement", "Project"]
+categories: ["Project (專案)"]
+series: ["公告"]
 tags: ["River Exploration", "Hugo", "Migration"]
 summary: "為了集中創作能量與技術資源，原獨立的「2026 台灣河流探索」網站正式併入「哈爸筆記」，未來將作為本站的核心系列持續更新。"
 weight: 2

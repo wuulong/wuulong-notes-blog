@@ -3,8 +3,8 @@ title: "【踩坑筆記】用 n8n 打造 Discord Bot：那些官方文件沒說�
 date: 2025-12-17T12:00:00+08:00
 draft: false
 tags: ["n8n", "Discord Bot", "Troubleshooting", "No-Code", "Automation"]
-series: ["AI Agent 開發實戰"]
-categories: ["Technical", "Debug"]
+series: ["n8n"]
+categories: ["Technology (技術)"]
 description: "紀錄使用 n8n 開發 Discord Bot 時遇到的三大地雷：收不到訊息 Trigger、權限 Intent 設定陷阱，以及 Workflow 卡死無法刪除的解決方案。"
 summary: "本以為用 n8n 接 Discord Bot 是件輕鬆愜意的事，沒想到卻在「權限設定」和「除錯」上撞得滿頭包。這篇文章整理了我遇到的幾個關鍵問題：為何機器人明明上線卻「已讀不回」？為何 n8n 會跳出莫名其妙的 Invalid URL 錯誤？以及如何開啟那個藏得很深的 Message Content Intent。"
 top: false

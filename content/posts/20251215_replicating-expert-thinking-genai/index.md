@@ -1,8 +1,8 @@
 ---
 title: "如何用 GenAI 複製專家思維？從「知識庫」到「行為模擬」的四個步驟"
 date: 2025-12-15T12:19:28+08:00
-series: ["GenAI 生產力與思考術"]
-categories: ["GenAI"]
+series: ["GenAI實驗"]
+categories: ["GenAI (生成式 AI)"]
 tags: ["AI Agent", "Expert System", "LLM", "Methodology"]
 summary: "傳統的知識管理只能存下專家的產出，卻存不下專家的「思考方式」。本文介紹一種基於生成式 AI 的新方法論，透過「行為模擬」與「持續校正」，打造出真正像專家一樣思考與行動的 AI 代理人。"
 draft: false

@@ -1,9 +1,9 @@
 ---
 title: "大阪旅遊的 AI 助手實驗：從 NotebookLM 到 Agentic AI 的深度應用"
 date: 2025-12-25T09:00:00+09:00
-categories: ["AI 應用", "旅遊心得", "GenAI"]
+categories: ["GenAI (生成式 AI)"]
 tags: ["大阪", "Agentic AI", "NotebookLM", "NotebookLM", "Antigravity", "旅遊規劃", "梅田大迷宮"]
-series: ["2025日本行", "AI生活實踐"]
+series: ["2025日本行"]
 draft: false
 ---
 

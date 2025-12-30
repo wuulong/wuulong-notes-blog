@@ -1,8 +1,8 @@
 ---
 title: "社區 GIS 圖層分類學：通用型分類架構參考"
 date: 2025-12-13T22:45:37+08:00
-categories: ["GIS", "方法論"]
-series: ["2026台灣河流探索","GenAI"]
+categories: ["Project (專案)"]
+series: ["WalkGIS"]
 tags: ["GIS", "圖層設計", "社區地圖", "Open Data"]
 draft: false
 ShowToc: true

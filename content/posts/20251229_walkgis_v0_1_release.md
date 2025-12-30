@@ -1,7 +1,8 @@
 ---
 title: "WalkGIS V0.1 釋出：如果地圖是一本可讀的故事書"
 date: 2025-12-29T16:30:00+08:00
-categories: ["專案釋出", "WalkGIS", "生活風格"]
+categories: ["Project (專案)"]
+series: ["WalkGIS"]
 tags: ["散步地圖", "后豐鐵馬道", "Open Data", "Mermaid", "Google Maps"]
 draft: false
 ---

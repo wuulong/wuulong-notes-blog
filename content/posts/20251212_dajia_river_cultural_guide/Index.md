@@ -1,7 +1,7 @@
 ---
 title: "大甲溪 (Dajia River) 知性探訪指南：風土與民情"
 date: 2025-12-12T07:42:37+08:00
-categories: ["大甲溪"]  
+categories: ["Project (專案)"]  
 series: ["2026台灣河流探索-大甲溪"] 
 tags: ["車宿", "露營", "大甲溪"]
 draft: false

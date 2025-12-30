@@ -2,8 +2,8 @@
 title: "實驗紀錄：使用 Fabric 封裝 Gemini CLI 提升 AI Agent 協作效率"
 date: 2025-12-13T13:29:48+08:00
 draft: false
-series: ["GenAI"]
-categories: ["DevOps", "GenAI", "Tooling"]
+series: ["GenAI實驗"]
+categories: ["GenAI (生成式 AI)"]
 tags: ["Fabric", "Python", "Gemini CLI", "Automation", "Workflow"]
 author: "Wuulong"
 summary: "本實驗記錄了如何透過 Python Fabric 構建中間層來驅動 Google Gemini CLI，解決直接操作命令列時遇到的轉義字元問題、日誌雜訊干擾，並實現模型參數的靈活配置。"

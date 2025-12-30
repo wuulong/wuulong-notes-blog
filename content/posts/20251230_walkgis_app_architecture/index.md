@@ -2,7 +2,8 @@
 title: "WalkGIS App 架構解密：打造 Serverless 的地理資訊探索器"
 date: 2025-12-30T14:10:00+08:00
 draft: false
-categories: ["WalkGIS", "Software Architecture", "Web Development"]
+categories: ["GenAI (生成式 AI)"]
+series: ["WalkGIS"]
 tags: ["SQLite", "React", "Serverless", "GitHub Pages", "GIS"]
 summary: "揭秘如何利用 SQLite WebAssembly 與靜態網頁技術，以零後端成本打造高效能的 GIS 應用程式，實現資料庫前端查詢與 Markdown 動態載入的混合架構。"
 ---

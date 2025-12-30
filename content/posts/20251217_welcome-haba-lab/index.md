@@ -1,10 +1,10 @@
 ---
-title: "【置頂】歡迎加入「哈爸實驗室」Discord 社群！"
+title: "【公告】歡迎加入「哈爸實驗室」Discord 社群！"
 date: 2025-12-17T18:00:00+08:00
 draft: false
 tags: ["Discord", "Community", "Announcement", "Haba Lab"]
-series: ["哈爸生活與社群"]
-categories: ["Community"]
+series: ["公告"]
+categories: ["Project (專案)"]
 description: "哈爸實驗室是一個專注於技術實作、自動化 (n8n) 與 AI Agent 的交流社群。這裡沒有空泛的理論，只有捲起袖子的實戰。最近我們更新了 Discord Bot 功能，歡迎進來體驗最新的法規查詢助手！"
 summary: "一個人埋頭苦幹，不如一群人一起實驗！「哈爸實驗室」Discord 群組正式開放，這裡匯集了對 n8n 自動化、AI Agent 開發有興趣的朋友。最新上線功能：AI 法規查詢機器人 (!law)，快進來試玩！"
 top: true

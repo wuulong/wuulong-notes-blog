@@ -2,7 +2,8 @@
 title: "當 AI 代理人也有「性格」：從安全官視角看 AI 的行為與本質判定"
 date: 2025-12-20T06:30:00+08:00
 draft: false
-categories: ["Technology", "GenAI"]
+categories: ["GenAI (生成式 AI)"]
+series: ["GenAI實驗"]
 tags: ["AI Security", "Agentic AI", "AI Personality", "AI 安全官"]
 summary: "探討 AI 代理人化後的管理挑戰，提出「AI 安全官」概念，從行為意圖、特徵值到本質進行多層次安全監控。"
 ---

@@ -2,7 +2,8 @@
 title: "WalkGIS 自動化之路：打造「地圖生成代理人」與新竹水圳實戰"
 date: 2025-12-30T06:00:00+08:00
 draft: false
-categories: ["WalkGIS", "Agentic Workflow", "Automation"]
+categories: ["Project (專案)"]
+series: ["WalkGIS"]
 tags: ["Task Design", "Python", "Feedback Loop", "Hsinchu"]
 summary: "記錄如何將地圖製作流程封裝成可重複執行的 Agent Task，並以「新竹智慧水圳地圖」進行壓力測試與迭代修正的過程。"
 ---

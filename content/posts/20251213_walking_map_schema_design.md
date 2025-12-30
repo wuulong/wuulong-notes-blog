@@ -1,8 +1,8 @@
 ---
 title: "大甲溪散步地圖：SQLite Schema 設計 (AI 友善 WKT 版本)"
 date: 2025-12-14T07:45:00+08:00
-categories: ["GIS", "技術筆記"]
-series: ["2026台灣河流探索","GenAI"]
+categories: ["Project (專案)"]
+series: ["WalkGIS"]
 tags: ["SQLite", "WKT", "Schema Design", "QGIS", "AI Compatible"]
 draft: false
 ShowToc: true

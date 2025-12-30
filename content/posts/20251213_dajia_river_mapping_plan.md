@@ -1,7 +1,7 @@
 ---
 title: "專案計畫：大甲溪散步地圖資料建構 (Data Collection Plan)"
 date: 2025-12-13T18:35:20+08:00
-categories: ["GIS", "專案管理"]
+categories: ["Project (專案)"]
 series: ["2026台灣河流探索-大甲溪"]
 tags: ["散步地圖", "資料蒐集", "Field Study", "Open Data"]
 draft: false

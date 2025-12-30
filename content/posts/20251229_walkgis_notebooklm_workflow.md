@@ -2,7 +2,8 @@
 title: "實作筆記：從 SQLite 到 NotebookLM，自動化產製卡通風格導覽地圖"
 date: 2025-12-29T18:15:00+08:00
 draft: false
-categories: ["AI Workflow", "GenAI", "WalkGIS"]
+categories: ["Project (專案)"]
+series: ["WalkGIS"]
 tags: ["NotebookLM", "SQLite", "Automation", "RAG", "Prompt Engineering"]
 summary: "如何將生硬的 GIS 數據變成生動的旅遊故事？本文分享我的 WalkGIS 自動化工作流：使用 Shell Script 從 SQLite 精準萃取地圖資料，餵給 Google NotebookLM，一鍵生成卡通風格導覽與投影片大綱。"
 ---

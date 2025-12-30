@@ -1,7 +1,7 @@
 ---
 title: "從廣播到連結：台灣河流探索社群的運作架構"
 date: 2025-12-13T07:40:42+08:00
-categories: ["社群經營", "方法論"]
+categories: ["Project (專案)"]
 series: ["2026台灣河流探索"]
 tags: ["Discord", "Community", "GenAI", "數位遊牧"]
 draft: false

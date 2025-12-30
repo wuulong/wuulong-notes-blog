@@ -1,8 +1,8 @@
 ---
-title: "GenAI"
+title: "GenAI實驗"
 description: "GenAI 學習歷程"
 hidemeta: true 
-series: ["GenAI"] 
+series: ["GenAI實驗"] 
 tags: ["README"]
 draft: false
 ShowToc: true

@@ -1,3 +1,14 @@
+---
+title: "哈爸實驗室：技術與應用生態全景圖"
+date: 2025-12-19T00:00:00+08:00
+categories: ["Technology (技術)"]
+series: ["架構推動"]
+tags: ["SQLite", "WKT", "Schema Design", "QGIS", "AI Compatible"]
+draft: false
+ShowToc: true
+TocOpen: true
+---
+
 # 哈爸實驗室：技術與應用生態全景圖
 
 這張圖展示了「哈爸筆記」作為核心技術引擎，如何支撐並孵化出「2026 台灣河流探索」這個實踐場域。

@@ -1,7 +1,8 @@
 ---
 title: "打造 AI-First GIS 系統：從 SpatiaLite 到 WKT 的架構演進 (WalkGIS V0.1 開發筆記)"
 date: 2025-12-29T16:00:00+08:00
-categories: ["技術筆記", "WalkGIS", "AI 開發"]
+categories: ["Project (專案)"]
+series: ["WalkGIS"]
 tags: ["GIS", "SQLite", "Mermaid", "Agentic AI", "Antigravity"]
 draft: false
 ---

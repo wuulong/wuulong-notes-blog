@@ -2,7 +2,8 @@
 title: "不再擔心「句點王」：如何透過 AI 語音對談達成高效思維進化"
 date: 2025-12-20T06:45:00+08:00
 draft: false
-categories: ["Technology", "GenAI"]
+categories: ["GenAI (生成式 AI)"]
+series: ["GenAI實驗"]
 tags: ["AI 語音", "方法論", "思維導引", "SOP"]
 summary: "分享一套利用 AI 語音討論的方法論，將對話轉化為具備「無限開放性」與「邏輯紀錄」的思考深化工具。"
 

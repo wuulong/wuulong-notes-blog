@@ -1,8 +1,8 @@
 ---
 title: "數位河流學：結合 GenAI、開放資料與流域治理的深度探索指南"
 date: 2025-12-13T06:01:58+08:00
-categories: ["探索筆記", "方法論"]
-series: ["2026台灣河流探索","GenAI"]
+categories: ["GenAI (生成式 AI)"]
+series: ["2026台灣河流探索"]
 tags: ["GenAI", "Open Data", "GIS", "流域治理", "公民科學"]
 draft: false
 ---

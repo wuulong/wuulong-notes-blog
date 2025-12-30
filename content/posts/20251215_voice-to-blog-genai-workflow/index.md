@@ -1,8 +1,8 @@
 ---
 title: "從口述到發布：我如何用 NotebookLM + Antigravity 打造極速內容生產線"
 date: 2025-12-15T13:00:56+08:00
-series: ["GenAI 生產力與思考術"]
-categories: ["GenAI", "Technology"]
+series: ["GenAI實驗"]
+categories: ["GenAI (生成式 AI)"]
 tags: ["NotebookLM", "Antigravity", "Workflow", "Knowledge Management", "CI/CD"]
 summary: "很多精彩的想法都消失在會議室的空氣中？本文分享我的一套 GenAI 工作流：從手機錄音開始，透過 Google NotebookLM 生成摘要與圖表，再經由 Agentic AI (Antigravity) 改寫，最後自動部署到個人的 Hugo 網誌。這是一條讓「隨機討論」快速變成「結構化知識」的高速公路。"
 draft: false

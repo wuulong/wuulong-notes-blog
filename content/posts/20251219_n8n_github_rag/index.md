@@ -2,7 +2,8 @@
 title: "告別索引焦慮：用 n8n + GitHub API 打造 AI 的即時知識庫"
 date: 2025-12-19T11:50:00+08:00
 draft: false
-categories: ["Technology", "GenAI", "RAG"]
+categories: ["Technology (技術)"]
+series: ["n8n"]
 tags: ["n8n", "GitHub API", "Long Context", "Gemini"]
 summary: "Google Search 找不到剛發布的文章？本篇介紹如何利用 n8n 直接讀取 GitHub Repo 原始碼，結合 Gemini 的長文本能力，實作真正的「即時」問答機器人。"
 ---

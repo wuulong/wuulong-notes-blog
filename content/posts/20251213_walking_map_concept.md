@@ -1,8 +1,8 @@
 ---
 title: "散步地圖的概念與應用：從移動軌跡看見在地紋理"
 date: 2025-12-13T18:33:47+08:00
-categories: ["探索筆記", "方法論"]
-series: ["2026台灣河流探索","GenAI"]
+categories: ["Project (專案)"]
+series: ["WalkGIS"]
 tags: ["GIS", "散步地圖", "公民依歸", "QGIS", "GPX"]
 draft: false
 ShowToc: true

@@ -39,6 +39,17 @@ params:
   disableSpecial1stPost: false
   googleSiteVerification: "5e0a771dcada7b8f"
 
+  # Social Icons (Replace URLs with your actual links)
+  socialIcons:
+    - name: github
+      url: "https://github.com/wuulong"
+    - name: discord
+      url: "https://discord.gg/DtCERqHcSF"
+    - name: facebook
+      url: "https://www.facebook.com/wuulong.hsu"
+    - name: rss
+      url: "https://wuulong.github.io/wuulong-notes-blog/index.xml"
+
 taxonomies:
     category: categories
     tag: tags
