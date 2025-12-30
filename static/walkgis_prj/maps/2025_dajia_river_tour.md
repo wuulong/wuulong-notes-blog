@@ -55,7 +55,7 @@ graph TD
 1.  **水圳傳奇**: 清代先民如何用「割地換水」開鑿葫蘆墩圳，以及日治時期白冷圳的倒虹吸管工程奇蹟。
 2.  **生態平衡**: 馬鞍壩獨特的生態魚道，讓洄游魚類得以返鄉。
 
-## 景點詳情 (Spot Details)
+## 景點列表
 
 1.  [葫蘆墩圳 (Huludun Canal)](../features/20251229_huludun_canal.md)
 2.  [石岡水壩 (Shigang Dam)](../features/20251229_shigang_dam.md)
