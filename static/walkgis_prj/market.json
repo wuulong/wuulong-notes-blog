@@ -1,0 +1,31 @@
+{
+  "last_updated": "2026-01-01",
+  "maintainer": "Wuulong",
+  "sources": [
+    {
+      "id": "official",
+      "name": "WalkGIS Official (台灣河川探索)",
+      "url": "https://wuulong.github.io/wuulong-notes-blog/walkgis_prj/",
+      "author": "Wuulong",
+      "description": "官方維護的台灣河川探索地圖集，展示完整的自動化圖資。",
+      "tags": [
+        "official",
+        "taiwan",
+        "river"
+      ],
+      "cover_image": "https://wuulong.github.io/wuulong-notes-blog/walkgis_prj/assets/images/大甲溪水利溯源圖.png"
+    },
+    {
+      "id": "template",
+      "name": "WalkGIS Starter Template",
+      "url": "https://wuulong.github.io/walkgis-template/",
+      "author": "WalkGIS Team",
+      "description": "給新手的入門範本，包含基本的目錄結構與台北101範例資料。",
+      "tags": [
+        "template",
+        "demo"
+      ],
+      "cover_image": ""
+    }
+  ]
+}
