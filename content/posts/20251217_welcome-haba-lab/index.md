@@ -20,7 +20,7 @@ weight: 1
 
 如果你厭倦了單向的閱讀，想要找人討論「為什麼這個 Docker 跑不起來？」、「這個 n8n 節點怎麼接？」，歡迎加入我們！
 
-👉 **[點擊加入 哈爸實驗室 Discord 頻道](https://discord.gg/DtCERqHcSF)**
+👉 **[點擊加入 哈爸實驗室 Discord 頻道](https://discord.gg/bywmcqCAEs)**
 
 ## 🚀 最新功能發佈：AI 法規查詢助手
 

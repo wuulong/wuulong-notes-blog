@@ -44,7 +44,7 @@ params:
     - name: github
       url: "https://github.com/wuulong"
     - name: discord
-      url: "https://discord.gg/DtCERqHcSF"
+      url: "https://discord.gg/bywmcqCAEs"
     - name: rss
       url: "https://wuulong.github.io/wuulong-notes-blog/index.xml"
 
@@ -69,7 +69,7 @@ menu:
       weight: 15
     - identifier: discord
       name: Discord
-      url: "https://discord.gg/DtCERqHcSF"
+      url: "https://discord.gg/bywmcqCAEs"
       weight: 40
     - identifier: planning
       name: Planning
