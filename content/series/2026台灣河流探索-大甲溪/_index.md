@@ -23,7 +23,7 @@ TocOpen: true
 *   **聊聊、一起廝混一下**：**意願表達中** (請填下方表單)。
 
 - 明光在高美濕地，負責晚餐
-- 企鵝有想一起走部分
+- 企鵝有想一起走部分，預計是 1/6 10:00-12:00
 
 - [大甲溪流域深度探索 (Dajia River Deep Exploration) - 露營/車宿版]({< relref "posts/20251212_dajia_river_camping_trip.md" >})
 

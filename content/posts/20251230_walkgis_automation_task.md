@@ -79,7 +79,7 @@ Agent 開始運作，分批搜尋座標、撰寫 Python 腳本來生成檔案。
 ## 附錄：自動化任務定義 (Appendix: Task Definition)
 
 以下是我們經過迭代後，最終定版的 Task 定義檔，您可以下載並參考使用：
-
+[create-walkgis-map-from-list.md](/wuulong-notes-blog/walkgis_prj/tasks/create-walkgis-map-from-list.md)
 
 ---
 ### 🤖 AI 協作宣告
