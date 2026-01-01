@@ -39,7 +39,7 @@ summary: "這不是一篇理論文，而是一次真實的踩坑紀錄。本文�
 首先，我請 AI 搜尋網路上關於「清大夜市」的推薦美食清單，快速整理出一份包含 16 個店家的目標列表。
 
 ### 1. 任務執行 (Task Execution)
-我使用 BMad Agent 載入了 `.agent/tasks/create-walkgis-map-from-list.md` 任務，並給了它一個簡單的指令：
+我使用 antigravity 執行一個寫好的 `.agent/tasks/create-walkgis-map-from-list.md` 任務，指令如下：
 `run create-walkgis-map-from-list`
 
 ### 2. AI 做了什麼？ (One-Shot Scripting)
@@ -100,7 +100,7 @@ AI 自動撰寫了一個 Python 腳本 (`create_260101_tsing_hua_night_market.py
 
 ## 🚀 成果展示
 
-最終，這份地圖已經上線並收錄在 WalkGIS 市場中：
+最終，這份地圖已經可以在 WalkGIS viewer 中使用：
 *   **地圖網址**: [WalkGIS Viewer](https://walkgis-544663807110.us-west1.run.app/)
 *   **原始碼**: [清大夜市散步地圖 repo](https://github.com/wuulong/walkgis-sample)
     - viewer 時要輸入：https://wuulong.github.io/walkgis-sample
