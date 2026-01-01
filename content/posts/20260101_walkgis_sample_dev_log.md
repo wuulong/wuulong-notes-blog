@@ -102,7 +102,7 @@ AI 自動撰寫了一個 Python 腳本 (`create_260101_tsing_hua_night_market.py
 
 最終，這份地圖已經上線並收錄在 WalkGIS 市場中：
 *   **地圖網址**: [WalkGIS Viewer](https://walkgis-544663807110.us-west1.run.app/)
-*   **原始碼**: [清大夜市散步地圖 repo](https://github.com/wuulong/walkgis-sample)
+*   **原始碼**: [清大夜市散步地圖 repo](https://wuulong.github.io/walkgis-sample)
     - 這個連結就是要輸入 viewer 的內容
 
 這次實戰證明了 WalkGIS Template 加上 AI Agent，確實能讓一個沒有 GIS 背景的人，未來能在在半小時內（我這次用了兩個小時）打造出專業且具備深度內容的散步地圖。
