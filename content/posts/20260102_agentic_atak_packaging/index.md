@@ -58,3 +58,15 @@ Agent 做了以下幾件事：
 
 *相關資源：*
 - [大安大甲溪聯通管工程計畫地圖](../maps/2026_daan_dajia_pipeline.md) (內含 ATAK 包下載)
+
+---
+
+### AI 協作宣告 (AI Collaboration Disclosure)
+
+> ![AI Generated](https://img.shields.io/badge/Content-AI%20Assisted-8A2BE2?style=flat-square&logo=google-gemini&logoColor=white) 
+> ![Human Reviewed](https://img.shields.io/badge/Review-Human%20Verified-green?style=flat-square)
+>
+> **本文內容由 AI 協作生成**：
+> 1.  **AI 角色**：專案助理與研發工程師。
+> 2.  **AI 工具**：使用 GenAI 進行 ATAK 格式研究、Python 腳本撰寫、文章草擬。
+> 3.  **人工審核**：由哈爸本人實測腳本可行性、驗證 ATAK 匯入結果，並確認文章觀點。
