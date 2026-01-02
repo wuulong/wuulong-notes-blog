@@ -49,6 +49,10 @@ https://penlock.notion.site/2-cb5225e9874f4ed3904357799637d8ab?pvs=74
 
 環境資訊﹑生態敏感區位﹑友善作為﹑檢核表單﹑紅外線相機成果及統計資料
 
+
+## 下載與資源
+- **[ATAK Data Package 下載](../atak_packages/daan_dajia_pipeline_mission_package.zip)** (請使用手機 ATAK 匯入)
+
 ## 景點列表
 - [石岡壩](../features/20260101_daan_dajia_pipeline_石岡壩.md)
 - [鯉魚潭水庫](../features/20260101_daan_dajia_pipeline_鯉魚潭水庫.md)

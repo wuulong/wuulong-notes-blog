@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>大安大甲溪聯通管工程計畫</name>
+    <description>大安大甲溪聯通管工程計畫 ATAK Data Package</description>
+    <Style id="redLine">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="pointStyle">
+        <IconStyle>
+            <scale>1.1</scale>
+        </IconStyle>
+    </Style>
+    <Placemark>
+      <name>大安溪水管橋 (后里圳水橋)</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7516,24.3258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>石岡壩</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7691,24.2797,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>后里第一淨水場</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7359,24.3195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>苗栗鯉魚潭國小</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7766,24.3418,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鯉魚潭水庫</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7819,24.3415,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>枕頭山 (苗栗)</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.766,24.3343,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>后里泰安國小</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7486,24.3213,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>后里圳 (示範電廠)</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7266,24.306,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>經濟部水利署中區水資源分署</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.6925,24.0489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鯉魚潭淨水場</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7258,24.3155,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>路徑_大甲溪輸水管</name>
+      <styleUrl>#redLine</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.7691,24.2797,0 120.76,24.282,0 120.75,24.285,0 120.74,24.29,0 120.735,24.3,0 120.7359,24.3195,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>路徑_后里圳送水管</name>
+      <styleUrl>#redLine</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.7359,24.3195,0 120.7258,24.3155,0 120.7266,24.306,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>路徑_鯉魚潭第二原水管</name>
+      <styleUrl>#redLine</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.7819,24.3415,0 120.766,24.3343,0 120.7516,24.3258,0 120.7359,24.3195,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>豐原淨水場</name>
+      <styleUrl>#pointStyle</styleUrl>
+      <Point>
+        <coordinates>120.7303,24.2694,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
