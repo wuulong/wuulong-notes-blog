@@ -76,6 +76,8 @@ timeline
 
 接下來，我們將持續探索更多 AI 賦能 GIS 的可能性，包括更聰明的地理空間分析與即時協作功能。
 
+想看 notebooklm 做的投影片：[請點選](WalkGIS_From_Walk_to_War-Grade_Integration.pdf)
+
 ---
 ### 🤖 AI 協作宣告
 *   **本文內容**: 由人類作者提供歷程觀點與需求，Antigravity 負責資料盤點與圖表製作。
