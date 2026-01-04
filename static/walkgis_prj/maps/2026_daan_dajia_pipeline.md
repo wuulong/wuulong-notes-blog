@@ -109,16 +109,16 @@ Prompt: 請建立一個比較表格，分析文中提到的新舊設施差異（
 
 Prompt: 將「順遊景點」與「在地美食」章節轉換為行程卡片視圖。請按地區分組（如：東勢、石岡、后里），並標註「必試」項目。
 
-4. 生成互動地圖數據 (Map Data View) - 如果支援
+4. 生成互動地圖數據 (Map Data View)
 如果 Dynamic View 支援地圖渲染。
 
 Prompt: 辨識報告中提到的所有地理位置，並以地圖視圖呈現，附上簡短描述。
 
-極簡懶人包 (Combined Prompt)： 如果您想一次看到所有效果，可以這樣下：
+5. 極簡懶人包 (Combined Prompt)： 如果您想一次看到所有效果，可以這樣下：
 
 ![懶人包](https://wuulong.github.io/wuulong-notes-blog/walkgis_prj/assets/images/懶人包.png)
 
-"Visualize this research report in Dynamic View:
+Prompt:"Visualize this research report in Dynamic View:
 
 A Timeline of the engineering history.
 A Comparison Table of historical changes.
