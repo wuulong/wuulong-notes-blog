@@ -84,6 +84,47 @@ https://penlock.notion.site/2-cb5225e9874f4ed3904357799637d8ab?pvs=74
 ```
 - [deep research: 雙溪共構與地脈共生：大安大甲溪聯通管工程下的跨領域水利圖譜、歷史深度與文化生活考掘](https://docs.google.com/document/d/17vuvGhd6o1XSCKrf57CGw3YYd9WAcCcPB1hkxjgLPX4/edit?usp=sharing)
 
+
+## 用 dyanmic view 視覺化
+如果您已經產出了 Deep Research Report（這通常是一份長文本），接著在 Dynamic View 中，您的 Prompt 策略應該從「獲取資訊」轉向**「結構化與視覺化」**。Dynamic View 的強項在於呈現。
+
+以下是幾個非常適合在 Dynamic View 中使用的 Prompt，您可以根據您想呈現的效果選擇：
+
+1. 生成時間軸 (Timeline View)
+如果報告包含很多水利歷史年份。
+
+![歷史核心里程碑摘要](歷史核心里程碑摘要.png)
+
+Prompt: 基於這份研究報告，請以時間軸視圖呈現這些水利設施的關鍵歷史里程碑。重點放在建造年份與重大事件（如921地震影響）。
+
+2. 生成比較表格 (Comparison Table View)
+如果報告包含很多新舊設施對比。
+
+![新舊設施差異對照表](新舊設施差異對照表.png)
+Prompt: 請建立一個比較表格，分析文中提到的新舊設施差異（例如：新舊白冷圳、日治時期 vs 現代工程）。欄位應包含：設施名稱、年代、建造工法、目前狀態。
+
+3. 生成旅遊行程卡片 (Itinerary/Card View)
+如果重點是在地美食與順遊。
+![旅遊行程卡片](旅遊行程卡片.png)
+
+Prompt: 將「順遊景點」與「在地美食」章節轉換為行程卡片視圖。請按地區分組（如：東勢、石岡、后里），並標註「必試」項目。
+
+4. 生成互動地圖數據 (Map Data View) - 如果支援
+如果 Dynamic View 支援地圖渲染。
+
+Prompt: 辨識報告中提到的所有地理位置，並以地圖視圖呈現，附上簡短描述。
+
+極簡懶人包 (Combined Prompt)： 如果您想一次看到所有效果，可以這樣下：
+
+![懶人包](懶人包.png)
+
+"Visualize this research report in Dynamic View:
+
+A Timeline of the engineering history.
+A Comparison Table of historical changes.
+An Itinerary Plan for a 1-day cultural tour, highlighting food stops."
+
+這樣您可以充分利用 Dynamic View 的特性，把那份幾萬字的報告，瞬間變成三張精美的圖表，直接截圖就是完美的簡報素材或網誌插圖！
 ## 景點列表
 - [石岡壩](../features/20260101_daan_dajia_pipeline_石岡壩.md)
 - [鯉魚潭水庫](../features/20260101_daan_dajia_pipeline_鯉魚潭水庫.md)
