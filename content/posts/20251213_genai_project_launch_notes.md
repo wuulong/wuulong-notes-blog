@@ -7,7 +7,6 @@ tags: ["GenAI", "Hugo", "Project Management", "AI協作"]
 draft: false
 ShowToc: true
 TocOpen: true
-weight: 1
 ---
 
 # 當靈感遇上 AI：一個上午的加速實踐

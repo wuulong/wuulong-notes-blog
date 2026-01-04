@@ -6,7 +6,7 @@ categories: ["Project (專案)"]
 series: ["公告"]
 tags: ["River Exploration", "Hugo", "Migration"]
 summary: "為了集中創作能量與技術資源，原獨立的「2026 台灣河流探索」網站正式併入「哈爸筆記」，未來將作為本站的核心系列持續更新。"
-weight: 2
+
 ---
 
 ## 為什麼要「匯流」？
