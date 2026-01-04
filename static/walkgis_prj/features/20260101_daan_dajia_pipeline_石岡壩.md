@@ -2,7 +2,7 @@
 id: 20260101_daan_dajia_pipeline_石岡壩
 title: 石岡壩
 tags: [大安大甲溪聯通管工程計畫地圖, 水利設施]
-coordinate: [24.2797, 120.7691]
+coordinate: [24.280763, 120.769402]
 ---
 # 石岡壩
 
