@@ -4,7 +4,7 @@ name: 葫蘆墩圳
 type: 水利設施
 subtype: 歷史水圳
 date: 2025-12-29
-coordinate: [24.2790, 120.7448]
+coordinate: [24.27008760291605, 120.7407474341103]
 ---
 
 # 葫蘆墩圳 (Huludun Canal)

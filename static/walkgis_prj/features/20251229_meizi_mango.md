@@ -4,6 +4,7 @@ name: 梅子百年芒果樹
 type: 自行車道景點
 subtype: 自然景觀
 date: 2025-12-29
+coordinate: [24.2753537, 120.8045796]
 ---
 
 # 梅子百年芒果樹 (Meizi Century-old Mango Tree)

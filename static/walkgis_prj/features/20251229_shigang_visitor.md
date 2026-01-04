@@ -4,6 +4,7 @@ name: 石岡旅客服務中心
 type: 自行車道景點
 subtype: 休憩設施
 date: 2025-12-29
+coordinate: [24.276028, 120.7788573]
 ---
 
 # 石岡旅客服務中心 (Shigang Visitor Center)

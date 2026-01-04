@@ -4,6 +4,7 @@ name: 豐原大道自行車道
 type: 自行車道景點
 subtype: 景點
 date: 2025-12-29
+coordinate: [24.2435594, 120.7299749]
 ---
 
 # 豐原大道自行車道 (Fengyuan Blvd Bike Path)

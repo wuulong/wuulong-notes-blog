@@ -4,6 +4,7 @@ name: 樟樹平台
 type: 自行車道景點
 subtype: 休憩設施
 date: 2025-12-29
+coordinate: [24.29815, 120.70624]
 ---
 
 # 樟樹平台 (Camphor Platform)

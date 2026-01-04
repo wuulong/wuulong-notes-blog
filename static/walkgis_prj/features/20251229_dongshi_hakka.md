@@ -4,6 +4,7 @@ name: 東勢客家文化園區
 type: 自行車道景點
 subtype: 歷史建築
 date: 2025-12-29
+coordinate: [24.2576522, 120.8318645]
 ---
 
 # 東勢客家文化園區 (Dongshi Hakka Cultural Park)

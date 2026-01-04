@@ -4,6 +4,7 @@ name: 石岡土牛客家文化館
 type: 自行車道景點
 subtype: 歷史建築
 date: 2025-12-29
+coordinate: [24.2652165, 120.8096073]
 ---
 
 # 石岡土牛客家文化館 (Tuniu Hakka Cultural Hall)

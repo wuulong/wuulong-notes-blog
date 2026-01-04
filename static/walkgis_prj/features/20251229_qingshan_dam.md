@@ -4,7 +4,7 @@ name: 青山壩
 type: 水利設施
 subtype: 水庫
 date: 2025-12-29
-coordinate: [24.2530, 121.1602]
+coordinate: [24.253194, 121.160278]
 ---
 
 # 青山壩 (Qingshan Dam)

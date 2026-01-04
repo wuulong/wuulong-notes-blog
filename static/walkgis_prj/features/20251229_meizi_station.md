@@ -4,6 +4,7 @@ name: 梅子車站
 type: 自行車道景點
 subtype: 歷史建築
 date: 2025-12-29
+coordinate: [24.268487, 120.801761]
 ---
 
 # 梅子車站 (Meizi Station)

@@ -4,7 +4,7 @@ name: 白冷圳
 type: 水利設施
 subtype: 歷史水圳
 date: 2025-12-29
-coordinate: [24.1680, 120.8299]
+coordinate: [24.15577984063484, 120.8620961419268]
 ---
 
 # 白冷圳 (Baileng Canal)

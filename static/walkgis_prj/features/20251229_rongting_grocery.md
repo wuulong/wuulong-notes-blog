@@ -4,6 +4,7 @@ name: 榮町雜貨店
 type: 自行車道景點
 subtype: 商店
 date: 2025-12-29
+coordinate: [24.274541, 120.7441184]
 ---
 
 # 榮町雜貨店 (Rongting Grocery)

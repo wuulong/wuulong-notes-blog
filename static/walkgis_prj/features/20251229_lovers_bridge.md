@@ -4,6 +4,7 @@ name: 情人木橋
 type: 自行車道景點
 subtype: 景點
 date: 2025-12-29
+coordinate: [24.2727589, 120.7890481]
 ---
 
 # 情人木橋 (Lovers Bridge)

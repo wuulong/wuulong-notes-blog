@@ -4,7 +4,7 @@ name: 谷關壩
 type: 水利設施
 subtype: 水庫
 date: 2025-12-29
-coordinate: [24.2333, 121.0761]
+coordinate: [24.233586, 121.076136]
 ---
 
 # 谷關壩 (Guguan Dam)

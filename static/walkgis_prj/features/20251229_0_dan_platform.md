@@ -4,6 +4,7 @@ name: 0蛋月台
 type: 自行車道景點
 subtype: 歷史建築
 date: 2025-12-29
+coordinate: [24.27635, 120.7780028]
 ---
 
 # 0蛋月台 (0-dan Platform)

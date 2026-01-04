@@ -4,6 +4,7 @@ name: 綠廊交接處
 type: 自行車道景點
 subtype: 景點
 date: 2025-12-29
+coordinate: [24.269389, 120.748361]
 ---
 
 # 綠廊交接處 (Greenway Junction)

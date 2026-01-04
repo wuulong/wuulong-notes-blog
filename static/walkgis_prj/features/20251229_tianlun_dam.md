@@ -4,7 +4,7 @@ name: 天輪壩
 type: 水利設施
 subtype: 水庫
 date: 2025-12-29
-coordinate: [24.2105, 121.0150]
+coordinate: [24.210678, 121.015806]
 ---
 
 # 天輪壩 (Tianlun Dam)

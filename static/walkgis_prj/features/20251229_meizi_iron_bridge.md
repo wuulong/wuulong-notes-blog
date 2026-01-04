@@ -4,6 +4,7 @@ name: 梅子鐵橋
 type: 自行車道景點
 subtype: 歷史建築
 date: 2025-12-29
+coordinate: [24.258889, 120.803889]
 ---
 
 # 梅子鐵橋 (Meizi Iron Bridge)

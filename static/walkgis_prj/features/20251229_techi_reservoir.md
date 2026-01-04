@@ -4,7 +4,7 @@ name: 德基水庫
 type: 水利設施
 subtype: 水庫
 date: 2025-12-29
-coordinate: [24.2541, 121.1652]
+coordinate: [24.2645555, 121.1867873]
 ---
 
 # 德基水庫 (Techi Reservoir)

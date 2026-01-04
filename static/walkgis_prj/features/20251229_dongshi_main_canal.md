@@ -4,7 +4,7 @@ name: 東勢本圳
 type: 水利設施
 subtype: 歷史水圳
 date: 2025-12-29
-coordinate: [24.1950, 120.8650]
+coordinate: [24.22433716469105, 120.8362556835392]
 ---
 
 # 東勢本圳 (Dongshi Main Canal)

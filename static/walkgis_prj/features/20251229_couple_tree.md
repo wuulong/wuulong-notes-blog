@@ -4,6 +4,7 @@ name: 夫妻樹
 type: 自行車道景點
 subtype: 自然景觀
 date: 2025-12-29
+coordinate: [23.5125202, 120.8907209]
 ---
 
 # 夫妻樹 (Couple Tree)

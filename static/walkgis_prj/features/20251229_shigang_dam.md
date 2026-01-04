@@ -4,6 +4,7 @@ name: 石岡水壩
 type: 自行車道景點
 subtype: 水利設施
 date: 2025-12-29
+coordinate: [24.2813301, 120.7694244]
 ---
 
 # 石岡水壩 (Shigang Dam)

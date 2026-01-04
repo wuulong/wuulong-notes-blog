@@ -4,6 +4,7 @@ name: 公老坪
 type: 自行車道景點
 subtype: 自然景觀
 date: 2025-12-29
+coordinate: [24.261405, 120.764355]
 ---
 
 # 公老坪 (Kunglaoping)
