@@ -53,6 +53,37 @@ https://penlock.notion.site/2-cb5225e9874f4ed3904357799637d8ab?pvs=74
 ## 下載與資源
 - **[ATAK Data Package 下載](../atak_packages/daan_dajia_pipeline_mission_package.zip)** (請使用手機 ATAK 匯入)
 
+## 🗺️ AI 深度探索 (Deep Research)
+如果您擁有 Gemini Advanced 或其他 Deep Research 工具，可以複製以下 Prompt，針對本工程地圖進行深度的文史與美食探索：
+
+```markdown
+# Context
+一份名為「大安大甲溪聯通管工程計畫地圖」的導覽路線，串連大甲溪（石岡）與大安溪（鯉魚潭）水系。
+
+# Task
+請針對以下景點列表，進行 Deep Research，挖掘背後的「歷史深度」、「生活溫度」與「在地美食」。
+
+**景點列表：**
+1. 石岡壩 (大甲溪輸水管起點)
+2. 鯉魚潭水庫 (鯉魚潭第二原水管起點)
+3. 豐原淨水場
+4. 后里第一淨水場 (系統串接樞紐)
+5. 鯉魚潭淨水場
+6. 中區水資源分署 (霧峰)
+7. 后里泰安國小 (環境教育點)
+8. 苗栗鯉魚潭國小
+9. 枕頭山 (苗栗三義，隧道穿越點)
+10. 大安溪水管橋 (新舊水利設施交會點，旁有舊后里圳)
+11. 后里圳 (示範電廠)
+
+# Requirements (請分析以下維度)
+1. **歷史與工程脈絡**: 該點在台灣水利史的角色？新舊設施對比？(如日治 vs 現代)
+2. **在地文化與生態**: 周邊古蹟、廟宇、特殊生態景觀。
+3. **順遊景點**: 步行/單車可達的隱藏景點。
+4. **必吃在地美食**: 老字號小吃、在地人推薦 (非連鎖)。
+```
+- [deep research: 雙溪共構與地脈共生：大安大甲溪聯通管工程下的跨領域水利圖譜、歷史深度與文化生活考掘](https://docs.google.com/document/d/17vuvGhd6o1XSCKrf57CGw3YYd9WAcCcPB1hkxjgLPX4/edit?usp=sharing)
+
 ## 景點列表
 - [石岡壩](../features/20260101_daan_dajia_pipeline_石岡壩.md)
 - [鯉魚潭水庫](../features/20260101_daan_dajia_pipeline_鯉魚潭水庫.md)
