@@ -26,6 +26,17 @@
         "demo"
       ],
       "cover_image": "https://wuulong.github.io/walkgis-template/assets/images/打造你的專屬地圖.png"
+    },
+    {
+      "id": "walkgis-sample",
+      "name": "清大夜市散步地圖",
+      "url": "https://wuulong.github.io/walkgis-sample/",
+      "author": "WalkGIS Team",
+      "description": "清大夜市美食資訊。",
+      "tags": [
+        "demo"
+      ],
+      "cover_image": "https://wuulong.github.io/walkgis-sample/assets/images/清大夜市美食散步地圖.png"
     }
   ]
 }
