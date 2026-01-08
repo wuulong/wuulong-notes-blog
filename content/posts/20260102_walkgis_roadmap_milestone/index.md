@@ -39,20 +39,20 @@ timeline
 
 | 歷程階段 | 日期 | 相關網誌 / 事件 | Why (為什麼做這個？) | Highlight (亮點/成果) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Phase 0: 概念與基礎** | 2025/12/13 | [散步地圖的概念與應用](/posts/20251213_walking_map_concept/) | 想要記錄在地的移動紋理，而不只是導航。 | 確立「以人為本」的 GIS 敘事角度。 |
-| | 2025/12/13 | [社區 GIS 圖層分類學](/posts/20251213_community_gis_layer_types/) | 需要一套通用的分類標準，以免地圖資料雜亂無章。 | 提出 PoI 的結構化分類架構。 |
-| | 2025/12/14 | [SQLite Schema 設計](/posts/20251214_walking_map_schema_design/)| 需要一個輕量、可攜且 AI 友善的資料儲存格式。 | 選擇 SQLite + WKT，奠定 Serverless 基礎。 |
-| **Phase 1: V0.1 MVP** | 2025/12/29 | [打造 AI-First GIS 系統](/posts/20251229_walkgis_v0_1_dev_log/) | 開發過程的技術筆記，記錄架構選擇。 | 確立 SpatiaLite 到 WKT 的技術轉型。 |
-| | 2025/12/29 | [WalkGIS V0.1 釋出](/posts/20251229_walkgis_v0_1_release/) | 驗證「地圖即故事書」的概念是否可行。 | 首個版本上線，結合 Markdown 與地圖展示。 |
-| | 2025/12/29 | [NotebookLM 自動化產製](/posts/20251229_walkgis_notebooklm_workflow/) | 解決地圖內容貧乏的問題，讓 AI 當導覽員。 | 建立 DB -> Context -> NotebookLM 的流水線。 |
-| | 2025/12/29 | [WalkGIS 實戰：雙主題地圖](/posts/20251229_walkgis_case_study/) | 第一個真正的應用案例測試。 | 完成「大甲溪溯源」與「智慧水圳」地圖。 |
-| **Phase 2: 自動化與 App** | 2025/12/30 | [地圖生成代理人與實戰](/posts/20251230_walkgis_automation_task/) | 手工製作地圖太慢，需要標準化 SOP。 | 透過 BMad Task 定義，讓 AI 自動搜尋並生成地圖。 |
-| | 2025/12/30 | [WalkGIS App 架構解密](/posts/20251230_walkgis_app_architecture/) | 解釋如何不用後端也能跑起複雜的 GIS App。 | 展示 sql.js (WASM) 在瀏覽器端的強大能力。 |
-| **Phase 3: V2.0 協議化** | 2026/01/01 | [WalkGIS 2.0 願景：去中心化](/posts/20260101_walkgis_2_0_vision/) | 解決單一 Repo 難以擴展與共創的問題。 | 提出「Viewer 與 Data 分離」架構。 |
-| | 2026/01/01 | [V2 技術開發日誌](/posts/20260101_walkgis_v2_dev_log/) | 實作 V2 架構的技術細節。 | 引入 Market 機制與 Data Template。 |
-| | 2026/01/01 | [WalkGIS Sample 實戰紀錄](/posts/20260101_walkgis_sample_dev_log/) | 親自驗證 V2 Template 是否好用 (Dogfooding)。 | 產出「清大夜市散步地圖」，修正 GPS 流程。 |
-| **Phase 4: 進階整合** | 2026/01/01 | [AI 看圖轉 WKT 實戰](/posts/20260101_ai_image_to_wkt/) | 解決官方工程圖只有 JPG 沒有 KML 的痛點。 | Agent 視覺判斷與錨點推估，自動生成路徑。 |
-| | 2026/01/02 | [Agentic 實戰：ATAK 打包](/posts/20260102_agentic_atak_packaging/) | 為了現場勘查需求，需要離線且軍規級的地圖工具。 | AI 自動撰寫打包 Script，一鍵匯出 Mission Package。 |
+| **Phase 0: 概念與基礎** | 2025/12/13 | [散步地圖的概念與應用](/wuulong-notes-blog/posts/20251213_walking_map_concept/) | 想要記錄在地的移動紋理，而不只是導航。 | 確立「以人為本」的 GIS 敘事角度。 |
+| | 2025/12/13 | [社區 GIS 圖層分類學](/wuulong-notes-blog/posts/20251213_community_gis_layer_types/) | 需要一套通用的分類標準，以免地圖資料雜亂無章。 | 提出 PoI 的結構化分類架構。 |
+| | 2025/12/14 | [SQLite Schema 設計](/wuulong-notes-blog/posts/20251214_walking_map_schema_design/)| 需要一個輕量、可攜且 AI 友善的資料儲存格式。 | 選擇 SQLite + WKT，奠定 Serverless 基礎。 |
+| **Phase 1: V0.1 MVP** | 2025/12/29 | [打造 AI-First GIS 系統](/wuulong-notes-blog/posts/20251229_walkgis_v0_1_dev_log/) | 開發過程的技術筆記，記錄架構選擇。 | 確立 SpatiaLite 到 WKT 的技術轉型。 |
+| | 2025/12/29 | [WalkGIS V0.1 釋出](/wuulong-notes-blog/posts/20251229_walkgis_v0_1_release/) | 驗證「地圖即故事書」的概念是否可行。 | 首個版本上線，結合 Markdown 與地圖展示。 |
+| | 2025/12/29 | [NotebookLM 自動化產製](/wuulong-notes-blog/posts/20251229_walkgis_notebooklm_workflow/) | 解決地圖內容貧乏的問題，讓 AI 當導覽員。 | 建立 DB -> Context -> NotebookLM 的流水線。 |
+| | 2025/12/29 | [WalkGIS 實戰：雙主題地圖](/wuulong-notes-blog/posts/20251229_walkgis_case_study/) | 第一個真正的應用案例測試。 | 完成「大甲溪溯源」與「智慧水圳」地圖。 |
+| **Phase 2: 自動化與 App** | 2025/12/30 | [地圖生成代理人與實戰](/wuulong-notes-blog/posts/20251230_walkgis_automation_task/) | 手工製作地圖太慢，需要標準化 SOP。 | 透過 BMad Task 定義，讓 AI 自動搜尋並生成地圖。 |
+| | 2025/12/30 | [WalkGIS App 架構解密](/wuulong-notes-blog/posts/20251230_walkgis_app_architecture/) | 解釋如何不用後端也能跑起複雜的 GIS App。 | 展示 sql.js (WASM) 在瀏覽器端的強大能力。 |
+| **Phase 3: V2.0 協議化** | 2026/01/01 | [WalkGIS 2.0 願景：去中心化](/wuulong-notes-blog/posts/20260101_walkgis_2_0_vision/) | 解決單一 Repo 難以擴展與共創的問題。 | 提出「Viewer 與 Data 分離」架構。 |
+| | 2026/01/01 | [V2 技術開發日誌](/wuulong-notes-blog/posts/20260101_walkgis_v2_dev_log/) | 實作 V2 架構的技術細節。 | 引入 Market 機制與 Data Template。 |
+| | 2026/01/01 | [WalkGIS Sample 實戰紀錄](/wuulong-notes-blog/posts/20260101_walkgis_sample_dev_log/) | 親自驗證 V2 Template 是否好用 (Dogfooding)。 | 產出「清大夜市散步地圖」，修正 GPS 流程。 |
+| **Phase 4: 進階整合** | 2026/01/01 | [AI 看圖轉 WKT 實戰](/wuulong-notes-blog/posts/20260101_ai_image_to_wkt/) | 解決官方工程圖只有 JPG 沒有 KML 的痛點。 | Agent 視覺判斷與錨點推估，自動生成路徑。 |
+| | 2026/01/02 | [Agentic 實戰：ATAK 打包](/wuulong-notes-blog/posts/20260102_agentic_atak_packaging/) | 為了現場勘查需求，需要離線且軍規級的地圖工具。 | AI 自動撰寫打包 Script，一鍵匯出 Mission Package。 |
 
 ## Aha Moment （全人工手寫心得）
 ![WALKGIS專案的四個頓悟](WALKGIS專案的四個頓悟.png)
