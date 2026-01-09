@@ -101,3 +101,6 @@ manifest_content = f'''<?xml version="1.0" encoding="UTF-8"?>
 這次實戰驗證了 **Open Data + Python Automation** 的強大之處。雖然目前廁所資料的覆蓋率還不夠高，但這套流程建立起來後，未來想要製作「飲水機地圖」、「AED 地圖」或「露營點地圖」，也就是改改查詢條件的事了。
 
 這正是 **WalkGIS 2.0** 的核心精神：**用數據導引腳步，用技術解決旅途中的真實問題。**
+
+---
+**AI 協作宣告**：本文初稿由 AI 助手（Antigravity）協助生成，並由人類作者進行核實與修訂。文中使用的 Python 腳本為人類與 AI 透過 Pair Programming 共同開發之成果。
