@@ -3,7 +3,7 @@ title: "2026 大甲溪河流探索 Day 3：從后里到谷關，那些地圖上�
 date: 2026-01-08
 description: "大甲溪之旅第三天，深入東勢客家庄與谷關溫泉鄉。這是一場關於「找路」的旅程，在 Google Maps、魯地圖與國土測繪圖之間切換，尋找消失的水圳與在地的洗衣文化。同場加映：ATAK 軌跡資料包的匯出與分析實驗。"
 tags: ["大甲溪", "東勢", "谷關", "水圳文化", "ATAK", "魯地圖", "WalkGIS", "Relive", "GPX", "KML"]
-categories: ["Life & Thoughts (生活與隨筆)", "Gis & Tech (技術筆記)"]
+categories: ["Life and Thoughts (生活與隨筆)"]
 series: ["2026台灣河流探索-大甲溪"]
 params:
   ShowToc: true

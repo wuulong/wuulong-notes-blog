@@ -1,7 +1,7 @@
 ---
 title: "日本行 Day 2: 奈良公園、東大寺與大阪美食"
 date: 2025-12-23T09:00:00+08:00
-categories: ["Life & Thoughts (生活與隨筆)"]
+categories: ["Life and Thoughts (生活與隨筆)"]
 series: ["2025日本行"]
 tags: ["奈良", "大阪", "美食", "親子旅遊", "哈爸筆記"]
 draft: false
