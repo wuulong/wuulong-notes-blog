@@ -3,6 +3,7 @@ id: 20260111_zhuoshui_river
 name: 濁水溪流域百科全書式探索
 description: 濁水溪流域自然、人文、水利、交通與災害維度探索
 region: 濁水溪流域
+cover_image: assets/images/濁水溪封面.png
 created_at: 2026-01-11
 updated_at: 2026-01-11
 tags: [自然地理, 水利設施, 人文史蹟, 交通設施, 災害環境]
