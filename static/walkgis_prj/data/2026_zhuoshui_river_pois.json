@@ -1,0 +1,492 @@
+[
+  {
+    "category": "自然地景-源頭與山岳",
+    "name": "合歡山武嶺牌樓",
+    "found": true,
+    "lat": 24.1371281,
+    "lon": 121.275739,
+    "address": "546台灣南投縣仁愛鄉仁和路170號",
+    "rating": 4.8,
+    "place_id": "ChIJte6zETiTaDQRA6gtQKdhV8k"
+  },
+  {
+    "category": "自然地景-源頭與山岳",
+    "name": "合歡山主峰步道",
+    "found": true,
+    "lat": 24.1336539,
+    "lon": 121.2716627,
+    "address": "546台灣南投縣仁愛鄉",
+    "rating": 4.8,
+    "place_id": "ChIJX4XFDjeTaDQRO0JqI8_K8-w"
+  },
+  {
+    "category": "自然地景-源頭與山岳",
+    "name": "合歡山東峰",
+    "found": true,
+    "lat": 24.1353636,
+    "lon": 121.280984,
+    "address": "546台灣南投縣仁愛鄉合歡山東峰",
+    "rating": 4.8,
+    "place_id": "ChIJM3uNWz-TaDQRp2uAKgGlyPw"
+  },
+  {
+    "category": "自然地景-源頭與山岳",
+    "name": "集集大山",
+    "found": true,
+    "lat": 23.854553,
+    "lon": 120.838294,
+    "address": "552台灣南投縣集集鎮集集大山",
+    "rating": 4.2,
+    "place_id": "ChIJHxKWH8YraTQRDGfF3YiI8tA"
+  },
+  {
+    "category": "自然地景-水文/濕地",
+    "name": "瑞龍瀑布園區",
+    "found": true,
+    "lat": 23.6646837,
+    "lon": 120.6888271,
+    "address": "557台灣南投縣竹山鎮坪頂路",
+    "rating": 4.1,
+    "place_id": "ChIJewwDrJTPbjQRhWvZK4iOzT8"
+  },
+  {
+    "category": "自然地景-水文/濕地",
+    "name": "日月潭",
+    "found": true,
+    "lat": 23.8573342,
+    "lon": 120.9159131,
+    "address": "555台灣南投縣魚池鄉日月潭",
+    "rating": 4.6,
+    "place_id": "ChIJBQDuduDVaDQRKKUSU_2mF-w"
+  },
+  {
+    "category": "自然地景-水文/濕地",
+    "name": "新草嶺潭觀景臺（受災小攤）",
+    "found": true,
+    "lat": 23.5806866,
+    "lon": 120.683197,
+    "address": "646台灣雲林縣古坑鄉",
+    "rating": 3.8,
+    "place_id": "ChIJj_0E9pPEbjQRXpsZC65g8k0"
+  },
+  {
+    "category": "自然地景-水文/濕地",
+    "name": "濁水溪出海口生態基地",
+    "found": true,
+    "lat": 23.821301,
+    "lon": 120.244146,
+    "address": "638台灣雲林縣麥寮鄉",
+    "rating": 4.2,
+    "place_id": "ChIJPf_4Q-2pbjQRPk9qLK55-Hw"
+  },
+  {
+    "category": "自然地景-水文/濕地",
+    "name": "雙龍瀑布",
+    "found": true,
+    "lat": 23.7767852,
+    "lon": 120.9504481,
+    "address": "556台灣南投縣信義鄉",
+    "rating": 4.4,
+    "place_id": "ChIJWSKndtvUaDQRnRoVvZzGDFI"
+  },
+  {
+    "category": "自然地景-地質",
+    "name": "金門峒斷崖",
+    "found": true,
+    "lat": 23.502296,
+    "lon": 120.98931,
+    "address": "556台灣南投縣信義鄉金門峒斷崖",
+    "rating": 0,
+    "place_id": "ChIJyxniIAIkbzQRNTR-SSehG3w"
+  },
+  {
+    "category": "自然地景-地質",
+    "name": "濁水溪",
+    "found": true,
+    "lat": 23.8273796,
+    "lon": 120.2838041,
+    "address": "527台灣彰化縣大城鄉濁水溪",
+    "rating": 4.1,
+    "place_id": "ChIJoSHnuyWsbjQR_FwJs2mzKA8"
+  },
+  {
+    "category": "水利設施-壩堰",
+    "name": "武界壩",
+    "found": true,
+    "lat": 23.915,
+    "lon": 121.057222,
+    "address": "546台灣南投縣仁愛鄉武界壩",
+    "rating": 0,
+    "place_id": "ChIJnT4aEqLaaDQR4PtUmAvUbTw"
+  },
+  {
+    "category": "水利設施-壩堰",
+    "name": "霧社水庫",
+    "found": true,
+    "lat": 23.9991367,
+    "lon": 121.1352393,
+    "address": "546台灣南投縣仁愛鄉霧社水庫",
+    "rating": 4.3,
+    "place_id": "ChIJk6sRD5jDaDQRmPKE5kETOQQ"
+  },
+  {
+    "category": "水利設施-壩堰",
+    "name": "集集攔河堰",
+    "found": true,
+    "lat": 23.818335,
+    "lon": 120.7633291,
+    "address": "552台灣南投縣集集鎮林尾里攔河路2號",
+    "rating": 4.1,
+    "place_id": "ChIJPfLmHdwsaTQRpIxw-3U8zkM"
+  },
+  {
+    "category": "水利設施-圳路",
+    "name": "八堡二圳取水口",
+    "found": true,
+    "lat": 23.7995881,
+    "lon": 120.6450621,
+    "address": "530台灣彰化縣二水鄉",
+    "rating": 4.9,
+    "place_id": "ChIJ72RKCADNbjQRZLNW6xc5-jI"
+  },
+  {
+    "category": "水利設施-圳路",
+    "name": "莿仔埤圳第一放水路",
+    "found": true,
+    "lat": 23.8220779,
+    "lon": 120.5610401,
+    "address": "524台灣彰化縣溪州鄉莿仔埤圳第一放水路",
+    "rating": 5,
+    "place_id": "ChIJ8SSVtOjKbjQRThZrkEQNz4E"
+  },
+  {
+    "category": "水利設施-圳路",
+    "name": "斗六大圳",
+    "found": true,
+    "lat": 23.7110601,
+    "lon": 120.6007312,
+    "address": "台灣雲林縣斗六大圳",
+    "rating": 3.9,
+    "place_id": "ChIJ7YnoSCfJbjQRSUXXQjYH9eM"
+  },
+  {
+    "category": "水利設施-圳路",
+    "name": "石山引水道入口處",
+    "found": true,
+    "lat": 23.4732996,
+    "lon": 120.8459194,
+    "address": "556台灣南投縣信義鄉阿里山公路",
+    "rating": 4.5,
+    "place_id": "ChIJWV50vk3ebjQR0F4Tx0RRme4"
+  },
+  {
+    "category": "水利設施-電廠",
+    "name": "台電大觀發電廠(大觀G/S)",
+    "found": true,
+    "lat": 23.854427,
+    "lon": 120.869621,
+    "address": "553台灣南投縣水里鄉明潭巷73號",
+    "rating": 4.4,
+    "place_id": "ChIJW1V4LCMqaTQRRKJ7BkoAKt8"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "西螺大橋",
+    "found": true,
+    "lat": 23.8138002,
+    "lon": 120.461058,
+    "address": "台灣西螺大橋",
+    "rating": 0,
+    "place_id": "ChIJrZs43EK0bjQRK3XsEqYto-Y"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "溪州大橋(新西螺大橋)",
+    "found": true,
+    "lat": 23.7978137,
+    "lon": 120.4716127,
+    "address": "648台灣彰化縣西螺鎮縱貫公路附近號",
+    "rating": 4.4,
+    "place_id": "ChIJ2V6lk0W0bjQRElvWwUfrWqY"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "自強大橋",
+    "found": true,
+    "lat": 23.829617,
+    "lon": 120.398178,
+    "address": "台灣自強大橋",
+    "rating": 0,
+    "place_id": "ChIJC7CXtrGzbjQRsK1dFD3wx8U"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "中沙大橋",
+    "found": true,
+    "lat": 23.8076469,
+    "lon": 120.4841178,
+    "address": "524台灣彰化縣溪州鄉中山高速公路",
+    "rating": 5,
+    "place_id": "ChIJ0cNrFb61bjQRBcIp9fl3Z_U"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "西濱大橋",
+    "found": true,
+    "lat": 23.8304674,
+    "lon": 120.2890934,
+    "address": "527台灣彰化縣大城鄉台61線",
+    "rating": 3.8,
+    "place_id": "ChIJY74SHiCtbjQRd3qtso9LKFE"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "553南投縣水里鄉龍神橋",
+    "found": true,
+    "lat": 23.7789311,
+    "lon": 120.8695967,
+    "address": "553台灣南投縣水里鄉龍神橋",
+    "rating": 0,
+    "place_id": "ChIJWZE2KDXVbjQRBKiqeDU-m-Y"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "雙龍七彩吊橋",
+    "found": true,
+    "lat": 23.7806637,
+    "lon": 120.9498198,
+    "address": "556台灣南投縣信義鄉光復巷",
+    "rating": 4.4,
+    "place_id": "ChIJ0zNzrODUaDQRhEHNBuJR4DE"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "名竹大橋",
+    "found": true,
+    "lat": 23.816025,
+    "lon": 120.7068136,
+    "address": "557台灣南投縣竹山鎮名竹大橋",
+    "rating": 3.8,
+    "place_id": "ChIJSXpvodozaTQRRDmRR9GGs2o"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "孫海橋與丹大吊橋遺構",
+    "found": true,
+    "lat": 23.7871899,
+    "lon": 121.0117452,
+    "address": "台灣南投縣信義鄉556",
+    "rating": 4.3,
+    "place_id": "ChIJLbldPAvTaDQRq0nT1wJXT6w"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "北港溪糯米石橋",
+    "found": true,
+    "lat": 24.0585088,
+    "lon": 120.9065125,
+    "address": "544台灣南投縣國姓鄉國姓路",
+    "rating": 4.2,
+    "place_id": "ChIJ1UzfOm7faDQRBS1tixG_oCk"
+  },
+  {
+    "category": "交通設施-車站",
+    "name": "集集車站",
+    "found": true,
+    "lat": 23.826451,
+    "lon": 120.78489,
+    "address": "552台灣南投縣集集鎮",
+    "rating": 4.1,
+    "place_id": "ChIJUZEbvJMsaTQRKCCSuiKnaDU"
+  },
+  {
+    "category": "人文史蹟-古蹟/建築",
+    "name": "林先生廟",
+    "found": true,
+    "lat": 23.7992993,
+    "lon": 120.6452979,
+    "address": "530台灣彰化縣二水鄉員集路二段227號",
+    "rating": 4.4,
+    "place_id": "ChIJQX78_ezMbjQRzxD3t3IbeAY"
+  },
+  {
+    "category": "人文史蹟-古蹟/建築",
+    "name": "竹山社寮敬聖亭（縣定古蹟）",
+    "found": true,
+    "lat": 23.8143469,
+    "lon": 120.722177,
+    "address": "557台灣南投縣竹山鎮集山路一段1738號",
+    "rating": 4.1,
+    "place_id": "ChIJw_LhiVItaTQRZJ5EaQ7FDNw"
+  },
+  {
+    "category": "人文史蹟-古蹟/建築",
+    "name": "振文書院(文祠廟)",
+    "found": true,
+    "lat": 23.7945403,
+    "lon": 120.4644577,
+    "address": "648台灣雲林縣西螺鎮興農西路6號",
+    "rating": 4.4,
+    "place_id": "ChIJzUP3oDy0bjQRpK-MAS3uJ8I"
+  },
+  {
+    "category": "人文史蹟-古蹟/建築",
+    "name": "明新書院",
+    "found": true,
+    "lat": 23.8275444,
+    "lon": 120.7995314,
+    "address": "552台灣南投縣集集鎮東昌巷4號",
+    "rating": 4.1,
+    "place_id": "ChIJqck7NIMsaTQRdjaUSXMaNh8"
+  },
+  {
+    "category": "人文史蹟-古蹟/建築",
+    "name": "花蓮縣八通關古道",
+    "found": true,
+    "lat": 23.3237454,
+    "lon": 121.2479617,
+    "address": "台灣花蓮縣八通關古道",
+    "rating": 0,
+    "place_id": "ChIJ31zzuxkVbzQRLji2Yos29tE"
+  },
+  {
+    "category": "人文史蹟-古蹟/建築",
+    "name": "詔安客家文化館",
+    "found": true,
+    "lat": 23.763744,
+    "lon": 120.355071,
+    "address": "637台灣雲林縣崙背鄉東明村民生路28-8號",
+    "rating": 4,
+    "place_id": "ChIJR0vn5M2xbjQRILjNdDuDG94"
+  },
+  {
+    "category": "人文史蹟-宗教信仰",
+    "name": "【西螺福興宮 西螺媽祖太平媽】媽祖文化祭｜丙午年網路點燈｜安太歲｜線上喜點福燈｜2026點燈服務",
+    "found": true,
+    "lat": 23.8015652,
+    "lon": 120.4605261,
+    "address": "648台灣雲林縣西螺鎮延平路180號",
+    "rating": 4.6,
+    "place_id": "ChIJkzhtRj60bjQRioVRZXyC5WM"
+  },
+  {
+    "category": "人文史蹟-宗教信仰",
+    "name": "縣定古蹟西螺廣福宮 西螺媽老大媽廟",
+    "found": true,
+    "lat": 23.7971558,
+    "lon": 120.4647035,
+    "address": "648台灣雲林縣西螺鎮新街路32號",
+    "rating": 4.6,
+    "place_id": "ChIJG3Zn9Tu0bjQRMlvDwkeIUwY"
+  },
+  {
+    "category": "人文史蹟-宗教信仰",
+    "name": "麥寮拱範宮",
+    "found": true,
+    "lat": 23.7482552,
+    "lon": 120.2555916,
+    "address": "638台灣雲林縣麥寮鄉中正路3號",
+    "rating": 4.7,
+    "place_id": "ChIJ-yiS7FOvbjQRIHnDWn-xc6A"
+  },
+  {
+    "category": "人文史蹟-宗教信仰",
+    "name": "竹山紫南宮",
+    "found": true,
+    "lat": 23.8170767,
+    "lon": 120.7225793,
+    "address": "557台灣南投縣竹山鎮大公街40號",
+    "rating": 4.7,
+    "place_id": "ChIJiREHEVItaTQRCw4OxSRg5Lo"
+  },
+  {
+    "category": "人文史蹟-聚落(原民)",
+    "name": "武界部落",
+    "found": true,
+    "lat": 23.9155571,
+    "lon": 121.0442446,
+    "address": "546台灣南投縣仁愛鄉界山巷4號",
+    "rating": 4.4,
+    "place_id": "ChIJV73RK4XaaDQRsBQWVZtcYrE"
+  },
+  {
+    "category": "人文史蹟-聚落(原民)",
+    "name": "萬豐村曲冰部落",
+    "found": true,
+    "lat": 23.9460544,
+    "lon": 121.0767669,
+    "address": "546台灣南投縣仁愛鄉",
+    "rating": 4.2,
+    "place_id": "ChIJQ-Z3toHaaDQR6gTMVwknZpg"
+  },
+  {
+    "category": "人文史蹟-聚落(原民)",
+    "name": "過坑山",
+    "found": true,
+    "lat": 23.884353,
+    "lon": 120.979574,
+    "address": "555台灣南投縣魚池鄉過坑山",
+    "rating": 3.9,
+    "place_id": "ChIJ90_WyCnXaDQR8O2KMl-lHVs"
+  },
+  {
+    "category": "人文史蹟-聚落(原民)",
+    "name": "雙龍部落伊希岸農場露營區",
+    "found": true,
+    "lat": 23.7645348,
+    "lon": 120.9473155,
+    "address": "556台灣南投縣信義鄉",
+    "rating": 4.5,
+    "place_id": "ChIJDy1KgtTUaDQR4gdhc9Izxqo"
+  },
+  {
+    "category": "人文史蹟-聚落(漢人)",
+    "name": "北斗鎮",
+    "found": true,
+    "lat": 23.869208,
+    "lon": 120.5336665,
+    "address": "521台灣彰化縣北斗鎮",
+    "rating": 0,
+    "place_id": "ChIJFfRZm1s1aTQRaNPfvKPIOBo"
+  },
+  {
+    "category": "人文史蹟-聚落(漢人)",
+    "name": "竹山鎮",
+    "found": true,
+    "lat": 23.712201,
+    "lon": 120.6890055,
+    "address": "557台灣南投縣竹山鎮",
+    "rating": 0,
+    "place_id": "ChIJfZEn0PHRbjQR9pIp-ZNvupA"
+  },
+  {
+    "category": "人文史蹟-聚落(漢人)",
+    "name": "水里鄉",
+    "found": true,
+    "lat": 23.7919524,
+    "lon": 120.8613785,
+    "address": "553台灣南投縣水里鄉",
+    "rating": 0,
+    "place_id": "ChIJEUvZx5IqaTQR4Aea9veuLCE"
+  },
+  {
+    "category": "人文史蹟-聚落(漢人)",
+    "name": "麥寮鄉",
+    "found": true,
+    "lat": 23.7485672,
+    "lon": 120.2563528,
+    "address": "638台灣雲林縣麥寮鄉",
+    "rating": 0,
+    "place_id": "ChIJqwPRB1OvbjQRxE6-ez7rCg8"
+  },
+  {
+    "category": "災害與環境",
+    "name": "車籠埔斷層保存園區",
+    "found": true,
+    "lat": 23.7945692,
+    "lon": 120.7115267,
+    "address": "557014台灣南投縣竹山鎮集山路二段345號",
+    "rating": 4.4,
+    "place_id": "ChIJ4XN7jF_NbjQR0_E22tzTorI"
+  }
+]

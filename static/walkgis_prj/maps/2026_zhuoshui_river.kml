@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>濁水溪流域百科全書式探索</name>
+    <description>從上游到出海口的完整流域探索</description>
+
+    <Placemark>
+      <name>合歡山武嶺牌樓</name>
+      <description>自然地景-源頭與山岳 - 546台灣南投縣仁愛鄉仁和路170號</description>
+      <Point>
+        <coordinates>121.275739,24.1371281,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>合歡山主峰步道</name>
+      <description>自然地景-源頭與山岳 - 546台灣南投縣仁愛鄉</description>
+      <Point>
+        <coordinates>121.2716627,24.1336539,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>合歡山東峰</name>
+      <description>自然地景-源頭與山岳 - 546台灣南投縣仁愛鄉合歡山東峰</description>
+      <Point>
+        <coordinates>121.280984,24.1353636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>集集大山</name>
+      <description>自然地景-源頭與山岳 - 552台灣南投縣集集鎮集集大山</description>
+      <Point>
+        <coordinates>120.838294,23.854553,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>瑞龍瀑布園區</name>
+      <description>自然地景-水文/濕地 - 557台灣南投縣竹山鎮坪頂路</description>
+      <Point>
+        <coordinates>120.6888271,23.6646837,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>日月潭</name>
+      <description>自然地景-水文/濕地 - 555台灣南投縣魚池鄉日月潭</description>
+      <Point>
+        <coordinates>120.9159131,23.8573342,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新草嶺潭觀景臺（受災小攤）</name>
+      <description>自然地景-水文/濕地 - 646台灣雲林縣古坑鄉</description>
+      <Point>
+        <coordinates>120.683197,23.5806866,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>濁水溪出海口生態基地</name>
+      <description>自然地景-水文/濕地 - 638台灣雲林縣麥寮鄉</description>
+      <Point>
+        <coordinates>120.244146,23.821301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>雙龍瀑布</name>
+      <description>自然地景-水文/濕地 - 556台灣南投縣信義鄉</description>
+      <Point>
+        <coordinates>120.9504481,23.7767852,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>金門峒斷崖</name>
+      <description>自然地景-地質 - 556台灣南投縣信義鄉金門峒斷崖</description>
+      <Point>
+        <coordinates>120.98931,23.502296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>濁水溪</name>
+      <description>自然地景-地質 - 527台灣彰化縣大城鄉濁水溪</description>
+      <Point>
+        <coordinates>120.2838041,23.8273796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>武界壩</name>
+      <description>水利設施-壩堰 - 546台灣南投縣仁愛鄉武界壩</description>
+      <Point>
+        <coordinates>121.057222,23.915,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>霧社水庫</name>
+      <description>水利設施-壩堰 - 546台灣南投縣仁愛鄉霧社水庫</description>
+      <Point>
+        <coordinates>121.1352393,23.9991367,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>集集攔河堰</name>
+      <description>水利設施-壩堰 - 552台灣南投縣集集鎮林尾里攔河路2號</description>
+      <Point>
+        <coordinates>120.7633291,23.818335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>八堡二圳取水口</name>
+      <description>水利設施-圳路 - 530台灣彰化縣二水鄉</description>
+      <Point>
+        <coordinates>120.6450621,23.7995881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>莿仔埤圳第一放水路</name>
+      <description>水利設施-圳路 - 524台灣彰化縣溪州鄉莿仔埤圳第一放水路</description>
+      <Point>
+        <coordinates>120.5610401,23.8220779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>斗六大圳</name>
+      <description>水利設施-圳路 - 台灣雲林縣斗六大圳</description>
+      <Point>
+        <coordinates>120.6007312,23.7110601,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>石山引水道入口處</name>
+      <description>水利設施-圳路 - 556台灣南投縣信義鄉阿里山公路</description>
+      <Point>
+        <coordinates>120.8459194,23.4732996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>台電大觀發電廠(大觀G/S)</name>
+      <description>水利設施-電廠 - 553台灣南投縣水里鄉明潭巷73號</description>
+      <Point>
+        <coordinates>120.869621,23.854427,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>西螺大橋</name>
+      <description>交通設施-橋樑 - 台灣西螺大橋</description>
+      <Point>
+        <coordinates>120.461058,23.8138002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>溪州大橋(新西螺大橋)</name>
+      <description>交通設施-橋樑 - 648台灣彰化縣西螺鎮縱貫公路附近號</description>
+      <Point>
+        <coordinates>120.4716127,23.7978137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>自強大橋</name>
+      <description>交通設施-橋樑 - 台灣自強大橋</description>
+      <Point>
+        <coordinates>120.398178,23.829617,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中沙大橋</name>
+      <description>交通設施-橋樑 - 524台灣彰化縣溪州鄉中山高速公路</description>
+      <Point>
+        <coordinates>120.4841178,23.8076469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>西濱大橋</name>
+      <description>交通設施-橋樑 - 527台灣彰化縣大城鄉台61線</description>
+      <Point>
+        <coordinates>120.2890934,23.8304674,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>553南投縣水里鄉龍神橋</name>
+      <description>交通設施-橋樑 - 553台灣南投縣水里鄉龍神橋</description>
+      <Point>
+        <coordinates>120.8695967,23.7789311,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>雙龍七彩吊橋</name>
+      <description>交通設施-橋樑 - 556台灣南投縣信義鄉光復巷</description>
+      <Point>
+        <coordinates>120.9498198,23.7806637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>名竹大橋</name>
+      <description>交通設施-橋樑 - 557台灣南投縣竹山鎮名竹大橋</description>
+      <Point>
+        <coordinates>120.7068136,23.816025,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>孫海橋與丹大吊橋遺構</name>
+      <description>交通設施-橋樑 - 台灣南投縣信義鄉556</description>
+      <Point>
+        <coordinates>121.0117452,23.7871899,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>北港溪糯米石橋</name>
+      <description>交通設施-橋樑 - 544台灣南投縣國姓鄉國姓路</description>
+      <Point>
+        <coordinates>120.9065125,24.0585088,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>集集車站</name>
+      <description>交通設施-車站 - 552台灣南投縣集集鎮</description>
+      <Point>
+        <coordinates>120.78489,23.826451,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>林先生廟</name>
+      <description>人文史蹟-古蹟/建築 - 530台灣彰化縣二水鄉員集路二段227號</description>
+      <Point>
+        <coordinates>120.6452979,23.7992993,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>竹山社寮敬聖亭（縣定古蹟）</name>
+      <description>人文史蹟-古蹟/建築 - 557台灣南投縣竹山鎮集山路一段1738號</description>
+      <Point>
+        <coordinates>120.722177,23.8143469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>振文書院(文祠廟)</name>
+      <description>人文史蹟-古蹟/建築 - 648台灣雲林縣西螺鎮興農西路6號</description>
+      <Point>
+        <coordinates>120.4644577,23.7945403,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>明新書院</name>
+      <description>人文史蹟-古蹟/建築 - 552台灣南投縣集集鎮東昌巷4號</description>
+      <Point>
+        <coordinates>120.7995314,23.8275444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>花蓮縣八通關古道</name>
+      <description>人文史蹟-古蹟/建築 - 台灣花蓮縣八通關古道</description>
+      <Point>
+        <coordinates>121.2479617,23.3237454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>詔安客家文化館</name>
+      <description>人文史蹟-古蹟/建築 - 637台灣雲林縣崙背鄉東明村民生路28-8號</description>
+      <Point>
+        <coordinates>120.355071,23.763744,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>【西螺福興宮 西螺媽祖太平媽】媽祖文化祭｜丙午年網路點燈｜安太歲｜線上喜點福燈｜2026點燈服務</name>
+      <description>人文史蹟-宗教信仰 - 648台灣雲林縣西螺鎮延平路180號</description>
+      <Point>
+        <coordinates>120.4605261,23.8015652,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>縣定古蹟西螺廣福宮 西螺媽老大媽廟</name>
+      <description>人文史蹟-宗教信仰 - 648台灣雲林縣西螺鎮新街路32號</description>
+      <Point>
+        <coordinates>120.4647035,23.7971558,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>麥寮拱範宮</name>
+      <description>人文史蹟-宗教信仰 - 638台灣雲林縣麥寮鄉中正路3號</description>
+      <Point>
+        <coordinates>120.2555916,23.7482552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>竹山紫南宮</name>
+      <description>人文史蹟-宗教信仰 - 557台灣南投縣竹山鎮大公街40號</description>
+      <Point>
+        <coordinates>120.7225793,23.8170767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>武界部落</name>
+      <description>人文史蹟-聚落(原民) - 546台灣南投縣仁愛鄉界山巷4號</description>
+      <Point>
+        <coordinates>121.0442446,23.9155571,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>萬豐村曲冰部落</name>
+      <description>人文史蹟-聚落(原民) - 546台灣南投縣仁愛鄉</description>
+      <Point>
+        <coordinates>121.0767669,23.9460544,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>過坑山</name>
+      <description>人文史蹟-聚落(原民) - 555台灣南投縣魚池鄉過坑山</description>
+      <Point>
+        <coordinates>120.979574,23.884353,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>雙龍部落伊希岸農場露營區</name>
+      <description>人文史蹟-聚落(原民) - 556台灣南投縣信義鄉</description>
+      <Point>
+        <coordinates>120.9473155,23.7645348,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>北斗鎮</name>
+      <description>人文史蹟-聚落(漢人) - 521台灣彰化縣北斗鎮</description>
+      <Point>
+        <coordinates>120.5336665,23.869208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>竹山鎮</name>
+      <description>人文史蹟-聚落(漢人) - 557台灣南投縣竹山鎮</description>
+      <Point>
+        <coordinates>120.6890055,23.712201,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>水里鄉</name>
+      <description>人文史蹟-聚落(漢人) - 553台灣南投縣水里鄉</description>
+      <Point>
+        <coordinates>120.8613785,23.7919524,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>麥寮鄉</name>
+      <description>人文史蹟-聚落(漢人) - 638台灣雲林縣麥寮鄉</description>
+      <Point>
+        <coordinates>120.2563528,23.7485672,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>車籠埔斷層保存園區</name>
+      <description>災害與環境 - 557014台灣南投縣竹山鎮集山路二段345號</description>
+      <Point>
+        <coordinates>120.7115267,23.7945692,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
