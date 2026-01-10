@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>農田水利署中區圳路地圖</name>
+    <description>彰化、雲林、南投管理處重要圳路設施</description>
+
+    <Placemark>
+      <name>八堡一圳</name>
+      <description>水利設施-彰化管理處 - 510台灣彰化縣員林市惠明街53巷26弄7號</description>
+      <Point>
+        <coordinates>120.5711887,23.9499528,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>農田水利署彰化管理處 用水管制中心</name>
+      <description>水利設施-彰化管理處 - 530台灣彰化縣二水鄉員集路二段227號</description>
+      <Point>
+        <coordinates>120.644819,23.7991988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>葫蘆墩圳舊進水口</name>
+      <description>水利設施-彰化管理處 - 420台灣臺中市豐原區萬順二街</description>
+      <Point>
+        <coordinates>120.7448105,24.2789675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>500彰化縣彰化市河濱路</name>
+      <description>水利設施-彰化管理處 - 500台灣彰化縣彰化市河濱路</description>
+      <Point>
+        <coordinates>120.6125935,24.0852657,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>義和共同制水埧管理站</name>
+      <description>水利設施-彰化管理處 - 號, No. 32環河路一段溪湖鎮彰化縣台灣 514</description>
+      <Point>
+        <coordinates>120.4719921,23.9270752,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>斗六大圳進水口</name>
+      <description>水利設施-雲林管理處 - 號 堤防, No. 1新光路林內鄉雲林縣台灣 643</description>
+      <Point>
+        <coordinates>120.6444247,23.7704728,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>水圳綠道起點 (雲林農田水利文物館)</name>
+      <description>水利設施-雲林管理處 - 雲林縣林內鄉三星路9-2號 (農田水利文物館)</description>
+      <Point>
+        <coordinates>120.6155,23.7595,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>林內二號進水口</name>
+      <description>水利設施-雲林管理處 - 643台灣雲林縣林內鄉林內二號堤防</description>
+      <Point>
+        <coordinates>120.6161865,23.7829556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>林內分水工</name>
+      <description>水利設施-雲林管理處 - 八卦 池, 林內鄉雲林縣台灣 643</description>
+      <Point>
+        <coordinates>120.6137271,23.7801608,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>後庄埤親水公園</name>
+      <description>水利設施-雲林管理處 - 640台灣雲林縣斗六市大學路三段</description>
+      <Point>
+        <coordinates>120.524815,23.6941231,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新頂埤頭線大排</name>
+      <description>水利設施-雲林管理處 - 648台灣雲林縣西螺鎮新頂埤頭線大排</description>
+      <Point>
+        <coordinates>120.475997,23.7804772,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>嘉南大圳濁幹線調蓄池</name>
+      <description>水利設施-雲林管理處 - 632台灣雲林縣虎尾鎮工專路281號</description>
+      <Point>
+        <coordinates>120.4217521,23.7082724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>北圳步道</name>
+      <description>水利設施-南投管理處 - 544台灣南投縣國姓鄉北圳巷28-1號</description>
+      <Point>
+        <coordinates>120.9229141,24.0623798,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>阿罩霧圳幹線</name>
+      <description>水利設施-南投管理處 - 413台灣臺中市霧峰區阿罩霧圳幹線</description>
+      <Point>
+        <coordinates>120.700924,24.0114824,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>鳳雛生態步道</name>
+      <description>水利設施-南投管理處 - 545台灣南投縣埔里鎮投72鄉道</description>
+      <Point>
+        <coordinates>120.972365,23.9408611,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>農業部農田水利署南投管理處土城工作站</name>
+      <description>水利設施-南投管理處 - 542台灣南投縣草屯鎮中正路128號</description>
+      <Point>
+        <coordinates>120.7490451,23.9841342,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>頭社水庫</name>
+      <description>水利設施-南投管理處 - 555台灣南投縣魚池鄉頭社水庫</description>
+      <Point>
+        <coordinates>120.8967211,23.8363861,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>頭社水庫生態步道</name>
+      <description>水利設施-南投管理處 - 555台灣南投縣魚池鄉頭社村</description>
+      <Point>
+        <coordinates>120.8984715,23.8387831,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

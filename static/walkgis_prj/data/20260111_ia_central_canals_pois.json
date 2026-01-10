@@ -1,0 +1,200 @@
+[
+  {
+    "category": "水利設施-彰化管理處",
+    "name": "八堡一圳",
+    "query": "八堡一圳 員林市",
+    "found": true,
+    "lat": 23.9499528,
+    "lon": 120.5711887,
+    "address": "510台灣彰化縣員林市惠明街53巷26弄7號",
+    "rating": 4.5,
+    "place_id": "ChIJe_ArEQA3aTQRnTf8VqLvlH4"
+  },
+  {
+    "category": "水利設施-彰化管理處",
+    "name": "農田水利署彰化管理處 用水管制中心",
+    "query": "彰化用水管制中心",
+    "found": true,
+    "lat": 23.7991988,
+    "lon": 120.644819,
+    "address": "530台灣彰化縣二水鄉員集路二段227號",
+    "rating": 4,
+    "place_id": "ChIJf3zrHO3MbjQRrT7xnDiO5k4"
+  },
+  {
+    "category": "水利設施-彰化管理處",
+    "name": "葫蘆墩圳舊進水口",
+    "query": "同源圳舊進水口",
+    "found": true,
+    "lat": 24.2789675,
+    "lon": 120.7448105,
+    "address": "420台灣臺中市豐原區萬順二街",
+    "rating": 4.3,
+    "place_id": "ChIJZ4izogEbaTQRjUrAvaNyoLk"
+  },
+  {
+    "category": "水利設施-彰化管理處",
+    "name": "500彰化縣彰化市河濱路",
+    "query": "東西三圳 員林 河濱路",
+    "found": true,
+    "lat": 24.0852657,
+    "lon": 120.6125935,
+    "address": "500台灣彰化縣彰化市河濱路",
+    "rating": 0,
+    "place_id": "ChIJcyT3IlA5aTQRwYrSgg-JrKk"
+  },
+  {
+    "category": "水利設施-彰化管理處",
+    "name": "義和共同制水埧管理站",
+    "query": "義和制水閘",
+    "found": true,
+    "lat": 23.9270752,
+    "lon": 120.4719921,
+    "address": "號, No. 32環河路一段溪湖鎮彰化縣台灣 514",
+    "rating": 4.5,
+    "place_id": "ChIJf1FDFLdLaTQRrUZgz9KDOJI"
+  },
+  {
+    "category": "水利設施-雲林管理處",
+    "name": "斗六大圳進水口",
+    "query": "斗六大圳進水口",
+    "found": true,
+    "lat": 23.7704728,
+    "lon": 120.6444247,
+    "address": "號 堤防, No. 1新光路林內鄉雲林縣台灣 643",
+    "rating": 3,
+    "place_id": "ChIJwU2mGELMbjQR2R2hFfCcTBY"
+  },
+  {
+    "category": "水利設施-雲林管理處",
+    "name": "水圳綠道起點 (雲林農田水利文物館)",
+    "query": "水圳綠道",
+    "found": true,
+    "lat": 23.7595,
+    "lon": 120.6155,
+    "address": "雲林縣林內鄉三星路9-2號 (農田水利文物館)",
+    "rating": 4.5,
+    "place_id": "corrected_manual"
+  },
+  {
+    "category": "水利設施-雲林管理處",
+    "name": "林內二號進水口",
+    "query": "林內2號進水口",
+    "found": true,
+    "lat": 23.7829556,
+    "lon": 120.6161865,
+    "address": "643台灣雲林縣林內鄉林內二號堤防",
+    "rating": 4.3,
+    "place_id": "ChIJ90MHR4bLbjQRogAWi5qwkP8"
+  },
+  {
+    "category": "水利設施-雲林管理處",
+    "name": "林內分水工",
+    "query": "林內分水工 八卦池",
+    "found": true,
+    "lat": 23.7801608,
+    "lon": 120.6137271,
+    "address": "八卦 池, 林內鄉雲林縣台灣 643",
+    "rating": 3.5,
+    "place_id": "ChIJxzPRMY_LbjQR_0hBNVzsXbE"
+  },
+  {
+    "category": "水利設施-雲林管理處",
+    "name": "後庄埤親水公園",
+    "query": "後庄子埤",
+    "found": true,
+    "lat": 23.6941231,
+    "lon": 120.524815,
+    "address": "640台灣雲林縣斗六市大學路三段",
+    "rating": 4.1,
+    "place_id": "ChIJBZaUHQC3bjQRRfJIMMZwNRk"
+  },
+  {
+    "category": "水利設施-雲林管理處",
+    "name": "新頂埤頭線大排",
+    "query": "新頂埤頭",
+    "found": true,
+    "lat": 23.7804772,
+    "lon": 120.475997,
+    "address": "648台灣雲林縣西螺鎮新頂埤頭線大排",
+    "rating": 3.3,
+    "place_id": "ChIJKZbui9q1bjQRwhh-7Uj8Wi8"
+  },
+  {
+    "category": "水利設施-雲林管理處",
+    "name": "嘉南大圳濁幹線調蓄池",
+    "query": "濁幹線調蓄池",
+    "found": true,
+    "lat": 23.7082724,
+    "lon": 120.4217521,
+    "address": "632台灣雲林縣虎尾鎮工專路281號",
+    "rating": 0,
+    "place_id": "ChIJEXbWL7uxbjQR4lTPyhbE3wA"
+  },
+  {
+    "category": "水利設施-南投管理處",
+    "name": "北圳步道",
+    "query": "北圳步道",
+    "found": true,
+    "lat": 24.0623798,
+    "lon": 120.9229141,
+    "address": "544台灣南投縣國姓鄉北圳巷28-1號",
+    "rating": 3.9,
+    "place_id": "ChIJxVyKlAvfaDQRk9iJYEi_yzY"
+  },
+  {
+    "category": "水利設施-南投管理處",
+    "name": "阿罩霧圳幹線",
+    "query": "阿罩霧一圳 水車",
+    "found": true,
+    "lat": 24.0114824,
+    "lon": 120.700924,
+    "address": "413台灣臺中市霧峰區阿罩霧圳幹線",
+    "rating": 4.4,
+    "place_id": "ChIJ54GhN8Y6aTQRJtW3nohVIOM"
+  },
+  {
+    "category": "水利設施-南投管理處",
+    "name": "鳳雛生態步道",
+    "query": "埔里南烘圳鳳雛公園",
+    "found": true,
+    "lat": 23.9408611,
+    "lon": 120.972365,
+    "address": "545台灣南投縣埔里鎮投72鄉道",
+    "rating": 4.1,
+    "place_id": "ChIJHX_ZJu7ZaDQRuy0tavEqPy0"
+  },
+  {
+    "category": "水利設施-南投管理處",
+    "name": "農業部農田水利署南投管理處土城工作站",
+    "query": "農田水利署南投管理處土城工作站",
+    "found": true,
+    "lat": 23.9841342,
+    "lon": 120.7490451,
+    "address": "542台灣南投縣草屯鎮中正路128號",
+    "rating": 4.7,
+    "place_id": "ChIJR36uoHslaTQRrnK7Oopsdsg"
+  },
+  {
+    "category": "水利設施-南投管理處",
+    "name": "頭社水庫",
+    "query": "頭社水庫",
+    "found": true,
+    "lat": 23.8363861,
+    "lon": 120.8967211,
+    "address": "555台灣南投縣魚池鄉頭社水庫",
+    "rating": 4.3,
+    "place_id": "ChIJOfdsuIrVaDQRzoMw46RoLTU"
+  },
+  {
+    "category": "水利設施-南投管理處",
+    "name": "頭社水庫生態步道",
+    "query": "頭社水庫 山龍坑吊橋",
+    "found": true,
+    "lat": 23.8387831,
+    "lon": 120.8984715,
+    "address": "555台灣南投縣魚池鄉頭社村",
+    "rating": 4.3,
+    "place_id": "ChIJgyyOHvXVaDQRoGM2r74ANJw"
+  }
+]
