@@ -1,0 +1,2558 @@
+[
+  {
+    "name": "二水車站",
+    "description": "",
+    "geometry": "POINT(120.618048299606 23.8134290585727)",
+    "type": "POINT"
+  },
+  {
+    "name": "源泉車站",
+    "description": "",
+    "geometry": "POINT(120.64204469938 23.7987298962459)",
+    "type": "POINT"
+  },
+  {
+    "name": "二水自行車道",
+    "description": "",
+    "geometry": "POINT(120.61740859913 23.8146146837768)",
+    "type": "POINT"
+  },
+  {
+    "name": "二水登廟步道",
+    "description": "",
+    "geometry": "POINT(120.624238099174 23.825508256511)",
+    "type": "POINT"
+  },
+  {
+    "name": "豐柏廣場",
+    "description": "",
+    "geometry": "POINT(120.619205199399 23.8234263217891)",
+    "type": "POINT"
+  },
+  {
+    "name": "龍仔頭山",
+    "description": "",
+    "geometry": "POINT(120.666063799812 23.8076309227158)",
+    "type": "POINT"
+  },
+  {
+    "name": "二水台灣獼猴保護區",
+    "description": "",
+    "geometry": "POINT(120.670523599362 23.8128170674582)",
+    "type": "POINT"
+  },
+  {
+    "name": "林先生廟",
+    "description": "",
+    "geometry": "POINT(120.644947099692 23.7994586522892)",
+    "type": "POINT"
+  },
+  {
+    "name": "大丘園休閒農場",
+    "description": "",
+    "geometry": "POINT(120.640445699598 23.8036971861184)",
+    "type": "POINT"
+  },
+  {
+    "name": "二八彎農園",
+    "description": "",
+    "geometry": "POINT(120.639563899754 23.8152210374217)",
+    "type": "POINT"
+  },
+  {
+    "name": "水車農園",
+    "description": "",
+    "geometry": "POINT(120.653114999466 23.799643891197)",
+    "type": "POINT"
+  },
+  {
+    "name": "鼻子頭休閒農園",
+    "description": "",
+    "geometry": "POINT(120.615909899771 23.8102163493197)",
+    "type": "POINT"
+  },
+  {
+    "name": "蓮荷果休閒農園",
+    "description": "",
+    "geometry": "POINT(120.632640199336 23.7931956729195)",
+    "type": "POINT"
+  },
+  {
+    "name": "螺溪石藝館",
+    "description": "",
+    "geometry": "POINT(120.616751699008 23.8102570178096)",
+    "type": "POINT"
+  },
+  {
+    "name": "大義崙天后宮",
+    "description": "",
+    "geometry": "POINT(120.398874746094 23.7865364232633)",
+    "type": "POINT"
+  },
+  {
+    "name": "張廖宗祠崇遠堂",
+    "description": "",
+    "geometry": "POINT(120.423505056475 23.7771237282127)",
+    "type": "POINT"
+  },
+  {
+    "name": "國興宮",
+    "description": "",
+    "geometry": "POINT(120.41179101324 23.7709823849104)",
+    "type": "POINT"
+  },
+  {
+    "name": "定安宮",
+    "description": "",
+    "geometry": "POINT(120.427398730672 23.7907743433316)",
+    "type": "POINT"
+  },
+  {
+    "name": "彌陀精舍",
+    "description": "",
+    "geometry": "POINT(120.399989896663 23.7830469885344)",
+    "type": "POINT"
+  },
+  {
+    "name": "二崙自然步道",
+    "description": "",
+    "geometry": "POINT(120.394214094379 23.8160494246372)",
+    "type": "POINT"
+  },
+  {
+    "name": "二崙故事屋",
+    "description": "",
+    "geometry": "POINT(120.413231624882 23.7706225844364)",
+    "type": "POINT"
+  },
+  {
+    "name": "興山公園",
+    "description": "",
+    "geometry": "POINT(120.317089398517 23.831513315277)",
+    "type": "POINT"
+  },
+  {
+    "name": "鷺鷥生態景觀公園",
+    "description": "",
+    "geometry": "POINT(120.291467598737 23.8698755414348)",
+    "type": "POINT"
+  },
+  {
+    "name": "龍鳳瀑布",
+    "description": "",
+    "geometry": "POINT(120.811266884025 23.9406952672472)",
+    "type": "POINT"
+  },
+  {
+    "name": "仙峰日月洞",
+    "description": "",
+    "geometry": "POINT(120.73188421087 23.8824446291869)",
+    "type": "POINT"
+  },
+  {
+    "name": "仙洞坪棋盤石",
+    "description": "",
+    "geometry": "POINT(120.799342341143 23.9019077482948)",
+    "type": "POINT"
+  },
+  {
+    "name": "粗坑大峭壁",
+    "description": "",
+    "geometry": "POINT(120.832583750521 23.8922257521093)",
+    "type": "POINT"
+  },
+  {
+    "name": "石龍宮",
+    "description": "",
+    "geometry": "POINT(120.738714110911 23.9239434108821)",
+    "type": "POINT"
+  },
+  {
+    "name": "金龍山法華寺",
+    "description": "",
+    "geometry": "POINT(120.806935322398 23.8855235706645)",
+    "type": "POINT"
+  },
+  {
+    "name": "白鶴嶺天恩宮",
+    "description": "",
+    "geometry": "POINT(120.802514979634 23.883879156331)",
+    "type": "POINT"
+  },
+  {
+    "name": "太魯閣國家公園",
+    "description": "",
+    "geometry": "POINT(121.287095379054 24.1623699949094)",
+    "type": "POINT"
+  },
+  {
+    "name": "合歡山國家森林遊樂區",
+    "description": "",
+    "geometry": "POINT(121.281709340749 24.1832077892845)",
+    "type": "POINT"
+  },
+  {
+    "name": "奧萬大國家森林遊樂區",
+    "description": "",
+    "geometry": "POINT(121.178720224209 23.9649156833531)",
+    "type": "POINT"
+  },
+  {
+    "name": "翠峰風景特定區",
+    "description": "",
+    "geometry": "POINT(121.194780355492 24.1036467622158)",
+    "type": "POINT"
+  },
+  {
+    "name": "鳶峰觀景台",
+    "description": "",
+    "geometry": "POINT(121.237410868758 24.1179830738908)",
+    "type": "POINT"
+  },
+  {
+    "name": "霧社水庫",
+    "description": "",
+    "geometry": "POINT(121.135326433232 24.0009890857554)",
+    "type": "POINT"
+  },
+  {
+    "name": "廬山溫泉",
+    "description": "",
+    "geometry": "POINT(121.186260113565 24.0234794884045)",
+    "type": "POINT"
+  },
+  {
+    "name": "清境農場",
+    "description": "",
+    "geometry": "POINT(121.162790831177 24.0593047406324)",
+    "type": "POINT"
+  },
+  {
+    "name": "台大梅峰農場",
+    "description": "",
+    "geometry": "POINT(121.174326284672 24.0897681964565)",
+    "type": "POINT"
+  },
+  {
+    "name": "興大惠蓀林場",
+    "description": "",
+    "geometry": "POINT(121.03373872679 24.0912853665819)",
+    "type": "POINT"
+  },
+  {
+    "name": "泰雅渡假村",
+    "description": "",
+    "geometry": "POINT(120.946841539727 24.0690867108279)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投縣自然史教育館",
+    "description": "",
+    "geometry": "POINT(121.134094738629 24.0213186071095)",
+    "type": "POINT"
+  },
+  {
+    "name": "霧社事件紀念公園",
+    "description": "",
+    "geometry": "POINT(121.132592993646 24.0206348519668)",
+    "type": "POINT"
+  },
+  {
+    "name": "撩溪",
+    "description": "",
+    "geometry": "POINT(120.460677898756 23.8130320813334)",
+    "type": "POINT"
+  },
+  {
+    "name": "二水跑水節",
+    "description": "",
+    "geometry": "POINT(120.647458999076 23.7998272428857)",
+    "type": "POINT"
+  },
+  {
+    "name": "溪州黑泥季",
+    "description": "",
+    "geometry": "POINT(120.528104399228 23.8305482426479)",
+    "type": "POINT"
+  },
+  {
+    "name": "濁溪搶水文化節",
+    "description": "",
+    "geometry": "POINT(120.593843199215 23.7691335331801)",
+    "type": "POINT"
+  },
+  {
+    "name": "明潭水庫",
+    "description": "",
+    "geometry": "POINT(120.867815548997 23.8366738226827)",
+    "type": "POINT"
+  },
+  {
+    "name": "寧靜谷",
+    "description": "",
+    "geometry": "POINT(120.878855250792 23.8193395852816)",
+    "type": "POINT"
+  },
+  {
+    "name": "仙鄉瀑布",
+    "description": "",
+    "geometry": "POINT(120.873104539492 23.8104103497234)",
+    "type": "POINT"
+  },
+  {
+    "name": "石觀音",
+    "description": "",
+    "geometry": "POINT(120.875237677631 23.8793535228318)",
+    "type": "POINT"
+  },
+  {
+    "name": "水里蛇窯",
+    "description": "",
+    "geometry": "POINT(120.864628081485 23.801735016126)",
+    "type": "POINT"
+  },
+  {
+    "name": "車埕雙土地公廟",
+    "description": "",
+    "geometry": "POINT(120.861890526277 23.8273079559865)",
+    "type": "POINT"
+  },
+  {
+    "name": "車埕休閒園區",
+    "description": "",
+    "geometry": "POINT(120.861010611454 23.849770130891)",
+    "type": "POINT"
+  },
+  {
+    "name": "水里溪親水區及自行車道",
+    "description": "",
+    "geometry": "POINT(120.848221829505 23.8138880048295)",
+    "type": "POINT"
+  },
+  {
+    "name": "阿本農場櫻花祕境",
+    "description": "",
+    "geometry": "POINT(120.871966611061 23.746765042662)",
+    "type": "POINT"
+  },
+  {
+    "name": "雨社山聚落",
+    "description": "",
+    "geometry": "POINT(120.865718696894 23.8329292757779)",
+    "type": "POINT"
+  },
+  {
+    "name": "益則坑",
+    "description": "",
+    "geometry": "POINT(120.923758169801 23.8120531457866)",
+    "type": "POINT"
+  },
+  {
+    "name": "建安堂",
+    "description": "",
+    "geometry": "POINT(120.871104891643 23.8950071126438)",
+    "type": "POINT"
+  },
+  {
+    "name": "水里虎爺廟",
+    "description": "",
+    "geometry": "POINT(120.85137158233 23.8164844144228)",
+    "type": "POINT"
+  },
+  {
+    "name": "水里鵲橋",
+    "description": "",
+    "geometry": "POINT(120.856879855313 23.7349480991304)",
+    "type": "POINT"
+  },
+  {
+    "name": "登瀛書院",
+    "description": "",
+    "geometry": "POINT(120.667300099395 23.9891546600758)",
+    "type": "POINT"
+  },
+  {
+    "name": "明新書院",
+    "description": "",
+    "geometry": "POINT(120.79963060006 23.8277529615707)",
+    "type": "POINT"
+  },
+  {
+    "name": "林鳳池舉人墓",
+    "description": "",
+    "geometry": "POINT(120.734690499763 23.7657762211326)",
+    "type": "POINT"
+  },
+  {
+    "name": "八通關古道",
+    "description": "",
+    "geometry": "POINT(120.671796099286 23.7622077182672)",
+    "type": "POINT"
+  },
+  {
+    "name": "楠仔腳蔓社學堂遺蹟",
+    "description": "",
+    "geometry": "POINT(120.884185499599 23.6182866968645)",
+    "type": "POINT"
+  },
+  {
+    "name": "草屯燉倫堂",
+    "description": "",
+    "geometry": "POINT(120.654833799469 24.0012847669694)",
+    "type": "POINT"
+  },
+  {
+    "name": "國姓鄉北港溪石橋",
+    "description": "",
+    "geometry": "POINT(120.906501800083 24.0587441459131)",
+    "type": "POINT"
+  },
+  {
+    "name": "祭祀公業張琯溪公宗祠",
+    "description": "",
+    "geometry": "POINT(120.688147199771 23.9067150375466)",
+    "type": "POINT"
+  },
+  {
+    "name": "旗杆厝",
+    "description": "",
+    "geometry": "POINT(120.685604799174 23.9107413306877)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投市農會",
+    "description": "",
+    "geometry": "POINT(120.686934599628 23.9084349601577)",
+    "type": "POINT"
+  },
+  {
+    "name": "武德殿及其附屬建築群",
+    "description": "",
+    "geometry": "POINT(120.684271299759 23.9097005475438)",
+    "type": "POINT"
+  },
+  {
+    "name": "崇善堂",
+    "description": "",
+    "geometry": "POINT(120.67485009987 23.961655344618)",
+    "type": "POINT"
+  },
+  {
+    "name": "敷榮堂",
+    "description": "",
+    "geometry": "POINT(120.664990799101 23.9963108172303)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投縣陳姓宗親會西水祠",
+    "description": "",
+    "geometry": "POINT(120.694606798996 23.8770904813864)",
+    "type": "POINT"
+  },
+  {
+    "name": "賴家古厝",
+    "description": "",
+    "geometry": "POINT(120.862191300185 23.7843300439322)",
+    "type": "POINT"
+  },
+  {
+    "name": "陳家古厝",
+    "description": "",
+    "geometry": "POINT(120.73187119969 23.8218055133099)",
+    "type": "POINT"
+  },
+  {
+    "name": "草屯國民小學禮堂",
+    "description": "",
+    "geometry": "POINT(120.687461399187 23.9828867334531)",
+    "type": "POINT"
+  },
+  {
+    "name": "碧峰國民小學禮堂",
+    "description": "",
+    "geometry": "POINT(120.66623209958 23.9697239908546)",
+    "type": "POINT"
+  },
+  {
+    "name": "埔里黃宅",
+    "description": "",
+    "geometry": "POINT(120.938758900346 23.9767322913103)",
+    "type": "POINT"
+  },
+  {
+    "name": "水蛙窟考古遺址",
+    "description": "",
+    "geometry": "POINT(120.952652099476 24.0036348592037)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投市中山公園「聚芳館」",
+    "description": "",
+    "geometry": "POINT(120.688460999885 23.9113676125366)",
+    "type": "POINT"
+  },
+  {
+    "name": "新庄國小禮堂",
+    "description": "",
+    "geometry": "POINT(120.667100099344 23.9955283650348)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集火車站",
+    "description": "",
+    "geometry": "POINT(120.784900699175 23.8268241715355)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集林尾陳宅永福堂",
+    "description": "",
+    "geometry": "POINT(120.770212699472 23.8238108418281)",
+    "type": "POINT"
+  },
+  {
+    "name": "振昌興業股份有限公司建築群",
+    "description": "",
+    "geometry": "POINT(120.865494399931 23.8350351986549)",
+    "type": "POINT"
+  },
+  {
+    "name": "甘泉井及石頭公",
+    "description": "",
+    "geometry": "POINT(120.727378799126 23.8056429659968)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹山隆恩圳隧渠",
+    "description": "",
+    "geometry": "POINT(120.762163999938 23.8163850062758)",
+    "type": "POINT"
+  },
+  {
+    "name": "鹿谷聖蹟亭",
+    "description": "",
+    "geometry": "POINT(120.748697499732 23.7517301910534)",
+    "type": "POINT"
+  },
+  {
+    "name": "新庄國小日治宿舍",
+    "description": "",
+    "geometry": "POINT(120.668004199461 23.9951692630853)",
+    "type": "POINT"
+  },
+  {
+    "name": "國姓鄉南港村–林屋伙房",
+    "description": "",
+    "geometry": "POINT(120.865428699888 23.9445588632023)",
+    "type": "POINT"
+  },
+  {
+    "name": "添興窯及其附屬設施",
+    "description": "",
+    "geometry": "POINT(120.756032099947 23.8327232825357)",
+    "type": "POINT"
+  },
+  {
+    "name": "大馬璘考古遺址",
+    "description": "",
+    "geometry": "POINT(120.945173199471 23.9693548011619)",
+    "type": "POINT"
+  },
+  {
+    "name": "中興新村文化景觀",
+    "description": "",
+    "geometry": "POINT(120.693829699713 23.9466477615032)",
+    "type": "POINT"
+  },
+  {
+    "name": "行政院農業委員會農糧署",
+    "description": "",
+    "geometry": "POINT(120.687451499158 23.9554981175827)",
+    "type": "POINT"
+  },
+  {
+    "name": "經濟部中部辦公室",
+    "description": "",
+    "geometry": "POINT(120.686550399187 23.9581011128142)",
+    "type": "POINT"
+  },
+  {
+    "name": "臺灣銀行中興新村分行",
+    "description": "",
+    "geometry": "POINT(120.688537798972 23.9561585512988)",
+    "type": "POINT"
+  },
+  {
+    "name": "行政院農業委員會水土保持局",
+    "description": "",
+    "geometry": "POINT(120.6873373995 23.9558599427427)",
+    "type": "POINT"
+  },
+  {
+    "name": "中興會堂",
+    "description": "",
+    "geometry": "POINT(120.696156698988 23.9495572531387)",
+    "type": "POINT"
+  },
+  {
+    "name": "臺灣新生報中興新村辦事處",
+    "description": "",
+    "geometry": "POINT(120.693719899285 23.9502463878515)",
+    "type": "POINT"
+  },
+  {
+    "name": "臺灣省政資料館",
+    "description": "",
+    "geometry": "POINT(120.685835399596 23.9558980425864)",
+    "type": "POINT"
+  },
+  {
+    "name": "中華電信中興服務中心",
+    "description": "",
+    "geometry": "POINT(120.688293399586 23.9565638338201)",
+    "type": "POINT"
+  },
+  {
+    "name": "國家文官學院中區培訓中心中正堂",
+    "description": "",
+    "geometry": "POINT(120.701651099149 23.9382163853873)",
+    "type": "POINT"
+  },
+  {
+    "name": "行政院人事行政局地方人事行政處",
+    "description": "",
+    "geometry": "POINT(120.686412799415 23.9586678325192)",
+    "type": "POINT"
+  },
+  {
+    "name": "國立中興大學實驗林管理處埔里連絡站",
+    "description": "",
+    "geometry": "POINT(120.967505399805 23.958694030813)",
+    "type": "POINT"
+  },
+  {
+    "name": "行政院農業委員會茶業改良場魚池分場",
+    "description": "",
+    "geometry": "POINT(120.913590700046 23.8764314950448)",
+    "type": "POINT"
+  },
+  {
+    "name": "社寮穀倉",
+    "description": "",
+    "geometry": "POINT(120.722134099728 23.8146415855109)",
+    "type": "POINT"
+  },
+  {
+    "name": "臺灣省政府",
+    "description": "",
+    "geometry": "POINT(120.687382398975 23.9587188311889)",
+    "type": "POINT"
+  },
+  {
+    "name": "林圮公墓",
+    "description": "",
+    "geometry": "POINT(120.67974759967 23.7562009659583)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集館",
+    "description": "",
+    "geometry": "POINT(120.781181299663 23.8281735514192)",
+    "type": "POINT"
+  },
+  {
+    "name": "林淵石頭厝",
+    "description": "",
+    "geometry": "POINT(120.977387500329 23.9004229254117)",
+    "type": "POINT"
+  },
+  {
+    "name": "縣定古蹟永濟義渡碑(名間鄉)",
+    "description": "",
+    "geometry": "POINT(120.711893199126 23.8310426078058)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集樟腦出張所建築群",
+    "description": "",
+    "geometry": "POINT(120.787055099356 23.8289418095)",
+    "type": "POINT"
+  },
+  {
+    "name": "縣定古蹟永濟義渡碑(竹山鎮)",
+    "description": "",
+    "geometry": "POINT(120.722841699921 23.8175118814537)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹山郡役所作戰指揮所(防空壕)",
+    "description": "",
+    "geometry": "POINT(120.682148299557 23.7575651378909)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹山社寮敬聖亭",
+    "description": "",
+    "geometry": "POINT(120.72219849995 23.8146121382043)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹山連興宮",
+    "description": "",
+    "geometry": "POINT(120.68513999984 23.7562312813349)",
+    "type": "POINT"
+  },
+  {
+    "name": "月眉厝龍德廟",
+    "description": "",
+    "geometry": "POINT(120.650326299381 23.9714357939477)",
+    "type": "POINT"
+  },
+  {
+    "name": "藍田書院\n「奏凱崇文」匾",
+    "description": "",
+    "geometry": "POINT(120.684439899227 23.9075545051707)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹山神社鳥居及竹山神社附屬設施",
+    "description": "",
+    "geometry": "POINT(120.674683499676 23.7549988013707)",
+    "type": "POINT"
+  },
+  {
+    "name": "台中菸葉場竹山輔導站",
+    "description": "",
+    "geometry": "POINT(120.684939199866 23.7590972098847)",
+    "type": "POINT"
+  },
+  {
+    "name": "交通部交通事業管理小組",
+    "description": "",
+    "geometry": "POINT(120.686509499543 23.9576539950114)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投稅務出張所",
+    "description": "",
+    "geometry": "POINT(120.684295199557 23.910980523081)",
+    "type": "POINT"
+  },
+  {
+    "name": "曲冰考古遺址",
+    "description": "",
+    "geometry": "POINT(121.080421799837 23.9635694304773)",
+    "type": "POINT"
+  },
+  {
+    "name": "霧社事件‧馬赫坡古戰場",
+    "description": "",
+    "geometry": "POINT(121.188552099846 24.0162094187744)",
+    "type": "POINT"
+  },
+  {
+    "name": "頭社古日潭浮田文化景觀",
+    "description": "",
+    "geometry": "POINT(120.90308460025 23.8258590136378)",
+    "type": "POINT"
+  },
+  {
+    "name": "藍田雅舍",
+    "description": "",
+    "geometry": "POINT(120.683640299193 23.910228646541)",
+    "type": "POINT"
+  },
+  {
+    "name": "陳善述老宅",
+    "description": "",
+    "geometry": "POINT(120.732322699539 23.8130779391044)",
+    "type": "POINT"
+  },
+  {
+    "name": "埔里南村義民祠",
+    "description": "",
+    "geometry": "POINT(120.944582999813 23.9642339580167)",
+    "type": "POINT"
+  },
+  {
+    "name": "草屯朝陽宮\n朝陽宮虎爺石雕香爐",
+    "description": "",
+    "geometry": "POINT(120.664049399702 23.9837887803662)",
+    "type": "POINT"
+  },
+  {
+    "name": "覆鼎金考古遺址",
+    "description": "",
+    "geometry": "POINT(120.948686300383 24.0312078767254)",
+    "type": "POINT"
+  },
+  {
+    "name": "原手工業品陳列館",
+    "description": "",
+    "geometry": "POINT(120.691845999518 23.9810199839136)",
+    "type": "POINT"
+  },
+  {
+    "name": "草鞋墩雅舍",
+    "description": "",
+    "geometry": "POINT(120.68828719932 23.980126412864)",
+    "type": "POINT"
+  },
+  {
+    "name": "嚴禁勒索竹排船伕碑",
+    "description": "",
+    "geometry": "POINT(120.68517099937 23.7562753917234)",
+    "type": "POINT"
+  },
+  {
+    "name": "配天宮正殿石獅",
+    "description": "",
+    "geometry": "POINT(120.686063399644 23.9065993093599)",
+    "type": "POINT"
+  },
+  {
+    "name": "慶安宮土地公石雕香爐",
+    "description": "",
+    "geometry": "POINT(120.657283299401 23.9841988323571)",
+    "type": "POINT"
+  },
+  {
+    "name": "近藤昌之碑",
+    "description": "",
+    "geometry": "POINT(120.684237399045 23.9095046892935)",
+    "type": "POINT"
+  },
+  {
+    "name": "清代埔眉社古文書三件一組\n毛格后蚋潘永成潘有明同立開墾合約字\n泰雅貝珠衣",
+    "description": "",
+    "geometry": "POINT(120.681893099036 23.9085548204912)",
+    "type": "POINT"
+  },
+  {
+    "name": "「七將軍」匾",
+    "description": "",
+    "geometry": "POINT(120.67499679936 23.94442655213)",
+    "type": "POINT"
+  },
+  {
+    "name": "日治時期埔里地區神社手洗缽",
+    "description": "",
+    "geometry": "POINT(120.971451599514 23.9704124889648)",
+    "type": "POINT"
+  },
+  {
+    "name": "簡姓惠宗祠堂陶製香爐",
+    "description": "",
+    "geometry": "POINT(120.684219699485 23.9105902626512)",
+    "type": "POINT"
+  },
+  {
+    "name": "喜捐祝生廟祀田碑",
+    "description": "",
+    "geometry": "POINT(120.755250899458 23.7459789631182)",
+    "type": "POINT"
+  },
+  {
+    "name": "刑期無刑匾",
+    "description": "",
+    "geometry": "POINT(120.650358399607 23.9714259978407)",
+    "type": "POINT"
+  },
+  {
+    "name": "昭險圳改修諸首事人氏名記念碑",
+    "description": "",
+    "geometry": "POINT(120.688769799219 23.9829520039464)",
+    "type": "POINT"
+  },
+  {
+    "name": "萬丹山生命紀念園",
+    "description": "",
+    "geometry": "POINT(120.718634640695 23.881226806305)",
+    "type": "POINT"
+  },
+  {
+    "name": "帝皇嶺紀念花園",
+    "description": "",
+    "geometry": "POINT(120.67354732601 23.8371282647373)",
+    "type": "POINT"
+  },
+  {
+    "name": "皇穹陵紀念花園",
+    "description": "",
+    "geometry": "POINT(120.655102795096 23.8468095891996)",
+    "type": "POINT"
+  },
+  {
+    "name": "松柏嶺遊客中心",
+    "description": "",
+    "geometry": "POINT(120.636069354879 23.8341516411192)",
+    "type": "POINT"
+  },
+  {
+    "name": "七星陣地碉堡公園",
+    "description": "",
+    "geometry": "POINT(120.640914105616 23.826613984685)",
+    "type": "POINT"
+  },
+  {
+    "name": "京麟雕塑文化園區",
+    "description": "",
+    "geometry": "POINT(120.667069396745 23.8612055194241)",
+    "type": "POINT"
+  },
+  {
+    "name": "茶香步道",
+    "description": "",
+    "geometry": "POINT(120.626099997141 23.8424802494304)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投縣松柏嶺高爾夫球場",
+    "description": "",
+    "geometry": "POINT(120.661845538966 23.8162794932271)",
+    "type": "POINT"
+  },
+  {
+    "name": "茶二指故事館",
+    "description": "",
+    "geometry": "POINT(120.643870610001 23.8251823354992)",
+    "type": "POINT"
+  },
+  {
+    "name": "桂花森林休閒農莊",
+    "description": "",
+    "geometry": "POINT(120.64772006809 23.8311318312017)",
+    "type": "POINT"
+  },
+  {
+    "name": "緣園有機農場",
+    "description": "",
+    "geometry": "POINT(120.663968310046 23.8549086288015)",
+    "type": "POINT"
+  },
+  {
+    "name": "茶米香休閒農場",
+    "description": "",
+    "geometry": "POINT(120.628077044626 23.8404307737182)",
+    "type": "POINT"
+  },
+  {
+    "name": "森18休閒農場",
+    "description": "",
+    "geometry": "POINT(120.675000578192 23.8649362618181)",
+    "type": "POINT"
+  },
+  {
+    "name": "香茗園樹葡萄農場",
+    "description": "",
+    "geometry": "POINT(120.696378111854 23.8496825869019)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投肉品市場-豬樂園",
+    "description": "",
+    "geometry": "POINT(120.695834223585 23.8542710855692)",
+    "type": "POINT"
+  },
+  {
+    "name": "木協台灣檜木坊",
+    "description": "",
+    "geometry": "POINT(120.635752470169 23.8563900019631)",
+    "type": "POINT"
+  },
+  {
+    "name": "杉林溪森林遊樂區",
+    "description": "",
+    "geometry": "POINT(120.79471174157 23.6371110081436)",
+    "type": "POINT"
+  },
+  {
+    "name": "下坪自然教育園區",
+    "description": "",
+    "geometry": "POINT(120.672707039285 23.7739537709715)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹山文化園區",
+    "description": "",
+    "geometry": "POINT(120.680017298924 23.747969134613)",
+    "type": "POINT"
+  },
+  {
+    "name": "沙東宮國家地震公園",
+    "description": "",
+    "geometry": "POINT(120.707841629906 23.7695814282322)",
+    "type": "POINT"
+  },
+  {
+    "name": "青竹竹藝文化園區",
+    "description": "",
+    "geometry": "POINT(120.748557212688 23.8113226346716)",
+    "type": "POINT"
+  },
+  {
+    "name": "八通關社寮古道",
+    "description": "",
+    "geometry": "POINT(120.738874010133 23.7994901160957)",
+    "type": "POINT"
+  },
+  {
+    "name": "林圮墓",
+    "description": "",
+    "geometry": "POINT(120.679769083293 23.7561813165582)",
+    "type": "POINT"
+  },
+  {
+    "name": "聖義廟「紅旗公」",
+    "description": "",
+    "geometry": "POINT(120.669756451022 23.7478448918431)",
+    "type": "POINT"
+  },
+  {
+    "name": "桶頭吊橋",
+    "description": "",
+    "geometry": "POINT(120.659156412449 23.6450779301547)",
+    "type": "POINT"
+  },
+  {
+    "name": "李勇廟",
+    "description": "",
+    "geometry": "POINT(120.693104183006 23.7829099026925)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹山連興宮",
+    "description": "",
+    "geometry": "POINT(120.685108510034 23.7565251813694)",
+    "type": "POINT"
+  },
+  {
+    "name": "社寮紫南宮",
+    "description": "",
+    "geometry": "POINT(120.722523939052 23.8173908264939)",
+    "type": "POINT"
+  },
+  {
+    "name": "大鞍竹海",
+    "description": "",
+    "geometry": "POINT(120.739126296551 23.6789687454899)",
+    "type": "POINT"
+  },
+  {
+    "name": "軟鞍八卦茶園",
+    "description": "",
+    "geometry": "POINT(120.744531010915 23.6638550515662)",
+    "type": "POINT"
+  },
+  {
+    "name": "太極峽谷",
+    "description": "",
+    "geometry": "POINT(120.733180116336 23.6647292172016)",
+    "type": "POINT"
+  },
+  {
+    "name": "觀海坪",
+    "description": "",
+    "geometry": "POINT(120.713286997239 23.6997180590291)",
+    "type": "POINT"
+  },
+  {
+    "name": "車籠埔斷層保存園區",
+    "description": "",
+    "geometry": "POINT(120.711537425941 23.7947853944375)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹山天梯",
+    "description": "",
+    "geometry": "POINT(120.734131624014 23.6693196229012)",
+    "type": "POINT"
+  },
+  {
+    "name": "頂崙天倫宮",
+    "description": "",
+    "geometry": "POINT(120.399635998741 23.8513752391422)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹塘醒靈宮",
+    "description": "",
+    "geometry": "POINT(120.411973998804 23.8871052416107)",
+    "type": "POINT"
+  },
+  {
+    "name": "明航寺",
+    "description": "",
+    "geometry": "POINT(120.430027998562 23.8613902336829)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹塘慈航宮",
+    "description": "",
+    "geometry": "POINT(120.427666999046 23.8557112423122)",
+    "type": "POINT"
+  },
+  {
+    "name": "九龍大榕公",
+    "description": "",
+    "geometry": "POINT(120.449498998842 23.8289902436229)",
+    "type": "POINT"
+  },
+  {
+    "name": "米香囍懷舊農村生活館",
+    "description": "",
+    "geometry": "POINT(120.386120999023 23.8477202366414)",
+    "type": "POINT"
+  },
+  {
+    "name": "鹿世界觀光牧場",
+    "description": "",
+    "geometry": "POINT(120.411206998996 23.8889692337945)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹塘公園",
+    "description": "",
+    "geometry": "POINT(120.424347998805 23.8587522413942)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺大橋",
+    "description": "",
+    "geometry": "POINT(120.461142824972 23.8139124688532)",
+    "type": "POINT"
+  },
+  {
+    "name": "延平老街",
+    "description": "",
+    "geometry": "POINT(120.461861671519 23.8016541091508)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺廣福宮",
+    "description": "",
+    "geometry": "POINT(120.464649852698 23.7974112534844)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺福興宮",
+    "description": "",
+    "geometry": "POINT(120.460521196652 23.8019223097962)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺福天宮",
+    "description": "",
+    "geometry": "POINT(120.43992945195 23.7884636227376)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺果菜市場",
+    "description": "",
+    "geometry": "POINT(120.44790630964 23.7834348846392)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺東市場",
+    "description": "",
+    "geometry": "POINT(120.463248409797 23.8024154977106)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺泰山石敢當",
+    "description": "",
+    "geometry": "POINT(120.464775196107 23.8033280990289)",
+    "type": "POINT"
+  },
+  {
+    "name": "農田水利文物陳列館",
+    "description": "",
+    "geometry": "POINT(120.61571935416 23.7806900930243)",
+    "type": "POINT"
+  },
+  {
+    "name": "坪頂茶葉文化館",
+    "description": "",
+    "geometry": "POINT(120.637501367616 23.7598125803095)",
+    "type": "POINT"
+  },
+  {
+    "name": "玉山國家公園",
+    "description": "",
+    "geometry": "POINT(120.954010868451 23.4857988733966)",
+    "type": "POINT"
+  },
+  {
+    "name": "風櫃斗",
+    "description": "",
+    "geometry": "POINT(120.856499089056 23.6691304796152)",
+    "type": "POINT"
+  },
+  {
+    "name": "東埔溫泉",
+    "description": "",
+    "geometry": "POINT(120.93038378609 23.5652989991044)",
+    "type": "POINT"
+  },
+  {
+    "name": "坪瀨風景區",
+    "description": "",
+    "geometry": "POINT(120.850831720877 23.6940287545002)",
+    "type": "POINT"
+  },
+  {
+    "name": "彩虹瀑布情人谷",
+    "description": "",
+    "geometry": "POINT(120.935554651919 23.5979023140192)",
+    "type": "POINT"
+  },
+  {
+    "name": "雲龍瀑布",
+    "description": "",
+    "geometry": "POINT(120.952594781538 23.5555247363476)",
+    "type": "POINT"
+  },
+  {
+    "name": "雙龍瀑布",
+    "description": "",
+    "geometry": "POINT(120.950327404339 23.8459489769559)",
+    "type": "POINT"
+  },
+  {
+    "name": "父不知子斷崖",
+    "description": "",
+    "geometry": "POINT(120.937013348125 23.6068999293255)",
+    "type": "POINT"
+  },
+  {
+    "name": "丹大林道",
+    "description": "",
+    "geometry": "POINT(121.077129404225 23.8917755071522)",
+    "type": "POINT"
+  },
+  {
+    "name": "七彩湖",
+    "description": "",
+    "geometry": "POINT(121.236391274034 23.8786487881119)",
+    "type": "POINT"
+  },
+  {
+    "name": "木瓜坑大瀑布",
+    "description": "",
+    "geometry": "POINT(120.828276912799 23.7019596076621)",
+    "type": "POINT"
+  },
+  {
+    "name": "宇宙萬聖宮",
+    "description": "",
+    "geometry": "POINT(120.90754955717 23.5537856949024)",
+    "type": "POINT"
+  },
+  {
+    "name": "神木樟樹公",
+    "description": "",
+    "geometry": "POINT(120.863666581418 23.5215139532625)",
+    "type": "POINT"
+  },
+  {
+    "name": "夫妻樹",
+    "description": "",
+    "geometry": "POINT(120.891060837629 23.512538567613)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投市樟樹園",
+    "description": "",
+    "geometry": "POINT(120.667732608446 23.9301019914234)",
+    "type": "POINT"
+  },
+  {
+    "name": "中山公園",
+    "description": "",
+    "geometry": "POINT(120.687741281822 23.9147791750451)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投酒廠",
+    "description": "",
+    "geometry": "POINT(120.70554694157 23.9199071163417)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投縣文化園區",
+    "description": "",
+    "geometry": "POINT(120.684251725913 23.9097259437124)",
+    "type": "POINT"
+  },
+  {
+    "name": "中興新村",
+    "description": "",
+    "geometry": "POINT(120.687266016791 23.9572721977997)",
+    "type": "POINT"
+  },
+  {
+    "name": "猴探井遊憩區",
+    "description": "",
+    "geometry": "POINT(120.63205962366 23.908968067894)",
+    "type": "POINT"
+  },
+  {
+    "name": "南投荔枝王",
+    "description": "",
+    "geometry": "POINT(120.639298325883 23.9174635045916)",
+    "type": "POINT"
+  },
+  {
+    "name": "天空之橋",
+    "description": "",
+    "geometry": "POINT(120.63162065463 23.908663804324)",
+    "type": "POINT"
+  },
+  {
+    "name": "橫山登山步道",
+    "description": "",
+    "geometry": "POINT(120.634030178711 23.8905925538262)",
+    "type": "POINT"
+  },
+  {
+    "name": "綠美橋",
+    "description": "",
+    "geometry": "POINT(120.694856581523 23.9150409808134)",
+    "type": "POINT"
+  },
+  {
+    "name": "八卦山青山茶園",
+    "description": "",
+    "geometry": "POINT(120.634155183732 23.9087702367361)",
+    "type": "POINT"
+  },
+  {
+    "name": "虎山藝術館",
+    "description": "",
+    "geometry": "POINT(120.698364327458 23.9503577857368)",
+    "type": "POINT"
+  },
+  {
+    "name": "藍田書院",
+    "description": "",
+    "geometry": "POINT(120.684482854057 23.9076133579087)",
+    "type": "POINT"
+  },
+  {
+    "name": "台灣麻糬主題館",
+    "description": "",
+    "geometry": "POINT(120.668859752387 23.9217379017538)",
+    "type": "POINT"
+  },
+  {
+    "name": "埔里孔子廟",
+    "description": "",
+    "geometry": "POINT(120.961487500095 23.9651800883183)",
+    "type": "POINT"
+  },
+  {
+    "name": "臺灣地理中心碑",
+    "description": "",
+    "geometry": "POINT(120.979860399526 23.9742628115749)",
+    "type": "POINT"
+  },
+  {
+    "name": "埔里酒廠",
+    "description": "",
+    "geometry": "POINT(120.960282000353 23.968469161839)",
+    "type": "POINT"
+  },
+  {
+    "name": "廣興紙寮",
+    "description": "",
+    "geometry": "POINT(120.938642600082 23.9764356946503)",
+    "type": "POINT"
+  },
+  {
+    "name": "造紙龍手創館",
+    "description": "",
+    "geometry": "POINT(120.958475299804 23.9481114827084)",
+    "type": "POINT"
+  },
+  {
+    "name": "龍南漆藝文物館",
+    "description": "",
+    "geometry": "POINT(120.965746400208 23.9681332676393)",
+    "type": "POINT"
+  },
+  {
+    "name": "木生昆蟲博物館",
+    "description": "",
+    "geometry": "POINT(120.94530919992 23.9644787585601)",
+    "type": "POINT"
+  },
+  {
+    "name": "錦吉昆蟲館",
+    "description": "",
+    "geometry": "POINT(121.042282200116 23.9980067606706)",
+    "type": "POINT"
+  },
+  {
+    "name": "中台世界博物館",
+    "description": "",
+    "geometry": "POINT(120.949976599554 24.0123553248186)",
+    "type": "POINT"
+  },
+  {
+    "name": "敲敲木工房",
+    "description": "",
+    "geometry": "POINT(120.957190599885 23.9751341873278)",
+    "type": "POINT"
+  },
+  {
+    "name": "桃米里",
+    "description": "",
+    "geometry": "POINT(120.933069700012 23.9455004421799)",
+    "type": "POINT"
+  },
+  {
+    "name": "新故鄉貝學園區",
+    "description": "",
+    "geometry": "POINT(120.927015099957 23.9414961545361)",
+    "type": "POINT"
+  },
+  {
+    "name": "草湳溼地",
+    "description": "",
+    "geometry": "POINT(120.915076399788 23.9488349231005)",
+    "type": "POINT"
+  },
+  {
+    "name": "中路坑溼地",
+    "description": "",
+    "geometry": "POINT(120.921250399513 23.9462008734737)",
+    "type": "POINT"
+  },
+  {
+    "name": "牛耳藝術渡假村",
+    "description": "",
+    "geometry": "POINT(120.943328800039 23.9658673550369)",
+    "type": "POINT"
+  },
+  {
+    "name": "大黑松小倆口元首館",
+    "description": "",
+    "geometry": "POINT(120.926805600235 23.9703688050172)",
+    "type": "POINT"
+  },
+  {
+    "name": "暨大校園",
+    "description": "",
+    "geometry": "POINT(120.937962799558 23.9504618072137)",
+    "type": "POINT"
+  },
+  {
+    "name": "大馬璘遺址",
+    "description": "",
+    "geometry": "POINT(120.945216100189 23.9693449922634)",
+    "type": "POINT"
+  },
+  {
+    "name": "打鐵街",
+    "description": "",
+    "geometry": "POINT(120.962916000054 23.9652910077397)",
+    "type": "POINT"
+  },
+  {
+    "name": "手抄紙",
+    "description": "",
+    "geometry": "POINT(120.938906699932 23.9763993926671)",
+    "type": "POINT"
+  },
+  {
+    "name": "埔里茄苳樹王公",
+    "description": "",
+    "geometry": "POINT(120.967069700273 23.9588530309585)",
+    "type": "POINT"
+  },
+  {
+    "name": "八幡崎古道",
+    "description": "",
+    "geometry": "POINT(120.92443879941 24.0491173173428)",
+    "type": "POINT"
+  },
+  {
+    "name": "虎頭山",
+    "description": "",
+    "geometry": "POINT(120.981588100022 23.9669618644691)",
+    "type": "POINT"
+  },
+  {
+    "name": "草湳濕地",
+    "description": "",
+    "geometry": "POINT(120.915130100276 23.9488839475669)",
+    "type": "POINT"
+  },
+  {
+    "name": "鯉魚潭",
+    "description": "",
+    "geometry": "POINT(120.998747799901 23.9629386337674)",
+    "type": "POINT"
+  },
+  {
+    "name": "觀音瀑布",
+    "description": "",
+    "geometry": "POINT(121.036248000458 23.9909211210575)",
+    "type": "POINT"
+  },
+  {
+    "name": "北坑瀑布",
+    "description": "",
+    "geometry": "POINT(120.99953720003 23.9287415780188)",
+    "type": "POINT"
+  },
+  {
+    "name": "中坑瀑布",
+    "description": "",
+    "geometry": "POINT(121.010391399999 23.9213504093884)",
+    "type": "POINT"
+  },
+  {
+    "name": "草鞋墩遺址",
+    "description": "",
+    "geometry": "POINT(120.685511399185 23.9919017035094)",
+    "type": "POINT"
+  },
+  {
+    "name": "國立臺灣工藝研究發展中心",
+    "description": "",
+    "geometry": "POINT(120.691824499154 23.9809709285345)",
+    "type": "POINT"
+  },
+  {
+    "name": "雙十吊橋",
+    "description": "",
+    "geometry": "POINT(120.780651499673 23.9847147703423)",
+    "type": "POINT"
+  },
+  {
+    "name": "九九峰自然保留區",
+    "description": "",
+    "geometry": "POINT(120.771725499361 23.9945849611173)",
+    "type": "POINT"
+  },
+  {
+    "name": "坪頂七股神木",
+    "description": "",
+    "geometry": "POINT(120.72870709971 23.9640302303786)",
+    "type": "POINT"
+  },
+  {
+    "name": "靈蛟瀑布",
+    "description": "",
+    "geometry": "POINT(120.822372999188 23.9756444953446)",
+    "type": "POINT"
+  },
+  {
+    "name": "欣隆休閒農場",
+    "description": "",
+    "geometry": "POINT(120.730632899815 23.9762108857147)",
+    "type": "POINT"
+  },
+  {
+    "name": "大虎山",
+    "description": "",
+    "geometry": "POINT(120.70041049935 23.9674043227085)",
+    "type": "POINT"
+  },
+  {
+    "name": "寶島時代村",
+    "description": "",
+    "geometry": "POINT(120.686691598964 23.9882540794328)",
+    "type": "POINT"
+  },
+  {
+    "name": "草屯老街",
+    "description": "",
+    "geometry": "POINT(120.683395899654 23.9792132841214)",
+    "type": "POINT"
+  },
+  {
+    "name": "上林里石榕公",
+    "description": "",
+    "geometry": "POINT(120.675195999892 23.9638883106597)",
+    "type": "POINT"
+  },
+  {
+    "name": "毓繡美術館",
+    "description": "",
+    "geometry": "POINT(120.766584599974 23.9930324680292)",
+    "type": "POINT"
+  },
+  {
+    "name": "九九峰動物樂園",
+    "description": "",
+    "geometry": "POINT(120.707489899308 23.9624461138118)",
+    "type": "POINT"
+  },
+  {
+    "name": "芙蓉谷瀑布",
+    "description": "",
+    "geometry": "POINT(120.936184099811 24.0919086828928)",
+    "type": "POINT"
+  },
+  {
+    "name": "北圳水橋",
+    "description": "",
+    "geometry": "POINT(120.910683699712 24.062120335405)",
+    "type": "POINT"
+  },
+  {
+    "name": "北圳步道",
+    "description": "",
+    "geometry": "POINT(120.922871200097 24.0626249308631)",
+    "type": "POINT"
+  },
+  {
+    "name": "北港溪橋",
+    "description": "",
+    "geometry": "POINT(120.90645459949 24.0581687482189)",
+    "type": "POINT"
+  },
+  {
+    "name": "李董果醋莊園",
+    "description": "",
+    "geometry": "POINT(120.872736800007 24.0599402303725)",
+    "type": "POINT"
+  },
+  {
+    "name": "勇春農家",
+    "description": "",
+    "geometry": "POINT(120.819689300128 24.0210156132252)",
+    "type": "POINT"
+  },
+  {
+    "name": "阿坤香茅工坊",
+    "description": "",
+    "geometry": "POINT(120.892269299857 24.0615496450702)",
+    "type": "POINT"
+  },
+  {
+    "name": "新豐農場(冷泉米)",
+    "description": "",
+    "geometry": "POINT(120.937692799589 24.0654175003222)",
+    "type": "POINT"
+  },
+  {
+    "name": "九二咖啡故事館",
+    "description": "",
+    "geometry": "POINT(120.846916399995 24.0240426029962)",
+    "type": "POINT"
+  },
+  {
+    "name": "綠野仙境農場",
+    "description": "",
+    "geometry": "POINT(120.815766999859 24.0149866197008)",
+    "type": "POINT"
+  },
+  {
+    "name": "綠恩有機棉花農場",
+    "description": "",
+    "geometry": "POINT(120.8969995995 24.061773519462)",
+    "type": "POINT"
+  },
+  {
+    "name": "泰雅渡假村",
+    "description": "",
+    "geometry": "POINT(120.940807299503 24.0666169239761)",
+    "type": "POINT"
+  },
+  {
+    "name": "北港溪沙八度假村",
+    "description": "",
+    "geometry": "POINT(120.934424299611 24.0627849927928)",
+    "type": "POINT"
+  },
+  {
+    "name": "神仙島遊覽谷",
+    "description": "",
+    "geometry": "POINT(120.925964700086 24.0604872255158)",
+    "type": "POINT"
+  },
+  {
+    "name": "北山養鹿天地休閒園區",
+    "description": "",
+    "geometry": "POINT(120.88457329962 23.9845523622588)",
+    "type": "POINT"
+  },
+  {
+    "name": "春水堂-秋山居(留香樓)",
+    "description": "",
+    "geometry": "POINT(120.931531099838 24.061482610766)",
+    "type": "POINT"
+  },
+  {
+    "name": "逸和園檸檬宿",
+    "description": "",
+    "geometry": "POINT(120.861541300009 24.0498167718712)",
+    "type": "POINT"
+  },
+  {
+    "name": "達雅奇跡星球(蘋果屋)",
+    "description": "",
+    "geometry": "POINT(120.878182299321 24.0670001513569)",
+    "type": "POINT"
+  },
+  {
+    "name": "聚合居露營區",
+    "description": "",
+    "geometry": "POINT(120.878285599916 24.0681025079402)",
+    "type": "POINT"
+  },
+  {
+    "name": "水長流露營區",
+    "description": "",
+    "geometry": "POINT(120.872403799909 24.0700357137772)",
+    "type": "POINT"
+  },
+  {
+    "name": "山嵐謐靜",
+    "description": "",
+    "geometry": "POINT(120.877109599973 24.0757747835413)",
+    "type": "POINT"
+  },
+  {
+    "name": "漾嵐山莊",
+    "description": "",
+    "geometry": "POINT(120.87413279992 24.0622858200752)",
+    "type": "POINT"
+  },
+  {
+    "name": "小胖露營區",
+    "description": "",
+    "geometry": "POINT(120.893376399767 24.0575529353935)",
+    "type": "POINT"
+  },
+  {
+    "name": "水秀農場",
+    "description": "",
+    "geometry": "POINT(120.895468099631 24.061528928469)",
+    "type": "POINT"
+  },
+  {
+    "name": "逸和園檸檬宿",
+    "description": "",
+    "geometry": "POINT(120.861562699868 24.0498853522308)",
+    "type": "POINT"
+  },
+  {
+    "name": "崙前順天宮",
+    "description": "",
+    "geometry": "POINT(120.353922211751 23.7571054580149)",
+    "type": "POINT"
+  },
+  {
+    "name": "崙背奉天宮",
+    "description": "",
+    "geometry": "POINT(120.353472009709 23.7609961793542)",
+    "type": "POINT"
+  },
+  {
+    "name": "崙背天衡宮",
+    "description": "",
+    "geometry": "POINT(120.357566026703 23.7621884076847)",
+    "type": "POINT"
+  },
+  {
+    "name": "水汴頭崇賢寺",
+    "description": "",
+    "geometry": "POINT(120.378838309842 23.7644983035671)",
+    "type": "POINT"
+  },
+  {
+    "name": "詔安客家文化園區",
+    "description": "",
+    "geometry": "POINT(120.355038810238 23.7639504251375)",
+    "type": "POINT"
+  },
+  {
+    "name": "千巧谷牛樂園牧場",
+    "description": "",
+    "geometry": "POINT(120.365989467189 23.7610840657426)",
+    "type": "POINT"
+  },
+  {
+    "name": "欣昌錦鯉養殖場",
+    "description": "",
+    "geometry": "POINT(120.348521330543 23.7813008726299)",
+    "type": "POINT"
+  },
+  {
+    "name": "老土藝術工作坊",
+    "description": "",
+    "geometry": "POINT(120.351386854041 23.7588882327185)",
+    "type": "POINT"
+  },
+  {
+    "name": "詔安客家文化館",
+    "description": "",
+    "geometry": "POINT(120.355070996156 23.7639995263093)",
+    "type": "POINT"
+  },
+  {
+    "name": "崙背港尾開口獅藝術信箱",
+    "description": "",
+    "geometry": "POINT(120.378648013459 23.752164649012)",
+    "type": "POINT"
+  },
+  {
+    "name": "酪農專區",
+    "description": "",
+    "geometry": "POINT(120.358504744215 23.7657624527178)",
+    "type": "POINT"
+  },
+  {
+    "name": "崙背分駐所宿舍群",
+    "description": "",
+    "geometry": "POINT(120.355219412051 23.7619645336789)",
+    "type": "POINT"
+  },
+  {
+    "name": "崙背夜市",
+    "description": "",
+    "geometry": "POINT(120.347070052559 23.7605707762531)",
+    "type": "POINT"
+  },
+  {
+    "name": "日月潭",
+    "description": "",
+    "geometry": "POINT(120.912409700047 23.8710662712217)",
+    "type": "POINT"
+  },
+  {
+    "name": "九族文化村",
+    "description": "",
+    "geometry": "POINT(120.948193000047 23.865677626141)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹廬",
+    "description": "",
+    "geometry": "POINT(120.796877099487 23.669634060417)",
+    "type": "POINT"
+  },
+  {
+    "name": "小半天",
+    "description": "",
+    "geometry": "POINT(120.757651999838 23.7260432321021)",
+    "type": "POINT"
+  },
+  {
+    "name": "凍頂山",
+    "description": "",
+    "geometry": "POINT(120.764939499899 23.7514682121798)",
+    "type": "POINT"
+  },
+  {
+    "name": "麒麟潭",
+    "description": "",
+    "geometry": "POINT(120.773470499117 23.7524716410408)",
+    "type": "POINT"
+  },
+  {
+    "name": "德興瀑布",
+    "description": "",
+    "geometry": "POINT(120.755267899056 23.6953213169474)",
+    "type": "POINT"
+  },
+  {
+    "name": "國立自然科學博物館鳳凰谷鳥園生態園區",
+    "description": "",
+    "geometry": "POINT(120.791223199554 23.7286283342579)",
+    "type": "POINT"
+  },
+  {
+    "name": "永隆開山廟",
+    "description": "",
+    "geometry": "POINT(120.774411699646 23.7543470034253)",
+    "type": "POINT"
+  },
+  {
+    "name": "溪頭自然教育園區",
+    "description": "",
+    "geometry": "POINT(120.797176399286 23.6747636748421)",
+    "type": "POINT"
+  },
+  {
+    "name": "孟宗竹林古戰場",
+    "description": "",
+    "geometry": "POINT(120.772428899206 23.7170221794391)",
+    "type": "POINT"
+  },
+  {
+    "name": "大崙山銀杏森林",
+    "description": "",
+    "geometry": "POINT(120.762325299976 23.6799617665332)",
+    "type": "POINT"
+  },
+  {
+    "name": "萬年亨衢",
+    "description": "",
+    "geometry": "POINT(120.796362899923 23.7264542233451)",
+    "type": "POINT"
+  },
+  {
+    "name": "天林宮",
+    "description": "",
+    "geometry": "POINT(120.756446999167 23.7263160813519)",
+    "type": "POINT"
+  },
+  {
+    "name": "鳳凰山鳳凰玉泉真元宮",
+    "description": "",
+    "geometry": "POINT(120.772768699171 23.7356352690992)",
+    "type": "POINT"
+  },
+  {
+    "name": "終南山淨律寺",
+    "description": "",
+    "geometry": "POINT(120.734399499537 23.7781102197738)",
+    "type": "POINT"
+  },
+  {
+    "name": "石馬公園",
+    "description": "",
+    "geometry": "POINT(120.758242599899 23.7264874494921)",
+    "type": "POINT"
+  },
+  {
+    "name": "拱範宮",
+    "description": "",
+    "geometry": "POINT(120.255601254221 23.748472736909)",
+    "type": "POINT"
+  },
+  {
+    "name": "麥寮港",
+    "description": "",
+    "geometry": "POINT(120.169086381042 23.7875367075381)",
+    "type": "POINT"
+  },
+  {
+    "name": "阿嬤公園",
+    "description": "",
+    "geometry": "POINT(120.218670725395 23.8002082231475)",
+    "type": "POINT"
+  },
+  {
+    "name": "麥寮公園",
+    "description": "",
+    "geometry": "POINT(120.256849662235 23.7454828037886)",
+    "type": "POINT"
+  },
+  {
+    "name": "楊厝社區",
+    "description": "",
+    "geometry": "POINT(120.244513767717 23.7760965572153)",
+    "type": "POINT"
+  },
+  {
+    "name": "六輕福德宮",
+    "description": "",
+    "geometry": "POINT(120.230703660659 23.7981926789656)",
+    "type": "POINT"
+  },
+  {
+    "name": "生菜物語館",
+    "description": "",
+    "geometry": "POINT(120.294846382336 23.7483763525324)",
+    "type": "POINT"
+  },
+  {
+    "name": "後安福興宮",
+    "description": "",
+    "geometry": "POINT(120.238327911579 23.7892802021149)",
+    "type": "POINT"
+  },
+  {
+    "name": "許厝寮泊地",
+    "description": "",
+    "geometry": "POINT(120.243147461397 23.803567530176)",
+    "type": "POINT"
+  },
+  {
+    "name": "臺塑六輕廠",
+    "description": "",
+    "geometry": "POINT(120.191573080701 23.7878397531851)",
+    "type": "POINT"
+  },
+  {
+    "name": "楊厝永安宮",
+    "description": "",
+    "geometry": "POINT(120.244887838958 23.7760885449852)",
+    "type": "POINT"
+  },
+  {
+    "name": "橋頭泰安宮",
+    "description": "",
+    "geometry": "POINT(120.271978567059 23.796277112695)",
+    "type": "POINT"
+  },
+  {
+    "name": "晁陽綠能園區",
+    "description": "",
+    "geometry": "POINT(120.296939825025 23.7516102104614)",
+    "type": "POINT"
+  },
+  {
+    "name": "麥仔簝鴉片牆",
+    "description": "",
+    "geometry": "POINT(120.253786111192 23.7486878573451)",
+    "type": "POINT"
+  },
+  {
+    "name": "麥寮三角公園",
+    "description": "",
+    "geometry": "POINT(120.251812995855 23.7466427592772)",
+    "type": "POINT"
+  },
+  {
+    "name": "麥寮運動公園",
+    "description": "",
+    "geometry": "POINT(120.253892040819 23.7524235490029)",
+    "type": "POINT"
+  },
+  {
+    "name": "霄仁厝福興宮",
+    "description": "",
+    "geometry": "POINT(120.26877764028 23.7541906253132)",
+    "type": "POINT"
+  },
+  {
+    "name": "濁水溪口濕地",
+    "description": "",
+    "geometry": "POINT(120.260149640786 23.8584741245332)",
+    "type": "POINT"
+  },
+  {
+    "name": "月光下友善農場",
+    "description": "",
+    "geometry": "POINT(120.252064810053 23.741437146359)",
+    "type": "POINT"
+  },
+  {
+    "name": "麥寮風力發電站",
+    "description": "",
+    "geometry": "POINT(120.263597667696 23.8169212583329)",
+    "type": "POINT"
+  },
+  {
+    "name": "新吉紙漿藝術村",
+    "description": "",
+    "geometry": "POINT(120.271493938035 23.817646568862)",
+    "type": "POINT"
+  },
+  {
+    "name": "鳳儀宮",
+    "description": "",
+    "geometry": "POINT(120.494555596552 23.7563051765115)",
+    "type": "POINT"
+  },
+  {
+    "name": "鎮華宮",
+    "description": "",
+    "geometry": "POINT(120.562849555835 23.7784468626397)",
+    "type": "POINT"
+  },
+  {
+    "name": "福天宮",
+    "description": "",
+    "geometry": "POINT(120.50290962145 23.7768786384745)",
+    "type": "POINT"
+  },
+  {
+    "name": "林本古厝",
+    "description": "",
+    "geometry": "POINT(120.499224325315 23.7579643391842)",
+    "type": "POINT"
+  },
+  {
+    "name": "農村生活實驗場",
+    "description": "",
+    "geometry": "POINT(120.50305859619 23.7571473561093)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集車站",
+    "description": "",
+    "geometry": "POINT(120.784900699421 23.8266769597084)",
+    "type": "POINT"
+  },
+  {
+    "name": "綠色隧道",
+    "description": "",
+    "geometry": "POINT(120.758379099079 23.8310442455882)",
+    "type": "POINT"
+  },
+  {
+    "name": "化及蠻貊碣",
+    "description": "",
+    "geometry": "POINT(120.807388499631 23.8265317965932)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集大眾爺廟",
+    "description": "",
+    "geometry": "POINT(120.779846299898 23.8289094974909)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集大樟樹",
+    "description": "",
+    "geometry": "POINT(120.780050599229 23.8290595201526)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集攔河堰",
+    "description": "",
+    "geometry": "POINT(120.763253999558 23.818541341909)",
+    "type": "POINT"
+  },
+  {
+    "name": "特有生物研究保育中心",
+    "description": "",
+    "geometry": "POINT(120.800815999266 23.8292761176231)",
+    "type": "POINT"
+  },
+  {
+    "name": "軍史公園",
+    "description": "",
+    "geometry": "POINT(120.795458799804 23.8271472130405)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集瀑布",
+    "description": "",
+    "geometry": "POINT(120.783755300088 23.8359862760373)",
+    "type": "POINT"
+  },
+  {
+    "name": "集集樟腦出張所",
+    "description": "",
+    "geometry": "POINT(120.787012199178 23.828912367473)",
+    "type": "POINT"
+  },
+  {
+    "name": "集元果觀光工廠",
+    "description": "",
+    "geometry": "POINT(120.814524699985 23.8258584032025)",
+    "type": "POINT"
+  },
+  {
+    "name": "溪州長老教會",
+    "description": "",
+    "geometry": "POINT(120.498670098741 23.8605005775262)",
+    "type": "POINT"
+  },
+  {
+    "name": "溪州聖智天主堂",
+    "description": "",
+    "geometry": "POINT(120.498670098741 23.8605005775262)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺大橋",
+    "description": "",
+    "geometry": "POINT(120.461142798585 23.8138732083831)",
+    "type": "POINT"
+  },
+  {
+    "name": "三條圳警察官吏派出所",
+    "description": "",
+    "geometry": "POINT(120.495978699509 23.8315357671707)",
+    "type": "POINT"
+  },
+  {
+    "name": "溪州森林公園",
+    "description": "",
+    "geometry": "POINT(120.491757098905 23.8534733070071)",
+    "type": "POINT"
+  },
+  {
+    "name": "溪州公園區",
+    "description": "",
+    "geometry": "POINT(120.496684399063 23.8418524372357)",
+    "type": "POINT"
+  },
+  {
+    "name": "苗木園區",
+    "description": "",
+    "geometry": "POINT(120.51536249873 23.8294573899323)",
+    "type": "POINT"
+  },
+  {
+    "name": "萬景藝術中心",
+    "description": "",
+    "geometry": "POINT(120.505350799193 23.8600922215338)",
+    "type": "POINT"
+  },
+  {
+    "name": "純園",
+    "description": "",
+    "geometry": "POINT(120.528136598631 23.8305678631429)",
+    "type": "POINT"
+  },
+  {
+    "name": "溪州尚水",
+    "description": "",
+    "geometry": "POINT(120.527179798855 23.8322154551311)",
+    "type": "POINT"
+  },
+  {
+    "name": "玉蛉錦鯉園",
+    "description": "",
+    "geometry": "POINT(120.481408598918 23.851210379857)",
+    "type": "POINT"
+  },
+  {
+    "name": "二水堤防國聖碑",
+    "description": "",
+    "geometry": "POINT(120.614395999106 23.8086512442216)",
+    "type": "POINT"
+  },
+  {
+    "name": "舊眉村泰山石敢當",
+    "description": "",
+    "geometry": "POINT(120.509026998639 23.8493192384963)",
+    "type": "POINT"
+  },
+  {
+    "name": "溪州石塔",
+    "description": "",
+    "geometry": "POINT(120.542822999062 23.8361752421763)",
+    "type": "POINT"
+  },
+  {
+    "name": "坑厝村阿彌陀佛石碑",
+    "description": "",
+    "geometry": "POINT(120.482385998572 23.8509692383572)",
+    "type": "POINT"
+  },
+  {
+    "name": "竹塘鄉阿彌陀佛碑",
+    "description": "",
+    "geometry": "POINT(120.399128998585 23.8380912414911)",
+    "type": "POINT"
+  },
+  {
+    "name": "莿桐麻園村石敢當",
+    "description": "",
+    "geometry": "POINT(120.54049699872 23.7721622437015)",
+    "type": "POINT"
+  },
+  {
+    "name": "西螺泰山石敢當",
+    "description": "",
+    "geometry": "POINT(120.464820999071 23.8033272375764)",
+    "type": "POINT"
+  },
+  {
+    "name": "百年舊堤_路段_01",
+    "description": "",
+    "geometry": "LINESTRING(120.658415051 23.6608884416943, 120.6599758 23.6638897886944)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_02",
+    "description": "",
+    "geometry": "LINESTRING(120.655920215 23.6535473186941, 120.655509101 23.6541880736941)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_03",
+    "description": "",
+    "geometry": "LINESTRING(120.294829201 23.8092227366976, 120.295179785 23.8090879596976, 120.295420766 23.8089931146976, 120.295526887 23.8089552376976, 120.295546105 23.8089483786975, 120.295743484 23.8088696946976, 120.296009409 23.8087639606976, 120.296018962 23.8087601626976, 120.296191528 23.8086946476976, 120.29633858 23.8086381356975, 120.296688886 23.8085049606975, 120.296930349 23.8084114226976, 120.29702058 23.8083764686976, 120.297339877 23.8082571286975, 120.297636969 23.8081408116975, 120.297933162 23.8080272976975, 120.298177273 23.8079319116975, 120.298438524 23.8078301476976, 120.298641078 23.8077547766975, 120.298648429 23.8077520406975, 120.298729826 23.8077170606976, 120.299013248 23.8076001646976, 120.299295014 23.8074898956975, 120.299565481 23.8073821306976, 120.29984352 23.8072750136975, 120.300016527 23.8072091086975, 120.300094562 23.8071750876975, 120.300411702 23.8070616906975, 120.300563729 23.8070062806975, 120.300586018 23.8070378266975, 120.300633959 23.8070277816975, 120.30128575 23.8070036836975, 120.301899564 23.8069938576975, 120.302428442 23.8069892256975, 120.302907655 23.8069878066975, 120.303275012 23.8069823696975, 120.303355257 23.8069790116975, 120.303799961 23.8069415336975, 120.303804408 23.8069799556975, 120.303969475 23.8069781816975, 120.304506079 23.8069360236975, 120.305697158 23.8069187236975, 120.30572458 23.8069183246975, 120.305896427 23.8069167146975, 120.306140512 23.8069208016975, 120.306203959 23.8069169966975, 120.306335221 23.8069126116975, 120.306400369 23.8069091776975, 120.306706903 23.8068930186975, 120.307116652 23.8068827596976, 120.307560592 23.8068780536975, 120.307829533 23.8068695896975, 120.308234434 23.8068631076975, 120.308353452 23.8068580436975, 120.308608073 23.8068630046975, 120.308771613 23.8068158456975, 120.309074942 23.8068296466975, 120.309664737 23.8068355106975, 120.310024968 23.8068283816975, 120.310800243 23.8068164656975, 120.310842775 23.8068158116975, 120.311250333 23.8068076366975, 120.311693998 23.8067993046975, 120.312195962 23.8067880086975, 120.312717046 23.8067778886975, 120.312824815 23.8067734746975, 120.312980169 23.8067784826975, 120.313492066 23.8067500706975, 120.313749515 23.8067492116975, 120.313975704 23.8067582086975, 120.314235227 23.8067471736975, 120.314793621 23.8067057536975, 120.316244994 23.8065616106975, 120.316568017 23.8065214256975, 120.317177455 23.8064116546975, 120.317452259 23.8063590556975, 120.317465846 23.8063569746975, 120.317647413 23.8063291646975, 120.318020818 23.8062610376975, 120.318083224 23.8062491506975, 120.318620384 23.8061468376975, 120.319936443 23.8058845356975, 120.320788706 23.8056744386975, 120.321862507 23.8054497976975, 120.323094549 23.8052214376975, 120.324170452 23.8049894496975, 120.324212806 23.8049859556975, 120.324388819 23.8049714356975, 120.324698864 23.8049083416975, 120.324783388 23.8048894066975, 120.325317443 23.8047815936974, 120.326086151 23.8046240226975, 120.326470169 23.8045459306975, 120.327320634 23.8043757366975, 120.328860623 23.8040627506975, 120.329233217 23.8039705736975, 120.329319889 23.8039611626975, 120.330517125 23.8037254046974, 120.331073781 23.8036118636975, 120.331667917 23.8034923816975, 120.33188593 23.8034485376975, 120.333177319 23.8031874596975, 120.333276189 23.8031663736975, 120.333612796 23.8030945866974, 120.334235335 23.8029753146974, 120.3343539 23.8029562956974, 120.334524995 23.8029452766975, 120.334619037 23.8029570866974, 120.334692797 23.8029798606974, 120.334830317 23.8030233706975, 120.334964669 23.8030570786974, 120.335096721 23.8030741806974, 120.335311454 23.8031139146974, 120.335318779 23.8031163716974, 120.33539474 23.8031418496974, 120.336005091 23.8033446046975, 120.336427374 23.8034938756975, 120.336754889 23.8035342046975)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_04",
+    "description": "",
+    "geometry": "LINESTRING(120.44945 23.829513895698, 120.449319744 23.829322972698, 120.449289176 23.829295432698, 120.449195547 23.829243945698, 120.449178792 23.829237409698, 120.448636992 23.829026044698, 120.448635753 23.829025561698, 120.448288546 23.828874709698, 120.448276022 23.828869606698, 120.447985463 23.828751229698, 120.447654773 23.828624715698, 120.447323296 23.828535616698, 120.446893307 23.828447409698, 120.446383305 23.828342570698, 120.445803308 23.828223924698, 120.445286416 23.828114786698, 120.444945792 23.828058336698, 120.444720678 23.828043412698, 120.444373591 23.828170281698, 120.444020017 23.828352142698, 120.443683321 23.828537233698, 120.443235631 23.828784027698, 120.442569948 23.829149618698, 120.441924229 23.829502945698, 120.441746485 23.829599937698, 120.441576542 23.829695269698, 120.441350722 23.829814777698, 120.441121595 23.829940856698, 120.441076342 23.829968973698, 120.44101212 23.830018989698, 120.440912626 23.830100760698, 120.440911499 23.830101686698, 120.440278743 23.830591091698, 120.439843306 23.8309323676981, 120.439191735 23.8314110226981, 120.439172038 23.8314254926981, 120.439114628 23.8314773296981, 120.439031145 23.8315482686981, 120.43893734 23.8316178696981, 120.43890616 23.8316434226981, 120.438903533 23.8316455756981, 120.438760223 23.831755104698, 120.438667226 23.8318261406981, 120.438651657 23.8318380336981, 120.438520971 23.8319380466981, 120.438379895 23.8320459946981, 120.438264907 23.8321314646981, 120.438141185 23.8322236016981, 120.438062619 23.8322850406981, 120.438023275 23.8323151916981, 120.437952822 23.8323665556981, 120.437913964 23.8323907486981, 120.437910436 23.8323933786981, 120.437789699 23.8324833806981, 120.437624873 23.8326195936981, 120.437570543 23.8326651116981, 120.437479494 23.8327509296981, 120.43732222 23.8328997126981, 120.437277638 23.8329403356981, 120.43684714 23.8333525666981, 120.43677671 23.8334209696981, 120.436601833 23.8335885226981, 120.436431382 23.8337491566981, 120.436308574 23.8338675176981, 120.436151748 23.8340166526981, 120.435954453 23.8342035996981, 120.435847642 23.8343066226981, 120.435666747 23.8344782076982, 120.435493763 23.8346497836981, 120.43534296 23.8347835086981, 120.435210419 23.8349163166981, 120.434711004 23.8354045596981, 120.434511197 23.8355995496982, 120.434291243 23.8358111336982, 120.434065545 23.8360139386982, 120.433850632 23.8362061266981, 120.433705768 23.8363365486982, 120.433494066 23.8365260486982, 120.432981854 23.8369833046982, 120.432830527 23.8371168356982, 120.432725244 23.8372126126982, 120.43256818 23.8373513586982, 120.432480813 23.8374309296982, 120.432084314 23.8377832706982, 120.43187867 23.8379644296982, 120.431598968 23.8382162056982, 120.431453312 23.8383494486982, 120.431339455 23.8384504386982, 120.431233461 23.8385443416982, 120.43112551 23.8386413446982, 120.431037027 23.8387199356982, 120.430986394 23.8387650406982, 120.430944828 23.8387906026983, 120.430903859 23.8388122306982, 120.430863073 23.8388299946982, 120.430849354 23.8388334196982, 120.430643568 23.8388486146982, 120.430543492 23.8388528136983, 120.4302831 23.8388695586982, 120.430107409 23.8388828416982, 120.429795013 23.8389034286982, 120.429557568 23.8389208256982, 120.429331304 23.8389360516983, 120.429121342 23.8389521496983, 120.428938209 23.8389631826982, 120.428707524 23.8389792576982, 120.428529404 23.8389910846982, 120.428346404 23.8390055036982, 120.428183773 23.8390177586983, 120.428065569 23.8390256446982, 120.427866265 23.8390332126983, 120.427833311 23.8390401236983, 120.427789171 23.8390436616982, 120.427705951 23.8390519036982, 120.427592347 23.8390606916982, 120.427479423 23.8390712256982, 120.427353128 23.8390820066983, 120.427199831 23.8390967776982, 120.427029124 23.8391125226982, 120.426885928 23.8391272326982, 120.426724014 23.8391369956982, 120.426596324 23.8391435636982, 120.426424207 23.8391496226982, 120.426415704 23.8391499006982, 120.426171764 23.8391578666982, 120.426103301 23.8391385866982, 120.426076839 23.8391424876983, 120.426025921 23.8391559506982, 120.425982785 23.8391701286982, 120.425906701 23.8392051506982, 120.425717517 23.8393040856982, 120.425463152 23.8394409096983, 120.425401748 23.8394745766982, 120.425223732 23.8395721806983, 120.425013192 23.8396854106983, 120.424840752 23.8397819536982, 120.424819321 23.8397939526982, 120.424670361 23.8399177136982, 120.424563627 23.8399756186982, 120.42418276 23.8401961216983, 120.424036082 23.8402825276983, 120.423953696 23.8403310596983, 120.423754807 23.8404352116983, 120.423226807 23.8407157406983, 120.422974344 23.8408564496983, 120.42267951 23.8410086836983, 120.422287031 23.8412163526983, 120.422252204 23.8412350226983, 120.42104044 23.8418845956983, 120.42098371 23.8419141966983, 120.420383193 23.8422390756983, 120.420359063 23.8422436076983, 120.420340687 23.8422391776983, 120.420129784 23.8421274216983, 120.419842522 23.8419754486983, 120.419105927 23.8415903036983, 120.418854964 23.8414371206982, 120.41863185 23.8412092066983, 120.41805843 23.8405912426983, 120.417939578 23.8404404986983, 120.417780777 23.8402495586983, 120.417614119 23.8400417836983, 120.417454585 23.8398676296982, 120.417412981 23.8398222126983, 120.417359818 23.8397799526983, 120.417308844 23.8397422156983, 120.41724926 23.8397132766983, 120.417215788 23.8397018096983, 120.416984789 23.8396603206983, 120.416598608 23.8396001136983, 120.416280822 23.8395493956983, 120.416244932 23.8395436676982, 120.415998138 23.8395023076982, 120.415733622 23.8394610256982, 120.41497512 23.8393380556982, 120.414955362 23.8393349276982, 120.414731681 23.8392995146982, 120.414376322 23.8392423626982, 120.414150233 23.8392066866983, 120.413938756 23.8391723886983)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_05",
+    "description": "",
+    "geometry": "LINESTRING(120.397804349 23.8198346956978, 120.397804424 23.8198346916978, 120.399214749 23.8199314566978, 120.399468799 23.8199488856978, 120.400193845 23.8199993836978, 120.400625598 23.8200200976978, 120.400630078 23.8200203126978, 120.401041136 23.8200499996978, 120.40266539 23.8201372136978, 120.403290238 23.8201813396978, 120.403526131 23.8201830376978, 120.403993983 23.8201771806978, 120.404119734 23.8201765006978, 120.404746013 23.8201731126978, 120.405470507 23.8201811196978, 120.405765626 23.8201696126978, 120.406384135 23.8201655916978, 120.40693004 23.8201391346978, 120.408063593 23.8201352676978, 120.40881112 23.8201194176978, 120.409285104 23.8201179836978, 120.410084371 23.8201088566978, 120.410824518 23.8200878786978, 120.411325283 23.8200848176978, 120.411510877 23.8201018556978, 120.411869233 23.8200916106978, 120.4120551 23.8200910346978, 120.412711234 23.8200807386978, 120.413578455 23.8200636686978, 120.413873228 23.8200586126978, 120.414039984 23.8200562576978, 120.414508032 23.8200483386978, 120.414813418 23.8200424906978, 120.415200563 23.8200364916978, 120.415530841 23.8200305476978, 120.415768323 23.8200236366978, 120.415946455 23.8200099726978, 120.416324147 23.8199757996978, 120.41675337 23.8199364206978, 120.417063496 23.8199088986978, 120.417511394 23.8198745176978, 120.417551529 23.8198717616978, 120.417648364 23.8198538246978, 120.417966185 23.8197976066978, 120.417982017 23.8197957426978, 120.418156386 23.8197752156978, 120.41844598 23.8197411226978, 120.418533214 23.8197303906978, 120.418604511 23.8197211326978, 120.418701141 23.8197095336978, 120.418816758 23.8196987726978, 120.418959187 23.8196866406978, 120.419132318 23.8196630576978, 120.419298757 23.8196412196978, 120.419494159 23.8196129526978, 120.419614986 23.8195935966978, 120.421076504 23.8193594666978, 120.421352118 23.8193232266978, 120.421639165 23.8192718156978, 120.421989779 23.8192122086978, 120.422509027 23.8191244816978, 120.422786612 23.8190684816978, 120.423158422 23.8189805896978, 120.423268505 23.8189733976978, 120.423272935 23.8189731086978, 120.424419601 23.8183671616978, 120.424591103 23.8182650196977, 120.424804375 23.8181230406978, 120.425068107 23.8179403916978, 120.42580989 23.8174615676978, 120.426233113 23.8172152206977, 120.426457303 23.8170872936977, 120.426950307 23.8168002826977, 120.42723514 23.8166677406978, 120.427546798 23.8165391886977, 120.427561266 23.8165340636977, 120.427655763 23.8165005856977, 120.427749959 23.8164612866977, 120.427873988 23.8164093576977, 120.427992911 23.8163603536977, 120.428101513 23.8163168906977, 120.428268232 23.8162502396977, 120.428359151 23.8162128786977, 120.428447109 23.8161770596977, 120.428533855 23.8161379946977, 120.428595915 23.8161105036977, 120.429037383 23.8159398766977, 120.429076219 23.8159248666977, 120.429307745 23.8158351396977, 120.429449182 23.8157791656977, 120.42968963 23.8156710506977, 120.429901111 23.8156267756977, 120.430080059 23.8155910206977, 120.430213015 23.8155667346977, 120.430278714 23.8155541766977, 120.430279564 23.8155540146977, 120.430584629 23.8154958356977, 120.430801271 23.8154538716977, 120.431030727 23.8154135436977, 120.431031078 23.8154134816977, 120.43132448 23.8153582286977, 120.431589189 23.8153084046977, 120.431779199 23.8152720026977, 120.432142543 23.8152042926977, 120.432346714 23.8151661266977, 120.432488966 23.8151390476977, 120.432595413 23.8151190506977, 120.433066176 23.8150309386977, 120.433338067 23.8149791596977, 120.433578488 23.8149351576977, 120.433820478 23.8148890476977, 120.434020684 23.8148529056977, 120.434304586 23.8147990846977, 120.434600203 23.8147436256977, 120.434872348 23.8146895516977, 120.435127119 23.8146427916977, 120.435317641 23.8146080036977, 120.435577018 23.8145579546977, 120.435723106 23.8145309666977, 120.435974585 23.8144849246977, 120.436251091 23.8144321736977, 120.43641661 23.8144029356977, 120.43658157 23.8143715016977, 120.436826913 23.8143259776977, 120.436958015 23.8142961076977, 120.437215936 23.8142309446977, 120.437425871 23.8141709416977, 120.437631158 23.8141074726977, 120.437845144 23.8140321066977, 120.438047345 23.8139581066977, 120.438122908 23.8139299746977, 120.438360454 23.8138305856977, 120.438478787 23.8137757466977, 120.43884439 23.8135986456977, 120.439069414 23.8134778366977, 120.439288319 23.8133511176976, 120.439379557 23.8132886046977, 120.439395135 23.8132820176977, 120.439505971 23.8132351516977, 120.43952243 23.8132281926977, 120.439606361 23.8131983816977, 120.439607287 23.8131980536977, 120.43960089 23.8131857776977, 120.439931563 23.8130060536976, 120.4400712 23.8129264416977, 120.440072139 23.8129260086976, 120.440263402 23.8128378106977, 120.440742115 23.8125747476976, 120.44119798 23.8123182376976, 120.441604873 23.8120815666977, 120.44205561 23.8118255596976, 120.442594714 23.8115253896976, 120.443135462 23.8112328636976, 120.443493565 23.8110276786976, 120.443977846 23.8107747116976, 120.444194842 23.8106474936976, 120.444199041 23.8106450316976, 120.444262466 23.8106182626976, 120.444515053 23.8104595486976, 120.44466648 23.8103547376976, 120.444708436 23.8102923316976, 120.444709263 23.8102918686976, 120.445186207 23.8100250076976, 120.445731664 23.8097160556976, 120.44611431 23.8095049386976, 120.446233478 23.8094458886976, 120.446361595 23.8093940856976, 120.446509554 23.8093452526976, 120.446589574 23.8093253586975, 120.4467625 23.8092924426976, 120.447172221 23.8092155176976, 120.447867316 23.8090805506976, 120.44832146 23.8089930276976, 120.448846935 23.8088929536976, 120.449607351 23.8087483426976, 120.450223902 23.8086311896976, 120.450411921 23.8085935736976, 120.450525897 23.8085620876975, 120.450629343 23.8085228706976, 120.450631183 23.8085221726975, 120.450959487 23.8083903636976, 120.451057644 23.8083607626976, 120.451348509 23.8082517816975, 120.451351002 23.8082508506975, 120.451937204 23.8080318566976, 120.452560831 23.8077987616976, 120.453296892 23.8075218086975, 120.453905335 23.8072952276975, 120.454314716 23.8071420456975, 120.454913168 23.8069170686976, 120.455099394 23.8068471966975, 120.455786261 23.8065905556975, 120.456557556 23.8063027406975, 120.457376634 23.8059931386975, 120.457671066 23.8058828666975, 120.458137393 23.8057073906975, 120.458550202 23.8055538126975, 120.45863243 23.8055225956975, 120.458836303 23.8054451976975, 120.459186745 23.8053149116975, 120.459247565 23.8052853816975, 120.459345556 23.8052475836975, 120.459443099 23.8052327186975)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_06",
+    "description": "",
+    "geometry": "LINESTRING(120.297808503 23.8094423956976, 120.297973464 23.8094593696975, 120.298143149 23.8094768306976, 120.298362601 23.8095018556976, 120.298508464 23.8095311226976, 120.298510681 23.8095315676976, 120.298609406 23.8095377236976, 120.299005554 23.8095873346976, 120.299355334 23.8096289416976, 120.299587747 23.8096565976976, 120.299854716 23.8096894846976, 120.300061638 23.8097161026976, 120.300346535 23.8097493776976, 120.300716111 23.8097965156976, 120.30105531 23.8098370966976, 120.301542541 23.8098962246976, 120.301977118 23.8099486566976, 120.302135694 23.8099665116976, 120.302452288 23.8100096506976, 120.302833534 23.8100552656976, 120.303239123 23.8101072566976, 120.303575958 23.8101495716976, 120.303946677 23.8101946406976, 120.304323102 23.8102388936976, 120.304510946 23.8102621576976, 120.304662227 23.8102808926976, 120.305098582 23.8103333686976, 120.305346438 23.8103634206976, 120.305354906 23.8103644466976, 120.305521838 23.8103873116976, 120.305770984 23.8104173176976, 120.306010989 23.8104461536976, 120.30616473 23.8104656266976, 120.306410074 23.8104945856976, 120.306735762 23.8105351196976, 120.307091673 23.8105784706976, 120.307438397 23.8106202806976, 120.307578051 23.8106373026976, 120.307750291 23.8106582946976, 120.308079735 23.8106995206976, 120.308474177 23.8107465896976, 120.308816003 23.8107886096976, 120.30903002 23.8108159876976, 120.309228952 23.8108361206976, 120.309589443 23.8108842176976, 120.309812891 23.8109116196976, 120.310073315 23.8109436736976, 120.310238707 23.8109647656976, 120.310598321 23.8110081166976, 120.310606581 23.8110091216976, 120.311157628 23.8110761686976, 120.311311041 23.8110966636976, 120.311597655 23.8111312886976, 120.312005642 23.8111823366976, 120.312273676 23.8112154596976, 120.312405943 23.8112317876976, 120.313088593 23.8113152626976, 120.31364393 23.8113830896976, 120.314078637 23.8114369246977, 120.31422914 23.8114468716976, 120.314229211 23.8114468756976, 120.315992613 23.8116690086976, 120.316942882 23.8117594326976, 120.318044603 23.8118407686976, 120.318401597 23.8118661026976, 120.319100743 23.8119194296976, 120.319675693 23.8119611366976, 120.320396433 23.8120048016976, 120.321138717 23.8120328646976, 120.321724096 23.8120549076976, 120.321807339 23.8120592446977, 120.321947984 23.8120665736976, 120.322750849 23.8120933876976, 120.322755342 23.8120936816977, 120.32290015 23.8121031626976, 120.323275202 23.8121175856977, 120.323732606 23.8121374606976, 120.32419242 23.8121562616976, 120.324506565 23.8121687886977, 120.324939189 23.8121847236976, 120.325760477 23.8122133996976, 120.326368755 23.8122390286977, 120.32653579 23.8122509816976, 120.327094719 23.8122714616976, 120.327956525 23.8121774846977, 120.32851427 23.8121190286976, 120.329041109 23.8120628476976, 120.32986897 23.8119734886976, 120.330317848 23.8119202506976, 120.330487986 23.8119069666976, 120.330769765 23.8118791786976, 120.331090251 23.8118456696976, 120.331644748 23.8117867276976, 120.332175241 23.8117293686976, 120.332490029 23.8116910836976, 120.332657807 23.8116766946976, 120.333109772 23.8116335566976, 120.333729837 23.8115666916976, 120.334259369 23.8115086886976, 120.334642444 23.8114645446976, 120.334763467 23.8114520106976, 120.335433742 23.8113806686976, 120.335951104 23.8113245766976, 120.337264568 23.8111793716976, 120.337354769 23.8111721676976, 120.337404799 23.8111681726976, 120.338024118 23.8111045106976, 120.338628378 23.8110478206976, 120.338758044 23.8110386366976, 120.339287559 23.8110011326976, 120.339740895 23.8109831096976, 120.340010424 23.8109801736976, 120.340188139 23.8109818816976, 120.340590296 23.8109906896976, 120.341096155 23.8110138896976, 120.341249003 23.8110248726976, 120.341250483 23.8110249966976, 120.341538642 23.8110491426976, 120.341713605 23.8110673076976, 120.342267704 23.8111346196976, 120.343151269 23.8112787736976, 120.343578833 23.8113635686976, 120.343797767 23.8114069866976, 120.343830534 23.8114134856976, 120.343921483 23.8114361016976, 120.3445848 23.8116010456976, 120.344804663 23.8116624676977, 120.344957997 23.8116984016976, 120.344960485 23.8116989846976, 120.34533461 23.8118108316976, 120.345565532 23.8118822226976, 120.346145324 23.8120900096976, 120.346707007 23.8123101976976, 120.347434398 23.8126240416976, 120.348036149 23.8128912196977, 120.348361668 23.8130387096977, 120.348488586 23.8130956516976, 120.349035165 23.8133372746977, 120.349915509 23.8137289546977, 120.350687223 23.8140734446977, 120.35141052 23.8143916236977, 120.351860885 23.8145904836977, 120.351875977 23.8146010306977, 120.35201057 23.8146565666977, 120.352171928 23.8147279536977, 120.352737478 23.8149781766977, 120.353319793 23.8152384366977, 120.353902139 23.8154948736977, 120.354031863 23.8155531426977, 120.354776628 23.8158829576977, 120.354957856 23.8159625556977, 120.354988485 23.8159758166977, 120.355190698 23.8160633676977, 120.35549242 23.8161955196978, 120.355567308 23.8162298866977, 120.35574138 23.8163097706977, 120.356017392 23.8164315736977, 120.356269405 23.8165439676977, 120.356365833 23.8165862356977, 120.3566142 23.8166951046978, 120.356924527 23.8168384046978, 120.357241765 23.8169774976977, 120.357680607 23.8171723026978, 120.357956851 23.8172995396977, 120.358111535 23.8173641106977, 120.358117285 23.8173665106978, 120.358450819 23.8175152946977, 120.358820855 23.8176759676978, 120.35915538 23.8178253866978, 120.359480839 23.8179562566978, 120.359734399 23.8180225556977, 120.35983624 23.8180394616978, 120.359935465 23.8180559326978, 120.360126846 23.8180769076978, 120.360305307 23.8180871146977, 120.36033111 23.8180885906978, 120.360511047 23.8180917026978, 120.360778464 23.8180843596978, 120.360912786 23.8180902656977, 120.360915281 23.8180903416978, 120.361432377 23.8181060666978, 120.361664264 23.8181027916978, 120.362069101 23.8180984446978, 120.36234474 23.8180935436978, 120.362653984 23.8180965196978, 120.362757594 23.8180975166977, 120.363184511 23.8180957766978, 120.363379995 23.8180982706978, 120.3635849 23.8181008836978, 120.36420757 23.8180620026978, 120.364360289 23.8180977296978, 120.364377893 23.8181123846978, 120.364805961 23.8180940486977, 120.364950406 23.8180814156978, 120.365141885 23.8180601626978, 120.365431028 23.8180233306978, 120.36570643 23.8179864946977, 120.365839333 23.8179685906978, 120.366395577 23.8178991776978, 120.366638558 23.8178630106978, 120.366855801 23.8178334196978, 120.367352186 23.8177626526978, 120.367436748 23.8177468006978, 120.367674565 23.8177207506977, 120.367747017 23.8177184416978, 120.368110376 23.8177385556978, 120.368308292 23.8177499846978, 120.368756973 23.8177774746977, 120.369158807 23.8178113456978)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_07",
+    "description": "",
+    "geometry": "LINESTRING(120.459443099 23.8052327186975, 120.459443324 23.8052326846975, 120.459567471 23.8052201896975, 120.459792194 23.8051924606975, 120.460379305 23.8051213676974, 120.460850129 23.8050603036975, 120.461034961 23.8050295446975, 120.461218259 23.8049926036975, 120.461477543 23.8049321716975, 120.461631544 23.8048886716975, 120.461720881 23.8048571816975, 120.461857386 23.8048034356975, 120.46195421 23.8047556456975, 120.462065189 23.8046940256975, 120.462106924 23.8046709616975, 120.462268889 23.8045815876974, 120.462685613 23.8043519916974, 120.463157787 23.8040905056974, 120.463669559 23.8038046946975, 120.464510526 23.8033400666974, 120.465044541 23.8030421746974, 120.46511693 23.8030052416974, 120.465507627 23.8028527956974, 120.466054555 23.8025589266974, 120.466164675 23.8025008046974, 120.466640012 23.8022443786974, 120.467272725 23.8019030506974, 120.467535242 23.8017672036974, 120.467879874 23.8015890576974, 120.468510217 23.8012636646974, 120.46926384 23.8008738616974, 120.469404192 23.8008015126974, 120.469819485 23.8005850656974, 120.470259279 23.8003590676974, 120.470677462 23.8001406696973, 120.47075517 23.8000957976974, 120.470761139 23.8000926626974, 120.470852468 23.8000446996974, 120.471187583 23.7998711296974, 120.471202052 23.7998636356974, 120.471626599 23.7996503856974, 120.471681412 23.7996224546973, 120.471833013 23.7995461596974, 120.471954608 23.7994789626973, 120.472163253 23.7993568926974, 120.472370553 23.7992372556973, 120.472465595 23.7991840076974, 120.472522671 23.7991521306973, 120.472832081 23.7989734366973, 120.473137598 23.7987963716973, 120.473194099 23.7987658546974, 120.473313644 23.7987053406973, 120.473471811 23.7986357746973, 120.473651739 23.7985600346973, 120.473777359 23.7985089406973, 120.473828982 23.7984857666973, 120.47397864 23.7984236836973, 120.474344282 23.7982723306973, 120.474335737 23.7982527606973)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_08",
+    "description": "",
+    "geometry": "LINESTRING(120.643891262 23.7712627426967, 120.643773726 23.7714042676967, 120.643517225 23.7717146866968, 120.643204458 23.7720965616968, 120.642802315 23.7725796636968, 120.642683219 23.7727269746967, 120.64253506 23.7729103166968, 120.642467631 23.7729696266968, 120.642421499 23.7730289666967)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_09",
+    "description": "",
+    "geometry": "LINESTRING(120.459093223 23.8051812266975, 120.458461589 23.8052799966975, 120.457821152 23.8053952846975, 120.457584278 23.8054255406975, 120.457584711 23.8054652636975, 120.457306284 23.8054603656975, 120.457039735 23.8054639966975, 120.456679909 23.8055094846975, 120.456264389 23.8055311356975, 120.456040362 23.8055470596975, 120.455901265 23.8055456226975, 120.455450825 23.8055493956975, 120.455257962 23.8055756766975, 120.455100057 23.8056088356975, 120.454771836 23.8057679046975, 120.454564712 23.8058578656975, 120.453990105 23.8061153146975, 120.453725829 23.8063025446975, 120.453397043 23.8065278316975, 120.452929026 23.8068751186975, 120.45240145 23.8072750336975)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_10",
+    "description": "",
+    "geometry": "LINESTRING(120.594254531 23.7794655906969, 120.594069752 23.7794809066969, 120.593918668 23.7794995716969, 120.593731912 23.7795168146969, 120.593601401 23.7795359566969, 120.593340577 23.7795870016969, 120.593190467 23.7796329736969, 120.592987894 23.7796973086969, 120.59280619 23.7797430436969, 120.59270097 23.7797764016969, 120.592502184 23.7798217026969, 120.592187197 23.7798975596969, 120.59187995 23.7799645976969, 120.591295219 23.7800782966969, 120.590756671 23.7801921516969, 120.590119084 23.7803206326969, 120.590014873 23.7803445826969, 120.589706058 23.7804133446969, 120.589302252 23.780503994697, 120.589011661 23.7805808226969, 120.588919446 23.7805748346969, 120.58806195 23.780745539697, 120.587555896 23.7808499256969, 120.587030563 23.7809533466969, 120.586871245 23.7809900956969, 120.586193521 23.7810897566969, 120.5861542 23.7810693076969, 120.585985948 23.7810832796969, 120.585929969 23.7810879286969, 120.585888653 23.781091359697, 120.585601294 23.781113649697, 120.585192705 23.7811265756969, 120.584434664 23.7811438786969, 120.583779275 23.781152560697, 120.58330696 23.781170583697, 120.582928642 23.7811895446969, 120.582683486 23.781195636697, 120.582331832 23.781207037697, 120.581872687 23.781221290697, 120.581602216 23.781230390697, 120.58120601 23.7812434296969, 120.580799354 23.7812564216969, 120.580520244 23.781272982697, 120.580513492 23.781273280697, 120.580030726 23.7812852776969, 120.57963279 23.781299003697, 120.579164732 23.781311317697, 120.578659756 23.781333823697, 120.578457855 23.7813419866969, 120.578391995 23.7813483226969, 120.578336621 23.7813536486969, 120.578323682 23.781354893697, 120.578172829 23.781412939697, 120.577975928 23.781376689697, 120.577442544 23.7814242256969, 120.577133037 23.7814552436969, 120.576592248 23.7815077046969, 120.575773201 23.7815887826969, 120.575543277 23.7816117176969, 120.574233002 23.781747248697, 120.574101679 23.781758299697, 120.573109555 23.781853513697, 120.572683216 23.781895748697, 120.572232987 23.781943018697, 120.57182092 23.7819803606969, 120.57137787 23.782019430697, 120.570908114 23.7820696306969, 120.570526735 23.7821084006969, 120.569959014 23.782164438697, 120.569113771 23.782254238697, 120.568854011 23.7822932976969, 120.56870455 23.782326714697, 120.568093696 23.782378633697, 120.568022649 23.782382391697, 120.567407102 23.782454240697, 120.567309407 23.782455763697, 120.566822829 23.7825002966969, 120.566439351 23.7825408836969, 120.566024095 23.782586029697, 120.565948012 23.782588804697, 120.565884371 23.782603208697, 120.565835979 23.782611496697, 120.56571171 23.782616736697, 120.565526388 23.782645923697, 120.565222983 23.782684456697, 120.56497604 23.782715214697, 120.56420376 23.782807654697, 120.564022023 23.782832677697, 120.563772192 23.782862464697, 120.563395915 23.782908906697, 120.562968823 23.782963112697, 120.562560794 23.783009028697, 120.562243362 23.783048780697, 120.561909523 23.783094887697, 120.561471382 23.783145816697, 120.561154043 23.783192898697, 120.561048527 23.783203136697, 120.560805689 23.783245228697, 120.560690549 23.783251988697, 120.560196171 23.783312352697, 120.560031036 23.783334059697, 120.559692874 23.783378315697, 120.559304025 23.783427420697, 120.55905104 23.783457922697, 120.558572394 23.783534344697, 120.558309517 23.783568005697, 120.55779796 23.783630127697, 120.55765901 23.783652718697, 120.556892347 23.783753945697, 120.556654031 23.783790220697, 120.556463089 23.783808904697, 120.556284531 23.783833069697, 120.556121167 23.783855643697, 120.555995929 23.783874191697, 120.555565053 23.783931391697, 120.555307512 23.783965296697, 120.554986611 23.784008093697, 120.554755932 23.784037542697, 120.554454929 23.784080820697, 120.554268303 23.784108155697, 120.554060756 23.784136171697, 120.553815592 23.784168755697, 120.553555927 23.784206498697, 120.553292317 23.784241538697, 120.552900663 23.784291548697, 120.552639206 23.784325275697, 120.552377853 23.784360049697, 120.552151992 23.784391954697, 120.551599758 23.784467790697, 120.551517951 23.784479589697, 120.551170282 23.784510588697, 120.550970328 23.784544374697, 120.550597796 23.7845944526971, 120.550136453 23.7846560456971, 120.549661395 23.784716684697, 120.549398394 23.784753688697, 120.548972156 23.784813122697, 120.548696547 23.784852715697, 120.548285159 23.784907740697, 120.547875078 23.7849595976971, 120.547795491 23.7849701486971, 120.547533566 23.7850048716971, 120.547275626 23.785043026697, 120.546868243 23.785100099697, 120.546471983 23.7851473806971, 120.546092452 23.7851973366971, 120.545709203 23.785249980697, 120.545417339 23.785290666697, 120.545080831 23.785333469697, 120.544932154 23.7853547936971, 120.544777329 23.785377000697, 120.544519497 23.7854056046971, 120.544204394 23.7854524956971, 120.543788137 23.785510201697, 120.543585277 23.785537729697, 120.543338171 23.785571519697, 120.54303059 23.7856083076971, 120.542773304 23.7856374156971, 120.541904301 23.785756577697, 120.54138229 23.785826216697, 120.540990287 23.7858725566971, 120.540312885 23.7859675286971, 120.539724636 23.7860491646971, 120.539386034 23.786094792697, 120.538826335 23.7861716246971, 120.538537988 23.7862074776971, 120.538400022 23.786221954697, 120.538275337 23.7862325896971, 120.538011638 23.7862405776971, 120.537510257 23.7862610176971, 120.537053795 23.7862873526971, 120.536120191 23.7863447236971, 120.535343165 23.786379326697, 120.534713448 23.786413060697, 120.533904023 23.7864607606971, 120.533346285 23.7864956996971, 120.53257048 23.7865399906971, 120.532090308 23.7865691436971, 120.531947772 23.7865777976971, 120.530619687 23.786658201697, 120.530044529 23.7866852466971, 120.529459298 23.7867227106971, 120.529053111 23.7867487106971, 120.528865792 23.7867592906971, 120.528484482 23.7868149726971, 120.528075371 23.7868747126971, 120.52747925 23.7869594836971, 120.527137455 23.7870071876971, 120.526973117 23.7870303546971, 120.526719945 23.7870660456971, 120.52650135 23.7870963466971, 120.526074821 23.7871582266971, 120.525835852 23.7871918596971, 120.525560332 23.7872334976971, 120.52533149 23.7872669716971, 120.525085708 23.7873014756971, 120.524974024 23.7873171146971, 120.524934651 23.7873249496971, 120.524694155 23.7873728056971, 120.524536952 23.7874013966971, 120.524315875 23.7874418906971, 120.524145393 23.7874714156971, 120.523916077 23.7875027546971, 120.523626232 23.7875436316971, 120.52326939 23.7875944326971, 120.522873095 23.7876496066971, 120.522494817 23.7877018656971, 120.522306194 23.7877249216971, 120.521904117 23.7877834256971, 120.521539783 23.7878324926971, 120.521459624 23.7878432776971, 120.521259499 23.7878719496971, 120.521047025 23.7879021086971, 120.520826206 23.7879335326971, 120.520653721 23.7879572866971, 120.520474482 23.7879820576971, 120.520296959 23.7880073216971, 120.520114423 23.7880318296971, 120.519714844 23.7880883226971, 120.51750162 23.7883954796971, 120.516912305 23.7884801936971, 120.516352863 23.7885558256971, 120.515990202 23.7886052726971, 120.515636105 23.7886551346971, 120.51532575 23.7887004546971, 120.515033888 23.7887390066971, 120.513035267 23.7890191966971, 120.512528889 23.7890893566971, 120.512497709 23.7890936946971, 120.512167389 23.7891396466971, 120.511900213 23.7891783606971, 120.511629722 23.7892163776971, 120.511284962 23.7892641726971, 120.511002217 23.7893061206971, 120.511000991 23.7893062986971, 120.510989868 23.7893079106971, 120.51080228 23.7893341136971, 120.510593178 23.7893640516971, 120.510246351 23.7894133276971, 120.509991293 23.7894492236972, 120.509547655 23.7895137126971, 120.509229976 23.7895589796971, 120.508992595 23.7895935666972, 120.508879164 23.7896056576971, 120.508399432 23.7896786066971, 120.507974794 23.7897395486971, 120.50759938 23.7897941366972, 120.507199277 23.7898644916972, 120.50680609 23.7899350206971, 120.506641808 23.7899708946972, 120.506536213 23.7899935916971, 120.506277185 23.7900492696972, 120.505922535 23.7901294016972, 120.50557448 23.7902143486972, 120.505505835 23.7902313486972, 120.505295125 23.7902835316972, 120.504942751 23.7903813936972, 120.504690681 23.7904537576971, 120.504664139 23.7904613776971, 120.504502055 23.7905099246971, 120.504297793 23.7905694316972, 120.504223172 23.7905911706971, 120.503805933 23.7907155586972, 120.503464829 23.7908168206971, 120.503457839 23.7908188286972, 120.503214281 23.7908887746972, 120.503090953 23.7909255186972, 120.502978615 23.7909589886972, 120.5027145 23.7910373996972, 120.502461232 23.7911137006972, 120.502328692 23.7911557716972, 120.50232298 23.7911575846972, 120.502321313 23.7911581136972, 120.501944431 23.7912718176972, 120.501622646 23.7913680006972, 120.501042918 23.7915444976972, 120.500647604 23.7916610286972, 120.500627709 23.7916669126972, 120.500073667 23.7918307656972, 120.499621014 23.7919687186972, 120.499153053 23.7921137696972, 120.498880196 23.7921948766972, 120.49841435 23.7923333486972, 120.498332266 23.7923616206972)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_11",
+    "description": "",
+    "geometry": "LINESTRING(120.593990305 23.7793387086969, 120.594197018 23.7792647636969, 120.595405647 23.7788371566969, 120.59594642 23.7786508906969, 120.596118984 23.7785874036969, 120.596120741 23.7785867576969, 120.596490152 23.7784368366969, 120.596888251 23.7782970766969, 120.597104259 23.7782242656969, 120.597447016 23.7780977506969, 120.597540689 23.7780598346969, 120.598116063 23.7778733536969, 120.598285683 23.7778247996968, 120.59868846 23.7777066466969, 120.598970786 23.7775950776969, 120.599040541 23.7775653526969, 120.599278364 23.7774654266969, 120.599839643 23.7774616276968, 120.600221616 23.7776630726969)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_12",
+    "description": "",
+    "geometry": "LINESTRING(120.532603499 23.7774435506968, 120.532263247 23.7775419726969, 120.531818807 23.7776609276969, 120.531706987 23.7777115796968, 120.531591892 23.7777805866969, 120.531409576 23.7779154876969, 120.531387215 23.7779074186969, 120.531144608 23.7782137536969, 120.531151875 23.7782666346969, 120.531065873 23.7783765446969, 120.530971902 23.7784976446969, 120.530876389 23.7786219446969, 120.530785291 23.7787215536969, 120.530647389 23.7788870366969, 120.530608946 23.7789279956969, 120.530594121 23.7789387496969, 120.53058442 23.7789435416969, 120.530515667 23.7790383586969, 120.530462764 23.7791451656969, 120.530441869 23.7792109476969, 120.530421814 23.7792814126969, 120.530397279 23.7794086306969, 120.53037698 23.7795472826969, 120.53035989 23.7796309976969, 120.530294132 23.7796626546969, 120.530300652 23.7797241396969, 120.530301024 23.7797736136969, 120.530292642 23.7798480826969, 120.530259539 23.780000248697, 120.530229491 23.7801541486969, 120.530193706 23.7803126356969, 120.530162681 23.7804873916969, 120.530137613 23.780639816697, 120.530114269 23.780773844697, 120.5300899 23.7809228316969, 120.530078261 23.7810107266969, 120.530075986 23.7811659746969, 120.53006604 23.7813123966969, 120.530056939 23.7814095186969, 120.530048212 23.781478866697, 120.530021786 23.781572341697, 120.530003693 23.781615755697, 120.529957816 23.781707374697, 120.529930385 23.781777343697, 120.529893067 23.781944557697, 120.529876716 23.782016537697, 120.529860749 23.782066277697, 120.529832984 23.782111910697, 120.529796991 23.7821532286969, 120.52976755 23.782181726697, 120.529743588 23.782195712697, 120.529703277 23.782209974697, 120.529667497 23.782216881697, 120.52957119 23.782222628697, 120.529366996 23.782223333697, 120.52912369 23.782229960697, 120.529007108 23.782231031697, 120.528969248 23.782251196697, 120.528964642 23.782712876697, 120.528952654 23.783365618697, 120.528962972 23.783884500697, 120.528934327 23.784097494697, 120.528923466 23.784154330697, 120.528929278 23.784251533697, 120.528942477 23.784384760697, 120.528930915 23.784464520697, 120.528932443 23.784628512697, 120.52892381 23.784696262697, 120.528931028 23.784743536697, 120.528916663 23.784827783697, 120.528913965 23.7854976746971, 120.528894837 23.7860949976971, 120.528889202 23.7866074476971)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_13",
+    "description": "",
+    "geometry": "LINESTRING(120.541162121 23.7856891606971, 120.541225562 23.785655110697, 120.541799541 23.7853729926971, 120.542162441 23.785133032697, 120.54267777 23.7847674276971, 120.542909638 23.784593352697, 120.54337042 23.784151279697, 120.543632067 23.783889372697, 120.543824907 23.783678585697, 120.544122969 23.783365270697, 120.54427981 23.783204247697, 120.544478956 23.782988277697, 120.544655572 23.782814743697, 120.544850845 23.782623069697, 120.545076025 23.7823888716969, 120.545268255 23.782177656697, 120.545425795 23.782012309697, 120.545596055 23.781820262697, 120.546132444 23.781242599697, 120.546559565 23.780811227697, 120.546762167 23.7806111386969, 120.546861611 23.7804615066969, 120.546955062 23.7800996126969, 120.546985427 23.7800241146969, 120.54703519 23.7799374136969, 120.547063965 23.7798874736969, 120.547096179 23.7798501586969, 120.547147571 23.7798001226969, 120.547212849 23.7797523666969, 120.547273389 23.7797154506969, 120.547334777 23.7796888026969, 120.547409218 23.7796666186969, 120.547476967 23.7796533636969, 120.547572277 23.7796431676969, 120.547684623 23.7796375646969, 120.547830322 23.7796318516969, 120.547904826 23.7796341466969, 120.547974782 23.7796293756969, 120.54806634 23.7796371656969, 120.548105071 23.7796391476969, 120.54817376 23.7796358206969, 120.54830464 23.7796074876969, 120.5483836 23.7795805266969, 120.548699769 23.7794682246969, 120.549171105 23.7793116306969, 120.549386721 23.7792809076969, 120.549724982 23.7792411356969, 120.550405351 23.7791537936969, 120.550796675 23.7791335396969, 120.551323245 23.7791892176969, 120.552059288 23.7793206096969, 120.552214042 23.7793250116969, 120.55260841 23.7793478946969, 120.553457316 23.7793788456969, 120.553539505 23.7793920406969, 120.553726987 23.7793993286969, 120.55395024 23.7794103756969, 120.554230465 23.7794290186969, 120.554507919 23.7794517886969, 120.554978484 23.7794913496969, 120.555139145 23.7795031086969, 120.555287966 23.7795050726969, 120.555647273 23.7794726066969, 120.555775447 23.7794657376969, 120.55585869 23.7795166386969, 120.555979018 23.7794748886969, 120.556436093 23.7793061556969, 120.556550199 23.7792676746969, 120.556646985 23.7792471656969, 120.556905051 23.7792263436969, 120.557251407 23.7792193826969, 120.558496994 23.7791909656969, 120.559073251 23.7791672206969, 120.559375379 23.7791649046969, 120.55977213 23.7791605646969, 120.560041495 23.7791555266969, 120.560176455 23.7792176196969, 120.560217789 23.7792626146969, 120.560246701 23.7792871406969, 120.560340512 23.7793517076969, 120.560392694 23.7793804266969, 120.560468107 23.7794188276969, 120.560532606 23.7794436706969, 120.560628181 23.7794591846969, 120.56074853 23.7794636716969, 120.561008243 23.7794811696969, 120.561175012 23.7794828086969, 120.561289335 23.7794817066969, 120.561372471 23.7794730756969, 120.561479845 23.7795019776969, 120.561564212 23.7794978106969, 120.561727788 23.7795007496969, 120.56208198 23.7795068926969, 120.56213786 23.7795179586969, 120.562296258 23.7795232476969, 120.563273562 23.7795345656969, 120.563445778 23.7795357206969, 120.563641595 23.7795359586969, 120.563840388 23.7795235896969, 120.564021308 23.7794980596969, 120.564208137 23.7794572756969, 120.564343158 23.7794193166969, 120.564693218 23.7793169056969, 120.564767773 23.7792920046969, 120.564807338 23.7792733616969, 120.564860987 23.7792390646969, 120.564913535 23.7791930616969, 120.564945009 23.7791614566969, 120.564975006 23.7791226596969, 120.564994798 23.7790690966969, 120.565072141 23.7787491226969, 120.565129966 23.7784882836969)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_14",
+    "description": "",
+    "geometry": "LINESTRING(120.592085283 23.7769050886968, 120.591923081 23.7770034356968, 120.591488013 23.7772681376969, 120.591058853 23.7775253496969, 120.590969746 23.7775772146969, 120.590683276 23.7777599576969, 120.589945006 23.7782059786969, 120.589940974 23.7782087946969, 120.589885934 23.7782322876969, 120.589746305 23.7783248416969, 120.58945948 23.7784946046969, 120.589250391 23.7786217646969, 120.588998998 23.7787781666969, 120.588783042 23.7789139856969, 120.588779893 23.7789159796969, 120.588715738 23.7789566086969, 120.58868716 23.7789966456969, 120.588618003 23.7792227186969, 120.588586628 23.7792470586969, 120.588063669 23.7793653216969, 120.588043635 23.7793708846969, 120.588034565 23.7793752126969, 120.588021418 23.7793842076969, 120.587749765 23.7796668336969, 120.587536416 23.7798835536969, 120.58715843 23.7802741246969, 120.586848422 23.780592575697, 120.586607939 23.7808621446969)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_15",
+    "description": "",
+    "geometry": "LINESTRING(120.650128561 23.7948418536972, 120.650163216 23.7948766696973, 120.650238882 23.7949697296973, 120.650331445 23.7950779706972, 120.650396461 23.7951572186973, 120.650479619 23.7952560566972, 120.650550205 23.7953479666973, 120.650603789 23.7954201546973, 120.650666855 23.7955059436972, 120.650747833 23.7956162536973, 120.650813646 23.7957062836973, 120.650904288 23.7958284176973, 120.650968484 23.7959175866973, 120.651044086 23.7960204706973, 120.651100828 23.7960971886973, 120.651163291 23.7961809446973, 120.651237908 23.7962853526973, 120.651310314 23.7963833616973, 120.651362424 23.7964525656973, 120.651406985 23.7965082896973, 120.65144856 23.7965577126973, 120.651494267 23.7965996236973, 120.651539007 23.7966430666973, 120.651625772 23.7967260466973, 120.651694021 23.7967894816973, 120.651771227 23.7968616766973, 120.65184295 23.7969324146973, 120.651924443 23.7970090166973, 120.651992655 23.7970756016973, 120.652086232 23.7971651436973, 120.65216363 23.7972390726973, 120.652239027 23.7973121756973, 120.652321095 23.7973904496973, 120.652402483 23.7974695166973, 120.652476263 23.7975347596973, 120.652558472 23.7976003916973, 120.652638538 23.7976638346973, 120.652718105 23.7977227696973, 120.652808436 23.7977825416973, 120.65290047 23.7978438616973, 120.652987786 23.7978934686973, 120.653086956 23.7979469306973, 120.653202497 23.7980107236973, 120.653229474 23.7980254576973, 120.653327674 23.7980802426973, 120.653329433 23.7980812236973, 120.653344856 23.7980864146974, 120.653451248 23.7981327136973, 120.653570394 23.7981806496973, 120.653674453 23.7982185546973, 120.653773542 23.7982511126973, 120.653832553 23.7982685996973, 120.653951646 23.7983030896973, 120.654055432 23.7983333556974, 120.65416227 23.7983671396973, 120.654242281 23.7983924036973, 120.654367698 23.7984289756973, 120.654466375 23.7984577206973, 120.654510892 23.7984715906974, 120.655220744 23.7986869876973, 120.655762 23.7988955166974, 120.656261035 23.7991115056973, 120.656678361 23.7993182466974, 120.656881201 23.7994563316973)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_16",
+    "description": "",
+    "geometry": "LINESTRING(120.613511044 23.8105153566976, 120.613513985 23.8105125616976, 120.613552237 23.8104311106976, 120.613645357 23.8102382256976, 120.613742011 23.8100315086976, 120.613847352 23.8098078906976, 120.614006765 23.8094560426976, 120.614161801 23.8091240486976, 120.614179385 23.8090854276976, 120.614376923 23.8086609946975)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_17",
+    "description": "",
+    "geometry": "LINESTRING(120.54964598 23.8061786856975, 120.550030712 23.8061230396975, 120.550463452 23.8060595676975, 120.550542715 23.8060579206975, 120.550597737 23.8060621986975, 120.550701097 23.8060823646975, 120.550960921 23.8061339666975, 120.55115136 23.8061742606975, 120.551441178 23.8062340036975, 120.55192224 23.8063338066975, 120.552051994 23.8063618636975, 120.552110892 23.8063745896975, 120.552468141 23.8064490466975, 120.552534775 23.8064631496975, 120.552736291 23.8065057986975, 120.553013599 23.8065621346975, 120.553185477 23.8065976946975, 120.553359065 23.8066356886975, 120.5535059 23.8066680056975, 120.55355104 23.8066807326975, 120.553595643 23.8067013416975, 120.553831441 23.8068172506975, 120.554074688 23.8069303186975, 120.554291393 23.8070335026975, 120.554517065 23.8071404876975, 120.554730595 23.8072424256975, 120.554930052 23.8073384436975, 120.555176961 23.8074574166975, 120.555179494 23.8074586436976, 120.555327144 23.8075301686975, 120.555396232 23.8075540696975, 120.555421314 23.8075585016976, 120.555454728 23.8075644056975, 120.555505153 23.8075671966975, 120.55557404 23.8075723076975, 120.555664638 23.8075684506976, 120.555758382 23.8075623686975, 120.555767914 23.8075617506975, 120.555900203 23.8074849046975, 120.55590522 23.8074819896975, 120.555909753 23.8074764316976, 120.555914928 23.8074726446975, 120.555923935 23.8074705036975)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_18",
+    "description": "",
+    "geometry": "LINESTRING(120.555923935 23.8074705036975, 120.555930507 23.8074713626975, 120.555936136 23.8074777976975, 120.555937921 23.8076981806975, 120.555938046 23.8077077686975, 120.55594308 23.8080946506975, 120.555945415 23.8084467126975, 120.555949061 23.8087454956976, 120.555950983 23.8089799006976, 120.555956415 23.8092642136976, 120.555960581 23.8094907966976, 120.555960703 23.8095029696976, 120.555962692 23.8097012476976, 120.555965546 23.8098921506976, 120.555967332 23.8100682786976, 120.555968442 23.8103248496976, 120.555971272 23.8105632216976, 120.555973038 23.8107423286976, 120.555978425 23.8110516896976, 120.55598052 23.8111888916976, 120.555980882 23.8113189016976, 120.555983978 23.8115370476976, 120.555987434 23.8117009456976, 120.555987823 23.8118724276976, 120.555988247 23.8120218506977, 120.555993154 23.8121492076977, 120.555993171 23.8121496526977, 120.555996195 23.8122560656976, 120.555995631 23.8123151996977, 120.555996353 23.8124003056976, 120.555998143 23.8125319446977, 120.556001651 23.8127152736976, 120.556003762 23.8128939576976, 120.55600543 23.8130469336977, 120.5560068 23.8132070416977, 120.556009327 23.8133699696977, 120.556010683 23.8135457896977, 120.556013527 23.8137366926977, 120.556018062 23.8139789066977, 120.556020476 23.8141059696977, 120.556024172 23.8145576056977, 120.556028565 23.8147606036977, 120.556029253 23.8149884766977, 120.55603174 23.8151573736977, 120.556032735 23.8152573886977, 120.556034992 23.8153672856977, 120.556035659 23.8154710736977, 120.556037549 23.8155272166977, 120.556037806 23.8155324006977, 120.556039962 23.8155335716977, 120.556166841 23.8155061076977, 120.556330489 23.8154662246977, 120.556495411 23.8154268966977, 120.556957904 23.8153154006977, 120.557109803 23.8152784546977, 120.557287881 23.8152378356977, 120.557522418 23.8151810086977, 120.557703878 23.8151383766977, 120.557898275 23.8150896316977, 120.55814408 23.8150325646977, 120.558365471 23.8149770256977, 120.558429579 23.8149627436977, 120.55866924 23.8149053876977, 120.558929115 23.8148406116977, 120.559102161 23.8147988666977, 120.55928551 23.8147573396977, 120.559503872 23.8147032976977, 120.55971787 23.8146508966977, 120.559919754 23.8146021886977, 120.560106089 23.8145571026977, 120.560258662 23.8145206876977, 120.560320838 23.8145061736977, 120.560424849 23.8144575756977, 120.560429077 23.8144556006977, 120.560479569 23.8144392656977, 120.560623548 23.8144016786977, 120.560827063 23.8143756216977, 120.560896554 23.8143627536977, 120.56096232 23.8143458926977, 120.561064613 23.8142974146977, 120.561125342 23.8142722866977, 120.561309581 23.8142521876977, 120.56135187 23.8142507376977, 120.561363597 23.8142503366977, 120.561420963 23.8142385716977, 120.561549495 23.8142063666977, 120.561779222 23.8141518846977, 120.562042351 23.8140903636977, 120.56228731 23.8140296666977, 120.56249755 23.8139793276977, 120.562650615 23.8139423156977, 120.562762067 23.8139171336977, 120.562927009 23.8138789886977, 120.563081216 23.8138316406977, 120.563183037 23.8138128586977, 120.563421257 23.8137596536977, 120.563813702 23.8136624766977, 120.564296917 23.8135463306977, 120.564754233 23.8134380116977, 120.564845178 23.8134253106977, 120.564901212 23.8134213246977, 120.564959328 23.8134171176976, 120.565024577 23.8134196856977, 120.565161483 23.8134245776976, 120.565211696 23.8134297216977, 120.565275736 23.8134357626977, 120.565390622 23.8134453866977, 120.565538593 23.8134551396977, 120.565685781 23.8134582906977, 120.565841871 23.8134583596977, 120.565987435 23.8134479426977, 120.566191292 23.8134392786976, 120.566385272 23.8134289886977, 120.566568147 23.8134168076977, 120.566788169 23.8134050906977, 120.567001425 23.8133973826977, 120.56725503 23.8133831506977, 120.567547999 23.8133729196977, 120.567910836 23.8133568526976, 120.568071941 23.8133479856977, 120.568255607 23.8133373116977, 120.568373679 23.8133302106977, 120.568571288 23.8133172376976, 120.568742611 23.8133081266976, 120.569015767 23.8132939826977, 120.56924656 23.8132778506977, 120.569290272 23.8132723016977, 120.569456832 23.8132629606976, 120.569517717 23.8132595456977, 120.56970068 23.8132502596976, 120.569943446 23.8132403086977, 120.570140493 23.8132310876977, 120.570372739 23.8132205286977, 120.570641909 23.8132094676977, 120.570908569 23.8131976766977, 120.571201375 23.8131859576976, 120.57128967 23.8131814746976, 120.571416692 23.8131750256977, 120.571532667 23.8131701376977, 120.571609253 23.8131750636977, 120.571679582 23.8131846856977, 120.571708501 23.8131889926977, 120.571932716 23.8132181126977, 120.572201366 23.8132700106977, 120.572576524 23.8133395766976, 120.572777993 23.8133737426977, 120.57333032 23.8134715276977, 120.573369542 23.8134827066977, 120.57343338 23.8135143506977, 120.573482661 23.8135288356977, 120.573531597 23.8135403936977, 120.573679499 23.8135774896977, 120.573691273 23.8135816576977, 120.574046184 23.8136575936977, 120.574138866 23.8136777686977, 120.574250976 23.8137054106977, 120.574331692 23.8137233046977, 120.574471863 23.8137563696977, 120.574567486 23.8137775816977, 120.574590869 23.8137832016977, 120.574725985 23.8138156726977, 120.574866636 23.8138494066977, 120.575066637 23.8138975806977, 120.575232437 23.8139360606977, 120.575271566 23.8139397806977, 120.575352945 23.8139497386977, 120.575538797 23.8139941156977, 120.575738273 23.8140412396977, 120.575903019 23.8140809896977, 120.576114144 23.8141311966977, 120.576302631 23.8141773956977, 120.576458851 23.8142134376977, 120.576823246 23.8142985126977, 120.577114994 23.8143686156977, 120.577468334 23.8144552656977, 120.577751787 23.8145229426977, 120.577983091 23.8145798666977, 120.578354337 23.8146686226977, 120.578616847 23.8147332156977, 120.578669911 23.8147462726977, 120.578749001 23.8147665076977, 120.578850008 23.8147955156977, 120.578939196 23.8148251866977, 120.579127279 23.8148936756977, 120.57916338 23.8149052506977, 120.579287559 23.8149374816977, 120.579449762 23.8149782686977, 120.579612177 23.8150171956977, 120.579862133 23.8150732916977, 120.58011044 23.8151324976977, 120.58041437 23.8152061396977, 120.580683195 23.8152699616977, 120.580878533 23.8153170576977, 120.58100844 23.8153507626977, 120.581413221 23.8154475526977, 120.581812393 23.8155398616977, 120.582092433 23.8156022026977, 120.582298485 23.8156537786977, 120.582656173 23.8157394446977, 120.582918628 23.8158009426977, 120.583021028 23.8158251866977, 120.583239102 23.8158768176977, 120.583530456 23.8159432956977, 120.583610208 23.8159624546977, 120.583876236 23.8160026596977, 120.584155578 23.8160660966977, 120.584545415 23.8161599716977, 120.584933469 23.8162530376977, 120.585314752 23.8163459856977, 120.58569168 23.8164353346977, 120.586124502 23.8165406086977, 120.586482373 23.8166257616978, 120.58653964 23.8166388816978, 120.586577153 23.8166417986977, 120.58663173 23.8166428576977, 120.586875178 23.8167009206978, 120.587261139 23.8167930446978, 120.587492514 23.8168485726977, 120.587730343 23.8169024206978, 120.588225938 23.8170188456978, 120.588659794 23.8171212166977, 120.589143449 23.8172365496977, 120.589677207 23.8173622096978, 120.590037307 23.8174489036978, 120.590423498 23.8175375266977, 120.590438667 23.8175423706978, 120.590455231 23.8175496556978, 120.59048107 23.8175657556977, 120.590545535 23.8176059226978, 120.590757665 23.8176690536977, 120.59110365 23.8177502546978, 120.591349038 23.8178108076978, 120.591663973 23.8178875716978, 120.592037793 23.8179757156978, 120.592412033 23.8180674796978, 120.592768334 23.8181552316978, 120.593097037 23.8182273346977, 120.593382783 23.8182952596977, 120.593550687 23.8183359656978, 120.59424053 23.8184998006978, 120.594593204 23.8185808396978, 120.594787809 23.8186239076978, 120.594908941 23.8186505196978, 120.595226477 23.8187254686978, 120.595394042 23.8187686186978, 120.595560575 23.8187963616978, 120.595576879 23.8188021196978, 120.5958307 23.8188762596978, 120.596299433 23.8189938526978, 120.596590736 23.8190654886978, 120.59691448 23.8191425806978, 120.597276154 23.8192314386978, 120.59772039 23.8193396716978, 120.59802391 23.8194064156978, 120.598677833 23.8195697216978, 120.598960358 23.8196403196978, 120.599189331 23.8196920676978, 120.599357049 23.8197339676978, 120.599484902 23.8197618126978, 120.599672678 23.8198085056978, 120.599796211 23.8198402126978, 120.599910003 23.8198669016978, 120.600032482 23.8198998526978, 120.600119838 23.8199218136978, 120.600232931 23.8199493316978, 120.600438103 23.8199916246978, 120.600581057 23.8200276446978, 120.600770336 23.8200707726978, 120.601004923 23.8201262166978, 120.601265928 23.8201863786978, 120.601448284 23.8202275286978, 120.601619605 23.8202729936978, 120.60177356 23.8203129586978, 120.601894297 23.8203446396978, 120.601901971 23.8203448406978)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_19",
+    "description": "",
+    "geometry": "LINESTRING(120.53074126 23.8095713586976, 120.530853351 23.8095652256976, 120.531856646 23.8095355686976, 120.532682212 23.8094931856976, 120.533716446 23.8094152296975, 120.534202664 23.8093788556976, 120.534742547 23.8093279776976, 120.535132732 23.8092890176975, 120.535421352 23.8092574616976, 120.535659901 23.8092310186976, 120.535862556 23.8092084136976, 120.53613234 23.8091775306976, 120.536561415 23.8091310176975, 120.537029213 23.8090769716976, 120.53737443 23.8090260966975, 120.538123466 23.8089154256976, 120.538643387 23.8088334846976, 120.538810441 23.8088092166976, 120.53886316 23.8087960736976, 120.538910187 23.8087939926976, 120.539163343 23.8087438216976, 120.539439191 23.8086934936976, 120.53969873 23.8086423206976, 120.539912728 23.8086031836976, 120.540158171 23.8085553446976, 120.540421769 23.8084967606975, 120.540636984 23.8084521456975, 120.540834289 23.8084069526975, 120.541316923 23.8083051166975, 120.541520775 23.8082596536976, 120.541853147 23.8081876556976, 120.542284737 23.8080910916976, 120.542601652 23.8080218896975, 120.543031545 23.8079248316975, 120.543352897 23.8078521376975, 120.543591575 23.8077999276976, 120.543744258 23.8077665296975, 120.544222095 23.8076655376975, 120.544635447 23.8075747286976, 120.544825673 23.8075313756975, 120.54486694 23.8075219716975, 120.545046384 23.8074810756975, 120.545457023 23.8073911776975, 120.545863271 23.8073024746975, 120.546206913 23.8072283236975, 120.546584687 23.8071427506975, 120.546701146 23.8071129066975, 120.546786069 23.8070981036975, 120.54686775 23.8070871646975, 120.54698567 23.8070776236975, 120.547058138 23.8070714256975, 120.547498656 23.8070388756975, 120.547830946 23.8070172396975, 120.548026694 23.8070040096975, 120.548195112 23.8069926266975, 120.548593442 23.8069648256975, 120.548628163 23.8069623406975, 120.548952135 23.8069391556975, 120.549447475 23.8069033386975, 120.549857025 23.8068802616975)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_20",
+    "description": "",
+    "geometry": "LINESTRING(120.474749041 23.8199335476978, 120.475502482 23.8197317896978, 120.476185358 23.8195452856978, 120.476596868 23.8194277276978, 120.476857658 23.8193545166978, 120.477387872 23.8191974246978, 120.477493032 23.8191662676978, 120.477567725 23.8191440616978, 120.478137379 23.8189773636978, 120.478867503 23.8187376066978, 120.478908916 23.8187266486978, 120.479068211 23.8186887866978, 120.479076575 23.8186867986978, 120.479186752 23.8186510896978, 120.479769413 23.8184631376978, 120.479970614 23.8184013426978, 120.48062934 23.8181990236978, 120.480955218 23.8180911886978, 120.481376361 23.8179380556978, 120.482964883 23.8173563066978, 120.483410959 23.8171912966977, 120.483707277 23.8170942106977, 120.48385764 23.8170142966977, 120.484059635 23.8169328846977, 120.484082276 23.8169158046978, 120.484195248 23.8168739006978, 120.484233502 23.8168597116977, 120.484582627 23.8167302136977, 120.484653495 23.8167040026977, 120.484658283 23.8167166516977, 120.484945887 23.8165988386977, 120.485275049 23.8164755246977, 120.48537278 23.8164388776977, 120.485592065 23.8163603116977, 120.486376638 23.8160688976977, 120.487031191 23.8158270266977, 120.487149546 23.8157832916977, 120.487284642 23.8157264936977, 120.487564478 23.8156259676977, 120.487851238 23.8155268726977, 120.48792327 23.8154962756977, 120.48804566 23.8154507126977, 120.488330613 23.8153417506977, 120.488532283 23.8152665896977, 120.488694922 23.8151960936977, 120.488779737 23.8151542606977, 120.488893481 23.8150959366977, 120.488939617 23.8150714026977, 120.488967254 23.8150490826977, 120.489012061 23.8150099566977, 120.48940355 23.8146955576977, 120.490089751 23.8141435306977, 120.490247927 23.8140115996977, 120.490332525 23.8139370056977, 120.490494846 23.8138089616977, 120.490581012 23.8137410946977, 120.490598796 23.8137253556976, 120.490680488 23.8136493426977, 120.49071388 23.8136292466977, 120.490819237 23.8135666406976, 120.490879222 23.8135417276977, 120.490945502 23.8135260006976, 120.491076696 23.8135022606977, 120.491160488 23.8134880816977, 120.491237305 23.8134733816977, 120.491280726 23.8134678366977, 120.491417326 23.8134419206977, 120.491674354 23.8133948746977, 120.491824141 23.8133699326977, 120.491907362 23.8133563916977, 120.492187666 23.8133026586977, 120.492221983 23.8132960806977, 120.492283604 23.8132868566977, 120.492351318 23.8132807406977, 120.49244508 23.8132746476977, 120.492608536 23.8132755466977, 120.49270985 23.8132883316976, 120.492833091 23.8133107956977, 120.492979892 23.8133395496977, 120.493057861 23.8133512736976, 120.493215537 23.8133824296977, 120.493412878 23.8134200266977, 120.493717761 23.8134765146977, 120.49392335 23.8135132256977, 120.494150654 23.8135560676977, 120.494198336 23.8135640976977, 120.494346499 23.8135890486977, 120.494602954 23.8136446766977, 120.494802443 23.8136877776977, 120.495038452 23.8137335906976, 120.495190192 23.8137544216977, 120.495378309 23.8137663876977, 120.495575555 23.8137450096977, 120.495856953 23.8137127276977, 120.496538835 23.8136334086977, 120.496719397 23.8136015556977, 120.496728472 23.8136007516976, 120.496928164 23.8135830756977, 120.497163181 23.8135628486977, 120.497351879 23.8135462166977, 120.497592205 23.8135261956977, 120.497849322 23.8135037096977, 120.49798432 23.8134936836977, 120.498082271 23.8134858126977, 120.498273477 23.8134671746976, 120.498410003 23.8134528826977, 120.498629802 23.8134312036977, 120.498700631 23.8134217276977, 120.498894978 23.8133880466977, 120.49903668 23.8133649396977, 120.499213694 23.8133340286976, 120.499301558 23.8133199656977, 120.49934986 23.8133137116977, 120.499386284 23.8133130266977, 120.499428809 23.8133157196977, 120.49946269 23.8133205886977, 120.499582003 23.8133465376977, 120.499798766 23.8133924886976, 120.500034567 23.8134413716977, 120.50026004 23.8134888846977, 120.500282651 23.8134943846976, 120.500302635 23.8135016816977, 120.500320911 23.8135114476977, 120.500337184 23.8135214686977, 120.500372227 23.8135483096977, 120.500496828 23.8136545676977, 120.500642048 23.8137763046977, 120.500816661 23.8139218216977, 120.500978506 23.8140595226977, 120.501186293 23.8142332366977, 120.501339472 23.8143633786977, 120.501383096 23.8143970376977, 120.501447743 23.8144565706977, 120.501504071 23.8145022526977, 120.501614408 23.8145943316977, 120.501645845 23.8146172776977, 120.501695062 23.8146489506977, 120.501790072 23.8147015206977, 120.501858034 23.8147335326977, 120.501949136 23.8147686356977, 120.501989588 23.8147797826977, 120.502090528 23.8148063486977, 120.502093328 23.8148067226977, 120.502142205 23.8148132606977, 120.502224039 23.8148264016977, 120.502245097 23.8148297826977, 120.502387621 23.8148511916977, 120.502594355 23.8148822336977, 120.502835763 23.8149237266977, 120.502995257 23.8149475996977, 120.503105669 23.8149644266977, 120.503216968 23.8149813896977, 120.503355578 23.8150023506977, 120.504050684 23.8151193896977, 120.504453818 23.8151635036977, 120.504486676 23.8151638796977, 120.504548281 23.8151641046977, 120.504674253 23.8151509206977, 120.504845725 23.8151167886977, 120.505016125 23.8150705796977, 120.505232558 23.8149821346977, 120.505372706 23.8149262486977, 120.505480551 23.8148843996977, 120.505621212 23.8148355126977, 120.505724868 23.8147955736977, 120.505800793 23.8147696056977, 120.505964862 23.8147077076977, 120.506387318 23.8145577976977, 120.506573208 23.8145028146977, 120.506804861 23.8144223616977, 120.507633274 23.8140562326977, 120.507748227 23.8139639466977, 120.507945969 23.8137687176977, 120.50812297 23.8136135486977, 120.508298374 23.8134389076976, 120.508450655 23.8132880756977, 120.508591276 23.8131499016976, 120.508664421 23.8130880466977, 120.508743475 23.8130310246977, 120.508831048 23.8129556716977, 120.508914162 23.8128890086977, 120.508994852 23.8128196926977, 120.509136142 23.8127515266977, 120.509287752 23.8126897236977, 120.509334279 23.8127008786976, 120.510136433 23.8123499926977, 120.510401369 23.8122253766977, 120.511789939 23.8116259496976, 120.511793288 23.8116245036977, 120.511965164 23.8115466726977, 120.511970538 23.8115442396976, 120.513152589 23.8110275076976, 120.513924652 23.8106923896976, 120.514258625 23.8105833986976, 120.514725324 23.8104958146976, 120.514734406 23.8104939336976, 120.51503154 23.8104323826976, 120.515039437 23.8104307466976, 120.515667974 23.8102925086976, 120.516098467 23.8101970266976, 120.516475854 23.8101122306976, 120.516883969 23.8100192306976, 120.517421999 23.8099015076976, 120.517793261 23.8098191276976, 120.517938174 23.8097883106976, 120.518080559 23.8097642226976, 120.518251918 23.8097607936976, 120.51838982 23.8097628046976, 120.518577075 23.8097946226976, 120.518673483 23.8098152036976, 120.51880976 23.8098294346976, 120.518926045 23.8098517216976, 120.519253308 23.8099081206976, 120.519314947 23.8099200866976, 120.519361084 23.8099226056976, 120.519536335 23.8099522986976, 120.519860996 23.8100146206976, 120.520436471 23.8101113926976, 120.520924303 23.8101795206976, 120.521417011 23.8102455026976, 120.521564212 23.8102624206976, 120.521719323 23.8102995156976, 120.521784663 23.8103151416976, 120.52193524 23.8103375866976, 120.52204751 23.8103550816976, 120.522134873 23.8103702116976, 120.522189942 23.8103797486976, 120.522241185 23.8103923236976, 120.522292842 23.8104100816976, 120.522368619 23.8104444126976, 120.522468587 23.8105009406976, 120.522520104 23.8105380246976, 120.522612204 23.8106043216976, 120.522949611 23.8108858696976, 120.523050053 23.8109710676976, 120.523171477 23.8110729536976, 120.523257514 23.8111441566976, 120.523329332 23.8112042806976, 120.52337592 23.8112419066976, 120.523443211 23.8112733116976, 120.523496004 23.8112888156976, 120.523597319 23.8113098156976, 120.52379262 23.8113433226976, 120.524021129 23.8113751346976, 120.524227674 23.8114016686976, 120.524482374 23.8114397646976, 120.524497062 23.8114417386976, 120.524807207 23.8114834216976, 120.524979087 23.8115129356976, 120.524981099 23.8115132526976, 120.525229082 23.8115523336976, 120.525329613 23.8115678036976, 120.525602369 23.8116067476976, 120.525772227 23.8116335106976, 120.526016185 23.8116706136976, 120.526240793 23.8117040806976, 120.526417338 23.8117328316976, 120.526796869 23.8117870086977, 120.527035736 23.8118210336976, 120.527295303 23.8118573336976, 120.527507814 23.8118924236977, 120.527727121 23.8119236696976, 120.527896019 23.8119473926976, 120.528078439 23.8119772786976, 120.528298715 23.8120038946976)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_21",
+    "description": "",
+    "geometry": "LINESTRING(120.547803358 23.8201626476978, 120.546913311 23.8205379216978, 120.546059467 23.8209003046979, 120.544878081 23.8213764496979, 120.544141234 23.8216606546978, 120.543317963 23.8219285526978, 120.542173228 23.8223008516978, 120.541359528 23.8225426076979, 120.540800876 23.8226170426979, 120.539383812 23.8226476976979, 120.539016324 23.8226633816978, 120.538984277 23.8226357366979, 120.538940995 23.8226321936979, 120.538092326 23.8226730316979, 120.537263803 23.8226958036979, 120.53725411 23.8227055896979, 120.535938058 23.8227608506979, 120.535819368 23.8227456396979, 120.535515804 23.8227812766979, 120.534835332 23.8228178816979, 120.534513081 23.8228421286979, 120.533906298 23.8228836606979, 120.533785595 23.8228895296979, 120.5335488 23.8228959286979, 120.533339351 23.8228992236979, 120.532638633 23.8229265916979, 120.532568592 23.8229511746978, 120.531715418 23.8230019686979, 120.531058083 23.8230265536979, 120.530998357 23.8230212076979, 120.530672642 23.8230230606979, 120.530350529 23.8230413126979, 120.529760732 23.8230687616979, 120.529489982 23.8230761076979, 120.529135705 23.8230913606979, 120.528834913 23.8231061986979, 120.528445719 23.8231254606979, 120.528088763 23.8231514396979, 120.528005918 23.8231551766979, 120.527940201 23.8231671566979, 120.527922784 23.8231630396979, 120.527911205 23.8231541106979, 120.527903967 23.8231283266979, 120.527911712 23.8230194626979, 120.527917916 23.8228755686979, 120.527930432 23.8226823106979, 120.527935181 23.8224848396978, 120.527938623 23.8221058606979, 120.527954517 23.8216815636978, 120.528011196 23.8203905076978, 120.528029673 23.8201449686978, 120.528063238 23.8198849196978, 120.528043083 23.8197588146978, 120.52807329 23.8189346316978, 120.528065836 23.8186942056978, 120.528080481 23.8183518936978, 120.528167066 23.8163317406977, 120.528170777 23.8162451616977, 120.528181618 23.8160018026978, 120.528183963 23.8157902826977, 120.528181069 23.8156947136977, 120.528213144 23.8155319106977, 120.528203957 23.8153988116977, 120.528205753 23.8152575126977, 120.528210129 23.8150487446977, 120.528210036 23.8148600346977, 120.528214881 23.8146545816977, 120.528220503 23.8144460236977, 120.528229777 23.8142857776977, 120.528233771 23.8141732046977, 120.528233908 23.8141693356977, 120.528239892 23.8140886646977, 120.528247285 23.8138952646977, 120.528256339 23.8136765236977, 120.528256279 23.8136681866977, 120.528255805 23.8136015586977, 120.528258417 23.8134545376977, 120.528261024 23.8132733666976, 120.528267119 23.8131649216977, 120.528270957 23.8130777716977, 120.528282374 23.8129438976976, 120.528280892 23.8128622926976, 120.528300205 23.8125642126976, 120.528303503 23.8124932766977, 120.528307587 23.8123137996976, 120.52831085 23.8120488806977, 120.52830342 23.8120111776976, 120.528298715 23.8120038946976)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_22",
+    "description": "",
+    "geometry": "LINESTRING(120.481213889 23.8238416726979, 120.481007336 23.8238636036979, 120.480681966 23.8238969106979, 120.480298593 23.8239165676979, 120.479919742 23.8239516246979, 120.479837791 23.8239550236979, 120.479363814 23.8238958696979, 120.479008714 23.8238231566979, 120.478484354 23.8237325146979, 120.477967849 23.8236659796979, 120.477727484 23.8236218516979, 120.477068778 23.8235451256979, 120.476869 23.8235206096979, 120.47670444 23.8234979346979, 120.476698349 23.8234970956979, 120.476479137 23.8234747076979, 120.476471263 23.8234735876979, 120.476282239 23.8234467066979, 120.475923654 23.8234142006979, 120.475502095 23.8233643596979, 120.475261448 23.8233127046979, 120.474361221 23.8232169686979, 120.473835339 23.8232935146979, 120.473259532 23.8233929686979, 120.472711275 23.8234877736979, 120.471620192 23.8236833026979, 120.470921357 23.8238072016979, 120.470319414 23.8239172006979, 120.470025496 23.8239706296979, 120.469940419 23.8239727656979, 120.469556352 23.8239695856979, 120.469186391 23.8239250156979, 120.468584905 23.8238766216979, 120.467738518 23.8238068656979, 120.467276628 23.8237721776979, 120.46716675 23.8237621606979, 120.466915089 23.8237392196979, 120.466698855 23.8237195066979, 120.465975738 23.8236527496979, 120.465720699 23.8236361366979, 120.465294956 23.8236023356979, 120.465036686 23.8235861436979, 120.464735027 23.8235666036979, 120.464482964 23.8235473176979, 120.464370259 23.8235395126979, 120.464108859 23.8235135116979, 120.463950404 23.8235059806979, 120.463556178 23.8234889796979, 120.463236538 23.8234666876979, 120.461748008 23.8234952926979, 120.461707933 23.8234882266979, 120.461333103 23.8235804546979, 120.461162898 23.8236287686979, 120.461150788 23.8236322066979, 120.460749144 23.8237451886979, 120.460404487 23.8238463236979, 120.460079349 23.8239315706979, 120.459732593 23.8240321816979, 120.459413982 23.8241170526979, 120.459199296 23.8241665366979, 120.459178329 23.8241713696979, 120.458806162 23.8242756646979, 120.458798971 23.8242776796979, 120.458429353 23.8243740966979, 120.458420056 23.8243765226979, 120.457405054 23.8246591616979, 120.457124087 23.8247358446979, 120.456195722 23.8250130476979, 120.455822099 23.8251103496979, 120.455813781 23.8251125116979, 120.455491858 23.8251962016979, 120.455008379 23.8253458546979, 120.454932399 23.825362127698, 120.454758874 23.8254325856979, 120.454177811 23.8255819366979, 120.45340119 23.825804832698, 120.452335712 23.826100090698, 120.451759028 23.8262756416979, 120.451505444 23.8263604936979, 120.451327778 23.826475006698)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_23",
+    "description": "",
+    "geometry": "LINESTRING(120.456328797 23.8357127456981, 120.456180891 23.8356272556982, 120.455774062 23.8353874326982, 120.455730418 23.8353715486982, 120.45559248 23.8352851636981, 120.455311788 23.8350951846982, 120.454972609 23.8348683926981, 120.454863832 23.8347828056981, 120.454733862 23.8346950856982, 120.454637653 23.8346345546981, 120.454361514 23.8344525266981, 120.454087338 23.8342732596981, 120.453798933 23.8340837826981, 120.453505842 23.8338859466981, 120.453274396 23.8337279036981, 120.453265955 23.8337349076981, 120.453063299 23.8335934736981, 120.452785381 23.8333874366981, 120.452241467 23.8329792126981, 120.452068647 23.8328699466981, 120.451891949 23.8327559176981, 120.45176759 23.8326723406981, 120.451556165 23.8325138426981, 120.451336559 23.8323424496981, 120.451091773 23.8321206346981, 120.4509017 23.8319384746981, 120.450723268 23.8317405076981, 120.45058987 23.8315706396981, 120.450470903 23.8313609746981, 120.450302955 23.831041967698, 120.450296021 23.8310287976981, 120.450073383 23.8306300736981, 120.450063531 23.8306126206981, 120.449994309 23.830489996698, 120.44985524 23.8302409726981, 120.449715301 23.8299749336981, 120.44968324 23.8298988446981, 120.449643939 23.829817357698, 120.449576471 23.829704537698, 120.449529024 23.829597187698, 120.449501382 23.829536844698, 120.449501018 23.829536425698)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_24",
+    "description": "",
+    "geometry": "LINESTRING(120.399279095 23.8374668136982, 120.3988968 23.8375258056982, 120.398753799 23.8375502726982, 120.398689986 23.8375611906982, 120.398448762 23.8376023976982, 120.398321884 23.8376240706982, 120.397991155 23.8376798086982, 120.397779762 23.8377164466982, 120.397533716 23.8377554126982, 120.397385237 23.8377785706982, 120.397147232 23.8378193646982, 120.396807541 23.8378726006982, 120.396506356 23.8379246226982, 120.396249099 23.8379593986982, 120.39620495 23.8379661196982, 120.396039581 23.8379912916982, 120.395794806 23.8380270996982, 120.395491739 23.8380780836982, 120.395372745 23.8381001776982, 120.39534377 23.8381055576982, 120.395219643 23.8381395986982, 120.395022443 23.8382014706982, 120.394855761 23.8382526366982, 120.394775134 23.8382773856982, 120.394471912 23.8383702356982, 120.394172755 23.8384626506982, 120.393924792 23.8385397616982, 120.393650285 23.8386253826982, 120.3934038 23.8387012166982, 120.39322286 23.8387577006982, 120.393201389 23.8387644026982, 120.392966915 23.8388368616982, 120.392787275 23.8388912226982, 120.392593753 23.8389497846983, 120.39243186 23.8390052646982, 120.391821582 23.8392010526983, 120.391305479 23.8393697976983, 120.390848204 23.8395173286982, 120.390622743 23.8395888086982, 120.390393621 23.8396410946983, 120.390043109 23.8397188596983, 120.389904216 23.8397487476982, 120.38966459 23.8397989236982, 120.389365927 23.8398684226983, 120.389206777 23.8399034306983, 120.389024872 23.8399367146982, 120.38900539 23.8399405286983, 120.388678813 23.8400044716983, 120.388343599 23.8400662926983, 120.388100146 23.8401117826983, 120.387679473 23.8401982666983, 120.387359889 23.8402759756983, 120.387249653 23.8403027796983, 120.386759726 23.8404180686983, 120.386645925 23.8404451466983, 120.386401514 23.8405031096983, 120.386348813 23.8405139776983, 120.386157563 23.8405592116982, 120.385964845 23.8406057586982, 120.385812667 23.8406359056983, 120.3856926 23.8406572246983, 120.385557243 23.8406779396983, 120.385414413 23.8407011626983, 120.385270081 23.8407223126982, 120.38518077 23.8407308046982, 120.385122898 23.8407317026983, 120.385003089 23.8407276126982, 120.384914198 23.8407178766983, 120.384830637 23.8407021116983, 120.384688482 23.8406634846983, 120.384500987 23.8406119456982, 120.384292618 23.8405488106982, 120.384086058 23.8404853246983, 120.383941942 23.8404398866983, 120.383748918 23.8403784466983, 120.383629511 23.8403453546983, 120.383575859 23.8403340876982, 120.383533017 23.8403327696983, 120.383480463 23.8403383476983, 120.383468064 23.8403406906983, 120.383378083 23.8403665336983, 120.38332618 23.8403860286983, 120.383270632 23.8404206866983, 120.383207643 23.8404699246983, 120.383122661 23.8405533146983, 120.383023114 23.8406589576983, 120.382906311 23.8407766306983, 120.38280943 23.8408747626983, 120.382709539 23.8409721506983, 120.382581281 23.8410958096983, 120.382473392 23.8411945916983, 120.382360374 23.8412900766983, 120.382294949 23.8413395846983, 120.382235288 23.8413762576983, 120.382189558 23.8414008746983, 120.382167893 23.8414125386983, 120.381955124 23.8415071526983, 120.381935218 23.8415153326983, 120.38181299 23.8415655536983, 120.381694106 23.8416082826983, 120.381591691 23.8416393846983, 120.381510835 23.8416575976983, 120.381409944 23.8416777526983, 120.38126015 23.8417055846983, 120.381082341 23.8417394896983, 120.380865399 23.8417782566983, 120.380636334 23.8418170926983, 120.380210886 23.8418938206983, 120.380146537 23.8419047316983, 120.379974126 23.8419304126983, 120.379828467 23.8419596866983, 120.379598969 23.8420026186983, 120.379332141 23.8420513866983, 120.379121532 23.8420856716983, 120.378936034 23.8421116056983, 120.378759829 23.8421279066983, 120.378448597 23.8421526476983, 120.378233216 23.8421704786983, 120.377966092 23.8421926226983, 120.37787195 23.8421970386983, 120.377818762 23.8421975276983, 120.377767237 23.8421951166983, 120.377675906 23.8421825856983, 120.377603089 23.8421697676983, 120.377469241 23.8421368116983, 120.377298297 23.8420895466983, 120.377105109 23.8420339216983, 120.376914984 23.8419824256983, 120.376726898 23.8419276336983, 120.376557674 23.8418839146983, 120.376407105 23.8418376526983, 120.376212533 23.8417780296983, 120.376062712 23.8417312736983, 120.375871162 23.8416578926983, 120.375644285 23.8415592666983, 120.375431073 23.8414667896983, 120.375383492 23.8414457916983, 120.375065361 23.8413053936983, 120.374841196 23.8412063376983, 120.374644984 23.8411185256983, 120.37448833 23.8410498346983, 120.374350067 23.8409882346983, 120.374279549 23.8409609146983, 120.374190869 23.8409341166983, 120.373973799 23.8408931716983, 120.373947729 23.8408884296983, 120.373736538 23.8408500216983, 120.37348547 23.8408059396983, 120.373247195 23.8407614046983, 120.372931492 23.8406875506983, 120.372578197 23.8405965586983, 120.372237191 23.8405100136982, 120.371922157 23.8404259486983, 120.371615695 23.8403251596982, 120.371299449 23.8402157156983, 120.370964967 23.8400998216982, 120.370651953 23.8399899836983, 120.370350044 23.8398859506982, 120.370066766 23.8397882866982, 120.369987831 23.8397602616982, 120.369768364 23.8396697206983, 120.369491621 23.8395746826982, 120.369293831 23.8395141436982, 120.36921595 23.8394894456982, 120.369002767 23.8394251776983, 120.368226357 23.8391701936982, 120.368194748 23.8391603306982, 120.367991935 23.8390931866983, 120.366715231 23.8386754926982, 120.366237251 23.8385095626982, 120.365948047 23.8384085256982, 120.365935852 23.8384044426982, 120.365782952 23.8383532456982, 120.365685939 23.8383209816982, 120.365457701 23.8382446646982, 120.365011187 23.8380945086982, 120.364581049 23.8379501896982, 120.36417715 23.8378138586982, 120.36376008 23.8376754236982, 120.363629969 23.8376309516982, 120.363365531 23.8375405656982, 120.363086531 23.8374412456982, 120.362872605 23.8372952946982, 120.362753893 23.8372222346982, 120.36267273 23.8371609746982, 120.362537891 23.8370592006982, 120.362389228 23.8369504766982, 120.36220368 23.8368129316982, 120.36201682 23.8366706686982, 120.361839929 23.8365395426982, 120.361622472 23.8363774306981, 120.361563964 23.8363352456982, 120.361429185 23.8362431306982, 120.361068943 23.8359612486982, 120.360325656 23.8354309656982, 120.360168528 23.8353122036982, 120.359724746 23.8349943916982, 120.359552456 23.8349204386981, 120.359035212 23.8347054746981, 120.358653624 23.8345447176981, 120.358457821 23.8344640106981, 120.358467074 23.8344068756981, 120.358220282 23.8343672286982, 120.357726965 23.8342236836981, 120.357509668 23.8341466786981, 120.356060137 23.8336363746981, 120.35524064 23.8333549786981, 120.354532216 23.8331126986981, 120.354172616 23.8329815036981, 120.35396794 23.8328954496981, 120.353841468 23.8328573176981, 120.353768391 23.8328352846981, 120.35342676 23.8327270166981, 120.352891438 23.8325431446981, 120.352441069 23.8323856856981, 120.35231502 23.8323373636981, 120.352258617 23.8323217956981, 120.352019408 23.8322388836981, 120.351687304 23.8321240866981, 120.351397853 23.8320225436981, 120.351182385 23.8319463316981, 120.351033286 23.8318850356981, 120.351027746 23.8318661236981, 120.350784796 23.831783736698, 120.35033876 23.8316402046981, 120.350078615 23.8315515496981, 120.349363179 23.8313179116981, 120.349305616 23.831300109698)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_25",
+    "description": "",
+    "geometry": "LINESTRING(120.601901971 23.8203448406978, 120.601916618 23.8203407876979, 120.601948605 23.8203249866978, 120.602036414 23.8202624756978, 120.602183927 23.8201523696978, 120.602318727 23.8200526956978, 120.602564308 23.8198725466978, 120.602705556 23.8197599406978, 120.602783386 23.8196836326978, 120.602812733 23.8196514366978, 120.602920606 23.8195268256978, 120.603026438 23.8194083946978, 120.603103065 23.8193015816978, 120.60329838 23.8190575516978, 120.603471662 23.8188318146978, 120.603520401 23.8187709986978, 120.60357251 23.8186995906978, 120.603727798 23.8184971836978, 120.603815536 23.8183864886978, 120.603938047 23.8182310516978, 120.60404277 23.8180960386978, 120.604163393 23.8179479276977, 120.604251599 23.8178378836977, 120.604346652 23.8177421426978, 120.604442296 23.8176617716978, 120.60458817 23.8175564716978, 120.604721322 23.8174777216977, 120.604928138 23.8173813816978, 120.605072215 23.8173247016978, 120.605157566 23.8172984636977, 120.605520261 23.8172020066978, 120.605794051 23.8171287086977, 120.605995172 23.8170783316978, 120.606221455 23.8170158556977, 120.606221562 23.8170158116977, 120.606379986 23.8169503706977, 120.606469491 23.8168939296978, 120.606587187 23.8168200606977, 120.606664361 23.8167646526978, 120.606750032 23.8166937626977, 120.606815993 23.8166367456977, 120.60704365 23.8164367596977, 120.607178174 23.8163187866977, 120.607321078 23.8161943336977, 120.607477488 23.8160567136977, 120.607684904 23.8158768106977, 120.607895911 23.8156972786977, 120.608106741 23.8155305666977, 120.608296618 23.8153930766977, 120.608460505 23.8152748336977, 120.608705248 23.8150999636977, 120.608865562 23.8149850796977, 120.608987195 23.8149001116977, 120.609120049 23.8147911176977, 120.609187863 23.8147273326977, 120.609329394 23.8145818346977, 120.609451383 23.8144529656977, 120.609516939 23.8143795766977, 120.609580065 23.8142947846977, 120.609650926 23.8141867616977, 120.609710311 23.8140892746977, 120.609787316 23.8139615016977, 120.609845618 23.8138685256977, 120.609937589 23.8137111546977, 120.610026979 23.8135771186977, 120.610145189 23.8134245996977, 120.610210334 23.8133472356977, 120.610326075 23.8132064856976, 120.610524084 23.8130024186977, 120.61064375 23.8128880896977, 120.610729097 23.8128158236977, 120.61078438 23.8127736136977, 120.610850725 23.8127314326977, 120.610920438 23.8126947486977, 120.61105199 23.8126330106977, 120.611201698 23.8125710116976, 120.611374825 23.8125020906977, 120.611562798 23.8124277806977, 120.611713944 23.8123641956976, 120.611823694 23.8123095896976, 120.611926294 23.8122473086976, 120.612019404 23.8121812016976, 120.612109039 23.8121121696976, 120.612172831 23.8120531766976, 120.61229098 23.8119433386976, 120.612429736 23.8118112586976, 120.612566443 23.8116786316976, 120.612676679 23.8115724486976, 120.612773485 23.8114776906976, 120.61287603 23.8113773126976, 120.612941039 23.8113178936976, 120.61300404 23.8112478596976, 120.613004519 23.8112473266976, 120.613106136 23.8111230636976, 120.61323912 23.8109411516976, 120.61341876 23.8106528086976, 120.613494734 23.8105308616976, 120.613511044 23.8105153566976)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_26",
+    "description": "",
+    "geometry": "LINESTRING(120.650277882 23.7947417846973, 120.650275138 23.7947108486972, 120.650264066 23.7946531156973, 120.650250304 23.7945483036973, 120.650214709 23.7943071836972, 120.650200697 23.7941859366973, 120.650174348 23.7940319746972, 120.6501668 23.7939885976973, 120.65015445 23.7939465906972, 120.650135411 23.7939033036972, 120.650100017 23.7938364306972, 120.650061339 23.7937614056972, 120.65004048 23.7937233796972, 120.649996167 23.7936526846972, 120.64995835 23.7935965156972, 120.649931585 23.7935539936972, 120.649903952 23.7935157856972, 120.649884145 23.7934897066972, 120.649798351 23.7933826446972, 120.649748605 23.7933108816972, 120.649721608 23.7932783226972, 120.64967798 23.7932304286972, 120.64962655 23.7931753486972, 120.649559077 23.7931088086972, 120.649459916 23.7930099616972, 120.649410729 23.7929527996972, 120.649299877 23.7928408236972, 120.649236045 23.7927745086972, 120.649185052 23.7927211626972, 120.649133458 23.7926653956972, 120.649091893 23.7926240256972, 120.649037098 23.7925650996972, 120.649004253 23.7925271676972)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_27",
+    "description": "",
+    "geometry": "LINESTRING(120.638059889 23.7792619786969, 120.637786589 23.7793102156969, 120.637000866 23.7794394556969, 120.636518412 23.7795191726969, 120.636273816 23.7795584446969, 120.635987336 23.7796068546969, 120.635687188 23.7796588806969, 120.635442247 23.7796985476969, 120.635182786 23.7797408626969, 120.635063019 23.7797605886969, 120.634860987 23.7797938646969, 120.634850525 23.7797955106969, 120.634753246 23.7798105766969, 120.634081758 23.7799258486969, 120.633863403 23.7799634276969, 120.633684257 23.7799906066969, 120.633635598 23.7799990066969, 120.633314309 23.7800544716969, 120.633310175 23.7800551746969, 120.632671625 23.7801637296969, 120.632650018 23.7801673826969, 120.632313697 23.780224234697, 120.631973755 23.7802772506969, 120.631437101 23.7803719596969, 120.631380024 23.7803820326969, 120.631165272 23.7804184066969, 120.63092299 23.7804604116969, 120.6304786 23.7805333286969, 120.629947974 23.7806220936969, 120.629280625 23.7807353776969, 120.628831376 23.7808121926969, 120.62875016 23.780826079697, 120.628337369 23.780893052697, 120.628015723 23.7809460866969, 120.628000609 23.780950727697, 120.627831499 23.7809777066969, 120.6274654 23.7810387676969, 120.627052769 23.7811079506969, 120.626663416 23.7811754186969, 120.626320749 23.7812361996969, 120.625994129 23.781288764697, 120.625402559 23.781392914697, 120.625160533 23.7814301806969, 120.624836266 23.781482757697, 120.624497343 23.781537538697, 120.624182805 23.7815953406969, 120.623841366 23.781651414697, 120.623360122 23.781734722697, 120.6229778 23.781795922697, 120.622637837 23.781853496697, 120.62234184 23.781905036697, 120.622019089 23.781958795697, 120.621671832 23.7820174326969, 120.621441885 23.782053601697, 120.621132909 23.782104222697, 120.620918154 23.782139903697, 120.620916592 23.782140162697, 120.620709522 23.782174860697, 120.620539047 23.782204601697, 120.620369156 23.782232103697, 120.62018032 23.782265771697, 120.619991879 23.782298636697, 120.619568127 23.782369477697, 120.619124728 23.782444866697, 120.618660842 23.782523065697, 120.618346515 23.782577170697, 120.618237189 23.782596720697, 120.617905683 23.782653284697, 120.617452737 23.782724310697, 120.617086706 23.782785933697, 120.616711947 23.782849222697, 120.616407336 23.782902219697, 120.616194918 23.782936402697, 120.616141388 23.782946951697, 120.615975769 23.782974811697, 120.615938695 23.782981048697, 120.61591219 23.782985506697, 120.615909822 23.782989916697, 120.61552615 23.783047184697, 120.615014693 23.783130988697, 120.614742016 23.783175320697, 120.614464945 23.783218874697, 120.614177343 23.783263313697, 120.613863372 23.783311785697, 120.613588092 23.783353599697, 120.613436467 23.783372101697, 120.613322875 23.783376756697, 120.613240908 23.783375097697, 120.613138621 23.783366361697, 120.613077154 23.783360744697, 120.612914913 23.783335633697, 120.612627763 23.783273402697, 120.612391594 23.783222658697, 120.612307871 23.783204295697, 120.612218853 23.783184769697, 120.612074546 23.783154130697, 120.611932202 23.783123559697, 120.611770905 23.783087739697, 120.611552792 23.783036913697, 120.611362627 23.782994754697, 120.611195674 23.782957573697, 120.611038427 23.782922982697, 120.610923551 23.782882232697, 120.610546083 23.782746357697, 120.610323655 23.782665197697, 120.61012505 23.782594490697, 120.610055695 23.782570782697, 120.609978543 23.7825444096969, 120.609921824 23.782536565697, 120.609688298 23.782492199697, 120.609583635 23.782464286697, 120.609324848 23.782391782697, 120.608996235 23.782300174697, 120.608728498 23.782225037697, 120.60850048 23.782159996697, 120.608175994 23.782070122697, 120.607992892 23.782020058697, 120.607653693 23.781925269697, 120.607344067 23.781837734697, 120.607016088 23.781748607697, 120.606687355 23.781655559697, 120.606309054 23.781548785697, 120.606020158 23.7814660856969, 120.60590925 23.7814371246969, 120.6056407 23.7813626756969, 120.605456063 23.7813046306969, 120.605245428 23.7812357546969, 120.605243027 23.7812313246969, 120.605185961 23.7812146726969, 120.605007326 23.7811634006969, 120.604958968 23.7811495206969, 120.604705347 23.781080173697, 120.604472156 23.781017045697, 120.604344339 23.7809892046969, 120.604101295 23.7809366156969, 120.603807016 23.7808699076969, 120.603452494 23.7807858616969, 120.6034228 23.7807786266969, 120.602866242 23.7806430126969, 120.602638526 23.7806032476969, 120.602116987 23.7805151826969, 120.601832543 23.7804640456969, 120.601410659 23.780410215697, 120.600686408 23.7802984166969, 120.600394551 23.7802651186969, 120.600058012 23.7802218166969, 120.599876545 23.7801938866969, 120.599672259 23.780164516697, 120.599345426 23.7801175366969, 120.599089 23.7800784496969, 120.598896149 23.7800544896969, 120.598615487 23.7800281336969, 120.598394298 23.7799980856969, 120.598199615 23.7799893256969, 120.597995153 23.779938978697, 120.597926174 23.7799219936969, 120.597783669 23.7798915536969, 120.597446847 23.7798450666969, 120.597018359 23.7797834766969, 120.596895291 23.7797629206969, 120.596838832 23.7797576496969, 120.596787331 23.7797528406969, 120.596731345 23.7797427896969, 120.596579047 23.7797185316969, 120.59657642 23.7797181126969, 120.596390884 23.7796898706969, 120.596320604 23.7796792346969, 120.596318818 23.7796789636969, 120.595238588 23.7795220536969, 120.594877151 23.7794782686969, 120.594833459 23.7794719146969, 120.594709976 23.7794556076969, 120.594499742 23.7794402656969, 120.594254531 23.7794655906969)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_28",
+    "description": "",
+    "geometry": "LINESTRING(120.498286211 23.7920105166972, 120.498127949 23.7915713576972, 120.498131427 23.7914305386972, 120.498168947 23.7913462806971, 120.498266303 23.7912386586972, 120.49899411 23.7910396806972, 120.499393253 23.7909402776972, 120.499588169 23.7908953556971, 120.499760841 23.7908577376972, 120.499974278 23.7908245326972, 120.500501372 23.7907318796972, 120.500605499 23.7907206136972, 120.501096088 23.7906257286972, 120.502004151 23.7904840696972, 120.502562431 23.7904366586971, 120.502622781 23.7904104776971, 120.502781488 23.7903943886972, 120.502846213 23.7903878276972, 120.502954796 23.7903768196972, 120.502994203 23.7903635456972, 120.503133685 23.7903165626972, 120.503534292 23.7899674226972, 120.503860244 23.7896822146971, 120.504234126 23.7894477196971, 120.504235987 23.7894465206972, 120.504314785 23.7893957386971, 120.504567122 23.7892754896971, 120.504872899 23.7891680526971, 120.504961075 23.7891292186971, 120.505003688 23.7891017156972, 120.505027953 23.7890814046971, 120.505048681 23.7890622746971, 120.505061862 23.7890486096972, 120.505087787 23.7890096936971, 120.50510267 23.7889740206971, 120.505132783 23.7888943766971, 120.505242789 23.7886075616971, 120.505248694 23.7885942946971, 120.50531361 23.7884484696971, 120.50534304 23.7883700426971, 120.50539954 23.7882330196971, 120.505502756 23.7880157816971, 120.505569327 23.7878853726971, 120.505636786 23.7877822716971, 120.505715619 23.7876942786971, 120.505783554 23.7876260516971, 120.505849547 23.7875643166971, 120.505850929 23.7875630236971, 120.505982206 23.7874189436971, 120.506546832 23.7868411126971, 120.506703292 23.7866771016971, 120.506839977 23.7865555936971, 120.506946807 23.786485070697, 120.507084987 23.7864117856971, 120.507268533 23.7863379406971, 120.507409391 23.7862671136971, 120.507517553 23.7862127266971, 120.507608776 23.786166876697, 120.507692447 23.7861224196971, 120.507870092 23.7860388666971, 120.508102273 23.7859268446971, 120.508275666 23.7858491286971, 120.509871218 23.785120023697, 120.510642004 23.7847645626971, 120.511714248 23.784275437697, 120.511807832 23.784245303697, 120.51453113 23.783105180697, 120.51556989 23.782673287697, 120.51566839 23.7826429236969, 120.516113457 23.7824607736969, 120.516278405 23.782398336697, 120.516560227 23.782324634697, 120.516999498 23.7822794616969, 120.517108479 23.782274163697, 120.517232274 23.782268144697, 120.517294448 23.782253665697, 120.517476187 23.782224697697, 120.517583907 23.782216903697, 120.517623854 23.782214013697, 120.51763817 23.782212977697, 120.517658557 23.782205718697, 120.517709104 23.782177893697, 120.517827819 23.782098587697, 120.517871179 23.782066610697, 120.517940741 23.782015512697, 120.518067303 23.781920647697, 120.518124368 23.7818706666969, 120.518199379 23.7818021946969, 120.518221954 23.781768123697, 120.518299702 23.781713077697, 120.518411118 23.781628050697, 120.518474839 23.7815849976969, 120.518546558 23.781549806697, 120.51858819 23.781531136697, 120.518644198 23.781512475697, 120.518727335 23.781491325697, 120.518843302 23.781468038697, 120.518974382 23.7814517066969, 120.519203212 23.781432418697, 120.519312439 23.781427575697, 120.519419901 23.781427458697, 120.519596027 23.7814331086969, 120.519766683 23.7814372596969, 120.519974421 23.7814435586969, 120.520096856 23.7814436866969, 120.520145799 23.781438285697, 120.520178629 23.7814331686969, 120.52020713 23.781426005697, 120.520229167 23.7814129906969, 120.520293981 23.7813498496969, 120.520340197 23.781304122697, 120.520393068 23.781265720697, 120.520501952 23.7811911136969, 120.520750141 23.7810164026969, 120.52092803 23.780891541697, 120.520963233 23.7808625846969, 120.52098652 23.780835216697, 120.520993422 23.7808179276969, 120.520992574 23.780805626697, 120.520981445 23.7807849416969, 120.520969008 23.7807673316969)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_29",
+    "description": "",
+    "geometry": "LINESTRING(120.277672413 23.8387440806982, 120.277671182 23.8387444476982, 120.277649488 23.8387509136982, 120.277457135 23.8388090216982, 120.277399253 23.8388242346983, 120.277359814 23.8388363406982, 120.277327542 23.8388462466982, 120.277277968 23.8388644246982, 120.277235442 23.8388826356982, 120.277195306 23.8389053366982, 120.277153442 23.8389404086982, 120.277113611 23.8389806636982, 120.277018369 23.8390702206982, 120.276905659 23.8391801836982, 120.27682015 23.8392653436982, 120.276697999 23.8393853836982, 120.276575424 23.8395201026982, 120.276440665 23.8396638126982, 120.276312556 23.8397978736983, 120.276179338 23.8399346106983, 120.276118558 23.8399978636983, 120.276058232 23.8400625906983, 120.275959425 23.8401645636982, 120.275854362 23.8402758796983, 120.27573064 23.8404047056982, 120.275568393 23.8405750026983, 120.275419924 23.8407248596983, 120.275279683 23.8408813906983, 120.275092779 23.8410795526983, 120.274959564 23.8412187256983, 120.274910271 23.8412703906983, 120.274837385 23.8413467826983, 120.274668779 23.8415218886983, 120.274512816 23.8416809796983, 120.274451274 23.8417396796983, 120.274314364 23.8418845416983, 120.274151347 23.8420604586983, 120.274053072 23.8421635086983, 120.27398308 23.8422234296983, 120.273863212 23.8423469816983, 120.273719105 23.8424954656983, 120.273582244 23.8426383496983, 120.273424658 23.8428062916983, 120.273277109 23.8429593736983, 120.273175037 23.8430686876983, 120.2730781 23.8431883826983, 120.273018009 23.8432647946983, 120.272951269 23.8433577336984, 120.272891054 23.8434618906984, 120.272857254 23.8435361146984, 120.272810652 23.8436757036983, 120.272793836 23.8437478406983, 120.272773822 23.8438689916983, 120.272766097 23.8439376226983, 120.272750307 23.8441004176983, 120.272749865 23.8441029856984, 120.272732937 23.8442013826983, 120.272704358 23.8443022666984, 120.272680361 23.8443437336984, 120.27264258 23.8443924576983, 120.272572371 23.8445001616983, 120.272539295 23.8445818106983, 120.272513749 23.8446527136984, 120.272494865 23.8447102226984, 120.272465953 23.8448266896984, 120.272432411 23.8449688776983, 120.272403071 23.8451005666984, 120.272375006 23.8452217246984, 120.272350881 23.8453283456984, 120.272315354 23.8454815306984, 120.27228372 23.8456353396984, 120.272252349 23.8457702236984, 120.272221651 23.8459076306984, 120.272193755 23.8460354436984, 120.272165603 23.8461792006984, 120.272140612 23.8463299526984, 120.272115848 23.8464769856984, 120.272085942 23.8466553616984, 120.272058483 23.8468138316984, 120.272030621 23.8469601366984, 120.271986056 23.8472250786984, 120.271953752 23.8473973056985, 120.271943702 23.8474508906984, 120.271917232 23.8475992516985, 120.271867678 23.8477747896984, 120.271848832 23.8478727136985, 120.27180991 23.8480851416985, 120.271792469 23.8482085076984, 120.271767761 23.8483547126984, 120.271761968 23.8483871856984, 120.2717542 23.8484114126985, 120.271739369 23.8484188556984, 120.271694845 23.8484351916985)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_30",
+    "description": "",
+    "geometry": "LINESTRING(120.349305616 23.831300109698, 120.349234873 23.8312782306981, 120.3488777 23.8311581456981, 120.348463182 23.831023192698, 120.348086504 23.830900200698, 120.347507731 23.830709136698, 120.34701377 23.830546493698, 120.346635344 23.8304262716981, 120.346462531 23.830381204698, 120.34639737 23.830368530698, 120.346341871 23.830361081698, 120.346283939 23.8303592826981, 120.34614366 23.830364068698, 120.345928755 23.830374498698, 120.345514743 23.8303963706981, 120.345085962 23.830419344698, 120.344080293 23.830473127698, 120.343432241 23.8305078766981, 120.342881212 23.830536250698, 120.342097278 23.8305773456981, 120.341683978 23.830599743698, 120.341345764 23.830618948698, 120.341134739 23.8306326476981, 120.341013547 23.8306401566981, 120.34031587 23.8306858136981, 120.340055913 23.8306996536981, 120.339461404 23.830734389698, 120.338850315 23.830771273698, 120.338404972 23.8307984106981, 120.337774046 23.8308363206981, 120.337577057 23.830844687698, 120.337150764 23.8309030986981, 120.337026163 23.8309265996981, 120.336333771 23.8311213536981, 120.335677586 23.8313221306981, 120.334786177 23.831590395698, 120.334528105 23.831671150698, 120.334214209 23.8317637186981, 120.333857524 23.8318624036981, 120.33297446 23.8321154786981, 120.332019447 23.8323860676981, 120.331885822 23.8324259616981, 120.33173637 23.8324678146981, 120.331582383 23.8325133676981, 120.331414126 23.8325606476981, 120.331245428 23.8326095226981, 120.331063247 23.8326615086981, 120.330893206 23.8327117236981, 120.330727164 23.8327594276981, 120.330545798 23.8328113166981, 120.330373455 23.8328607266981, 120.330227051 23.8329013546981, 120.330155244 23.8329214666981, 120.330137332 23.8329286756981, 120.33004047 23.8329593246981, 120.329906706 23.8329984546981, 120.329815905 23.8330244436981, 120.329690753 23.8330628966981, 120.329446117 23.8331293726981, 120.329210903 23.8331978476981, 120.329207197 23.8331990276981, 120.329158252 23.8332146056981, 120.329107521 23.8332307526981, 120.328967297 23.8332566976981, 120.328771258 23.8332851706981, 120.328553723 23.8333132526981, 120.328294994 23.8333429876981, 120.3280641 23.8333653316981, 120.327809009 23.8333860166981, 120.327660538 23.8334028676981, 120.327568494 23.8334090686981, 120.327510363 23.8334129846981, 120.327119169 23.8334617696981, 120.327020733 23.8334720396981, 120.326959336 23.8334736766981, 120.32686651 23.8334639256981, 120.32680548 23.8334553336981, 120.326742378 23.8334432656981, 120.32665946 23.8334327096981, 120.326588034 23.8334206866981, 120.326444416 23.8334004476981, 120.326393793 23.8333918246981, 120.326380434 23.8333895496981, 120.326276028 23.8333716666981, 120.32616105 23.8333519406981, 120.326146872 23.8333493066981, 120.326068105 23.8333346756981, 120.325993336 23.8333257446981, 120.325723723 23.8332845556981, 120.325393877 23.8332309226981, 120.325154788 23.8331905356981, 120.32498553 23.8331631126981, 120.324631774 23.8331035226981, 120.324326362 23.8330515386981, 120.324096104 23.8330119016981, 120.323883503 23.8329761966981, 120.323690371 23.8329398456981, 120.323622059 23.8329216506981, 120.323517706 23.8328881446981, 120.323457862 23.8328611646981, 120.323378885 23.8328175396981, 120.323325872 23.8327802976981, 120.323269928 23.8327352636981, 120.32317006 23.8326615346981, 120.323130645 23.8326283776981, 120.32301782 23.8325477646981, 120.32301528 23.8325456176981, 120.322880454 23.8324316306981, 120.322783 23.8323529096981, 120.322659606 23.8322471666981, 120.322568381 23.8321788736981, 120.322515742 23.8321708046981, 120.322431237 23.8321555996981, 120.322269413 23.8321264806981, 120.321923283 23.8320641726981, 120.32159629 23.8320045036981, 120.321235156 23.8319416496981, 120.32091297 23.8318845196981, 120.320597899 23.8318296056981, 120.320315845 23.8317828626981, 120.320035657 23.8317339976981, 120.319627796 23.8316665906981, 120.319305135 23.8316104206981, 120.318938918 23.8315496256981, 120.318811346 23.8315271476981, 120.318777805 23.8315212386981, 120.318700466 23.8315103136981, 120.318550893 23.8314827096981, 120.318399355 23.8314592406981, 120.318181062 23.8314241256981, 120.317859506 23.8313748476981, 120.317726222 23.8313556066981, 120.317629739 23.8313416776981, 120.317354052 23.8313015316981, 120.317243917 23.831283625698, 120.317218674 23.831282963698, 120.31720558 23.8312816376981, 120.317186417 23.8312835086981, 120.317069191 23.831269945698, 120.317018081 23.8312835146981, 120.316995763 23.8313372266981, 120.316929879 23.8316505326981, 120.316900992 23.8317925316981, 120.316898737 23.8318036136981, 120.316887808 23.8318364316981, 120.316875472 23.8318564486981)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_31",
+    "description": "",
+    "geometry": "LINESTRING(120.413938756 23.8391723886983, 120.413907076 23.8391672506982, 120.413431592 23.8390898716982, 120.413080706 23.8390327366982, 120.412736959 23.8389760856983, 120.412314447 23.8389061936983, 120.41183147 23.8388270506983, 120.410917881 23.8386830536982, 120.410560719 23.8386258596982, 120.410064825 23.8385446926982, 120.409584206 23.8384655506982, 120.409183361 23.8384001946982, 120.408780991 23.8383356706982, 120.408448556 23.8382810496982, 120.408150908 23.8382334866982, 120.407789798 23.8381753306982, 120.407523124 23.8381313616982, 120.407315504 23.8380983286982, 120.407087484 23.8380635366982, 120.406867785 23.8380293456982, 120.406637012 23.8379892876982, 120.406349997 23.8379499966982, 120.406260873 23.8379507186982, 120.406133875 23.8379669796982, 120.405869122 23.8380165416982, 120.405667521 23.8380501306982, 120.405344628 23.8381055536982, 120.404859387 23.8381928106982, 120.404606105 23.8382366446982, 120.404475948 23.8382568286982, 120.404421982 23.8382624706982, 120.4042635 23.8382686486982, 120.404052241 23.8382738636982, 120.403377809 23.8382690326982, 120.402728428 23.8382664996982, 120.402114582 23.8382617536982, 120.402044883 23.8382596246982, 120.402045265 23.8382754906982, 120.401921041 23.8382776346982, 120.40178959 23.8382737206982, 120.401790935 23.8382629206982, 120.401585676 23.8382570916982, 120.401494803 23.8382580296982, 120.401381188 23.8382519086982, 120.401270815 23.8382453946982, 120.401183695 23.8382371546982, 120.401137924 23.8382302596982, 120.401027261 23.8381991016982, 120.40091258 23.8381688226982, 120.400763208 23.8381280166982, 120.400513925 23.8380596416982, 120.400382744 23.8380226616982, 120.400282218 23.8379967176982, 120.400163785 23.8379627116982, 120.400039689 23.8379263726982, 120.399947157 23.8379017146982, 120.39988599 23.8378872276982, 120.399818834 23.8378772776982, 120.399768889 23.8378731916982, 120.399667434 23.8378655636982, 120.399594198 23.8378628226982, 120.399487617 23.8378664706982, 120.39938086 23.8378720326982, 120.399268876 23.8378786116982, 120.399235866 23.8378781126982, 120.399208581 23.8378708456982, 120.399185826 23.8378603736982, 120.39916562 23.8378442586982, 120.39914669 23.8378219176982, 120.399133355 23.8378015496982, 120.399103933 23.8377425266982, 120.399091352 23.8376928346982, 120.399090959 23.8376545476982, 120.399101853 23.8376144816982, 120.399120433 23.8375765216982, 120.399158442 23.8375167956982, 120.39928538 23.8374985096982, 120.399279095 23.8374668136982)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_32",
+    "description": "",
+    "geometry": "LINESTRING(120.658296965 23.6527668856941, 120.656626709 23.6534951446941, 120.655953467 23.6536123466941)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "百年舊堤_路段_33",
+    "description": "",
+    "geometry": "LINESTRING(120.316875472 23.8318564486981, 120.31685627 23.8318775916981, 120.316846022 23.8318851096981, 120.316836071 23.8318924096981, 120.3168048 23.8319107006981, 120.316759616 23.8319314556981, 120.316758191 23.831932109698, 120.316546254 23.8320160916981, 120.31625524 23.8321301866981, 120.315998958 23.8322302956981, 120.315926945 23.8322575876981, 120.315666084 23.8323567456981, 120.315574167 23.8323946946981, 120.315374308 23.8324755856981, 120.315111999 23.8325810026981, 120.315085978 23.8325865296981, 120.314713939 23.8327275666981, 120.314300586 23.8328870556981, 120.313907779 23.8330405496981, 120.313513507 23.8331904416981, 120.313211831 23.8333076796981, 120.312986452 23.8333990186981, 120.312533551 23.8335671296981, 120.312267322 23.8336686686981, 120.311871872 23.8338235176981, 120.31156805 23.8339435186981, 120.311473472 23.8339793276981, 120.311203498 23.8340833946981, 120.310931187 23.8341877026981, 120.310723468 23.8342631896981, 120.310618922 23.8343018006981, 120.310505146 23.8343391876982, 120.310465193 23.8343489956981, 120.310420075 23.8343571726982, 120.310372336 23.8343618716981, 120.310338402 23.8343619906981, 120.31029363 23.8343567786981, 120.310291548 23.8343564086982, 120.310250177 23.8343490606981, 120.310243204 23.8343478216981, 120.309971649 23.8342868226981, 120.309651576 23.8342124146981, 120.309328068 23.8341287176981, 120.30925333 23.8341103956981, 120.309008381 23.8340558626981, 120.308814078 23.8340038486981, 120.308534898 23.8339334236981, 120.308286175 23.8338707096981, 120.307985109 23.8337960306981, 120.307715419 23.8337278946981, 120.307475357 23.8336664636981, 120.307122609 23.8335776186981, 120.306870641 23.8335162966981, 120.306628117 23.8334545736981, 120.306342938 23.8333812726981, 120.30609265 23.8333178346981, 120.305776419 23.8332381806981, 120.30558572 23.8331918046981, 120.305361947 23.8331372616981, 120.305126589 23.8330759756981, 120.304822332 23.8329965816981, 120.30450811 23.8329177286981, 120.304163085 23.8328318006981, 120.303877796 23.8327575736981, 120.303677319 23.8327062486981, 120.303429041 23.8326420656981, 120.30317378 23.8325803166981, 120.302893433 23.8325107786981, 120.302652567 23.8324612466981, 120.302408562 23.8324075736981, 120.302181152 23.8323562956981, 120.301950069 23.8323055076981, 120.301722979 23.8322568576981, 120.301667961 23.8322479696981, 120.301645285 23.8322453086981, 120.301610399 23.8322412146981, 120.301585095 23.8322411366981, 120.301465381 23.8322524316981, 120.301351073 23.8322717506981, 120.301176102 23.8323059646981, 120.301020272 23.8323475326981, 120.30093615 23.8323662846981, 120.300702248 23.8324238956981, 120.300615239 23.8324445576981, 120.300288525 23.8325232096981, 120.299920141 23.8326168866981, 120.299755063 23.8326576066981, 120.299632464 23.8326878486981, 120.29959033 23.8326982416981, 120.299180206 23.8328050636981, 120.298829602 23.8328941146981, 120.298429423 23.8329969606981, 120.298046804 23.8330959506981, 120.297769586 23.8331676176981, 120.297621322 23.8332055966981, 120.297330846 23.8332837216981, 120.296999515 23.8333659756981, 120.296747232 23.8334277496981, 120.296438558 23.8335058896981, 120.296161566 23.8335770576981, 120.295850053 23.8336590476981, 120.295643422 23.8337142116981, 120.295583633 23.8337301736981, 120.295306352 23.8338002196981, 120.295085596 23.8338561966981, 120.294887367 23.8339041156981, 120.294634594 23.8339703826981, 120.294326639 23.8340518666981, 120.294268826 23.8340671646981, 120.293904433 23.8341599686981, 120.293392337 23.8342935406981, 120.293051153 23.8343834336981, 120.292827836 23.8344393116981, 120.292541746 23.8345132856982, 120.292232406 23.8345936076981, 120.292066552 23.8346365536981, 120.2918843 23.8346837466981, 120.291622092 23.8347539816982, 120.291303976 23.8348361666981, 120.291092204 23.8348894046981, 120.290876904 23.8349453526981, 120.290778037 23.8349710556981, 120.290759389 23.8349758746982, 120.290385058 23.8350726016981, 120.290373851 23.8350754976981, 120.290200136 23.8351214146982, 120.290023235 23.8351681126982, 120.289962597 23.8351839256981, 120.289768134 23.8352361016982, 120.289537942 23.8352957446982, 120.289303921 23.8353535816982, 120.289291637 23.8353568256982, 120.288971912 23.8354412506981, 120.288901684 23.8354611086982, 120.288781918 23.8354949746981, 120.288480942 23.8355725196982, 120.288258962 23.8356271876982, 120.287956504 23.8357011486982, 120.287602831 23.8357921816982, 120.287317777 23.8358642006982, 120.287030065 23.8359375506982, 120.286803211 23.8359965096982, 120.286538374 23.8360635366982, 120.286325745 23.8361149856982, 120.285979293 23.8362062826982, 120.285696187 23.8362860906982, 120.285499937 23.8363362236982, 120.285218236 23.8364121176982, 120.285042375 23.8364674366982, 120.284737346 23.8365495606982, 120.284519487 23.8366182286982, 120.284376218 23.8366656896982, 120.284184663 23.8367384606982, 120.283907779 23.8368465466982, 120.283548158 23.8369508156982, 120.28321369 23.8370577476982, 120.282769483 23.8371977746982, 120.282548942 23.8372646216982, 120.282188999 23.8373770126982, 120.281932385 23.8374544706982, 120.281646097 23.8375443866982, 120.281372672 23.8376261546982, 120.281111857 23.8377106076982, 120.28080588 23.8378052246982, 120.280349039 23.8379425676982, 120.280045423 23.8380362006982, 120.279737623 23.8381317106982, 120.279454057 23.8382170566982, 120.27920975 23.8382889066982, 120.278946088 23.8383674746982, 120.278636902 23.8384578736982, 120.278403149 23.8385275686982, 120.278195925 23.8385888816983, 120.27814184 23.8386047206982, 120.277945553 23.8386622006982, 120.277755953 23.8387191806982, 120.277672413 23.8387440806982)",
+    "type": "LINESTRING"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.857782759044 23.7603808368043)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.862811929631 23.791682358608)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.837037730129 23.8099096392784)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.731251768487 23.8265150716892)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.667170567025 23.7785182570003)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.664756843241 23.77837772432)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.653030569882 23.7781626285186)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.652176666886 23.7782419974744)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.573510173406 23.8135494428951)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.47659695285 23.8234983663168)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.529028628643 23.7867256163007)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.493127601918 23.7931857228616)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.334147256089 23.8043098765343)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.277239258549 23.8135334055689)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.316789226753 23.8319191234898)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.337889528305 23.8308289917393)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.399295018243 23.8378718812588)",
+    "type": "POINT"
+  },
+  {
+    "name": "水門",
+    "description": "",
+    "geometry": "POINT(120.661125109226 23.7786771498028)",
+    "type": "POINT"
+  }
+]

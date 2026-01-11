@@ -1,0 +1,12 @@
+---
+id: 20260111_zhuoshui_facilities_150_茶香步道
+name: 茶香步道
+map_id: 20260111_zhuoshui_facilities
+layer_id: 23
+geometry_wkt: POINT(120.626099997141 23.8424802494304)
+---
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
