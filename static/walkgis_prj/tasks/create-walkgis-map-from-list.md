@@ -1,5 +1,5 @@
 ---
-description: 從景點清單自動建立 WalkGIS 地圖的全流程 (搜尋 -> MD enrichment -> DB -> Image Gen -> KML) - v3 (20260111 Updated)
+description: 從景點清單自動建立 WalkGIS 地圖的全流程 (搜尋 -> MD enrichment -> DB -> Image Gen -> KML) - v4 (20260111 Updated)
 ---
 
 # Create WalkGIS Map from List
@@ -9,6 +9,10 @@ This task automates the creation of a full WalkGIS map package, now including co
 ## 0. Prerequisites
 - **Python Environment**: Ensure you are using the correct Conda environment (e.g., `m2504`).
 - **API Keys**: Ensure `GOOGLE_MAPS_API_KEY` (for Places) and Image Generation tools are available.
+
+## 0.5 DB Schema Check
+- **CRITICAL**: Before any DB interaction, run `sqlite3 walkgis.db ".schema"` to inspect the current table structure.
+- **Why**: To prevent errors like `no such column` or mismatched types, ensuring your Python scripts align with the actual DB state.
 
 ## 1. Input Collection & Strategy
 - **Ask the user** for the **"Map Name"** and **"List of Locations"**.
