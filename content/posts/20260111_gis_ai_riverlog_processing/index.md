@@ -4,7 +4,7 @@ date: 2026-01-11
 draft: false
 tags: [AI, GIS, Python, QGIS, Antigravity, WalkGIS]
 categories: ["Project (專案)"]
-series: ["WalkGIS"]
+series: ["WalkGIS","2026台灣河流探索-濁水溪"]
 ---
 ![2026流域探索_濁水溪](2026流域探索_濁水溪.png)
 

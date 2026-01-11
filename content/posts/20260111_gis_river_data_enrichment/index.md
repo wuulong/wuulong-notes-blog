@@ -4,7 +4,7 @@ date: 2026-01-11
 draft: false
 tags: [GIS, Data Engineering, River, OpenData, AI]
 categories: ["Project (專案)"]
-series: ["WalkGIS"]
+series: ["WalkGIS","2026台灣河流探索-濁水溪"]
 ---
 
 在處理台灣水利地理資訊時，常會發現政府公開的「中央管河川」圖資（如 `RIVERL.shp`）或河川代碼表，往往只記錄到一定規模以上的河川。很多在地人熟知的區域排水、野溪或深山源頭（如濁水溪上游的霧社溪）並不在名冊上。
