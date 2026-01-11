@@ -26,11 +26,13 @@ series: ["WalkGIS"]
 
 在專案目錄中，主要的幾何資料位於 `1-流域水文地理環境` 下的 `RIVERL.shp`（全台中央管河川）。原本以為只要用 SQL 篩選 `BASIN_NAME = '濁水溪'` 即可，但 AI 分析後發現了一個隱藏的寶藏檔案：
 
-📂 **檔案位置**：`working/河川整理資料 - 河川代碼主從.csv`
+📂 **檔案位置**：
 
 [河川整理資料 - 河川代碼主從](https://docs.google.com/spreadsheets/d/1RoTRS69o6zXpWHQ5nvqEzTEdP6dbcs4ugoGuYkeS6QQ/edit?usp=sharing)
 
-這份 CSV 檔案是解析河川「拓撲關係（Topology）」的關鍵，沒有它，GIS 圖資就只是一堆沒有從屬關係的線條。
+這份 CSV 檔案是解析河川「拓撲關係（Topology）」的關鍵，沒有它，GIS 圖資就只是一堆沒有從屬關係的線條。所以也很容易做出下圖
+
+![river_topology.png](river_topology.png)
 
 ### 為什麼這份 CSV 很重要？
 
