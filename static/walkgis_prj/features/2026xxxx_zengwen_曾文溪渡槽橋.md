@@ -1,0 +1,21 @@
+---
+id: 2026xxxx_zengwen_曾文溪渡槽橋
+name: 曾文溪渡槽橋
+description: 曾文溪, 善化區臺南市台灣 741
+geometry:
+  type: Point
+  coordinates: [120.3391685, 23.1552605]
+properties:
+  category: 曾文溪探索
+  place_id: ChIJ9f1G9c18bjQR1ydl-1FRly0
+---
+
+# 曾文溪渡槽橋
+
+- **地址**: 曾文溪, 善化區臺南市台灣 741
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=23.1552605,120.3391685&query_place_id=ChIJ9f1G9c18bjQR1ydl-1FRly0)

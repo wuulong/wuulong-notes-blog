@@ -1,0 +1,21 @@
+---
+id: 2026xxxx_zengwen_總爺藝文中心
+name: 總爺藝文中心
+description: 721台灣臺南市麻豆區南勢里總爺5號總爺藝文中心
+geometry:
+  type: Point
+  coordinates: [120.2690667, 23.1856224]
+properties:
+  category: 曾文溪探索
+  place_id: ChIJJwaEsc59bjQRt2NK_QTRNuk
+---
+
+# 總爺藝文中心
+
+- **地址**: 721台灣臺南市麻豆區南勢里總爺5號總爺藝文中心
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=23.1856224,120.2690667&query_place_id=ChIJJwaEsc59bjQRt2NK_QTRNuk)

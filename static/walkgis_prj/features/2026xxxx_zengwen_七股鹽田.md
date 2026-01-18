@@ -1,0 +1,21 @@
+---
+id: 2026xxxx_zengwen_七股鹽田
+name: 七股鹽田
+description: No. 66號, 里, 七股區臺南市台灣 724
+geometry:
+  type: Point
+  coordinates: [120.1001211, 23.1542387]
+properties:
+  category: 曾文溪探索
+  place_id: ChIJTRbkzL_WbTQRTrfGfckHIrc
+---
+
+# 七股鹽田
+
+- **地址**: No. 66號, 里, 七股區臺南市台灣 724
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=23.1542387,120.1001211&query_place_id=ChIJTRbkzL_WbTQRTrfGfckHIrc)

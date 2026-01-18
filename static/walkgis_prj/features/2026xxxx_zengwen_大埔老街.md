@@ -1,0 +1,21 @@
+---
+id: 2026xxxx_zengwen_大埔老街
+name: 大埔老街
+description: 607台灣嘉義縣大埔鄉
+geometry:
+  type: Point
+  coordinates: [120.5950634, 23.2998488]
+properties:
+  category: 曾文溪探索
+  place_id: ChIJCw5MeUDybjQR08mdP8nUf4E
+---
+
+# 大埔老街
+
+- **地址**: 607台灣嘉義縣大埔鄉
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=23.2998488,120.5950634&query_place_id=ChIJCw5MeUDybjQR08mdP8nUf4E)

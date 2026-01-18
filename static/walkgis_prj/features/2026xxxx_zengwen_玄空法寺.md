@@ -1,0 +1,21 @@
+---
+id: 2026xxxx_zengwen_玄空法寺
+name: 玄空法寺
+description: 715台灣臺南市楠西區中華路270號
+geometry:
+  type: Point
+  coordinates: [120.4825457, 23.1821354]
+properties:
+  category: 曾文溪探索
+  place_id: ChIJJZhumoCKbjQRL2iQ0r_sRQ8
+---
+
+# 玄空法寺
+
+- **地址**: 715台灣臺南市楠西區中華路270號
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=23.1821354,120.4825457&query_place_id=ChIJJZhumoCKbjQRL2iQ0r_sRQ8)

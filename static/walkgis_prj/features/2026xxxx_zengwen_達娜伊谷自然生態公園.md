@@ -1,0 +1,21 @@
+---
+id: 2026xxxx_zengwen_達娜伊谷自然生態公園
+name: 達娜伊谷自然生態公園
+description: 605台灣嘉義縣阿里山鄉3鄰51號達娜伊谷自然生態公園
+geometry:
+  type: Point
+  coordinates: [120.6779253, 23.3788726]
+properties:
+  category: 曾文溪探索
+  place_id: ChIJV6tjSzvvbjQRwQ9g4xwM6cc
+---
+
+# 達娜伊谷自然生態公園
+
+- **地址**: 605台灣嘉義縣阿里山鄉3鄰51號達娜伊谷自然生態公園
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=23.3788726,120.6779253&query_place_id=ChIJV6tjSzvvbjQRwQ9g4xwM6cc)

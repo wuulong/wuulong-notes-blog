@@ -1,0 +1,21 @@
+---
+id: 2026xxxx_zengwen_麻豆代天府
+name: 麻豆代天府
+description: 72146台灣臺南市麻豆區關帝廟60號
+geometry:
+  type: Point
+  coordinates: [120.2601369, 23.1902363]
+properties:
+  category: 曾文溪探索
+  place_id: ChIJkQk5r9F9bjQR7T60qmYnd5s
+---
+
+# 麻豆代天府
+
+- **地址**: 72146台灣臺南市麻豆區關帝廟60號
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=23.1902363,120.2601369&query_place_id=ChIJkQk5r9F9bjQR7T60qmYnd5s)

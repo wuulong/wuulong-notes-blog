@@ -1,0 +1,21 @@
+---
+id: 2026xxxx_zengwen_黑面琵鷺生態展示館
+name: 黑面琵鷺生態展示館
+description: 724台灣臺南市七股區十份里海埔47號
+geometry:
+  type: Point
+  coordinates: [120.062715, 23.0813903]
+properties:
+  category: 曾文溪探索
+  place_id: ChIJSYsOWxzabTQR7L0m0A0HWtg
+---
+
+# 黑面琵鷺生態展示館
+
+- **地址**: 724台灣臺南市七股區十份里海埔47號
+
+## 簡介
+(待補充詳細資料)
+
+## 相關連結
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=23.0813903,120.062715&query_place_id=ChIJSYsOWxzabTQR7L0m0A0HWtg)
