@@ -1,6 +1,6 @@
 ---
 title: "[曾文溪Day3] 溯源群山之翡翠：曾文水庫與鄒族秘境 (行前計劃)"
-date: 2026-02-15
+date: 2026-01-18
 draft: false
 tags: [WalkGIS, 曾文溪, 水庫, 遊艇, 鄒族]
 categories: ["Life and Thoughts (生活與隨筆)"]

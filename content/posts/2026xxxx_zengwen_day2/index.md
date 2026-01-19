@@ -1,6 +1,6 @@
 ---
 title: "[曾文溪Day2] 甜蜜糖都與惡地奇觀：麻豆、山上到左鎮的平原穿梭 (行前計劃)"
-date: 2026-02-14
+date: 2026-01-18
 draft: false
 tags: [WalkGIS, 曾文溪, 糖業, 水利, 惡地]
 categories: ["Life and Thoughts (生活與隨筆)"]

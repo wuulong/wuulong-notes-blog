@@ -3,13 +3,13 @@ title: "從理論到實戰：我如何用 AI 打造一套『企業轉型 OS』"
 date: 2026-01-19
 draft: false
 tags: [GenAI, Agentic AI, Digital Transformation, Knowledge Engineering, Methodology]
-categories: ["Life and Thoughts (生活與隨筆)"]
-series: ["GenAI實驗"]
+categories: ["Project (專案)"]
+series: ["企業AI轉型全書"]
 image: cover.png
 ---
 
 > **哈爸碎碎念**：
-> 寫一本書不難，難的是如何讓這本書「動起來」。最近我完成了一本關於《企業生成式 AI 轉型》的小書，但這次實驗最有趣的地方，不在於那幾萬字的文字產出，而是我如何引導 AI 將這些文字轉化為一套可執行的「轉型作業系統 (OS)」。
+> 寫一本書不難，難的是如何讓這本書「動起來」。最近我完成了一本關於《企業生成式 AI 轉型》的小書，書名是「企業生成式 AI 轉型全書：從知識底座到自主代理人的實踐路徑」，但這次實驗最有趣的地方，不在於那幾萬字的文字產出，而是我如何引導 AI 將這些文字轉化為一套可執行的「轉型作業系統 (OS)」。
 
 ![AI 轉型方法論演進](cover.png)
 

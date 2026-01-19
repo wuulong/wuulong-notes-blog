@@ -1,6 +1,6 @@
 ---
 title: "[曾文溪Day1] 國境之西與濕地夕照：七股鹽田的海口之旅 (行前計劃)"
-date: 2026-02-13
+date: 2026-01-18
 draft: false
 tags: [WalkGIS, 曾文溪, 七股, 濕地, 夕陽]
 categories: ["Life and Thoughts (生活與隨筆)"]
