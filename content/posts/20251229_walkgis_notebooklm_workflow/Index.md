@@ -1,8 +1,8 @@
 ---
 title: "實作筆記：從 SQLite 到 NotebookLM，自動化產製卡通風格導覽地圖"
-date: 2025-12-29T18:10:00+08:00
+date: 2025-12-29T18:15:00+08:00
 draft: false
-categories: ["GenAI (生成式 AI)"]
+categories: ["Project (專案)"]
 series: ["WalkGIS"]
 tags: ["NotebookLM", "SQLite", "Automation", "RAG", "Prompt Engineering"]
 summary: "如何將生硬的 GIS 數據變成生動的旅遊故事？本文分享我的 WalkGIS 自動化工作流：使用 Shell Script 從 SQLite 精準萃取地圖資料，餵給 Google NotebookLM，一鍵生成卡通風格導覽與投影片大綱。"
@@ -75,10 +75,10 @@ AI 根據我的指令，將 24 個景點轉化為一張充滿冒險感的概念�
 *(圖說：NotebookLM 生成的卡通地圖視覺描述與重點摘要)*
 
 ### 2. 自動生成投影片 (Slides)
-我也要求它產出一份投影片大綱，它自動安排了起承轉合：從后里馬場的出發，到石岡水壩的震撼教育，最後在東勢客家園區享用美食。
+我也要求它產出一份 10 頁的投影片大綱，它自動安排了起承轉合：從后里馬場的出發，到石岡水壩的震撼教育，最後在東勢客家園區享用美食。
 
 ![WalkGIS投影片](walkgis_slides.png)
-*(圖說：由 AI 規劃的「后豐東豐冒險記」投影片的某一頁)*
+*(圖說：由 AI 規劃的「后豐東豐冒險記」投影片大綱)*
 
 ## 💡 結語
 
