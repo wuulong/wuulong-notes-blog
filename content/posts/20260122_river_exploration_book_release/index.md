@@ -44,12 +44,12 @@ draft: false
 這本書我決定以 **CC0 (公眾領域貢獻宣言)** 釋出。
 既然是寫給台灣人、寫給這塊土地的，我希望它能像河流一樣自由流動。你可以自由地複製、修改、用這套方法去寫你家門口的那條小溪。
 
-**專案位置：** [GitHub - River Exploration Navigation](https://github.com/wuulong/RiverExploration) (請自行替換成正確連結)
+**專案位置：** [GitHub - River Exploration Navigation](https://github.com/wuulong/RiverExploration)
 
 這是一場永無止盡的航行。我在下一段河坑，等著看見你們帶回來的紀錄。
 
 ---
-> **導航者 2026.01.22 於工作室。**
+> **哈爸 2026.01.22 於哈爸實驗室。**
 
 > **AI 協作聲明**：
 > 本文內容由筆者與 AI 助手 Antigravity 共同撰寫。AI 協助整理了全書的「二階段架構」方法論，並將筆者的實地探險經驗與外部科研資料進行深度整合與轉譯，共同產出這份數位地誌指南。
