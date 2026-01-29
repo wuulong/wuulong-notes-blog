@@ -1,5 +1,5 @@
 ---
-id: 2026xxxx_zengwen_隆田chacha文化資產教育園區
+id: 20260128_zengwen_隆田chacha文化資產教育園區
 name: 隆田chacha文化資產教育園區
 description: 720台灣臺南市官田區中興路
 geometry:
