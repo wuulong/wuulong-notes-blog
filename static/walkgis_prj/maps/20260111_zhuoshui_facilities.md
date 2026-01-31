@@ -14,6 +14,10 @@ tags: [濁水溪, 景點, 設施]
 ## 簡介 (Introduction)
 彙整濁水溪流域之交通、水利、人文與自然景點。本資料集包含水利、交通、人文、自然等多面向的景點。
 
+## 實際探索
+
+- [2026台灣河流探索 - 濁水溪流域深度之旅](https://wuulong.github.io/wuulong-notes-blog/series/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2-%E6%BF%81%E6%B0%B4%E6%BA%AA/)
+
 ## 地圖結構 (Topology)
 ```mermaid
 graph TD

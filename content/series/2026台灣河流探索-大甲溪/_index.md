@@ -31,6 +31,8 @@ TocOpen: true
 
 
 ## 相關資料
+- [WalkGIS 大甲溪水利溯源之旅](https://walkgis-544663807110.us-west1.run.app/?map=2025_dajia_river_tour)
+
 - [notebooklm-台灣河川探索誌-大甲溪](https://notebooklm.google.com/notebook/0f2a5494-1a72-4081-8db7-e6a93fc64b5e)
 
 ## 📚 系列文章導覽
