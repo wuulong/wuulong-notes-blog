@@ -14,6 +14,9 @@ description: "記錄如何將 112MB 的 PDF 手冊與 KMZ 圖資，轉化為具�
 
 本文紀錄了利用 AI 協作，將山海圳從「靜態資料」轉型為「動態地圖系統」的完整工序。
 
+- [WalkGIS:山海圳國家綠道](https://walkgis-544663807110.us-west1.run.app/?map=20260202_shanhaijun)
+
+
 ---
 
 ## 🛠 五大轉化階段
