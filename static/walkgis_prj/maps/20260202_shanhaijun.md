@@ -66,7 +66,7 @@ graph TD
 ## 景點 Feature 索引
 
 ### 軌跡段 (Tracks)
-https://walkgis-544663807110.us-west1.run.app/?map=20260202_shanhaijun&feature=20260202_shj_poi_003
+
 - [MSTW 01 (起點為鹽水溪排水線出海口，台江國家公園管理處暫無船隻通行）台江國家公園管理處→朝皇宮](?map=20260202_shanhaijun&feature=20260202_shj_track_01)
 - [MSTW 02 朝皇宮→保安宮](?map=20260202_shanhaijun&feature=20260202_shj_track_02)
 - [MSTW 03 保安宮→臺灣歷史博物館](?map=20260202_shanhaijun&feature=20260202_shj_track_03)
