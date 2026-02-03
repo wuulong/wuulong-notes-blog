@@ -53,6 +53,8 @@ graph TD
 3. **文史景點**: 推薦 5 個在官方手冊之外，值得徒步者駐足的「隱藏地標」。
 4. **必吃在地美食**: 從台江的小吃、官田的菱角到部落的石板烤肉，列出階梯式的味蕾清單。
 ```
+- [山海圳國家綠道深度研究](https://docs.google.com/document/d/1mcWGWggQSKZYYAQzI3y1AM_1GWYLhZMsT7i2-hfJGUE/edit?usp=sharing)
+
 
 ## 📊 用 Dynamic View 視覺化您的研究
 研究報告完成後，請在 Dynamic View 中使用以下 Prompt 進行結構化呈現：
@@ -62,6 +64,11 @@ graph TD
 - **Route Card**: `將 MSTW 01 到 31 轉換為一張張難度與亮點分明的行程卡片。`
 
 ---
+
+## 製作筆記
+- [從「靜態手冊」到「動態地圖」：山海圳國家綠道的數位敘事化轉型實錄](https://wuulong.github.io/wuulong-notes-blog/posts/20260203_shj_transformation_log/)
+
+
 
 ## 景點 Feature 索引
 
