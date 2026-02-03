@@ -126,14 +126,14 @@ An Itinerary Plan for a 1-day cultural tour, highlighting food stops."
 
 這樣您可以充分利用 Dynamic View 的特性，把那份幾萬字的報告，瞬間變成三張精美的圖表，直接截圖就是完美的簡報素材或網誌插圖！
 ## 景點列表
-- [石岡壩](../features/20260101_daan_dajia_pipeline_石岡壩.md)
-- [鯉魚潭水庫](../features/20260101_daan_dajia_pipeline_鯉魚潭水庫.md)
-- [豐原淨水場](../features/20260101_daan_dajia_pipeline_豐原淨水場.md)
-- [后里第一淨水場](../features/20260101_daan_dajia_pipeline_后里第一淨水場.md)
-- [鯉魚潭淨水場](../features/20260101_daan_dajia_pipeline_鯉魚潭淨水場.md)
-- [經濟部水利署中區水資源分署](../features/20260101_daan_dajia_pipeline_經濟部水利署中區水資源分署.md)
-- [后里泰安國小](../features/20260101_daan_dajia_pipeline_后里泰安國小.md)
-- [苗栗鯉魚潭國小](../features/20260101_daan_dajia_pipeline_苗栗鯉魚潭國小.md)
+- [石岡壩](?map=20260202_shanhaijun&feature=20260101_daan_dajia_pipeline_%E7%9F%B3%E5%B2%A1%E5%A3%A9)
+- [鯉魚潭水庫](?map=20260202_shanhaijun&feature=20260101_daan_dajia_pipeline_%E9%AF%89%E9%AD%9A%E6%BD%AD%E6%B0%B4%E5%BA%AB)
+- [豐原淨水場](?map=20260202_shanhaijun&feature=20260101_daan_dajia_pipeline_%E8%B1%90%E5%8E%9F%E6%B7%A8%E6%B0%B4%E5%A0%B4)
+- [后里第一淨水場](?map=20260202_shanhaijun&feature=20260101_daan_dajia_pipeline_%E5%90%8E%E9%87%8C%E7%AC%AC%E4%B8%80%E6%B7%A8%E6%B0%B4%E5%A0%B4)
+- [鯉魚潭淨水場](?map=20260202_shanhaijun&feature=20260101_daan_dajia_pipeline_%E9%AF%89%E9%AD%9A%E6%BD%AD%E6%B7%A8%E6%B0%B4%E5%A0%B4)
+- [經濟部水利署中區水資源分署](?map=20260202_shanhaijun&feature=20260101_daan_dajia_pipeline_%E7%B6%93%E6%BF%9F%E9%83%A8%E6%B0%B4%E5%88%A9%E7%BD%B2%E4%B8%AD%E5%8D%80%E6%B0%B4%E8%B3%87%E6%BA%90%E5%88%86%E7%BD%B2)
+- [后里泰安國小](?map=20260202_shanhaijun&feature=20260101_daan_dajia_pipeline_%E5%90%8E%E9%87%8C%E6%B3%B0%E5%AE%89%E5%9C%8B%E5%B0%8F)
+- [苗栗鯉魚潭國小](?map=20260202_shanhaijun&feature=20260101_daan_dajia_pipeline_%E8%8B%97%E6%A0%97%E9%AF%89%E9%AD%9A%E6%BD%AD%E5%9C%8B%E5%B0%8F)
 - [枕頭山 (苗栗)](../features/20260101_daan_dajia_pipeline_枕頭山 (苗栗).md)
 - [大安溪水管橋 (后里圳水橋)](../features/20260101_daan_dajia_pipeline_大安溪水管橋 (后里圳水橋).md)
 - [后里圳 (示範電廠)](../features/20260101_daan_dajia_pipeline_后里圳 (示範電廠).md)

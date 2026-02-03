@@ -80,7 +80,7 @@ graph TD;
 ## 景點列表 (Features)
 <!-- 
 此列表通常由 Python Script 自動生成。
-格式為：- [景點名稱](../features/FEATURE_ID.md)
+格式為：- [景點名稱](?map=20260202_shanhaijun&feature=FEATURE_ID)
 -->
-- [範例景點 A](../features/YYYYMMDD_map_name_00_spot_a.md)
-- [範例景點 B](../features/YYYYMMDD_map_name_01_spot_b.md)
+- [範例景點 A](?map=20260202_shanhaijun&feature=YYYYMMDD_map_name_00_spot_a)
+- [範例景點 B](?map=20260202_shanhaijun&feature=YYYYMMDD_map_name_01_spot_b)

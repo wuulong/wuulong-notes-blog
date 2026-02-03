@@ -89,13 +89,13 @@ graph TD
 
 ## 景點列表
 
-1.  [葫蘆墩圳 (Huludun Canal)](../features/20251229_huludun_canal.md)
-2.  [石岡水壩 (Shigang Dam)](../features/20251229_shigang_dam.md)
-3.  [東勢本圳 (Dongshi Main Canal)](../features/20251229_dongshi_main_canal.md)
-4.  [馬鞍壩 (Ma'an Dam)](../features/20251229_maan_dam.md)
-5.  [白冷圳 (Baileng Canal)](../features/20251229_baileng_canal.md)
-6.  [天輪壩 (Tianlun Dam)](../features/20251229_tianlun_dam.md)
-7.  [谷關壩 (Guguan Dam)](../features/20251229_guguan_dam.md)
-8.  [青山壩 (Qingshan Dam)](../features/20251229_qingshan_dam.md)
-9.  [德基水庫 (Techi Reservoir)](../features/20251229_techi_reservoir.md)
+1.  [葫蘆墩圳 (Huludun Canal)](?map=20260202_shanhaijun&feature=20251229_huludun_canal)
+2.  [石岡水壩 (Shigang Dam)](?map=20260202_shanhaijun&feature=20251229_shigang_dam)
+3.  [東勢本圳 (Dongshi Main Canal)](?map=20260202_shanhaijun&feature=20251229_dongshi_main_canal)
+4.  [馬鞍壩 (Ma'an Dam)](?map=20260202_shanhaijun&feature=20251229_maan_dam)
+5.  [白冷圳 (Baileng Canal)](?map=20260202_shanhaijun&feature=20251229_baileng_canal)
+6.  [天輪壩 (Tianlun Dam)](?map=20260202_shanhaijun&feature=20251229_tianlun_dam)
+7.  [谷關壩 (Guguan Dam)](?map=20260202_shanhaijun&feature=20251229_guguan_dam)
+8.  [青山壩 (Qingshan Dam)](?map=20260202_shanhaijun&feature=20251229_qingshan_dam)
+9.  [德基水庫 (Techi Reservoir)](?map=20260202_shanhaijun&feature=20251229_techi_reservoir)
 

@@ -98,14 +98,14 @@ graph LR;
 ## 📍 包含景點 (Points of Interest)
 
 ### 后豐段 (Houfeng Section)
-*   [后里馬場](../features/20251229_houli_ranch.md)
-*   [九號隧道](../features/20251229_tunnel_9.md)
-*   [花樑鋼橋](../features/20251229_old_beam_bridge.md)
+*   [后里馬場](?map=20260202_shanhaijun&feature=20251229_houli_ranch)
+*   [九號隧道](?map=20260202_shanhaijun&feature=20251229_tunnel_9)
+*   [花樑鋼橋](?map=20260202_shanhaijun&feature=20251229_old_beam_bridge)
 
 ### 東豐段 (Dongfeng Section)
-*   [石岡水壩](../features/20251229_shigang_dam.md)
-*   [0蛋月台](../features/20251229_0_dan_platform.md)
-*   [情人木橋](../features/20251229_lovers_bridge.md)
-*   [東勢客家文化園區](../features/20251229_dongshi_hakka.md)
+*   [石岡水壩](?map=20260202_shanhaijun&feature=20251229_shigang_dam)
+*   [0蛋月台](?map=20260202_shanhaijun&feature=20251229_0_dan_platform)
+*   [情人木橋](?map=20260202_shanhaijun&feature=20251229_lovers_bridge)
+*   [東勢客家文化園區](?map=20260202_shanhaijun&feature=20251229_dongshi_hakka)
 
 *(完整清單請參閱 features 目錄)*

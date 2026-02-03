@@ -67,11 +67,11 @@ graph TD
 
 ## 景點列表
 
-1.  [三叉埤](../features/20251230_sancha_pond.md)
-2.  [汀甫圳](../features/20251230_tingfu_canal.md)
-3.  [汀甫圳幹線](../features/20251230_tingfu_main_canal.md)
-4.  [竹東圳 (寶山第二水庫與竹東圳分水沉沙池)](../features/20251230_zhudong_canal_sand_basin.md)
-5.  [東興舊港圳圓環](../features/20251230_dongxing_old_port_canal_circle.md)
-6.  [街頭圳幹線](../features/20251230_jietou_main_canal.md)
-7.  [隆恩圳](../features/20251230_longen_canal.md)
-8.  [貓兒錠幹線3支線](../features/20251230_maoerding_branch_3.md)
+1.  [三叉埤](?map=20260202_shanhaijun&feature=20251230_sancha_pond)
+2.  [汀甫圳](?map=20260202_shanhaijun&feature=20251230_tingfu_canal)
+3.  [汀甫圳幹線](?map=20260202_shanhaijun&feature=20251230_tingfu_main_canal)
+4.  [竹東圳 (寶山第二水庫與竹東圳分水沉沙池)](?map=20260202_shanhaijun&feature=20251230_zhudong_canal_sand_basin)
+5.  [東興舊港圳圓環](?map=20260202_shanhaijun&feature=20251230_dongxing_old_port_canal_circle)
+6.  [街頭圳幹線](?map=20260202_shanhaijun&feature=20251230_jietou_main_canal)
+7.  [隆恩圳](?map=20260202_shanhaijun&feature=20251230_longen_canal)
+8.  [貓兒錠幹線3支線](?map=20260202_shanhaijun&feature=20251230_maoerding_branch_3)
