@@ -30,6 +30,9 @@ graph TD
 - **背景**: 始於 2007 年地方倡議，串連布農、鄒、西拉雅及漢人文化圈。
 - **技術細節**: 海拔從 0 爬升至 3952 公尺，長度約 177 公里。
 
+## AI 投影片 
+- [NotebookLM投影片](https://drive.google.com/open?id=1UshWflfmzdiIZcFavEs4ax2vdaLp0X0F&usp=drive_copy)
+
 ## 🗺️ AI 深度探索 (Deep Research)
 如果您擁有 Gemini Advanced 或其他 Deep Research 工具，可以複製以下 Prompt，針對山海圳進行深度的文史與生態探索：
 
