@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/1/10/TRA_Hsinchu_Station.jpg
 id: COUNTY_10018_新竹市
 name: 新竹市
 type: 行政區劃
@@ -7,6 +8,9 @@ date: 2026-02-04
 ---
 
 # 新竹市 (Hsinchu City)
+
+![COUNTY_10018_新竹市](https://upload.wikimedia.org/wikipedia/commons/1/10/TRA_Hsinchu_Station.jpg)
+
 
 古稱「竹塹」，是台灣高科技產業重鎮，素有「風城」之稱。擁有深厚的歷史底蘊（如 1718 年開墾紀錄）與領先全球的新竹科學園區。
 
