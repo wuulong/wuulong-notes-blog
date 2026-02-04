@@ -26,15 +26,14 @@ graph TD
 
 ## 📍 核心探索點位
 
-1. **[山源段]** [二仁溪源頭 (2026xxxx_erren_source)](../features/2026xxxx_erren_source.md)
-2. **[展望點]** [308高地 (2026xxxx_erren_308_high)](../features/2026xxxx_erren_308_high.md)
-3. **[地質點]** [田寮月世界 (2026xxxx_erren_moon_world)](../features/2026xxxx_erren_moon_world.md)
-4. **[曲流點]** [阿蓮大曲流 (2026xxxx_erren_fuxing_meander)](../features/2026xxxx_erren_fuxing_meander.md)
-5. **[治理點]** [港尾溝分洪道 (2026xxxx_erren_gangweigou_diversion)](../features/2026xxxx_erren_gangweigou_diversion.md)
-6. **[教育點]** [仁德滯洪池 (2026xxxx_erren_rende_pond)](../features/2026xxxx_erren_rende_pond.md)
-7. **[歷史點]** [南萣橋遺址 (2026xxxx_erren_nanding_legacy)](../features/2026xxxx_erren_nanding_legacy.md)
-8. **[復育點]** [茄萣舢筏協會 (2026xxxx_erren_sampan_assoc)](../features/2026xxxx_erren_sampan_assoc.md)
+- [二仁溪源頭 (山源段)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_source)
+- [308高地 (展望點)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_308_high)
+- [田寮月世界 (地質點)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_moon_world)
+- [阿蓮大曲流 (曲流點)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_fuxing_meander)
+- [港尾溝分洪道 (治理點)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_gangweigou_diversion)
+- [仁德滯洪池 (教育點)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_rende_pond)
+- [南萣橋遺址 (歷史點)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_nanding_legacy)
+- [茄萣舢筏協會 (復育點)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_sampan_assoc)
 
 ## 📡 數位資源
 - [KML 檔案 (Google My Map 匯入)](../../data/erren_exploration/二仁溪流域探索_2026.kml)
-- [三日探索 Master Plan](../../data/erren_exploration/erren_3day_master_plan.md)
