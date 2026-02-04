@@ -30,4 +30,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%E5%8D%97
 ## 📍 座標與地圖連結
 - coordinate: [22.8872, 120.2635]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.8872, 120.2635) else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.8872,120.2635)

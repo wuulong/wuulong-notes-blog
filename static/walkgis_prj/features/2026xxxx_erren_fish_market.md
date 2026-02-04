@@ -30,4 +30,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Xingda_Ha
 ## 📍 座標與地圖連結
 - coordinate: [22.8715, 120.1982]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.8715, 120.1982) else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.8715,120.1982)

@@ -28,4 +28,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rende_Flo
 ## 📍 座標與地圖連結
 - coordinate: [22.9234, 120.2405]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9234, 120.2405) else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9234,120.2405)

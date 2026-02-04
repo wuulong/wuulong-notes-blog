@@ -5,12 +5,12 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9142, 120.4561]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E5%85%A7%E9%96%80%E7%B4%AB%E7%AB%B9%E5%AF%BA.JPG/1280px-%E5%85%A7%E9%96%80%E7%B4%AB%E7%AB%B9%E5%AF%BA.JPG
+cover_image: https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AcnlKN02BctYU7LU_saYlqW9-wkSCpLVCqCMvJ4lN9WsL7HLY0zMFFjPq4whVvsc-ZGKALNNHatUDr4-77mGVTQSuhQjqzcBueTzb5CDpUkM4UgiGDTTiRtH3_YsaUZNgmzDn8BvIER7aSf-T7eTbOZ-Q6UUIJj_Jq8jhHYsKFsYwptg2HDjhZqjE7bba917ep8hFnO5JJOlSI2s_0LyxLx2XcmfwIggYe9EowEzIswuB4cag1aDPVaSY9FcDgam_i_3grgnhgkWnMmxNc82_VRMP970Xh-RZdZHHKdVs3b7Qj113iia6M5gKFzpzS25AlYK3FJNN1qsFv08X5uVCnqya8gpky9KFG7DPQujEK4fKbCc_hX5t-qvCJ_FrIQaUNx_DJu1lhT3dHEhuYfor8r5TTNJLOxtmtcIVjRDqkf2O8o2F7KqBQpIrNJSX0YspLnRwzR8MYop_cqign3ZTXnDPRUbjxbw7O2tRv_dCAWbpYrDYhv_jRayVJoxxfFdGF9CDcVOSi_BfiY9B4FGpuq_1G0g9fIFAwPH_dy_v3ZtAtEwVsUZMWKxrfBY8jjP8XbRAjNbBwHX&key=AIzaSyDrrfcQvb-E1Kogk34QfAq2VFyGBeejNT4
 ---
 
 # 內門光明吊橋：連結古八景的觀景之徑
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E5%85%A7%E9%96%80%E7%B4%AB%E7%AB%B9%E5%AF%BA.JPG/1280px-%E5%85%A7%E9%96%80%E7%B4%AB%E7%AB%B9%E5%AF%BA.JPG)
+![封面圖片](https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photoreference=AcnlKN02BctYU7LU_saYlqW9-wkSCpLVCqCMvJ4lN9WsL7HLY0zMFFjPq4whVvsc-ZGKALNNHatUDr4-77mGVTQSuhQjqzcBueTzb5CDpUkM4UgiGDTTiRtH3_YsaUZNgmzDn8BvIER7aSf-T7eTbOZ-Q6UUIJj_Jq8jhHYsKFsYwptg2HDjhZqjE7bba917ep8hFnO5JJOlSI2s_0LyxLx2XcmfwIggYe9EowEzIswuB4cag1aDPVaSY9FcDgam_i_3grgnhgkWnMmxNc82_VRMP970Xh-RZdZHHKdVs3b7Qj113iia6M5gKFzpzS25AlYK3FJNN1qsFv08X5uVCnqya8gpky9KFG7DPQujEK4fKbCc_hX5t-qvCJ_FrIQaUNx_DJu1lhT3dHEhuYfor8r5TTNJLOxtmtcIVjRDqkf2O8o2F7KqBQpIrNJSX0YspLnRwzR8MYop_cqign3ZTXnDPRUbjxbw7O2tRv_dCAWbpYrDYhv_jRayVJoxxfFdGF9CDcVOSi_BfiY9B4FGpuq_1G0g9fIFAwPH_dy_v3ZtAtEwVsUZMWKxrfBY8jjP8XbRAjNbBwHX&key=AIzaSyDrrfcQvb-E1Kogk34QfAq2VFyGBeejNT4)
 
 
 
@@ -30,4 +30,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E5%85%A7
 ## 📍 座標與地圖連結
 - coordinate: [22.9142, 120.4561]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9142, 120.4561) else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9142,120.4561)
