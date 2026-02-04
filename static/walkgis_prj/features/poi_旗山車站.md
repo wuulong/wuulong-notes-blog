@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2019_Qishan_Station_Anterior.jpg/1280px-2019_Qishan_Station_Anterior.jpg
 title: 旗山車站
 lat: 22.8846222
 lng: 120.4819841
@@ -7,6 +8,9 @@ address: "No. 1號, Zhongshan Rd, Qishan District, Kaohsiung City, Taiwan 842"
 ---
 
 # 旗山車站
+
+![2026xxxx_gaoping_qishan_station](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2019_Qishan_Station_Anterior.jpg/1280px-2019_Qishan_Station_Anterior.jpg)
+
 
 ## 簡介
 (待補充)

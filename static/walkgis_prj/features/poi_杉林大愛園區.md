@@ -1,4 +1,5 @@
 ---
+  cover_image: https://lh3.googleusercontent.com/gps-cs-s/AHVAweoKs6zCTtH34HjgmZYRHcyH9opNdA892l2619N0xMGeIBk1X1ZNu-qNlYV5_VARcU-vShlM2Jf_ps7M-UcEaBHvQ_1ZMIxb1AHpyptVTL8wkjLFSLp3EtEIwAvsG1fiL2zF4Jue=s1600-w1200
 title: 杉林大愛園區
 lat: 22.9669797
 lng: 120.543561
@@ -7,6 +8,9 @@ address: "Shanlin District, Kaohsiung City, Taiwan 846"
 ---
 
 # 杉林大愛園區
+
+![2026xxxx_gaoping_daei_village](https://lh3.googleusercontent.com/gps-cs-s/AHVAweoKs6zCTtH34HjgmZYRHcyH9opNdA892l2619N0xMGeIBk1X1ZNu-qNlYV5_VARcU-vShlM2Jf_ps7M-UcEaBHvQ_1ZMIxb1AHpyptVTL8wkjLFSLp3EtEIwAvsG1fiL2zF4Jue=s1600-w1200)
+
 
 ## 簡介
 (待補充)

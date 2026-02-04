@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Namasia_KH.svg/1280px-Namasia_KH.svg.png
 title: 南沙魯部落
 lat: 22.9643121
 lng: 120.5397101
@@ -7,6 +8,9 @@ address: "No. 2-1號, Lane 28, Heqi St, Shanlin District, Kaohsiung City, Taiwan
 ---
 
 # 南沙魯部落
+
+![2026xxxx_gaoping_nanshalu](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Namasia_KH.svg/1280px-Namasia_KH.svg.png)
+
 
 ## 簡介
 (待補充)

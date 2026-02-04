@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%E7%80%B0%E6%BF%83%E5%BA%84%E6%95%AC%E5%AD%97%E4%BA%AD_-_panoramio.jpg/1280px-%E7%80%B0%E6%BF%83%E5%BA%84%E6%95%AC%E5%AD%97%E4%BA%AD_-_panoramio.jpg
 title: 瀰濃庄敬字亭
 lat: 22.9022245
 lng: 120.5339329
@@ -7,6 +8,9 @@ address: "843, Taiwan, Kaohsiung City, Meinong District, 中山路與永安路�
 ---
 
 # 瀰濃庄敬字亭
+
+![2026xxxx_gaoping_meinong_shrine](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%E7%80%B0%E6%BF%83%E5%BA%84%E6%95%AC%E5%AD%97%E4%BA%AD_-_panoramio.jpg/1280px-%E7%80%B0%E6%BF%83%E5%BA%84%E6%95%AC%E5%AD%97%E4%BA%AD_-_panoramio.jpg)
+
 
 ## 簡介
 (待補充)
