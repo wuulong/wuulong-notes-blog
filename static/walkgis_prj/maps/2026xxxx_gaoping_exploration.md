@@ -65,6 +65,7 @@ graph TD;
 
 ## 實際探索
 - [2026台灣河流探索 - 高屏溪系列網誌](https://wuulong.github.io/wuulong-notes-blog/series/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2-%E9%AB%98%E5%B1%8F%E6%BA%AA/)
+- [Google My Maps 互動地圖](https://www.google.com/maps/d/edit?mid=1IpA6Yyz-IwMRX3F2L1jDWtJuAMEUsn4&usp=sharing)
 
 ## 🏛️ 關鍵 Feature 索引
 - [新園進海宮 (鎮水防線)](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_jin_hai_gong)
