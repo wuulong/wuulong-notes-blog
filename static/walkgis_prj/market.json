@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01",
+  "last_updated": "2026-02-05",
   "maintainer": "Wuulong",
   "sources": [
     {
@@ -14,6 +14,19 @@
         "river"
       ],
       "cover_image": "https://wuulong.github.io/wuulong-notes-blog/walkgis_prj/assets/images/WalkGIS2.0地理資訊新革命.png"
+    },
+    {
+      "id": "township-navigation",
+      "name": "郷鎮探索導航 (W 系統)",
+      "url": "https://wuulong.github.io/taiwan-township-exploration/",
+      "author": "Wuulong",
+      "description": "全台 368 鄉鎮探索導航，結合地理資訊、地誌加厚與探索方法論書籍。",
+      "tags": [
+        "official",
+        "taiwan",
+        "township"
+      ],
+      "cover_image": "https://wuulong.github.io/taiwan-township-exploration/assets/images/taiwan_admin_enrichment.png"
     },
     {
       "id": "template",
