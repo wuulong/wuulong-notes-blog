@@ -13,8 +13,8 @@ def sync_geometry():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # 取得新竹市相關的 POI 幾何資訊
-    cursor.execute("SELECT feature_id, geometry_wkt FROM walking_map_features WHERE feature_id LIKE 'COUNTY_10018%' OR feature_id LIKE 'TOWN_10018%'")
+    # 取得全台行政區的 POI 幾何資訊
+    cursor.execute("SELECT feature_id, geometry_wkt FROM walking_map_features WHERE feature_id LIKE 'COUNTY_%' OR feature_id LIKE 'TOWN_%'")
     rows = cursor.fetchall()
     
     for fid, wkt in rows:

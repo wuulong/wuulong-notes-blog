@@ -11,13 +11,11 @@ date: 2026-02-04
 
 ## 🗺️ 富化區域
 
-### 1. 新竹市 (已完成 AI 厚化)
-包含縣市級及三個行政區。
+### 1. 全台灣 (已完成初始化)
+目前已匯入全台 22 縣市及 368 鄉鎮的行政邊界資訊。
 
-- [新竹市](?map=taiwan_admin_enrichment&feature=COUNTY_10018_新竹市)
-- [新竹市東區](?map=taiwan_admin_enrichment&feature=TOWN_10018010_新竹市東區)
-- [新竹市北區](?map=taiwan_admin_enrichment&feature=TOWN_10018020_新竹市北區)
-- [新竹市香山區](?map=taiwan_admin_enrichment&feature=TOWN_10018030_新竹市香山區)
+- [全台行政區總覽](?map=taiwan_admin_enrichment)
+- [新竹市 (已完成 AI 厚化)](?map=taiwan_admin_enrichment&feature=COUNTY_10018_新竹市)
 
 ## 📊 富化進度指標
 - **DEFAULT**: 初始匯入
