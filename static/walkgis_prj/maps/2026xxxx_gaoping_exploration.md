@@ -1,9 +1,11 @@
 ---
-title: 高屏溪：傷痕、監控與修復的生命大水 (2026)
-date: 2026-xxxx
-description: 探索台灣流域面積最大的河流，從海口逆流而上，追蹤河口的鎮水信仰、工業廢水的自然淨化、客家文風的傳承，以及山地部落的災後韌性。
+title: 高屏溪：從海到山的生命溯源 (2026)
+date: 2026-02-04
+description: 探索台灣流域面積最大的河流。從海口逆流而上，穿透工業修復的濕地與殖民糖鐵的地景，最後抵達莫拉克災後的主體原鄉。
 cover_image: assets/images/2026xxxx_gaoping_exploration_cover.png
 ---
+
+![封面圖片](/assets/images/2026xxxx_gaoping_exploration_cover.png)
 
 ```mermaid
 graph TD;
@@ -15,54 +17,64 @@ graph TD;
     F --> G[那瑪夏/南沙魯/民權國小];
     G --> H[玉山/中央山脈源頭];
     
-    I[海口信仰區] --- C;
-    J[下游復育區] --- D;
-    K[中游文化區] --- E;
-    L[災後重建區] --- F;
-    M[高山原鄉區] --- G;
+    subgraph 河口信仰區
+    C
+    end
+    
+    subgraph 下游復育區
+    D
+    end
+    
+    subgraph 中游文化區
+    E
+    end
+    
+    subgraph 災後重建區
+    F
+    G
+    end
 ```
 
 # 高屏溪：從海到山的生命溯源
 
-高屏溪（下淡水溪）是南台灣最巨大的地理刻痕。本次探索採取「逆流而上」的策略，從鹹淡交界的海口信仰出發，穿透工業污染修復的濕地，進入耕讀傳家的客庄，最後抵達莫拉克風災重創後依然挺立的深山原鄉。這是一場關於「從末端看見起源」的溯源之旅。
+高屏溪（下淡水溪）是南台灣最巨大的地理刻痕。本次探索採取「逆流而上」的策略，從鹹淡交界的海口信仰出發，穿透歷史斷裂與生態修復的地景，最後抵達莫拉克風災重創後依然挺立的深山原鄉。這是一場關於「從末端看見起源」的溯源之旅。
 
 ## 🔍 流域析構 (Basin Analysis)
 
 ### 1. 水文脈動 (Hydrology)：逆向的輸砂記憶
-從海口堆積的泥沙，追蹤到中游因過度開發（採砂）導致的河床刷深，最後抵達上游因土石流劇烈變動的碎裂地形。
+從海口堆積的泥沙，追蹤到中游因過度開發（採砂）導致的河床刷深，最後抵達上游因土石流劇烈變動的碎裂地形。歷史上高屏溪的狂暴與人類抽砂的貪婪，共同形塑了今日的河道。
 
 ### 2. 歷史地層 (History)：從生存防禦到主體復振
-下游是與海搏鬥的生存防禦；中游是日治工業與農業文明的交織；上游則是當代最沈重的災害地景與族群遷徙史。
+*   **下游**：與海搏鬥的生存防禦（水仙尊王、海巡媽）。
+*   **中游**：日治與戰後的物資動脈（糖鐵與採砂）。
+*   **上游**：莫拉克災後的空間規訓與自主重建的韌性對抗。
 
 ### 3. 文化摺層 (Culture)：垂直的靈魂廊道
-*   **河口**：鎮水與海巡（對未知力量的祈求）。
-*   **平原**：敬字與送聖蹟（對知識與自然的循環尊重）。
-*   **高山**：河祭與土地共生（人類與自然的神聖契約）。
+這是一條串聯「水神、文字、山靈」的廊道：
+*   **河口**：對變幻莫測力量的祈求。
+*   **平原**：對知識與自然循環的尊重（送聖蹟）。
+*   **高山**：人類與河流的神聖互惠（河祭）。
 
-## 🗺️ 空間分區導引 (Regional Guide - Sea to Mountain)
+## 🗺️ 空間分區導引 (Regional Guide)
 
-- **Day 1: 河口防線 (林園、新園)**：看與海共處的信仰邊界。
-- **Day 2: 鋼鐵與綠洲 (大樹)**：看工業遺跡與水質淨化的自然力量。
-- **Day 3: 蔗糖與文字 (旗山、美濃)**：看早期經濟動脈與客家文風。
-- **Day 4: 空間規訓 (杉林)**：在大愛園區看災後重建的社會工程。
-- **Day 5: 溯源原鄉 (那瑪夏)**：回到高山，看見強韌的生命起源（下午回程）。
+- **Day 1: 河口防線 (Sea)**：[新園進海宮](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_jin_hai_gong)、[林園鳳芸宮](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_feng_yun_gong)。
+- **Day 2: 鋼鐵與綠洲 (Downstream)**：[舊下淡水溪鐵橋](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_old_bridge)、[大樹舊鐵橋濕地](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_wetland)。
+- **Day 3: 蔗糖與文字 (Middle)**：[旗山車站](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_qishan_station)、[瀰濃庄敬字亭](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_meinong_shrine)、[美濃客家文物館](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_meinong_museum)。
+- **Day 4: 空間規訓 (Half-way)**：[杉林大愛園區](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_daei_village)、[日光小林社區](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_sunlight_village)。
+- **Day 5: 溯源原鄉 (Mountain)**：[南沙魯部落](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_nanshalu)、[那瑪夏民權國小](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_minquan_school)。
 
 ## 實際探索
-- (即將上線 - 接續二仁溪計畫)
+- [2026台灣河流探索 - 高屏溪系列網誌](https://wuulong.github.io/wuulong-notes-blog/series/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2-%E9%AB%98%E5%B1%8F%E6%BA%AA/)
 
-## 🏛️ 知識座標 (Museum Index)
-- [[poi_美濃客家文物館]]：客家文風與敬字傳統。
-- [[poi_旗山車站]]：糖業殖民的物資動脈。
-- [[poi_大樹舊鐵橋濕地教育園區]]：工業廢水治理與生態修復模型。
-
-## 景點 Feature 索引
-- [[poi_進海宮_屏東]]
-- [[poi_鳳芸宮]]
-- [[poi_大樹舊鐵橋濕地教育園區]]
-- [[poi_旗山車站]]
-- [[poi_瀰濃庄敬字亭]]
-- [[poi_美濃客家文物館]]
-- [[poi_杉林大愛園區]]
-- [[poi_日光小林社區]]
-- [[poi_南沙魯部落]]
-- [[poi_那瑪夏民權國小]]
+## 🏛️ 關鍵 Feature 索引
+- [[2026xxxx_gaoping_jin_hai_gong]] 新園進海宮 (鎮水防線)
+- [[2026xxxx_gaoping_feng_yun_gong]] 林園鳳芸宮 (海巡媽)
+- [[2026xxxx_gaoping_old_bridge]] 舊下淡水溪鐵橋 (採砂傷痕)
+- [[2026xxxx_gaoping_wetland]] 大樹舊鐵橋濕地 (生態修復)
+- [[2026xxxx_gaoping_qishan_station]] 旗山車站 (糖鐵動脈)
+- [[2026xxxx_gaoping_meinong_shrine]] 瀰濃庄敬字亭 (送聖蹟文化)
+- [[2026xxxx_gaoping_meinong_museum]] 美濃客家文物館 (客庄知識)
+- [[2026xxxx_gaoping_daei_village]] 杉林大愛園區 (空間規訓現場)
+- [[2026xxxx_gaoping_sunlight_village]] 日光小林社區 (自主重建韌性)
+- [[2026xxxx_gaoping_nanshalu]] 南沙魯部落 (原鄉堅守)
+- [[2026xxxx_gaoping_minquan_school]] 那瑪夏民權國小 (避難方舟)
