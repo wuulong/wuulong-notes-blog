@@ -5,7 +5,7 @@ categories: ["Project (專案)"]
 series: ["2026台灣河流探索-二仁溪"]
 tags: ["環境博物館", "行前計劃", "WalkGIS"]
 description: "進入中游沖積平原，觀察地理學大曲流與橫跨兩市的治理基礎設施。"
-draft: true
+draft: false
 ---
 
 # 二仁溪探索 Day 2：曲流美學與跨域邊界 (行前計劃)

@@ -5,7 +5,7 @@ categories: ["Project (專案)"]
 series: ["2026台灣河流探索-二仁溪"]
 tags: ["環境博物館", "行前計劃", "WalkGIS"]
 description: "從內門源頭出發，尋找二仁溪的原初基因，觀察泥岩地質對流域產業的初步形塑。"
-draft: true
+draft: false
 ---
 
 # 二仁溪探索 Day 1：惡地之源與卓蘭地質 (行前計劃)
