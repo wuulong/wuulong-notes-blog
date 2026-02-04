@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2018_Christmasland_in_New_Taipei%2C_Taiwan.jpg/1280px-2018_Christmasland_in_New_Taipei%2C_Taiwan.jpg
 id: COUNTY_65000_新北市
 name: 新北市
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: POLYGON ((121.53751824100004 25.300031665000063, 121.5407131930001
 ---
 
 # 新北市
+
+![COUNTY_65000_新北市](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2018_Christmasland_in_New_Taipei%2C_Taiwan.jpg/1280px-2018_Christmasland_in_New_Taipei%2C_Taiwan.jpg)
+
 
 台灣的新北市。
 

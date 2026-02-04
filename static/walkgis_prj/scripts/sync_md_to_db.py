@@ -17,8 +17,8 @@ def sync_md_to_db():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
-    # 找出所有已厚化的檔案
-    enriched_files = [f for f in os.listdir(FEATURES_DIR) if f.startswith(('TOWN_10018', 'COUNTY_10018')) and f.endswith('.md')]
+    # 找出所有行政區劃的檔案
+    enriched_files = [f for f in os.listdir(FEATURES_DIR) if f.startswith(('TOWN_', 'COUNTY_')) and f.endswith('.md')]
 
     for filename in enriched_files:
         feature_id = filename.replace('.md', '')

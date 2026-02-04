@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%E5%A4%AA%E6%AD%A6%E5%B1%B1_-_%E6%AF%8B%E5%BF%98%E5%9C%A8%E8%8E%92.jpg/1280px-%E5%A4%AA%E6%AD%A6%E5%B1%B1_-_%E6%AF%8B%E5%BF%98%E5%9C%A8%E8%8E%92.jpg
 id: COUNTY_09020_金門縣
 name: 金門縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: MULTIPOLYGON (((118.23242538500006 24.16077015600007, 118.23505542
 ---
 
 # 金門縣
+
+![COUNTY_09020_金門縣](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%E5%A4%AA%E6%AD%A6%E5%B1%B1_-_%E6%AF%8B%E5%BF%98%E5%9C%A8%E8%8E%92.jpg/1280px-%E5%A4%AA%E6%AD%A6%E5%B1%B1_-_%E6%AF%8B%E5%BF%98%E5%9C%A8%E8%8E%92.jpg)
+
 
 台灣的金門縣。
 

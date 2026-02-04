@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%E5%AE%89%E5%B9%B3%E5%8F%A4%E5%A0%A1%E4%B9%8B%E7%BE%8E.jpg/1280px-%E5%AE%89%E5%B9%B3%E5%8F%A4%E5%A0%A1%E4%B9%8B%E7%BE%8E.jpg
 id: COUNTY_67000_臺南市
 name: 臺南市
 type: 行政區劃
@@ -10,7 +11,26 @@ geometry_wkt: POLYGON ((120.44024698300007 23.413083157000074, 120.4500801620000
 
 # 臺南市
 
-台灣的臺南市。
+![COUNTY_67000_臺南市](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%E5%AE%89%E5%B9%B3%E5%8F%A4%E5%A0%A1%E4%B9%8B%E7%BE%8E.jpg/1280px-%E5%AE%89%E5%B9%B3%E5%8F%A4%E5%A0%A1%E4%B9%8B%E7%BE%8E.jpg)
+# 臺南市 (Tainan City)
+
+台南市是台灣的文化與歷史發源地，古稱「府城」。擁有全台最豐富的古蹟建築、傳統工藝與美食文化，見證了荷、鄭、清與日治時期的多元歷史變遷。
+
+## Highlight 亮點
+- **歷史**: 曾為台灣的首府長達兩百餘年，擁有赤崁樓、安平古堡等一級古蹟。
+- **地理**: 地處嘉南平原，擁有壯闊的潟湖濕地生態與豐富的農產。
+
+## 🗺️ 重點行政區
+- [中西區](?map=taiwan_admin_enrichment&feature=TOWN_67000370_臺南市中西區) (府城核心)
+- [安平區](?map=taiwan_admin_enrichment&feature=TOWN_67000360_臺南市安平區) (大航海地圖)
+- [安南區](?map=taiwan_admin_enrichment&feature=TOWN_67000350_臺南市安南區) (台江生態)
+- [永康區](?map=taiwan_admin_enrichment&feature=TOWN_67000310_臺南市永康區) (工商業中心)
+
+## 🛒 代表市場
+- 永樂市場、水仙宮市場、西市場。
+
+## 🥢 在地美食
+- 牛肉湯、鹹粥、蝦捲、鱔魚意麵。
 
 ## 所轄鄉鎮
 

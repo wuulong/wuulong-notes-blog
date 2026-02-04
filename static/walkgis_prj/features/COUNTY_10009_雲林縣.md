@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/8/8b/%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B_%28cropped%29.jpg
 id: COUNTY_10009_雲林縣
 name: 雲林縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: MULTIPOLYGON (((120.08107728200002 23.52412216400006, 120.09157860
 ---
 
 # 雲林縣
+
+![COUNTY_10009_雲林縣](https://upload.wikimedia.org/wikipedia/commons/8/8b/%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B_%28cropped%29.jpg)
+
 
 台灣的雲林縣。
 

@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kaohsiung_Skyline_2020_%28cropped%29.jpg/1280px-Kaohsiung_Skyline_2020_%28cropped%29.jpg
 id: COUNTY_64000_高雄市
 name: 高雄市
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: MULTIPOLYGON (((114.361684094 10.372797915000092, 114.36176243 10.
 ---
 
 # 高雄市
+
+![COUNTY_64000_高雄市](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kaohsiung_Skyline_2020_%28cropped%29.jpg/1280px-Kaohsiung_Skyline_2020_%28cropped%29.jpg)
+
 
 台灣的高雄市。
 

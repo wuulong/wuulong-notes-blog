@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hengchun-CHO_YEN_CHIA-IMG_1665.jpg/1280px-Hengchun-CHO_YEN_CHIA-IMG_1665.jpg
 id: COUNTY_10013_屏東縣
 name: 屏東縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: MULTIPOLYGON (((120.82675913900005 21.756676800000037, 120.8260833
 ---
 
 # 屏東縣
+
+![COUNTY_10013_屏東縣](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hengchun-CHO_YEN_CHIA-IMG_1665.jpg/1280px-Hengchun-CHO_YEN_CHIA-IMG_1665.jpg)
+
 
 台灣的屏東縣。
 

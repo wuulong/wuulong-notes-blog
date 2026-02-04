@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%9D%B1%E6%B5%B7%E5%B2%B8%E7%9A%84%E9%A2%A8%E6%99%AF_%E5%B0%8F%E9%87%8E%E6%9F%B3_%28cropped%29.jpg/1280px-%E6%9D%B1%E6%B5%B7%E5%B2%B8%E7%9A%84%E9%A2%A8%E6%99%AF_%E5%B0%8F%E9%87%8E%E6%9F%B3_%28cropped%29.jpg
 id: COUNTY_10014_臺東縣
 name: 臺東縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: MULTIPOLYGON (((121.61179564200006 21.942896570000073, 121.6076782
 ---
 
 # 臺東縣
+
+![COUNTY_10014_臺東縣](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%9D%B1%E6%B5%B7%E5%B2%B8%E7%9A%84%E9%A2%A8%E6%99%AF_%E5%B0%8F%E9%87%8E%E6%9F%B3_%28cropped%29.jpg/1280px-%E6%9D%B1%E6%B5%B7%E5%B2%B8%E7%9A%84%E9%A2%A8%E6%99%AF_%E5%B0%8F%E9%87%8E%E6%9F%B3_%28cropped%29.jpg)
+
 
 台灣的臺東縣。
 

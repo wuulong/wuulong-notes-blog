@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/0/02/%E5%98%89%E7%BE%A9%E5%B8%82%E5%8D%80%E5%A4%9C%E6%99%AF%E9%B3%A5%E7%9E%B0.jpg
 id: COUNTY_10020_嘉義市
 name: 嘉義市
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: POLYGON ((120.44061543800001 23.51829629200006, 120.4571056320001 
 ---
 
 # 嘉義市
+
+![COUNTY_10020_嘉義市](https://upload.wikimedia.org/wikipedia/commons/0/02/%E5%98%89%E7%BE%A9%E5%B8%82%E5%8D%80%E5%A4%9C%E6%99%AF%E9%B3%A5%E7%9E%B0.jpg)
+
 
 台灣的嘉義市。
 

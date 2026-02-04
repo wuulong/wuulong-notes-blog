@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%E5%86%AC%E5%B1%B1%E6%B2%B3_%E5%88%A9%E6%BE%A4%E7%B0%A1%E6%A9%8B_DJI-0162_%28cropped%29.jpg/1280px-%E5%86%AC%E5%B1%B1%E6%B2%B3_%E5%88%A9%E6%BE%A4%E7%B0%A1%E6%A9%8B_DJI-0162_%28cropped%29.jpg
 id: COUNTY_10002_宜蘭縣
 name: 宜蘭縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: MULTIPOLYGON (((121.95717884100009 24.850263080000047, 121.9606561
 ---
 
 # 宜蘭縣
+
+![COUNTY_10002_宜蘭縣](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%E5%86%AC%E5%B1%B1%E6%B2%B3_%E5%88%A9%E6%BE%A4%E7%B0%A1%E6%A9%8B_DJI-0162_%28cropped%29.jpg/1280px-%E5%86%AC%E5%B1%B1%E6%B2%B3_%E5%88%A9%E6%BE%A4%E7%B0%A1%E6%A9%8B_DJI-0162_%28cropped%29.jpg)
+
 
 台灣的宜蘭縣。
 

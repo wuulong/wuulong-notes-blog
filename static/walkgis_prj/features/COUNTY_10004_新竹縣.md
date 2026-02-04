@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_night.jpg/1280px-Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_night.jpg
 id: COUNTY_10004_新竹縣
 name: 新竹縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: POLYGON ((121.03813259800008 24.94638162300007, 121.04054466600007
 ---
 
 # 新竹縣
+
+![COUNTY_10004_新竹縣](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_night.jpg/1280px-Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_night.jpg)
+
 
 台灣的新竹縣。
 

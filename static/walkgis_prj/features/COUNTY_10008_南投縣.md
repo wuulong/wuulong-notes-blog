@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%E5%9F%94%E9%87%8C%E7%9B%86%E5%9C%B0_%28cropped%29.jpg/1280px-%E5%9F%94%E9%87%8C%E7%9B%86%E5%9C%B0_%28cropped%29.jpg
 id: COUNTY_10008_南投縣
 name: 南投縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: POLYGON ((121.2708644380001 24.23660985400005, 121.27685437700006 
 ---
 
 # 南投縣
+
+![COUNTY_10008_南投縣](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/%E5%9F%94%E9%87%8C%E7%9B%86%E5%9C%B0_%28cropped%29.jpg/1280px-%E5%9F%94%E9%87%8C%E7%9B%86%E5%9C%B0_%28cropped%29.jpg)
+
 
 台灣的南投縣。
 

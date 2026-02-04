@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/1280px-Taipei_Skyline_2022.06.29.jpg
 id: COUNTY_63000_臺北市
 name: 臺北市
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: POLYGON ((121.56483472600007 25.20101186100004, 121.57290413400005
 ---
 
 # 臺北市
+
+![COUNTY_63000_臺北市](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Taipei_Skyline_2022.06.29.jpg/1280px-Taipei_Skyline_2022.06.29.jpg)
+
 
 台灣的臺北市。
 

@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%E5%85%AB%E5%8D%A6%E5%B1%B1%E5%A4%A7%E4%BD%9B%E9%A2%A8%E6%99%AF%E5%8D%80_%28cropped%29.jpg/1280px-%E5%85%AB%E5%8D%A6%E5%B1%B1%E5%A4%A7%E4%BD%9B%E9%A2%A8%E6%99%AF%E5%8D%80_%28cropped%29.jpg
 id: COUNTY_10007_彰化縣
 name: 彰化縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: POLYGON ((120.45655266000006 24.207186205000085, 120.5043808480001
 ---
 
 # 彰化縣
+
+![COUNTY_10007_彰化縣](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%E5%85%AB%E5%8D%A6%E5%B1%B1%E5%A4%A7%E4%BD%9B%E9%A2%A8%E6%99%AF%E5%8D%80_%28cropped%29.jpg/1280px-%E5%85%AB%E5%8D%A6%E5%B1%B1%E5%A4%A7%E4%BD%9B%E9%A2%A8%E6%99%AF%E5%8D%80_%28cropped%29.jpg)
+
 
 台灣的彰化縣。
 

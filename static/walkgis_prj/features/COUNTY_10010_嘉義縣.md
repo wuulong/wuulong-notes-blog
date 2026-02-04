@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jushan_sunrise_02.jpg/1280px-Jushan_sunrise_02.jpg
 id: COUNTY_10010_嘉義縣
 name: 嘉義縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: MULTIPOLYGON (((120.14980029500009 23.398535029000072, 120.1525040
 ---
 
 # 嘉義縣
+
+![COUNTY_10010_嘉義縣](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jushan_sunrise_02.jpg/1280px-Jushan_sunrise_02.jpg)
+
 
 台灣的嘉義縣。
 

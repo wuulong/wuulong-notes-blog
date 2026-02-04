@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%E9%BE%8D%E9%A8%B0%E6%96%B7%E6%A9%8B--%E5%BC%B5%E5%88%A9%E8%81%B0.jpg/1280px-%E9%BE%8D%E9%A8%B0%E6%96%B7%E6%A9%8B--%E5%BC%B5%E5%88%A9%E8%81%B0.jpg
 id: COUNTY_10005_苗栗縣
 name: 苗栗縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: POLYGON ((121.00820248000002 24.64432462700006, 121.01438115100007
 ---
 
 # 苗栗縣
+
+![COUNTY_10005_苗栗縣](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%E9%BE%8D%E9%A8%B0%E6%96%B7%E6%A9%8B--%E5%BC%B5%E5%88%A9%E8%81%B0.jpg/1280px-%E9%BE%8D%E9%A8%B0%E6%96%B7%E6%A9%8B--%E5%BC%B5%E5%88%A9%E8%81%B0.jpg)
+
 
 台灣的苗栗縣。
 

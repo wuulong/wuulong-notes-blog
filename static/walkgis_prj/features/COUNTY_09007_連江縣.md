@@ -1,4 +1,5 @@
 ---
+  cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lienchiang_County_Council_20120928.jpg/1280px-Lienchiang_County_Council_20120928.jpg
 id: COUNTY_09007_連江縣
 name: 連江縣
 type: 行政區劃
@@ -9,6 +10,9 @@ geometry_wkt: MULTIPOLYGON (((119.96445941900004 25.945745612000053, 119.9642675
 ---
 
 # 連江縣
+
+![COUNTY_09007_連江縣](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lienchiang_County_Council_20120928.jpg/1280px-Lienchiang_County_Council_20120928.jpg)
+
 
 台灣的連江縣。
 
