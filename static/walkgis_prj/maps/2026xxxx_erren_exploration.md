@@ -37,3 +37,4 @@ graph TD
 
 ## 📡 數位資源
 - [GoogleMyMap:2026流域探索_二仁溪](https://www.google.com/maps/d/edit?mid=1pU9vWgJnr_Bccf_zL6osk0GTT-SdaBc&usp=sharing)
+- [哈爸筆記：2026台灣河流探索-二仁溪](https://wuulong.github.io/wuulong-notes-blog/series/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2-%E4%BA%8C%E4%BB%81%E6%BA%AA/)

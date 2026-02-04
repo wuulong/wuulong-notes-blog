@@ -5,12 +5,15 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9082, 120.2223]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Historical_bridge_outline.jpg/640px-Historical_bridge_outline.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E5%8A%AB%E9%A4%98%E8%A9%A9%E9%81%B8%28%E5%9B%9B%29.djvu/page1-1280px-%E5%8A%AB%E9%A4%98%E8%A9%A9%E9%81%B8%28%E5%9B%9B%29.djvu.jpg
 ---
 
 # 二層行古橋：橫跨百年的 RC 先驅
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Historical_bridge_outline.jpg/640px-Historical_bridge_outline.jpg)
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E5%8A%AB%E9%A4%98%E8%A9%A9%E9%81%B8%28%E5%9B%9B%29.djvu/page1-1280px-%E5%8A%AB%E9%A4%98%E8%A9%A9%E9%81%B8%28%E5%9B%9B%29.djvu.jpg)
+
+
+
 
 完工於 1921 年（大正十年），是台灣第一座鋼筋混凝土橋樑，現為見證二仁溪百年變遷的歷史建築。
 
@@ -27,4 +30,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Historica
 ## 📍 座標與地圖連結
 - coordinate: [22.9082, 120.2223]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9082, 120.2223) else '22.9806,120.4821')

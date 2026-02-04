@@ -5,12 +5,15 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9142, 120.4561]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Suspension_bridge_standard.jpg/640px-Suspension_bridge_standard.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E5%85%A7%E9%96%80%E7%B4%AB%E7%AB%B9%E5%AF%BA.JPG/1280px-%E5%85%A7%E9%96%80%E7%B4%AB%E7%AB%B9%E5%AF%BA.JPG
 ---
 
 # 內門光明吊橋：連結古八景的觀景之徑
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Suspension_bridge_standard.jpg/640px-Suspension_bridge_standard.jpg)
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%E5%85%A7%E9%96%80%E7%B4%AB%E7%AB%B9%E5%AF%BA.JPG/1280px-%E5%85%A7%E9%96%80%E7%B4%AB%E7%AB%B9%E5%AF%BA.JPG)
+
+
+
 
 長 195 公尺的紅色吊橋，橫跨二仁溪乾流，連結了內門紫竹寺與將軍山自然園區。
 
@@ -27,4 +30,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Suspensio
 ## 📍 座標與地圖連結
 - coordinate: [22.9142, 120.4561]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9142, 120.4561) else '22.9806,120.4821')

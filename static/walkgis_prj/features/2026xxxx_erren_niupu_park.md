@@ -12,6 +12,7 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dream_Lak
 
 ![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dream_Lake_Niupu.jpg/640px-Dream_Lake_Niupu.jpg)
 
+
 曾面臨有害廢棄物掩埋場開發爭議，最終在地方里長陳永和與環保團體努力下，轉型為全台首座兼具「自然保留區」與「地質公園」的聖地。
 
 ## 📜 歷史背景
@@ -27,4 +28,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dream_Lak
 ## 📍 座標與地圖連結
 - coordinate: [22.9431, 120.3956]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9431, 120.3956) else '22.9806,120.4821')

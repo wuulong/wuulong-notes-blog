@@ -5,12 +5,15 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.8872, 120.2635]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/River_meander_illustration.jpg/640px-River_meander_illustration.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%E5%8D%97%E5%8C%97%E5%8F%B2%E5%90%88%E6%B3%A8%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B9%9D%29.djvu/page1-1280px-%E5%8D%97%E5%8C%97%E5%8F%B2%E5%90%88%E6%B3%A8%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B9%9D%29.djvu.jpg
 ---
 
 # 阿蓮復興里大曲流：地理學的動態標本
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/River_meander_illustration.jpg/640px-River_meander_illustration.jpg)
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%E5%8D%97%E5%8C%97%E5%8F%B2%E5%90%88%E6%B3%A8%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B9%9D%29.djvu/page1-1280px-%E5%8D%97%E5%8C%97%E5%8F%B2%E5%90%88%E6%B3%A8%28%E4%B8%80%E7%99%BE%E4%BA%8C%E5%8D%81%E4%B9%9D%29.djvu.jpg)
+
+
+
 
 二仁溪在中游平原段形成的 180 度大彎，是研究河流動力學（侵蝕與堆積）的經典地標。
 
@@ -27,4 +30,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/River_mea
 ## 📍 座標與地圖連結
 - coordinate: [22.8872, 120.2635]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.8872, 120.2635) else '22.9806,120.4821')

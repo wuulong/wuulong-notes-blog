@@ -12,6 +12,7 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rende_Flo
 
 ![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rende_Flood_Detention_Pond.jpg/640px-Rende_Flood_Detention_Pond.jpg)
 
+
 結合治水防災與生態休憩，將三爺溪與二仁溪匯流後的洪峰壓力實體化為一幅城市美景。
 
 ## 📜 歷史背景
@@ -27,4 +28,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rende_Flo
 ## 📍 座標與地圖連結
 - coordinate: [22.9234, 120.2405]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9234, 120.2405) else '22.9806,120.4821')

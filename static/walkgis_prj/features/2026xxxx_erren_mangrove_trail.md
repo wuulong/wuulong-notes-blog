@@ -5,12 +5,15 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9102, 120.1785]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mangrove_boardwalk.jpg/640px-Mangrove_boardwalk.jpg
+cover_image: https://lh3.googleusercontent.com/gps-cs-s/AHVAweqWvwWVlpzZqbrgc6sB3s6y2RVTo6VrTu7J1Cg0xceW28QKbt_hRM5yvsjoBbPKkb2HX_x-jZiWgCcN8Lb7sspJFYeqP-8ddoHemJ22ccgMJY8JbELCbRRXgvpGWH0clq53Cr8=s1600-w1200
 ---
 
 # 白砂崙紅樹林步道：河口濕地的療癒新生
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mangrove_boardwalk.jpg/640px-Mangrove_boardwalk.jpg)
+![封面圖片](https://lh3.googleusercontent.com/gps-cs-s/AHVAweqWvwWVlpzZqbrgc6sB3s6y2RVTo6VrTu7J1Cg0xceW28QKbt_hRM5yvsjoBbPKkb2HX_x-jZiWgCcN8Lb7sspJFYeqP-8ddoHemJ22ccgMJY8JbELCbRRXgvpGWH0clq53Cr8=s1600-w1200)
+
+
+
 
 位於二仁溪出海口的 1.1 公里木棧道，穿梭在紅樹林間，是觀察河口重生的第一線窗口。
 
@@ -27,4 +30,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mangrove_
 ## 📍 座標與地圖連結
 - coordinate: [22.9102, 120.1785]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9102, 120.1785) else '22.9806,120.4821')

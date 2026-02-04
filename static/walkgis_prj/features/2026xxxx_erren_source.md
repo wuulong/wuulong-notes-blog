@@ -5,12 +5,15 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9806, 120.4821]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mountain_spring_illustration.jpg/640px-Mountain_spring_illustration.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%E6%BF%82%E6%BA%AA%E5%BF%97%28%E5%9B%9B%29.djvu/page1-1280px-%E6%BF%82%E6%BA%AA%E5%BF%97%28%E5%9B%9B%29.djvu.jpg
 ---
 
 # 二仁溪發源地：山豬湖山的清冽歲月
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mountain_spring_illustration.jpg/640px-Mountain_spring_illustration.jpg)
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%E6%BF%82%E6%BA%AA%E5%BF%97%28%E5%9B%9B%29.djvu/page1-1280px-%E6%BF%82%E6%BA%AA%E5%BF%97%28%E5%9B%9B%29.djvu.jpg)
+
+
+
 
 二仁溪發源於高雄市內門區木柵里海拔 460 公尺的山豬湖山。這裡曾被荷蘭人稱為「清水溪」(de Verse Rivier)，意指能直接飲用的淡水，象徵著河流最純潔的起點。
 
@@ -28,4 +31,4 @@ cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mountain_
 ## 📍 座標與地圖連結
 - coordinate: [22.9806, 120.4821]
 - 流域：二仁溪
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9806, 120.4821) else '22.9806,120.4821')
