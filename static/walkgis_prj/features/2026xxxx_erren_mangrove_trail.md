@@ -1,24 +1,30 @@
 ---
 id: 2026xxxx_erren_mangrove_trail
 name: 白砂崙紅樹林步道
-type: 自然地景
-subtype: 紅樹林
+type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9102, 120.1785]
 geometry_type: Point
-geometry_wkt: POINT (120.1785 22.9102)
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mangrove_boardwalk.jpg/640px-Mangrove_boardwalk.jpg
 ---
 
-# 白砂崙紅樹林步道
+# 白砂崙紅樹林步道：河口濕地的療癒新生
 
-河口復育觀測點，退潮時生物相豐富。
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mangrove_boardwalk.jpg/640px-Mangrove_boardwalk.jpg)
+
+位於二仁溪出海口的 1.1 公里木棧道，穿梭在紅樹林間，是觀察河口重生的第一線窗口。
 
 ## 📜 歷史背景
-(待實地考察補充)
+1. **步道重生**：最初由廢棄蚵棚竹子搭建，現升級為耐用的美觀步道。
+2. **生態奇觀**：乾潮時泥灘地會露出無數招潮蟹與彈塗魚，見證水質改善後的生命力。
 
 ## ✨ 亮點特色
-- 座標：22.9102, 120.1785
-- 流域：二仁溪
+- 1.1 公里紅樹林木棧道
+- 乾潮招潮蟹觀察聖地
+- 河口生態修補節點
+- 海天一色的河口門戶
 
 ## 📍 座標與地圖連結
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9102,120.1785)
+- coordinate: [22.9102, 120.1785]
+- 流域：二仁溪
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')

@@ -1,24 +1,30 @@
 ---
 id: 2026xxxx_erren_nanding_legacy
-name: 南萣橋舊電子廢棄物址
-type: 人文史蹟
-subtype: 歷史負債
+name: 南萣橋遺址
+type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9085, 120.1834]
 geometry_type: Point
-geometry_wkt: POINT (120.1834 22.9085)
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Industrial_waste_remnant.jpg/640px-Industrial_waste_remnant.jpg
 ---
 
-# 南萣橋舊電子廢棄物址
+# 南萣橋遺址：綠牡蠣事件與黑龍江教訓
 
-歷史上廢五金非法棄置區，現留有封存及穩定化痕跡。
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Industrial_waste_remnant.jpg/640px-Industrial_waste_remnant.jpg)
+
+二仁溪最黑暗歷史的中心，見證了 1986 年轟動全台的「綠牡蠣事件」以及電子廢棄物造成的環境浩劫。
 
 ## 📜 歷史背景
-(待實地考察補充)
+1. **綠牡蠣風暴**：牡蠣吸收銅離子呈現綠色，政府賠償 8 億元並禁止養殖。
+2. **電子廢棄物長城**：此地曾堆置兩萬公噸電子垃圾與鋁渣，至今河岸消波塊下仍可見歷史殘跡。
 
 ## ✨ 亮點特色
-- 座標：22.9085, 120.1834
-- 流域：二仁溪
+- 綠牡蠣事件發生地 (1986)
+- 兩萬公噸廢電子物清理遺址
+- 環境治理的反面教材
+- 二仁溪污染之殤
 
 ## 📍 座標與地圖連結
-- [Google Maps](https://www.google.com/maps/search/?api=1&query=22.9085,120.1834)
+- coordinate: [22.9085, 120.1834]
+- 流域：二仁溪
+- [Google Maps](https://www.google.com/maps/search/?api=1&query=, if data.get('lat') else '22.9806,120.4821')
