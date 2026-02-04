@@ -36,4 +36,4 @@ graph TD
 - [茄萣舢筏協會 (復育點)](?map=2026xxxx_erren_exploration&feature=2026xxxx_erren_sampan_assoc)
 
 ## 📡 數位資源
-- [KML 檔案 (Google My Map 匯入)](../../data/erren_exploration/二仁溪流域探索_2026.kml)
+- [GoogleMyMap:2026流域探索_二仁溪](https://www.google.com/maps/d/edit?mid=1pU9vWgJnr_Bccf_zL6osk0GTT-SdaBc&usp=sharing)

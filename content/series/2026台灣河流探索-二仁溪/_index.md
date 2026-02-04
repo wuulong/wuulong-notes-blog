@@ -37,9 +37,8 @@ TocOpen: true
     *   **實踐**：直面歷史負債遺址，並在河口見證濕地復育後的生物多樣性，完成探索的「救贖儀式」。
 
 ## 相關數位資源
-- [WalkGIS 二仁溪：環境博物館探索地圖](/walkgis_prj/maps/2026xxxx_erren_exploration.md)
-- [三日探索全要素 Master Plan](../../data/erren_exploration/erren_3day_master_plan.md)
-- [二仁溪流域探索 KML (匯入 Google 用)](../../data/erren_exploration/二仁溪流域探索_2026.kml)
+- [WalkGIS 二仁溪：環境博物館探索地圖](https://walkgis-544663807110.us-west1.run.app/?map=2026xxxx_erren_exploration)
+- [GoogleMyMap:2026流域探索_二仁溪](https://www.google.com/maps/d/edit?mid=1pU9vWgJnr_Bccf_zL6osk0GTT-SdaBc&usp=sharing) 
 
 ## 💡 探索技巧 (來自《南部紋理》)
 *   **潮汐觀察**：Day 3 至海口前，務必確認退潮時間，這決定了紅樹林底棲生物的可視度。
