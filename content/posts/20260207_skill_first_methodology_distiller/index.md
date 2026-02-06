@@ -58,6 +58,8 @@ description: "記錄第一次嘗試「先定義 Skill 通用邏輯，再投入�
 
 這不僅僅是處理完一場會議，而是我們為未來的無數場會議，預備好了一支強大的「AI 知識點萃取部隊」。
 
+補充：[主題：2/6 #2 哈爸實驗室雙周會](https://docs.google.com/document/d/1NIs5vYOEiO_LCqQnJPqay7d_QxuDVzrYFeD6QFXoZVk/edit?tab=t.0#bookmark=kix.2lb1cu4fkbm4)
+
 ---
 **協作紀錄：**
 - **策劃**: USER (哈爸)
