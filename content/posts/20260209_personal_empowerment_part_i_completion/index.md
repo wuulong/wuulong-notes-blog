@@ -69,6 +69,10 @@ AI 給出的答案往往 100% 正確，但那 1% 的「平庸感」或「語氣�
 **進化的腳步，從不停歇。**
 
 ---
+**專案連結：**
+- **本書 GitHub Repo**: [PersonalAI-Empowerment](https://github.com/wuulong/PersonalAI-Empowerment)
+
+---
 **協作紀錄：**
 - **策劃**: USER (哈爸)
 - **寫作與系統同步**: Antigravity (AI Agent)
