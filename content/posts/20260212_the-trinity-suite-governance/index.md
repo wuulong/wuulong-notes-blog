@@ -31,6 +31,8 @@ description: "記錄在撰寫《個人 AI 賦能》第十章時，如何透過�
 
 我們甚至微調了第十章的最後幾個練習，讓讀者能直接調用這套武裝，執行 `*init-workspace` 建立主權專區，執行 `*audit` 體驗巡航稽核。
 
+*   **書本 GitHub 連結**：[PersonalAI-Empowerment](https://github.com/wuulong/PersonalAI-Empowerment)
+
 #### **4. 感觸：紀錄即遺忘，治理即自由**
 這場實驗最大的獲得，是那種**「終於把管理權交還給系統」**的解脫感。
 
