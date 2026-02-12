@@ -1,7 +1,7 @@
 ---
 title: "從「使用」到「統御」——《個人 AI 賦能》第十章發布實錄"
 date: 2026-02-12T08:34:00+08:00
-draft: true
+draft: false
 categories: ["Project (專案)"]
 series: ["個人AI賦能方法論"]
 tags: ["Antigravity", "治理系統", "三位一體", "數位領主"]

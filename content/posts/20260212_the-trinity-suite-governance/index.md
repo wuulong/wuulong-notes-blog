@@ -1,7 +1,6 @@
 ---
 title: "從「抗重力」到「奪回主權」——三位一體治理套件的誕生實錄"
-date: 2026-02-12T07:48:00+08:00
-draft: true
+draft: false
 categories: ["Project (專案)"]
 series: ["個人AI賦能方法論"]
 tags: ["Antigravity", "治理系統", "三位一體", "數位領主"]
