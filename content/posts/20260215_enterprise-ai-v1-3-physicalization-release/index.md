@@ -85,4 +85,5 @@ v1.3.0 的發布，宣告了企業 AI 轉型從「診斷期」正式進入「建
 
 ---
 👉 **《企業生成式 AI 轉型》v1.3.0 完整匯整檔：** [Comprehensive_Enterprise_GenAI_Transformation.md](./Comprehensive_Enterprise_GenAI_Transformation.md)  
+👉 **正式專案存放庫 (GitHub)：** [EnterpriseGenAIAdoption](https://github.com/wuulong/EnterpriseGenAIAdoption)  
 *(同步紀錄於專案實施計畫 Phase 3，由 Antigravity 協助物理化封裝與實戰整合)*
