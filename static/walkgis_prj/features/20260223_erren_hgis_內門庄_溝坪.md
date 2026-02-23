@@ -1,0 +1,17 @@
+---
+name: "溝坪 (古)"
+description: "二仁溪流域歷史聚落：1920 年代大字「溝坪」（屬 內門庄）。"
+geometry:
+  type: Point
+  coordinates: [120.49783873206022, 23.009589234496513]
+properties:
+{
+  "category": "歷史與文化",
+  "subcategory": "1920大字",
+  "oaza_1920": "溝坪",
+  "town_1920": "內門庄",
+  "dataset_version": "v260223.1-Erren"
+}
+---
+
+二仁溪流域歷史聚落：1920 年代大字「溝坪」（屬 內門庄）。
