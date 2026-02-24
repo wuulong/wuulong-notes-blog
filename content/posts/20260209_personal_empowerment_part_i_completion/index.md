@@ -2,7 +2,7 @@
 title: "數位演化的「完美銜接」：個人賦能第一篇完稿紀實"
 date: 2026-02-09
 categories: ["Project (專案)"]
-series: ["個人 AI 賦能"]
+series: ["個人AI賦能方法論"]
 tags: ["Thought-Log", "Meta-Awareness", "Agentic-Writing", "Workflow-Evolution", "Book-Project"]
 description: "在不到四小時內完成書籍第一篇的核心撰寫，這是一場關於意志、證據與系統自動化升級的極限協作。"
 ---
