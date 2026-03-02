@@ -48,6 +48,18 @@ description: "探討如何利用 L0-L1-L2 三層架構，將《新竹縣採訪�
 
 ---
 
+## 🌐 知識外顯：從資料庫到「開放快照」
+
+雖然 SQLite 資料庫是我們 AI 助理最好的「大腦」，但為了讓更多人能直接感受到這份資料的價值，我也在專案中部署了 **「Layer 2 知識匯出引擎」** (`export_atlas_to_open.py`)。
+
+現在，這 800 多個竹塹歷史 POI 與跨全台的史料建模，已經被轉化為：
+- **🗺️ 空間導覽 (GeoJSON)**：可以直接丟進 Google My Maps 或 QGIS，視覺化竹塹地區的開墾脈絡。
+- **📝 知識快照卡 (Markdown)**：將原本隱藏在 JSON 字段中的「地理由來」與「史料彙整」直接攤開，優化 GitHub 的閱讀體驗。
+
+這是我在專案首頁新增的 **[Open Data 展示區](https://github.com/wuulong/taiwan-history-atlas#-%E9%96%8B%E6%94%BE%E8%B3%87%E6%96%99%E8%88%87%E7%9F%A5%E8%AD%98%E5%BF%AB%E7%85%A7-open-data--knowledge-snapshots)** 的核心精神：不讓知識堆在硬碟裡，而是讓它在外顯的格式中「被看見」。
+
+---
+
 ## 🗺️ 走入歷史：竹塹五書知識地圖
 
 你現在可以點擊打開這張 **[竹塹五書歷史知識地圖](https://walkgis-544663807110.us-west1.run.app/?node=official&map=20260223_hsinchu_historical_atlas)**。
