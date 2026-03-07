@@ -65,4 +65,10 @@ POC2 解決了地圖的「溝通力」，而 POC3 賦予了地圖「分析力」
 我們正離「透過代碼解讀歷史空間」的願景，又邁進了一大步。
 
 ---
+### 📥 資源下載與體驗
+本次實驗的 QGIS 專案與分析數據已釋出至 GitHub：
+- **[曾文溪 HGIS 進階分析範例 (GitHub)](https://github.com/wuulong/taiwan-history-atlas/blob/main/examples/zengwen_hgis_poc/README.md)**
+（包含一鍵開啟的 .qgs 專案、熱點圖配置與考古遺址快照）
+
+---
 *本文與 AI 助理深度協作產製。技術細節請參考 [bmad-pa](https://github.com/wuulong/bmad-pa) 的 QGIS 自動化管線。*
