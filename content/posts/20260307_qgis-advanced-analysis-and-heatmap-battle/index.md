@@ -7,6 +7,7 @@ categories: ['Project (專案)']
 series: ["台灣史探索"]
 description: "延續 QGIS 專案自動化 POC 的基礎，我們在第二、三階段挑戰了更深水的區域。本文詳細拆解 POC2 如何解決『地圖美學與標籤』，以及 POC3 如何實現『不改原始檔的空間分析』，並記錄了我們在 XML 惡戰中的實踐智慧。"
 ---
+![20260307_qgis-advanced-analysis-and-heatmap-battle.png](20260307_qgis-advanced-analysis-and-heatmap-battle.png)
 
 在實現 QGIS 專案「一鍵生成」的路上，我們不僅要讓圖層「開得出來」，更要讓它「具備研究價值」。
 
