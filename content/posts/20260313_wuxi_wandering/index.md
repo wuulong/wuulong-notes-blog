@@ -56,6 +56,13 @@ series: ["流浪"]
 
 ---
 
+## 地圖資產
+
+- **互動地圖**：[烏溪 Google My Map](https://www.google.com/maps/d/edit?mid=1gGNvT7KmWuRUSo5CYVWEHIUVM3dYIpE&usp=sharing)
+- **ISMap 註冊檔**：存於 `static/walkgis_prj/data/2026台灣河流探索/烏溪/烏溪.kml`
+
+---
+
 ## 結語
 
 雖然「探訪烏溪」的標題有些牽強，但這場在流域間的流浪，讓我重新找回了旅遊的「體感」。不再是趕點，而是與地方的人、當地的水，進行了一次從容的對話。
