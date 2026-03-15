@@ -5,14 +5,12 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9056, 120.2384]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CADAL09007912_%E6%B5%AE%E6%BA%AA%E9%9B%86%C2%B7%EF%BC%88%E4%BA%8C%EF%BC%89.djvu/page1-1280px-CADAL09007912_%E6%B5%AE%E6%BA%AA%E9%9B%86%C2%B7%EF%BC%88%E4%BA%8C%EF%BC%89.djvu.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/River_weir_standard.jpg/640px-River_weir_standard.jpg
 ---
 
 # 大潭堰：中游取水資源調度站
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CADAL09007912_%E6%B5%AE%E6%BA%AA%E9%9B%86%C2%B7%EF%BC%88%E4%BA%8C%EF%BC%89.djvu/page1-1280px-CADAL09007912_%E6%B5%AE%E6%BA%AA%E9%9B%86%C2%B7%EF%BC%88%E4%BA%8C%EF%BC%89.djvu.jpg)
-
-
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/River_weir_standard.jpg/640px-River_weir_standard.jpg)
 
 
 二仁溪中游關鍵的農業攔水設施，反映了清代以來對水利定耕與集約農業的發展脈絡。

@@ -5,14 +5,12 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9152, 120.2185]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%E6%9C%AC%E6%9C%9D%E5%88%86%E7%9C%81%E4%BA%BA%E7%89%A9%E8%80%83%28%E5%9B%9B%E5%8D%81%E4%B9%9D%29.djvu/page1-1280px-%E6%9C%AC%E6%9C%9D%E5%88%86%E7%9C%81%E4%BA%BA%E7%89%A9%E8%80%83%28%E5%9B%9B%E5%8D%81%E4%B9%9D%29.djvu.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Diversion_canal_structure.jpg/640px-Diversion_canal_structure.jpg
 ---
 
 # 港尾溝溪分洪道：斥資 16 億的避洪隧道
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%E6%9C%AC%E6%9C%9D%E5%88%86%E7%9C%81%E4%BA%BA%E7%89%A9%E8%80%83%28%E5%9B%9B%E5%8D%81%E4%B9%9D%29.djvu/page1-1280px-%E6%9C%AC%E6%9C%9D%E5%88%86%E7%9C%81%E4%BA%BA%E7%89%A9%E8%80%83%28%E5%9B%9B%E5%8D%81%E4%B9%9D%29.djvu.jpg)
-
-
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Diversion_canal_structure.jpg/640px-Diversion_canal_structure.jpg)
 
 
 全長約 3.8 公里，總投資額超過 16 億元，是保護仁德保安工業區與嘉南藥大地區不再受淹水之苦的「人造河流」。

@@ -5,14 +5,12 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9095, 120.1821]
 geometry_type: Point
-cover_image: https://lh3.googleusercontent.com/places/ANXAkqEWVVLkDgDBxY39VDcA5njKB9N2JnmpcBTNcmvPnHsUBm5J6Yrzu0PU2eMsx7PcZ_J2TbscTbZzxoCsQGpEDoVDM6nTDP-qadE=s1600-w1200
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sampan_boat_Taiwan.jpg/640px-Sampan_boat_Taiwan.jpg
 ---
 
 # 茄萣舢筏協會：守護者的角色覺醒
 
-![封面圖片](https://lh3.googleusercontent.com/places/ANXAkqEWVVLkDgDBxY39VDcA5njKB9N2JnmpcBTNcmvPnHsUBm5J6Yrzu0PU2eMsx7PcZ_J2TbscTbZzxoCsQGpEDoVDM6nTDP-qadE=s1600-w1200)
-
-
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sampan_boat_Taiwan.jpg/640px-Sampan_boat_Taiwan.jpg)
 
 
 由漁民發起的守護河川組織，將二仁溪從「黑龍江」變回「鰻苗故鄉」的重要草根力量。

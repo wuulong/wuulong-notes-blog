@@ -5,14 +5,12 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9121, 120.2138]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8%28%E4%BA%8C%E5%8D%81%E5%85%AD%29.djvu/page1-1280px-%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8%28%E4%BA%8C%E5%8D%81%E5%85%AD%29.djvu.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wetland_ecology_illustration.jpg/640px-Wetland_ecology_illustration.jpg
 ---
 
 # 二行大甲生態濕地：礫間水處理的自然洗滌
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8%28%E4%BA%8C%E5%8D%81%E5%85%AD%29.djvu/page1-1280px-%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8%28%E4%BA%8C%E5%8D%81%E5%85%AD%29.djvu.jpg)
-
-
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wetland_ecology_illustration.jpg/640px-Wetland_ecology_illustration.jpg)
 
 
 採用 FWS 濕地工法，每日處理量達 2,700 噸社區污水，是二仁溪告別工業污染的重要展示場。

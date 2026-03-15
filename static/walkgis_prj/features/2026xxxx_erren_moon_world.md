@@ -5,14 +5,12 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.8856, 120.3889]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tianliao_Moon_World_1.jpg/1280px-Tianliao_Moon_World_1.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tianliao_Moon_World.jpg/640px-Tianliao_Moon_World.jpg
 ---
 
 # 田寮月世界：地殼的回春作用
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tianliao_Moon_World_1.jpg/1280px-Tianliao_Moon_World_1.jpg)
-
-
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tianliao_Moon_World.jpg/640px-Tianliao_Moon_World.jpg)
 
 
 台灣最發達的泥岩惡地，由 500 萬年前從海床隆起的泥岩層經風化蝕溝形成，宛如異星地表。

@@ -5,14 +5,12 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.8715, 120.1982]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Xingda_Harbor_%E8%88%88%E9%81%94%E6%B8%AF_-_panoramio_%281%29.jpg/1280px-Xingda_Harbor_%E8%88%88%E9%81%94%E6%B8%AF_-_panoramio_%281%29.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fish_market_operation.jpg/640px-Fish_market_operation.jpg
 ---
 
 # 興達港觀光魚市：烏金故鄉的常民經濟
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Xingda_Harbor_%E8%88%88%E9%81%94%E6%B8%AF_-_panoramio_%281%29.jpg/1280px-Xingda_Harbor_%E8%88%88%E9%81%94%E6%B8%AF_-_panoramio_%281%29.jpg)
-
-
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fish_market_operation.jpg/640px-Fish_market_operation.jpg)
 
 
 北高雄最大漁貨集散地，以烏魚子聞名，展現了與二仁溪口緊密相連的海洋資源圈。

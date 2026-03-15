@@ -5,14 +5,12 @@ type: 二仁溪探索
 date: 2026-02-04
 coordinate: [22.9085, 120.1834]
 geometry_type: Point
-cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E5%B9%B3%E6%92%AD%E5%85%A8%E6%9B%B8%28%E5%85%AB%29.djvu/page1-1280px-%E5%B9%B3%E6%92%AD%E5%85%A8%E6%9B%B8%28%E5%85%AB%29.djvu.jpg
+cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Industrial_waste_remnant.jpg/640px-Industrial_waste_remnant.jpg
 ---
 
 # 南萣橋遺址：綠牡蠣事件與黑龍江教訓
 
-![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/%E5%B9%B3%E6%92%AD%E5%85%A8%E6%9B%B8%28%E5%85%AB%29.djvu/page1-1280px-%E5%B9%B3%E6%92%AD%E5%85%A8%E6%9B%B8%28%E5%85%AB%29.djvu.jpg)
-
-
+![封面圖片](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Industrial_waste_remnant.jpg/640px-Industrial_waste_remnant.jpg)
 
 
 二仁溪最黑暗歷史的中心，見證了 1986 年轟動全台的「綠牡蠣事件」以及電子廢棄物造成的環境浩劫。
