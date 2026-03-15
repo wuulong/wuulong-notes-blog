@@ -13,7 +13,8 @@ image: "/walkgis_prj/assets/images/placeholder_river.png"
 
 ## 🗺️ 空間資產與地圖 (GIS Assets)
 
-- **流域地圖**: [開啟 WalkGIS 秀姑巒溪探索地圖](?map=20260316_xiuguluan_exploration)
+- **流域地圖**: [開啟 WalkGIS 秀姑巒溪探索地圖](?map=20260316_xiuguluan_river)
+- **Google My Maps**: [秀姑巒溪 My Maps 互動地圖](https://www.google.com/maps/d/edit?mid=17hhScs-HmTm50lLK25y941a4XAxHQ3U&usp=sharing)
 - **KML 下載**: [秀姑巒溪整合資產包 (KML)](/walkgis_prj/data/2026台灣河流探索/秀姑巒溪/秀姑巒溪.kml)
 
 ```mermaid

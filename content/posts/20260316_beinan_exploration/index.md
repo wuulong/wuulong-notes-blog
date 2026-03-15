@@ -17,6 +17,12 @@ series: ["2026台灣河流探索-卑南溪"]
 *   **日期**：2026-03-16
 *   **關鍵字**：利吉惡地、向陽森林、卑南遺址、南路、富源觀景台。
 
+## 🗺️ 空間資產與地圖 (GIS Assets)
+
+- **流域地圖**: [開啟 WalkGIS 卑南溪探索地圖](?map=20260316_beinan_river)
+- **Google My Maps**: [卑南溪 My Maps 互動地圖](https://www.google.com/maps/d/edit?mid=1WloREJ9hzR1D0dOHwPBaU7sCf9o4RG8&usp=sharing)
+- **KML 下載**: [卑南溪整合資產包 (KML)](/walkgis_prj/data/2026台灣河流探索/卑南溪/卑南溪.kml)
+
 ## 行程規劃 (Itinerary) - 四日深度探索方案
 
 ### Day 1: 溪口地景與古王傳說 (海岸與史前)
@@ -24,9 +30,9 @@ series: ["2026台灣河流探索-卑南溪"]
 *   主要節點：
     - [國立臺灣史前文化博物館 (康樂本館)](?map=national_exploration_spots&feature=20260315_國立臺灣史前文化博物館(康樂本館)) (考古核心)
     - [卑南遺址公園](?map=national_exploration_spots&feature=20260315_卑南遺址公園) (史前現場)
-    - [寶桑 (Baosang)](../features/20260316_卑南溪/20260316_寶桑.md)
-    - [昭忠祠 (Zhaozhong Shrine)](../features/20260316_卑南溪/20260316_昭忠祠.md)
-    - [馬蘭天后宮](../features/20260316_卑南溪/20260316_馬蘭天后宮.md)
+    - [寶桑 (Baosang)](?map=20260316_beinan_river&feature=20260316_寶桑)
+    - [昭忠祠 (Zhaozhong Shrine)](?map=20260316_beinan_river&feature=20260316_昭忠祠)
+    - [馬蘭天后宮](?map=20260316_beinan_river&feature=20260316_馬蘭天后宮)
 
 
 ### Day 2: 地質國寶與制高視野 (縱谷門戶)
