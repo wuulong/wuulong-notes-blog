@@ -33,7 +33,7 @@ series: ["2026台灣河流探索-高屏溪"]
 <!-- 實遊後補充 -->
 
 ## 導航路徑 (Google Maps)
-[📍 DAY 2 導航路徑](https://www.google.com/maps/dir/22.6623093,120.426989)
+ [📍 DAY 2 導航路徑](https://www.google.com/maps/dir/大樹舊鐵橋/竹寮取水站/大樹舊鐵橋濕地教育園區)
 
 ---
 

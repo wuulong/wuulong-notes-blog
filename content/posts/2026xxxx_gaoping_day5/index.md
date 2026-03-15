@@ -33,7 +33,7 @@ series: ["2026台灣河流探索-高屏溪"]
 <!-- 實遊後補充 -->
 
 ## 導航路徑 (Google Maps)
-[📍 DAY 5 導航路徑](https://www.google.com/maps/search/?api=1&query=23.082,120.591)
+ [📍 DAY 5 導航路徑](https://www.google.com/maps/dir/杉林大愛園區/日光小林社區/甲仙鎮海軍墓)
 
 ---
 

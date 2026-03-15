@@ -55,14 +55,30 @@ graph TD;
 *   **平原**：對知識與自然循環的尊重（送聖蹟）。
 *   **高山**：人類與河流的神聖互惠（河祭）。
 
-## 🗺️ 空間分區導引 (Regional Guide)
-
-- **Day 1: 河口防線 (Sea)**：[新園進海宮](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_jin_hai_gong)、[林園鳳芸宮](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_feng_yun_gong)。
-- **Day 2: 鋼鐵與綠洲 (Downstream)**：[舊下淡水溪鐵橋](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_old_bridge)、[大樹舊鐵橋濕地](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_wetland)、[竹寮取水站](?map=national_exploration_spots&feature=20260315_竹寮取水站)。
-- **Day 3: 屏東平原文化 (Pingtung Side)**: [屏東書院](?map=national_exploration_spots&feature=20260315_屏東書院)、[阿猴城門](?map=national_exploration_spots&feature=20260315_阿猴城門(朝陽門))、[蕭氏家廟](?map=national_exploration_spots&feature=20260315_蕭氏家廟)。
-- **Day 4: 蔗糖與文字 (Middle)**：[旗山車站](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_qishan_station)、[旗山天后宮](?map=national_exploration_spots&feature=20260315_旗山天后宮)、[瀰濃庄敬字亭](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_meinong_shrine)、[美濃水橋](?map=national_exploration_spots&feature=20260315_美濃水橋)。
-- **Day 5: 空間規訓 (Half-way)**：[杉林大愛園區](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_daei_village)、[日光小林社區](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_sunlight_village)、[甲仙鎮海軍墓](?map=national_exploration_spots&feature=20260315_甲仙鎮海軍墓)。
-- **Day 6: 溯源原鄉 (Mountain)**：[南沙魯部落](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_nanshalu)、[那瑪夏民權國小](?map=2026xxxx_gaoping_exploration&feature=2026xxxx_gaoping_minquan_school)、[藤枝國家森林遊樂區](?map=national_exploration_spots&feature=20260315_藤枝國家森林遊樂區_1)。
+## 📍 核心探索點位 (22 處)
+ 
+ 1. **[河口點]** [林園海洋濕地公園](?map=national_exploration_spots&feature=2026xxxx_gaoping_linyuan_wetland) (倒立水母)
+ 2. **[信仰點]** [林園鳳芸宮](?map=national_exploration_spots&feature=2026xxxx_gaoping_feng_yun_gong)
+ 3. **[信仰點]** [新園進海宮](?map=national_exploration_spots&feature=2026xxxx_gaoping_jin_hai_gong)
+ 4. **[斷橋點]** [舊下淡水溪鐵橋](?map=national_exploration_spots&feature=2026xxxx_gaoping_old_bridge)
+ 5. **[水利點]** [竹寮取水站](?map=national_exploration_spots&feature=20260315_竹寮取水站)
+ 6. **[生態點]** [大樹舊鐵橋濕地](?map=national_exploration_spots&feature=2026xxxx_gaoping_wetland)
+ 7. **[文教點]** [屏東書院](?map=national_exploration_spots&feature=20260315_屏東書院)
+ 8. **[防禦點]** [阿猴城門(朝陽門)](?map=national_exploration_spots&feature=20260315_阿猴城門(朝陽門))
+ 9. **[宗祠點]** [蕭氏家廟](?map=national_exploration_spots&feature=20260315_蕭氏家廟)
+ 10. **[武道點]** [屏東武德殿](?map=national_exploration_spots&feature=20260315_屏東演武場) 
+ 11. **[信仰點]** [九如鄉三山國王廟](?map=national_exploration_spots&feature=20260315_九如鄉三山國王廟)
+ 12. **[運輸點]** [旗山車站](?map=national_exploration_spots&feature=2026xxxx_gaoping_qishan_station)
+ 13. **[核心信仰]** [旗山天后宮](?map=national_exploration_spots&feature=20260315_旗山天后宮)
+ 14. **[商會點]** [旗山農會](?map=national_exploration_spots&feature=20260315_旗山農會)
+ 15. **[水利點]** [美濃水橋](?map=national_exploration_spots&feature=20260315_美濃水橋)
+ 16. **[地標點]** [瀰濃東門樓](?map=national_exploration_spots&feature=20260315_瀰濃東門樓)
+ 17. **[工業點]** [竹仔門電廠](?map=national_exploration_spots&feature=20260315_竹仔門電廠)
+ 18. **[住居點]** [邱添貴派下夥房](?map=national_exploration_spots&feature=20260315_美濃邱添貴派下夥房)
+ 19. **[紀念點]** [甲仙鎮海軍墓](?map=national_exploration_spots&feature=20260315_甲仙鎮海軍墓)
+ 20. **[原鄉點]** [那瑪夏民權國小](?map=national_exploration_spots&feature=2026xxxx_gaoping_minquan_school)
+ 21. **[森林點]** [藤枝國家森林遊樂區](?map=national_exploration_spots&feature=20260315_藤枝國家森林遊樂區)
+ 22. **[文化點]** [臺灣原住民族文化園區](?map=national_exploration_spots&feature=20260315_臺灣原住民族文化園區)
  
  ## 實際探索
  - [2026台灣河流探索 - 高屏溪系列網誌](https://wuulong.github.io/wuulong-notes-blog/series/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2-%E9%AB%98%E5%B1%8F%E6%BA%AA/)

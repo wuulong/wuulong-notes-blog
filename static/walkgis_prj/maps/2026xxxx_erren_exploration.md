@@ -40,19 +40,25 @@ type: ISMap
 - **Day 3: 治理、修復與重生 (Lower Stream)**：從全台最毒河流到環境博物館的轉型歷程。
     - 點位：[港尾溝分洪道](../features/20260204_erren_gangweigou_diversion.md)、[仁德滯洪池](../features/20260204_erren_rende_pond.md)、[南萣橋遺址](../features/20260204_erren_nanding_legacy.md)、[茄萣舢筏協會](../features/20260204_erren_sampan_assoc.md)。
 
- ## 📍 核心探索點位
+ ## 📍 核心探索點位 (16 處)
  
  1. **[山源段]** [二仁溪源頭 (20260204_erren_source)](../features/20260204_erren_source.md)
  2. **[展望點]** [308高地 (20260204_erren_308_high)](../features/20260204_erren_308_high.md)
  3. **[地質點]** [田寮月世界 (20260204_erren_moon_world)](../features/20260204_erren_moon_world.md)
- 4. **[曲流點]** [阿蓮大曲流 (20260204_erren_fuxing_meander)](../features/20260204_erren_fuxing_meander.md)
- 5. **[鐵道點]** [二層行溪舊鐵路橋](?map=national_exploration_spots&feature=20260315_二層行溪舊鐵路橋)
- 6. **[運輸點]** [保安車站](?map=national_exploration_spots&feature=20260315_保安車站)
- 7. **[研究點]** [台灣糖業試驗所](?map=national_exploration_spots&feature=20260315_台灣糖業試驗所)
- 8. **[治理點]** [港尾溝分洪道 (20260204_erren_gangweigou_diversion)](../features/20260204_erren_gangweigou_diversion.md)
- 9. **[教育點]** [仁德滯洪池 (20260204_erren_rende_pond)](../features/20260204_erren_rende_pond.md)
- 10. **[歷史點]** [南萣橋遺址 (20260204_erren_nanding_legacy)](../features/20260204_erren_nanding_legacy.md)
- 11. **[復育點]** [茄萣舢筏協會 (20260204_erren_sampan_assoc)](../features/20260204_erren_sampan_assoc.md)
+ 4. **[信仰點]** [內門紫竹寺](?map=national_exploration_spots&feature=20260315_內門紫竹寺)
+ 5. **[曲流點]** [阿蓮大曲流 (20260204_erren_fuxing_meander)](../features/20260204_erren_fuxing_meander.md)
+ 6. **[跨域點]** [大潭堰/二層行堰](?map=national_exploration_spots&feature=20260315_大潭堰)
+ 7. **[鐵道點]** [二層行溪舊鐵路橋](?map=national_exploration_spots&feature=20260315_二層行溪舊鐵路橋)
+ 8. **[運輸點]** [保安車站](?map=national_exploration_spots&feature=20260315_保安車站)
+ 9. **[研究點]** [台灣糖業試驗所](?map=national_exploration_spots&feature=20260315_台灣糖業試驗所)
+ 10. **[醫護點]** [原臺灣總督府衛戍病院花園口分院](?map=national_exploration_spots&feature=20260315_原臺灣總督府衛戍病院花園口分院)
+ 11. **[治理點]** [港尾溝分洪道 (20260204_erren_gangweigou_diversion)](../features/20260204_erren_gangweigou_diversion.md)
+ 12. **[教育點]** [仁德滯洪池 (20260204_erren_rende_pond)](../features/20260204_erren_rende_pond.md)
+ 13. **[生態點]** [二行大甲生態濕地](?map=national_exploration_spots&feature=2026xxxx_erren_dajia_wetland)
+ 14. **[歷史點]** [南萣橋遺址 (20260204_erren_nanding_legacy)](../features/20260204_erren_nanding_legacy.md)
+ 15. **[產業點]** [二仁溪廢五金拆解區遺構](?map=national_exploration_spots&feature=2026xxxx_erren_scrap_legacy) 
+ 16. **[復育點]** [茄萣舢筏協會 (20260204_erren_sampan_assoc)](../features/20260204_erren_sampan_assoc.md)
+
 
 
 ## 📡 數位資源

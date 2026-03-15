@@ -33,7 +33,7 @@ series: ["2026台灣河流探索-高屏溪"]
 <!-- 實遊後補充 -->
 
 ## 導航路徑 (Google Maps)
-[📍 DAY 1 導航路徑](https://www.google.com/maps/dir/22.4827847,120.3975992/22.4749997,120.4371262)
+ [📍 DAY 1 導航路徑](https://www.google.com/maps/dir/林園鳳芸宮/高屏溪出海口/新園進海宮)
 
 ---
 
