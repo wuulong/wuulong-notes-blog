@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RIVERL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3826" } },
+"features": [
+
+]
+}
