@@ -26,12 +26,12 @@ graph TD
 > [!TIP]
 > 點擊下列連結可在地圖中快速切換至對應景點。
 
-- **[新城神社舊址 (?map=20260324_liwu_river&feature=liwu_11_xincheng_shrine)]** - 歷史的起點。
-- **[砂卡礑步道 (?map=20260324_liwu_river&feature=liwu_04_shakadang_ent)]** - 碧藍溪色與細極岩粉。
-- **[燕子口 (?map=20260324_liwu_river&feature=liwu_01_swallow)]** - 立霧溪這把「液態之刃」的傑作。
-- **[靳珩橋 (?map=20260324_liwu_river&feature=liwu_03_jinheng)]** - 此路英雄血淚史之紀念。
-- **[錐麓古道入口 (?map=20260324_liwu_river&feature=liwu_10_zhuilu_ent)]** - 太魯閣族防堵日本兩萬大軍的防線。
-- **[九曲洞 (?map=20260324_liwu_river&feature=liwu_02_nine_turns)]** - 世界級大理石峽谷核心。
+- **[新城神社舊址 (?map=20260324_liwu_river&feature=20260324_liwu_11_xincheng_shrine)]** - 歷史的起點。
+- **[砂卡礑步道 (?map=20260324_liwu_river&feature=20260324_liwu_04_shakadang_ent)]** - 碧藍溪色與細極岩粉。
+- **[燕子口 (?map=20260324_liwu_river&feature=20260324_liwu_01_swallow)]** - 立霧溪這把「液態之刃」的傑作。
+- **[靳珩橋 (?map=20260324_liwu_river&feature=20260324_liwu_03_jinheng)]** - 此路英雄血淚史之紀念。
+- **[錐麓古道入口 (?map=20260324_liwu_river&feature=20260324_liwu_10_zhuilu_ent)]** - 太魯閣族防堵日本兩萬大軍的防線。
+- **[九曲洞 (?map=20260324_liwu_river&feature=20260324_liwu_02_nine_turns)]** - 世界級大理石峽谷核心。
 
 ## 🧠 AI 深度研究提示 (Deep Research Prompts)
 
