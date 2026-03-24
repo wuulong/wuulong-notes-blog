@@ -51,7 +51,7 @@ cover:
 本計畫提供具備「角色屬性」的互動資產，在 Google My Maps 上點擊圖釘即可看到繫結的人物故事。
 
 *   **WalkGIS 互動地圖**: [130-頭前溪 Master 計畫](https://walkgis-544663807110.us-west1.run.app/?map=20260324_touqian_kg_river)
-*   **Google My Maps**: [130-頭前溪：知識圖譜與權力動態地圖](https://www.google.com/maps/d/viewer?mid=1X2biowq2GKW7yz6Egh2IHiuS3PxD1Bs&usp=sharing)
+*   **Google My Maps**: [130-頭前溪：知識圖譜與權力動態地圖](https://www.google.com/maps/d/edit?mid=1X2biowq2GKW7yz6Egh2IHiuS3PxD1Bs&usp=sharing)
 *   **KML 資產下載**: [📁 頭前溪_知識圖譜版.kml (GitHub Raw)](https://raw.githubusercontent.com/wuulong/wuulong-notes-blog/main/static/walkgis_prj/data/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2/%E9%A0%AD%E5%89%8D%E6%BA%AA/%E9%A0%AD%E5%89%8D%E6%BA%AA_%E7%9F%A5%E8%AD%98%E5%9C%96%E8%AD%9C%E7%89%88.kml)
 
 ---
