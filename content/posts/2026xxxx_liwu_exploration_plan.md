@@ -4,7 +4,10 @@ date: 2026-03-24
 tags: ["台灣河流探索", "立霧溪", "太魯閣", "1914戰役", "中橫公路"]
 categories: ["Project (專案)"]
 series: ["2026台灣河流探索-立霧溪"]
-cover_image: "/assets/images/liwu_gorge_cover.png"
+cover:
+    image: "/assets/images/liwu_gorge_cover.png"
+    alt: "立霧溪峽谷探索"
+    relative: false
 map_id: "20260324_liwu_river"
 ---
 
@@ -13,8 +16,8 @@ map_id: "20260324_liwu_river"
 立霧溪（Liwu River）是一部由岩石、水流與人類意志共同書寫的巨著。本計畫旨在透過兩天的跨領域探索，實地觀察這把「液態之刃」如何以每年 26mm 的速率切開大理岩盤，並複現 1914 年太魯閣戰役與 1950 年代中橫公路開發的歷史座標。
 
 ## 🗺️ 數位資產連結
-- **敘事地圖 (ISMap)**: [立霧溪整合地圖](?map=20260324_liwu_river)
-- **KML 下載**: [立霧溪整合 KML](file:///Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/data/2026台灣河流探索/立霧溪/立霧溪.kml)
+- **敘事地圖 (WalkGIS)**: [立霧溪整合地圖](https://walkgis-544663807110.us-west1.run.app/?node=official&map=20260324_liwu_river)
+- **KML 下載**: [立霧溪整合 KML](https://github.com/wuulong/wuulong-notes-blog/blob/raw/main/static/walkgis_prj/data/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2/%E7%AB%8B%E9%9C%A7%E6%BA%AA/%E7%AB%8B%E9%9C%A7%E6%BA%AA.kml)
 
 ## 🗓️ 每日行程與導航
 

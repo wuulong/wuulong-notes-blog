@@ -39,7 +39,8 @@ graph TD
 > 「分析蘭陽溪板岩沖積扇地質如何促成『南山高冷蔬菜』與『蘭陽西瓜』兩大極端產業，並探討流域開發中的泰雅族權力重構歷程。」
 
 ## 📥 資源下載
-- [下載整合性 KML 資產 (蘭陽溪.kml)](file:///Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/data/2026台灣河流探索/蘭陽溪/蘭陽溪.kml)
+- [開啟蘭陽溪 Google My Maps 互動地圖 (計畫版)](https://www.google.com/maps/d/edit?mid=1YUCMMh959g5U2HDFGmvyIma-_IukMQc&usp=sharing)
+- [下載整合性 KML 資產 (蘭陽溪.kml)](https://github.com/wuulong/wuulong-notes-blog/raw/main/static/walkgis_prj/data/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2/%E8%98%AD%E9%99%BD%E6%BA%AA/%E8%98%AD%E9%99%BD%E6%BA%AA.kml)
 - [參考：蘭陽溪流域深度研究計畫](file:///Users/wuulong/github/bmad-pa/events/AIBooks/RiverExploration/Research/2.%E8%98%AD%E9%99%BD%E6%BA%AA%E6%B5%81%E5%9F%9F%E6%B7%B1%E5%BA%A6%E7%A0%94%E7%A9%B6%E8%A8%88%E7%95%AB.md)
 
 ---
