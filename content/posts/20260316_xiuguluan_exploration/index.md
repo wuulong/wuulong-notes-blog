@@ -2,7 +2,8 @@
 title: "2026 台灣河流探索：秀姑巒溪流域 (行前計劃)"
 date: 2026-03-16
 description: "跨越海岸山脈的奇蹟：從瑞穗泛舟、奇美部落文化到長虹橋出海口的深度探索。"
-categories: ["台灣河流探索"]
+categories: ["Project (專案)"]
+series: ["2026台灣河流探索-秀姑巒溪"]
 tags: ["秀姑巒溪", "瑞穗", "玉里", "泛舟", "阿美族文化"]
 image: "/walkgis_prj/assets/images/placeholder_river.png"
 ---

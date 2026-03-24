@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
-        <name>秀姑巒溪 流域探索成果 (Full Package)</name>
+        <name>秀姑巒溪 流域探索成果 (Standard Package)</name>
         <Folder id="2">
             <Style id="9">
                 <LineStyle id="11">
@@ -990,132 +990,6 @@
         </Folder>
         <Folder id="515">
             <name>4-探索景點 (POIs)</name>
-            <Placemark id="517">
-                <name>松浦天堂路</name>
-                <Point id="516">
-                    <coordinates>121.3768176,23.4329521,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="519">
-                <name>秀姑漱玉</name>
-                <Point id="518">
-                    <coordinates>121.4880496,23.4682363,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="521">
-                <name>玉里車站</name>
-                <Point id="520">
-                    <coordinates>121.31172,23.33152,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="523">
-                <name>瑞港公路觀景點</name>
-                <Point id="522">
-                    <coordinates>121.4473745,23.4958049,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="525">
-                <name>瓦拉米步道口</name>
-                <Point id="524">
-                    <coordinates>121.1888993,23.3549023,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="527">
-                <name>赤柯山</name>
-                <Point id="526">
-                    <coordinates>121.395448,23.389575,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="529">
-                <name>舞鶴觀光茶園</name>
-                <Point id="528">
-                    <coordinates>121.35456,23.448056,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="531">
-                <name>奇美部落</name>
-                <Point id="530">
-                    <coordinates>121.4463373,23.4941052,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="533">
-                <name>奚卜蘭島</name>
-                <Point id="532">
-                    <coordinates>121.5013889,23.4641667,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="535">
-                <name>瑞穗泛舟服務中心</name>
-                <Point id="534">
-                    <coordinates>121.4009053,23.4890784,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="537">
-                <name>靜浦部落</name>
-                <Point id="536">
-                    <coordinates>121.4741827,23.4479922,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="539">
-                <name>長虹橋</name>
-                <Point id="538">
-                    <coordinates>121.4888505,23.4676695,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="541">
-                <name>瑞穗牧場</name>
-                <Point id="540">
-                    <coordinates>121.3459565,23.4792093,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="543">
-                <name>吉蒸牧場</name>
-                <Point id="542">
-                    <coordinates>121.3987568,23.4834969,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="545">
-                <name>花東縱谷國家風景區</name>
-                <Point id="544">
-                    <coordinates>121.39088927595728,23.52419556745343,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="547">
-                <name>富里鄉東里村邱家古厝</name>
-                <Point id="546">
-                    <coordinates>121.304378,23.267666,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="549">
-                <name>富源國家森林遊樂區</name>
-                <Point id="548">
-                    <coordinates>121.3539837,23.5886601,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="551">
-                <name>玉里社殘蹟</name>
-                <Point id="550">
-                    <coordinates>121.308212377921,23.3345521150873,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="553">
-                <name>富源國家森林遊樂區</name>
-                <Point id="552">
-                    <coordinates>121.35483184427974,23.58874124966382,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="555">
-                <name>掃叭隧道</name>
-                <Point id="554">
-                    <coordinates>121.34795,23.46584,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="557">
-                <name>玉里迪階陸橋殘蹟</name>
-                <Point id="556">
-                    <coordinates>121.349882,23.440803,0.0</coordinates>
-                </Point>
-            </Placemark>
         </Folder>
     </Document>
 </kml>
