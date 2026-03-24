@@ -2,7 +2,7 @@
 title: "頭前溪流域：知識圖譜與權力維度探索 (Master Plan)"
 date: 2026-03-24T19:15:00+08:00
 categories: ["Project (專案)"]
-series: ["台灣河流探索"]
+series: ["2026台灣河流探索-頭前溪"]
 tags: ["歷史地理", "頭前溪", "新竹五書", "HGIS", "哈爸筆記"]
 cover:
     image: "/Users/wuulong/.gemini/antigravity/brain/4367c524-67eb-432c-bbc3-f696abfd047b/touqian_river_kg_cover_1774351249791.png"
