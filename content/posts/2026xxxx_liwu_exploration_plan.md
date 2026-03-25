@@ -17,7 +17,15 @@ map_id: "20260324_liwu_river"
 
 ## 🗺️ 數位資產連結
 - **敘事地圖 (WalkGIS)**: [立霧溪整合地圖](https://walkgis-544663807110.us-west1.run.app/?node=official&map=20260324_liwu_river)
-- **KML 下載**: [立霧溪整合 KML](https://github.com/wuulong/wuulong-notes-blog/blob/raw/main/static/walkgis_prj/data/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2/%E7%AB%8B%E9%9C%A7%E6%BA%AA/%E7%AB%8B%E9%9C%A7%E6%BA%AA.kml)
+- **探索專用 KMZ (推薦)**: [📁 立霧溪_GoogleMyMaps_專用版.kmz (146KB, 極速載入/三位一體)](https://raw.githubusercontent.com/wuulong/wuulong-notes-blog/main/static/walkgis_prj/data/2026%E5%8F%B0%E7%81%A3%E6%B2%B3%E6%B5%81%E6%8E%A2%E7%B4%A2/%E7%AB%8B%E9%9C%A7%E6%BA%AA/%E7%AB%8B%E9%9C%A7%E6%BA%AA_GoogleMyMaps_%E5%B0%88%E7%94%A8%E7%89%88.kmz)
+- **歷史技術報告**: [TR_260325-HHH01: 立霧溪高精細水理重構紀實](file:///Users/wuulong/github/bmad-pa/workmgr/task-reports/TR_260325-HHH01.md)
+
+### 🌊 高精細水理重構 (Hydrology V7)
+本計畫利用 **2024 年 20m DTM (地政司)** 數據，透過最先進的 **Priority-Flood Routing (V7 版)** 演算法，徹底解決了寬廣河床的斷流與地形噪聲。
+
+- **技術特徵**: 100% 拓樸連貫、物件原子化合併 (Multi-Geometry)、座標精確對齊。
+- **潛勢溪流資產**: [/walkgis_prj/data/2026台灣河流探索/立霧溪/liwu_potential_streams_v7_absolute.geojson](/walkgis_prj/data/2026台灣河流探索/立霧溪/liwu_potential_streams_v7_absolute.geojson)
+- **分析腳本參考**: [`/scripts/hydrology/Step3_V7_Absolute_Continuous.py`](file:///Users/wuulong/github/bmad-pa/scripts/hydrology/Step3_V7_Absolute_Continuous.py)
 
 ## 🗓️ 每日行程與導航
 
