@@ -11,7 +11,7 @@ draft: false
 > **哈爸筆記**：
 > 今天的計畫趕不上變化，但這正是探索的魅力。一箱黑珍珠蓮霧撐起了一整天的能量，而大武海鮮店的集體打烊，則意外讓這場「歷史遠征」在 7-11 的便利商店餐盒中，畫下一個帶點孤寂卻真實的句點。
 
-![今日 relive](https://www.relive.com/view/v26MzY3AQ3q)
+[今日 relive](https://www.relive.com/view/v26MzY3AQ3q)
 
 ## 📍 探索實錄：第一日的地景與體悟
 

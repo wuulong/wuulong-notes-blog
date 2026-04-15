@@ -11,7 +11,7 @@ draft: false
 > **哈爸筆記**：
 > 第二日的南迴，比起路徑，更多的是「圖騰」與「水」的對話。我們在霧中迎接沒現身的晨曦，在大鳥村與金崙教堂解索圖騰的密碼，最後在被河水淹沒的野溪溫泉旁，領悟到地理規律的無常。
 
-![今日 relive](https://www.relive.com/view/vdORzxWK2KO)
+🎥 **Relive 3D 軌跡紀錄**：[點此觀看今日南迴跨域影片](https://www.relive.com/view/vdORzxWK2KO)
 
 ## 📍 探索實錄：第二日的地景與符號
 
