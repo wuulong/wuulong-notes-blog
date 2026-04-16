@@ -22,6 +22,7 @@ geometry_wkt: POINT(121.091361 22.760712)
 - **數據參考**：Google 評分為 4.5，地址位於 950台灣臺東縣臺東市博物館路1號。
 
 ## 📍 座標與地圖連結
+- **🔗 官方/推薦連結**: [https://lurl.cc/NbKjeL](https://lurl.cc/NbKjeL)
 - **Google Maps**: [查看位置](https://www.google.com/maps/search/?api=1&query=22.760712,121.091361)
 - **WalkGIS ISMap**: [在本圖中開啟](?map=2026_taitung_city_enablement_case&feature=20260416_國立臺灣史前文化博物館_National_Museum_of_Prehistory)
 
