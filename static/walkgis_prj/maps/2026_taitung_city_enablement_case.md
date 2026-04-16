@@ -32,20 +32,22 @@ graph TD
 ## 🧠 AI 深度探索 (Deep Research) Prompt
 > [!TIP]
 > 業者可現場複製此 Prompt 於手機：
-> 「作為台東當地的旅宿經理，請根據本導覽地圖中的『愛上台東藍』及其周邊『在地早味』點位，為一對年輕夫妻規劃一場步行出發、充滿台東在地生活感的 3 小時慢遊行程，並強調哪些驚訝點（M::）是地圖中隱藏的亮點。」
+> 「作為台東當地的旅宿經理，請根據本圖資中的 38 個實例點位：愛上台東藍民宿、老船長、打個蛋、原來宿、七里坡紅藜、三一牛肉麵、人x人、傳承手工蛋餅、卑南遺址、台東糖廠冰店、聖母健康農莊、哩賀早餐、回家食間、史前館、大武之心、宋媽媽海產、宏昌客家菜、寶桑小吃、彭8草原廚房、成功豆花、旗遇海味、明奎早餐、明隆春捲、福原豆腐、深黑義法、特選海產、王記鬼頭刀、石老爺臭豆腐、米舖客家小館、花里岸、草民、萬林肉粽、賞味家、阿榮蘿蔔糕、響羅雷、馬蘭市場野菜街、黃記肉粽、鼎倫牛肉麵。
+> 
+> 請為一對尋求深度文化的夫妻規劃一個『地解碼』的一日行程，並指出哪些點位結合了台東的『資訊厚度』與『慢遊感』。」
 
 ## 🔍 景點 Feature 索引
 以下為本圖資集包含之核心點位，點擊名稱可開啟 WalkGIS 深度解說。
 
 ### 🛌 旅宿種子網絡
-*   [愛上台東藍電梯民宿](?map=2026_taitung_city_enablement_case&feature=20260416_愛上台東藍電梯民宿)
+*   [愛上台東藍電梯民宿](?map=2026_taitung_city_enablement_case&feature=20260416_愛上台東藍民宿)
 *   [老船長溫泉民宿](?map=2026_taitung_city_enablement_case&feature=20260416_老船長溫泉民宿)
 *   [打個蛋海旅](?map=2026_taitung_city_enablement_case&feature=20260416_打個蛋海旅)
-*   [原來宿](?map=2026_taitung_city_enablement_case&feature=20260416_原來宿)
+*   [原來宿](?map=2026_taitung_city_enablement_case&feature=20260416_池上福原豆腐店)
 
 ### 🥐 在地早味
-*   [哩賀早餐店](?map=2026_taitung_city_enablement_case&feature=20260416_哩賀早餐店_台東)
-*   [傳承手工蛋餅坊早餐](?map=2026_taitung_city_enablement_case&feature=20260416_傳承手工蛋餅坊早餐)
+*   [哩賀早餐店](?map=2026_taitung_city_enablement_case&feature=20260416_哩賀早餐店)
+*   [傳承手工蛋餅坊早餐](?map=2026_taitung_city_enablement_case&feature=20260416_傳承手工蛋餅坊早餐店)
 *   [明奎早餐店](?map=2026_taitung_city_enablement_case&feature=20260416_明奎早餐店)
 
 ### 🗿 文化與生活
