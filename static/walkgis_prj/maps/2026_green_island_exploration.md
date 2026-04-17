@@ -30,8 +30,7 @@ graph TD
 - **熱動力**: 朝日海底溫泉為全球罕見，受後火山餘熱與地底斷層海水循環驅動。
 
 ## 📥 資源下載
-- **[ATAK Data Package (尚未發布)](#)**
-- **[綠島深度研究報報告 (PDF)](../../../../AIBooks/RiverExploration/Research/綠島深度研究：地質、歷史、文化.md)**
+- **[綠島（火燒島）全方位厚數據研究：地景地圖採集與文化層累分析報告 (Google Docs)](https://docs.google.com/document/d/1zb6OQPQKm3IzS7lP4_DtxW9LzlCD7hvIXlIDlJphTvA/edit?tab=t.0)**
 
 ## 🗺️ AI 深度探索 (Deep Research)
 如果您擁有 Gemini Advanced 或其他 Deep Research 工具，可以複製以下 Prompt 進行探索：
