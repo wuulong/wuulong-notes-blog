@@ -50,6 +50,20 @@
         "demo"
       ],
       "cover_image": "https://wuulong.github.io/walkgis-sample/assets/images/清大夜市美食散步地圖.png"
+    },
+    {
+      "id": "taitung-enablement",
+      "name": "台東旅宿業者賦能案例",
+      "url": "https://wuulong.github.io/taitung-tourism-enablement-walkgis/",
+      "author": "Wuulong",
+      "description": "2026 台東市旅宿業者賦能實踐，展示 SDM 軟體定義地圖流程。",
+      "tags": [
+        "official",
+        "taiwan",
+        "taitung",
+        "enablement"
+      ],
+      "cover_image": "https://wuulong.github.io/taitung-tourism-enablement-walkgis/assets/images/20260416_taitung_case_cover.png"
     }
   ]
 }
