@@ -11,6 +11,8 @@ cover_image: assets/images/2026_taitung_enablement_cover.png
 
 本計畫是針對「AI 賦能時代的台東探索」課程所開發的實踐案例（TA5）。我們將台東的重要旅宿、美食與文史節點對位，展示如何透過數位工具將「住宿」轉化為「深度探索體驗」。
 
+![愛上台東藍](assets/images/愛上台東藍.jpg)
+
 ## 📍 賦能導覽路徑
 
 ```mermaid
