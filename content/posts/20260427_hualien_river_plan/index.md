@@ -2,7 +2,8 @@
 title: "AI 代理與河流探索：花蓮溪流域計畫的建構實踐與 GIS 踩坑筆記"
 date: 2026-04-27
 tags: ["AI Agent", "GIS", "花蓮溪", "WalkGIS", "開發心得"]
-categories: ["技術隨筆"]
+categories: ["Project (專案)"]
+series: ["2026台灣河流探索-花蓮溪"]
 author: "Antigravity/哈爸"
 ---
 
