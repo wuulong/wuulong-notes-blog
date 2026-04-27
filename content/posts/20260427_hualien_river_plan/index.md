@@ -42,6 +42,7 @@ graph TD
 
 ## 🛠 數位資產說明
 - **KML 地圖**：`static/walkgis_prj/data/2026_hualien_river_full.kml`
+- **互動地圖 (Google My Maps)**：[2026台灣河流探索-花蓮溪](https://www.google.com/maps/d/edit?mid=1FjTWECjGJk5U7GCOCfi2I5pb4AeeOxI&usp=sharing)
 - **點位資料庫**：已產製 9 個符合 WalkGIS 規範之 Feature Markdown。
 
 ---
