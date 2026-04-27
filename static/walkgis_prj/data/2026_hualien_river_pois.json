@@ -1,0 +1,83 @@
+[
+  {
+    "category": "自然地景-水文/濕地",
+    "name": "溪口",
+    "found": true,
+    "lat": 23.821634,
+    "lon": 121.473889,
+    "address": "974台灣花蓮縣壽豐鄉溪口",
+    "place_id": "ChIJjTjvoWalaDQRzPrxcM7lu7M"
+  },
+  {
+    "category": "自然地景-水文/濕地",
+    "name": "馬太鞍溼地休閒農業區｜生態園區｜特色遊程｜食農教育",
+    "found": true,
+    "lat": 23.6577522,
+    "lon": 121.4096652,
+    "address": "976台灣花蓮縣光復鄉大全街",
+    "place_id": "ChIJd6_kRjJNbzQR0r3ZVecrANk"
+  },
+  {
+    "category": "自然地景-水表/步道",
+    "name": "米棧古道/辦公室",
+    "found": true,
+    "lat": 23.7994189,
+    "lon": 121.5232033,
+    "address": "974台灣花蓮縣壽豐鄉1段66號",
+    "place_id": "ChIJ2ZMKklmvaDQRwdgSZHH6Vbc"
+  },
+  {
+    "category": "交通設施-橋樑",
+    "name": "箭瑛大橋",
+    "found": true,
+    "lat": 23.7322045,
+    "lon": 121.4887509,
+    "address": "975台灣花蓮縣鳳林鎮箭瑛大橋",
+    "place_id": "ChIJRXMC1n2uaDQRFUYL_ZWvY7g"
+  },
+  {
+    "category": "水利設施-電廠",
+    "name": "銅門發電廠",
+    "found": true,
+    "lat": 23.9662143,
+    "lon": 121.4893549,
+    "address": "972台灣花蓮縣秀林鄉銅門發電廠",
+    "place_id": "ChIJBegPhYmiaDQRgiA9h-QinqE"
+  },
+  {
+    "category": "水利設施-電廠",
+    "name": "台灣電力公司 東部發電廠初英機組",
+    "found": true,
+    "lat": 23.9495328,
+    "lon": 121.5203476,
+    "address": "973台灣花蓮縣吉安鄉",
+    "place_id": "ChIJ1XcFIzyiaDQRS7xTSVa1BLA"
+  },
+  {
+    "category": "自然地景-展望點",
+    "name": "七七高地",
+    "found": true,
+    "lat": 23.9327639,
+    "lon": 121.6076361,
+    "address": "974台灣花蓮縣壽豐鄉",
+    "place_id": "ChIJozp57BSgaDQRZgrxpbMusqg"
+  },
+  {
+    "category": "人文史蹟-產業設施",
+    "name": "花蓮觀光糖廠",
+    "found": true,
+    "lat": 23.6586905,
+    "lon": 121.4206067,
+    "address": "97642台灣花蓮縣光復鄉糖廠街19號",
+    "place_id": "ChIJpcSL78qyaDQRpJX500RPFLo"
+  },
+  {
+    "category": "自然地景-親水區域",
+    "name": "白鮑溪戲水區",
+    "found": true,
+    "lat": 23.8904054,
+    "lon": 121.5080349,
+    "address": "974台灣花蓮縣壽豐鄉池南路五段88號974",
+    "place_id": "ChIJiSMkdnakaDQRD7sgUG6uYPw"
+  }
+]
