@@ -21,7 +21,22 @@ description: "為什麼流域探索最終必然走向文明探究？本篇回顧
 | **03月** | **高屏溪 / 立霧溪** | 實地走查與數位孿生 | 高屏溪三日實地探勘；立霧溪數位孿生模型建構。 |
 | **04月** | **卑南溪 / 秀姑巒溪 / 能高越嶺** | 文明溯源與 POC | 山脈水文三柱架構合龍，文明邏輯驗證。 |
 
-## 1. 四個月的邏輯演進：為什麼是這個順序？
+## 1. 探究的根源：以河流為「粽子頭」
+
+在過去四個月的發展中，我逐漸意識到，這所有的子專案並非散亂的拼圖，而是具備強大耦合關係的生態系。**河川探索**，正是這所有方法論的「粽子頭」。
+
+因為台灣的地形決定了河流，河流決定了部落（原住民），部落決定了路徑（古道），而路徑則被紀錄在文本（歷史）中。只要抓住了河川這個根源，其餘的文明脈絡便能一串串地被提起來。
+
+### 山河文明知識生態系資產清冊
+
+| 層次 | 專案/方法論 | 書名 (Book) | GitHub Repository | 資料庫 (DB Name) |
+| :--- | :--- | :--- | :--- | :--- |
+| **根源 (Root)** | [`RiverExploration`](https://github.com/wuulong/bmad-pa) | 《流域導航：台灣母親之河的深度探索與實踐指南》 | (無) |
+| **地層 (Layer 1)** | [`taiwan-history-atlas`](https://github.com/wuulong/taiwan-history-atlas) | 《台灣地景解碼：歷史文獻工程》 | `taiwan_history.db` |
+| **靈魂 (Layer 2)** | [`indigenous-culture-atlas`](https://github.com/wuulong/indigenous-culture-atlas) | 《數位民族誌：原住民文化知識工程》 | `indigenous_culture.db` |
+| **合龍 (Synthesis)** | [`mountain-hydrology-atlas`](https://github.com/wuulong/mountain-hydrology-atlas) | 《台灣山脈水文地景解碼》 | `mountain_hydrology.db` |
+
+## 2. 四個月的邏輯演進：為什麼是這個順序？
 
 這段歷程的合理性，在於它精確地回應了每一個階段的認知瓶頸：
 
