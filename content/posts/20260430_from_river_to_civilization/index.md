@@ -63,4 +63,3 @@ description: "為什麼流域探索最終必然走向文明探究？本篇深入
 這四個月的歷程，讓我從一個採集點位的工程師，進化為一個地景智慧的探究者。這份「必然性」的論述，正是我們在 AI 時代對土地表達尊重的最高形式。
 
 ---
-*詳細論述材料請參閱： [exploration_evolution_argument.md](file:///Users/wuulong/github/bmad-pa/events/mountain-hydrology/methodology/exploration_evolution_argument.md)*
