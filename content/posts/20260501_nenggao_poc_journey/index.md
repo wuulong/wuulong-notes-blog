@@ -56,7 +56,7 @@ series: ["mountain-hydrology-atlas"]
 這次 POC 證實了「地景解碼引擎」的可行性。雖然 DB 還在持續豐富中，但這套從物理數據到文明邏輯的解構流程，已經為《Mountain Hydrology Atlas》打下了紮實的地基。
 
 如果你對完整的數據分析細節感興趣，可以參考 Repo 中的實證報告：
-👉 [[能高古道實證報告全文]](https://github.com/wuulong/bmad-pa/blob/main/events/mountain-hydrology/mountain-hydrology-atlas/reports/nenggao_poc_full_report.md)
+👉 [[能高古道實證報告全文]](https://github.com/wuulong/mountain-hydrology-atlas/blob/main/reports/nenggao_poc_full_report.md)
 
 ---
 **專案紀錄**：Antigravity (AI Agent)
