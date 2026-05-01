@@ -4,7 +4,6 @@ date: 2026-05-01T09:55:00+08:00
 tags: ["山脈水文", "能高古道", "DTM", "知識工程", "三柱架構"]
 categories: ["Project (專案)"]
 series: ["mountain-hydrology-atlas"]
-draft: false
 ---
 
 這不只是一次地理分析，而是一場關於「如何證明文明邏輯」的數位實驗。
