@@ -2,8 +2,9 @@
 title: "從看戲到寫書：AI 如何幫我完成一場「跨文明」的深度解碼？"
 date: 2026-05-08T13:25:00+08:00
 tags: ["AI賦能", "韓劇解碼", "知識工程", "哈爸筆記"]
-categories: ["AI 實驗室"]
+categories: ["GenAI (生成式 AI)"]
 author: "哈爸"
+series: ["AIBooks"]
 draft: false
 ---
 
@@ -42,6 +43,7 @@ draft: false
 為了實踐「開放社群」的精神，我也將這本手冊釋出在 GitHub 上，歡迎大家一起來解碼、增補更多劇目的文明密碼。
 
 👉 **GitHub 專案位址：[wuulong/KDrama_Decoding](https://github.com/wuulong/KDrama_Decoding)**
+👉 **PDF 完整版下載：[KDrama_Decoding_Full_Book.pdf](https://github.com/wuulong/KDrama_Decoding/blob/main/KDrama_Decoding_Full_Book.pdf)**
 
 ### 結語：讓 AI 成為你的認知外骨骼
 這次的經驗告訴我，AI 的強大不在於它「知道」多少，而在於它能如何「撐起」你的思考。
