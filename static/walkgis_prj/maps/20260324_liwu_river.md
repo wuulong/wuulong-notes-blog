@@ -18,7 +18,13 @@ graph TD
     C --> D[燕子口: 河流下切實證]
     D --> E[錐麓大斷崖: 1914 歷史防線]
     E --> F[九曲洞: 大理石心臟]
-    F --> G[天祥/合歡山: 攻頂與宿營]
+    F --> G[天祥: 支流匯流點/宿營]
+    G --> H[中橫雲霧帶: 洛韶/碧綠神木]
+    H --> I[合歡群峰: 立霧溪源頭]
+    I --> J[武嶺: 脊樑分水嶺 3275m]
+    J --> K[西半部回程: 清境/霧社溪]
+    K --> L[眉溪天險: 人止關]
+    L --> M[烏溪谷地: 埔里/返家]
 ```
 
 ## 📍 關鍵景點 (Features)
@@ -32,6 +38,8 @@ graph TD
 - **[靳珩橋 (?map=20260324_liwu_river&feature=20260324_liwu_03_jinheng)]** - 此路英雄血淚史之紀念。
 - **[錐麓古道入口 (?map=20260324_liwu_river&feature=20260324_liwu_10_zhuilu_ent)]** - 太魯閣族防堵日本兩萬大軍的防線。
 - **[九曲洞 (?map=20260324_liwu_river&feature=20260324_liwu_02_nine_turns)]** - 世界級大理石峽谷核心。
+- **[武嶺分水嶺 (?map=20260324_liwu_river&feature=20260324_liwu_12_wuling)]** - 太平洋與台灣海峽水系的主脊骨架。
+- **[人止關 (?map=20260324_liwu_river&feature=20260324_liwu_13_renzhipass)]** - 眉溪下切峽谷與原漢防線。
 
 ## 🧠 AI 深度研究提示 (Deep Research Prompts)
 

@@ -84,4 +84,4 @@ summary: "面對艱澀的學術專著，如何透過 Podcast、AI 預習與深�
 **這就是 AI 賦能後的閱讀新典範：在作者開口前，我們已在心裡蓋好了那座知識的橋樑。**
 
 ---
-> **[AI 協作聲明]**：本篇文章由哈爸口述理念，AI 代理程式 Antigravity 負責內容架構整合與 Markdown 標讀。實驗過程記錄於 `notes/ai-qa/AIQA_202603-W4.md`。
+> **[AI 協作聲明]**：本篇文章由哈爸口述理念，AI 代理程式 Antigravity 負責內容架構整合與 Markdown 標讀。實驗過程記錄於 `aiqa/AIQA_202603-W4.md`。
