@@ -4,7 +4,7 @@ date: 2026-03-13
 draft: false
 tags: [WalkGIS, 烏溪, 霧峰, 草屯, 國姓, 鳥嘴潭, 深度旅遊, AI協作, 悠閒]
 categories: ["Project (專案)"]
-series: ["流浪"]
+series: ["2026台灣河流探索-烏溪"]
 ---
 
 > **哈爸筆記**：
