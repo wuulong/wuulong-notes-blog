@@ -1,13 +1,17 @@
 ---
 title: "從敘事到實踐：個人賦能第二篇的骨架成形記"
 date: 2026-02-10
-categories: ["Project (專案)"]
+categories:
+  - GenAI (生成式 AI)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
 series: ["個人AI賦能方法論"]
-tags: ["Methodology", "Instructional-Design", "Gemini", "AIQA", "Digital-Heritage", "Book-Project"]
+tags:
+  - Book-Project
+  - Gemini
+  - Methodology
 description: "將第一篇的演化領悟轉化為第二篇的實踐手冊，這是一場關於教學設計、工具格律與習慣養成的深度重構。"
----
-
-# 從敘事到實踐：個人賦能第二篇的骨架成形記
+---# 從敘事到實踐：個人賦能第二篇的骨架成形記
 
 ## 🧱 從「故事」到「手冊」：第二篇的陣痛與轉身
 

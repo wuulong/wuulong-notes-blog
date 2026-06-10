@@ -1,13 +1,20 @@
 ---
 title: "打造 AI-First GIS 系統：從 SpatiaLite 到 WKT 的架構演進 (WalkGIS V0.1 開發筆記)"
 date: 2025-12-29T16:00:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
-tags: ["GIS", "SQLite", "Mermaid", "Agentic AI", "Antigravity"]
+tags:
+  - AI Agent
+  - Antigravity
+  - GIS
+  - Mermaid
+  - SQLite
 draft: false
----
-
-在構建「WalkGIS —— 全台散步地圖」專案的過程中，我與 AI Agent (Antigravity) 進行了一場深度的架構辯論。核心問題在於：**當我們希望 AI 能像人類一樣理解地圖時，傳統的 GIS 資料庫還是最好的選擇嗎？**
+---在構建「WalkGIS —— 全台散步地圖」專案的過程中，我與 AI Agent (Antigravity) 進行了一場深度的架構辯論。核心問題在於：**當我們希望 AI 能像人類一樣理解地圖時，傳統的 GIS 資料庫還是最好的選擇嗎？**
 
 這篇文章記錄了我們如何從傳統的 SpatiaLite 方案，轉向一個更輕量、更適合 LLM 的 **"Text-based GIS"** 架構。
 

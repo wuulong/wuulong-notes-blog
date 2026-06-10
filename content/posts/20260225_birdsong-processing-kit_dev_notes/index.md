@@ -2,12 +2,16 @@
 title: "從混亂至秩序：鳥鳴音訊資料庫的 AI 自動化改裝實錄"
 date: 2026-02-25T20:30:00+08:00
 draft: false
-categories: ["Project (專案)"]
+categories:
+  - Automation & Workflows (自動化與工作流程)
+  - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 series: ["birdsong-processing-kit"]
-tags: ["Gemini", "iNaturalist", "Python", "Audio Processing", "Bird Song"]
----
-
-面對數百首從 CD 轉錄、檔名雜亂、標籤缺失的鳥鳴音訊檔，你會選擇手動一首首修改，還是開發一套具備「生物學智商」的自動化系統？
+tags:
+  - Gemini
+  - Python
+  - iNaturalist
+---面對數百首從 CD 轉錄、檔名雜亂、標籤缺失的鳥鳴音訊檔，你會選擇手動一首首修改，還是開發一套具備「生物學智商」的自動化系統？
 
 我起初的想法很單純：在野外走動時，如果聽到鳥聲，我希望能有機會辨識出那是哪隻鳥。於是，企鵝給了我一大包鳥鳴音檔。我只是想找個容易的方式，能隨時翻出想聽的聲音來學習，結果為了這個簡單的願望，就乾脆擼出了這套工具。
 

@@ -2,13 +2,20 @@
 title: "Python 與 ATAK 的通訊實戰：如何用 TCP 發送動態 CoT 標點"
 date: 2026-01-10T07:00:00+08:00
 draft: false
-tags: ["ATAK", "Python", "CoT", "GIS", "WalkGIS", "CivTAK"]
-categories: ["Technology (技術)"]
+tags:
+  - ATAK
+  - CoT
+  - GIS
+  - Python
+  - WalkGIS
+categories:
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - Maker & Hardware (創客與硬體)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 description: "分享如何克服網路與協定坑洞，使用 Python 透過 TCP 協定將 Cursor on Target (CoT) 訊號穩定發送至 ATAK，實現即時位置追蹤與圖示變換。"
----
-
-在開發 **AI Field Scout (AI 偵查員)** 系統的過程中，我們的一個核心需求是：**讓 AI Agent 能即時把發現的資訊（例如：附近的便利商店、危險地形、或是沿著路徑移動的隊友）投放到使用者的 ATAK 地圖上。**
+---在開發 **AI Field Scout (AI 偵查員)** 系統的過程中，我們的一個核心需求是：**讓 AI Agent 能即時把發現的資訊（例如：附近的便利商店、危險地形、或是沿著路徑移動的隊友）投放到使用者的 ATAK 地圖上。**
 
 ![Screenshot_coticon](Screenshot_coticon.jpg)
 

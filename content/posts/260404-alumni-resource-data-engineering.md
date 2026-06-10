@@ -2,18 +2,16 @@
 title: "從意願到落點：系友資源網絡的數據工程實踐"
 date: 2026-04-04T18:28:00+08:00
 categories:
-  - Technology (技術)
+  - Automation & Workflows (自動化與工作流程)
+  - Community & Networking (社群與交流)
+  - Maker & Hardware (創客與硬體)
 series:
   - 機械系50
 tags:
-  - Google Apps Script
-  - 數據轉型
   - 系友會
   - 自動化
 draft: false
----
-
-# 🚀 哈爸筆記：從意願到落點的數據工程實踐
+---# 🚀 哈爸筆記：從意願到落點的數據工程實踐
 
 在推動「交大機械五十週年」轉型的過程中，我們面臨最大的技術挑戰不只是前端的網站佈署，更核心的問題是：**「如何將系友過去六年間零散的服務意願，轉化為當下可執行的資源清單？」**
 

@@ -4,8 +4,13 @@ layout: "single"
 url: "/planning/"
 summary: "哈爸個人筆記網站的內容架構與未來文章規劃"
 weight: 1
----
-## 💡 目前進度與未來發想
+categories:
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+
+tags:
+
+---## 💡 目前進度與未來發想
 - 剛完成大甲溪的流域探索
 - 計劃下一個流域探索中
 

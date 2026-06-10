@@ -2,18 +2,19 @@
 title: "薪火五十的數位轉型：交大機械系友資源對位引擎開發筆記"
 date: 2026-04-08T20:43:00+08:00
 categories:
-  - Project
+  - Community & Networking (社群與交流)
+  - Enterprise AI Transformation (企業 AI 轉型)
+  - Maker & Hardware (創客與硬體)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - 機械系50
 tags:
-  - 系友會
-  - 資源媒合
-  - 數位轉型
   - Python
   - SQLite
----
-
-# 薪火五十的數位轉型：交大機械系友資源對位引擎開發筆記
+  - 數位轉型
+  - 系友會
+---# 薪火五十的數位轉型：交大機械系友資源對位引擎開發筆記
 
 今年適逢交大機械系五十週年系慶。作為系友會的一員，我一直在思考：除了餐敘與合照，我們還能為母系留下什麼？
 

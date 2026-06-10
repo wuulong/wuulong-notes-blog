@@ -2,13 +2,17 @@
 title: "這本書是「說」出來的：AI 如何幫我從錄音筆記生出書籍架構？"
 date: 2026-01-26
 draft: false
-tags: [AI賦能, NotebookLM, 知識萃取, 寫作流]
-categories: [Project (專案)]
+tags:
+  - AI賦能
+  - NotebookLM
+  - 寫作流
+categories:
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
 series: [個人AI賦能方法論]
 summary: "這不是一本傳統方式寫成的書。它始於一段散亂的口語錄音，透過 NotebookLM 的萃取技術，轉化為核心觀點清單，最終生長出完整的書籍架構。這篇文章紀錄了這個「從聲音到結構」的 AI 協作過程。"
----
-
-這不是一本傳統方式寫成的書。
+---這不是一本傳統方式寫成的書。
 它始於一段在起床時的口語錄音，想寫出個人AI賦能方法論的部分過程。
 
 這中間的橋樑，不是我的打字員，而是 AI。

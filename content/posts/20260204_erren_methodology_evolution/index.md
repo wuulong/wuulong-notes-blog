@@ -1,13 +1,18 @@
 ---
 title: "從「空間數據」到「流域敘事」：二仁溪探索計畫中的 WalkGIS 方法論進化"
 date: 2026-02-04
-categories: ["Methodology (方法論)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
-tags: ["AI輔助", "WalkGIS", "哈爸筆記", "河流探索", "GIS系統優化"]
+tags:
+  - WalkGIS
+  - 哈爸筆記
+  - 河流探索
 description: "記錄二仁溪探索計畫中，如何透過 AI 協作將地圖資產從『點線面資料』轉化為具备『敘事靈魂』的環境博物館導覽。"
----
-
-# 從「空間數據」到「流域敘事」：二仁溪探索計畫中的 WalkGIS 方法論進化
+---# 從「空間數據」到「流域敘事」：二仁溪探索計畫中的 WalkGIS 方法論進化
 
 在規劃二仁溪探索計畫的過程中，我不只是在畫一張地圖，而是在進行一場 AI 驅動的「環境策展」。原本我們只關注座標與路徑（ bones 骨架），但在這次二仁溪的實踐中，我們成功注入了「敘事靈魂」（soul）。
 

@@ -2,13 +2,20 @@
 title: "WalkGIS 實戰紀錄：自己坑自己踩，我如何用從 walkgis-template 做出一份「清大夜市散步地圖」"
 date: 2026-01-01T15:15:00+08:00
 draft: false
-categories: ["Project (專案)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
 series: ["WalkGIS"]
-tags: ["AI Agent", "Automation", "Data Governance", "GitHub Pages", "NotebookLM"]
+tags:
+  - AI Agent
+  - Data Governance
+  - GitHub Pages
+  - NotebookLM
+  - 自動化
 summary: "這不是一篇理論文，而是一次真實的踩坑紀錄。本文記錄了我如何使用 WalkGIS Template，配合 AI Agent 的自動化任務，從零打造一份包含 16 個景點、具備 GPS 定位與詳細介紹的「清大夜市美食地圖」。文中包含基礎設施架設、AI 內容協作到最終資料治理的完整流程。"
----
-
-在發布了 [WalkGIS 2.0 願景](/posts/20260101_walkgis_2_0_vision/) 後，為了驗證這套「去中心化地圖協議」是否真的如想像中好用，我決定親自下場測試。
+---在發布了 [WalkGIS 2.0 願景](/posts/20260101_walkgis_2_0_vision/) 後，為了驗證這套「去中心化地圖協議」是否真的如想像中好用，我決定親自下場測試。
 
 我的目標很簡單：製作一份 **「2026 清大夜市散步與美食地圖」**。
 

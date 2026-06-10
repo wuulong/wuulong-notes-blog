@@ -2,18 +2,16 @@
 title: "AI 賦能實戰：如何為台東旅宿打造「深度導覽生活圈」數位地圖"
 date: 2026-04-16T13:40:00+08:00
 categories:
-  - "GenAI (生成式 AI)"
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series:
   - "2026台灣河流探索-卑南溪"
 tags:
-  - "台東"
-  - "旅宿賦能"
-  - "TA5"
-  - "地理編碼"
-  - "GoogleMapsAPI"
----
-
-# AI 賦能實戰：台東旅宿與數位導覽的碰撞
+  - 台東
+---# AI 賦能實戰：台東旅宿與數位導覽的碰撞
 
 在最新的 [T260416-HHH01] 任務中，我們針對 **TA5（旅宿業者與產業協會）** 進行了一次深度的數位賦能實驗。目標很明確：**如何讓一家很有口碑的民宿，透過 AI 與 WalkGIS，搖身一變成為該地區的「地景解碼中心」？**
 

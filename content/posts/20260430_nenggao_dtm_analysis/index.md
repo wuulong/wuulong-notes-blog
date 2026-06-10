@@ -1,14 +1,20 @@
 ---
 title: "翻越中央山脈的數位路徑：能高越嶺古道的高程對合與效率辯證"
 date: 2026-04-30T10:00:00+08:00
-categories: [Project (專案)]
+categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - History & Culture (歷史與文化)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
-tags: ["能高越嶺", "DTM", "GIS", "山脈水文", "Antigravity"]
+tags:
+  - Antigravity
+  - DTM
+  - GIS
+  - 山脈水文
 featured_image: "featured.png"
 description: "透過 20m DTM 與全量頂點提取技術，我們在數位空間中完整還原了能高古道東西橫貫的拓樸結構。本篇記錄了如何克服數據斷層，並以能量成本模擬證明古道選線的『結構性最優解』。"
----
-
-# 翻越中央山脈的數位路徑：能高越嶺古道的高程對合與效率辯證
+---# 翻越中央山脈的數位路徑：能高越嶺古道的高程對合與效率辯證
 
 在《台灣山脈水文地景解碼》的建構過程中，我們迎來了第一個關鍵的 POC (Proof of Concept) 實證：**能高越嶺古道**。
 

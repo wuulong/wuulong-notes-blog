@@ -2,19 +2,18 @@
 title: "【哈爸筆記】龍蝦計畫：建構一隻會自我治理的雲端 Agent 代理人"
 date: 2026-04-19T16:50:00+08:00
 categories:
-  - GenAI
-  - Technology
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GenAI (生成式 AI)
+  - Maker & Hardware (創客與硬體)
+  - Productivity & KM (生產力與知識管理)
 series:
   - 哈爸實驗室
 tags:
-  - Lobster
+  - AI Agent
   - GCP
   - n8n
-  - Agent
-  - Governance
----
-
-在鹿野高台的咖啡廳中，享受著雨中的美景，我完成了一件惦記已久的大事：學著在 GCP 上為我的數位助理「龍蝦 (Lobster)」建立新家，並賦予它一套完整的「自律邏輯」。
+---在鹿野高台的咖啡廳中，享受著雨中的美景，我完成了一件惦記已久的大事：學著在 GCP 上為我的數位助理「龍蝦 (Lobster)」建立新家，並賦予它一套完整的「自律邏輯」。
 
 過去在本地端跑 Agent，總會遇到資源吃緊、連結中斷或是紀錄碎裂的問題。這次，我決定徹底工程化，從底層硬體到頂層治理，一次到位。
 

@@ -2,13 +2,17 @@
 title: "2026 大甲溪河流探索 Day 1：從鐵道記憶到出海口夕陽"
 date: 2026-01-06T09:00:00+08:00
 draft: false
-tags: ["大甲溪", "Cycling", "Travel", "Taichung", "River Exploration"]
-categories: ["Life and Thoughts (生活與隨筆)"]
+tags:
+  - River Exploration
+  - Taichung
+  - Travel
+  - 大甲溪
+categories:
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-大甲溪"]
 description: "大甲溪探索首日，騎著單車穿越舊山線鐵道，從后豐鐵馬道跨越壯闊的大甲溪河床，探訪石岡壩水利設施；傍晚直奔出海口高美濕地，在風車與夕陽下見證河流回歸大海的時刻。"
----
-
-這是我「2026 台灣河流探索 - 大甲溪」系列的第一天。
+---這是我「2026 台灣河流探索 - 大甲溪」系列的第一天。
 今天的行程跨度很大，從中游沖積扇平原的后里、豐原、石岡，一路追隨河水流向大海，最終抵達出海口的高美濕地。這是一趟結合了鐵道歷史、水利工程與生態美景的旅程。
 ![后里馬場](IMG_3642.jpg)
 ## 🚲 鐵馬追風：穿越時空的舊山線

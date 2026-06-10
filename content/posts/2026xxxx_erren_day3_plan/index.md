@@ -1,14 +1,18 @@
 ---
 title: "二仁溪探索 Day 3：救贖之海與歷史負債 (行前計劃)"
 date: 2026-02-06
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - History & Culture (歷史與文化)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-二仁溪"]
-tags: ["環境博物館", "行前計劃", "WalkGIS"]
+tags:
+  - WalkGIS
+  - 環境博物館
+  - 行前計劃
 description: "直之下游污染遺址，見證二仁溪如何從黑龍江重回生態標竿。"
 draft: false
----
-
-# 二仁溪探索 Day 3：救贖之海與歷史負債 (行前計劃)
+---# 二仁溪探索 Day 3：救贖之海與歷史負債 (行前計劃)
 
 ## 🗺️ 探索主題
 直之下游污染遺址，見證二仁溪如何從黑龍江重回生態標竿。

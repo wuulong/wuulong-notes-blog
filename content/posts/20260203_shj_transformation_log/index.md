@@ -1,13 +1,19 @@
 ---
 title: "從「靜態手冊」到「動態地圖」：山海圳國家綠道的數位敘事化轉型實錄"
 date: 2026-02-03
-categories: ["數位轉型", "GIS 應用"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Enterprise AI Transformation (企業 AI 轉型)
+  - GIS & Mapping (地理資訊與地圖)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
-tags: ["山海圳", "WalkGIS", "數位轉型", "GIS", "AI 協作"]
+tags:
+  - AI 協作
+  - GIS
+  - WalkGIS
+  - 數位轉型
 description: "記錄如何將 112MB 的 PDF 手冊與 KMZ 圖資，轉化為具備深度敘事與 Web 跳轉能力的 WalkGIS 動態地圖系統。"
----
-
-# 從「靜態手冊」到「動態地圖」：山海圳國家綠道的數位敘事化轉型實錄
+---# 從「靜態手冊」到「動態地圖」：山海圳國家綠道的數位敘事化轉型實錄
 
 ## 🌏 前言：數據的「生命力」
 山海圳國家綠道（MTSW）是一條長達 177 公里的「溯源風土之河」。然而，長期以來這些珍貴的資訊分散在厚重的 PDF 手冊（112MB）與僅具備基本座標的 KMZ 檔案中。對於徒步者而言，在路途上翻閱 PDF 極其不便，而純粹的導航點又缺乏文史脈絡。

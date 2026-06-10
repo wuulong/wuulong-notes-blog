@@ -2,12 +2,15 @@
 title: 使用 AI 復活舊版 ATAK 台灣圖資包 (ATAK-Maps-LASS)
 date: 2026-01-04
 description: 透過 AI 協助修復舊版 ATAK 地圖擴充包，解決 HTTPS 與目錄結構問題，讓魯地圖與台灣通用電子地圖在 ATAK 重獲新生。
-tags: [ATAK, AI, Maps, RudyMap, Workflow]
-categories: ["Project (專案)"]
+tags:
+  - AI
+  - ATAK
+categories:
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - Maker & Hardware (創客與硬體)
 series: ["WalkGIS"]
----
-
-最近在整理舊檔案時，翻出了一個好幾年前製作的 ATAK 地圖擴充包 (`ATAK-Maps-LASS.zip`)。這個懶人包當年整合了 Google、Bing、以及最重要的**台灣通用電子地圖**與**魯地圖**，為了讓團隊能快速在 ATAK 建立共同的圖資環境。
+---最近在整理舊檔案時，翻出了一個好幾年前製作的 ATAK 地圖擴充包 (`ATAK-Maps-LASS.zip`)。這個懶人包當年整合了 Google、Bing、以及最重要的**台灣通用電子地圖**與**魯地圖**，為了讓團隊能快速在 ATAK 建立共同的圖資環境。
 
 沒想到興沖沖地匯入新版 ATAK 後，卻發現無法讀取，甚至連最關鍵的魯地圖都無法顯示。
 

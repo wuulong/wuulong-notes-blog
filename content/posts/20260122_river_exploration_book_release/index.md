@@ -1,13 +1,20 @@
 ---
 title: "【專案釋出】《流域導航》：我與 AI 共同編寫的一本台灣河流深度解碼手冊"
 date: 2026-01-22T12:45:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - Academic Research (學術研究)
+  - Announcements (公告)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
-tags: ["GenAI", "WalkGIS", "Deep Research", "流域治理", "數位地誌"]
+tags:
+  - Deep Research
+  - WalkGIS
+  - 流域治理
 draft: false
----
-
-這不只是一本書，這是我這陣子在台灣河床邊、在螢幕前，與 AI 進行的一場深入土地靈魂的對話。
+---這不只是一本書，這是我這陣子在台灣河床邊、在螢幕前，與 AI 進行的一場深入土地靈魂的對話。
 
 今天，我正式在 GitHub 釋出了 **《流域導航：台灣母親之河的深度探索與實踐指南》**。這不僅僅是我的田野筆記，更是一套結合了 **Deep Research**、**地景偵探術** 與 **WalkGIS 共創** 的數位探索方法論。
 

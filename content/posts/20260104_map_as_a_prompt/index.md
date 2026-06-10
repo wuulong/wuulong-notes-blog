@@ -2,12 +2,19 @@
 title: "地圖即提示 (Map as a Prompt)：為什麼我要在每份 WalkGIS 地圖中嵌入 Deep Research 指令？"
 date: 2026-01-04T09:35:00+08:00
 draft: false
-categories: ["Project (專案)", "Thought (思考)"]
+categories:
+  - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Travel & Geography (旅行與地理)
 series: ["WalkGIS"]
-tags: ["AI Agent", "Gemini Deep Research", "Prompt Engineering", "WalkGIS", "Travel Tech"]
+tags:
+  - AI Agent
+  - Prompt Engineering
+  - WalkGIS
 summary: "傳統的 GIS 地圖只告訴你「這裡有什麼」，卻很少告訴你「這裡發生過什麼」。為了解決深度探索的資訊落差，我開始嘗試在 WalkGIS 的每份地圖文件中嵌入專屬的 Deep Research Prompt。這不僅是節省使用者的複製貼上時間，更是一種「將地圖視為知識索引」的產品設計思維。"
----
-![地圖即提示：AI導遊](地圖即提示：AI導遊.png)
+---![地圖即提示：AI導遊](地圖即提示：AI導遊.png)
 在整理 WalkGIS 地圖資料的過程中，我常感到一種「資訊焦慮」。
 
 舉例來說，當我畫出一條「大安大甲溪聯通管」的路線時，地圖上標示了「石岡壩」、「鯉魚潭水庫」、「后里圳」。技術上，地圖完成了它的任務：它告訴你位置在哪裡。

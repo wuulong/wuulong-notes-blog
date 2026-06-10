@@ -2,12 +2,17 @@
 title: "WalkGIS 發展歷程：從一個散步念頭到軍規 ATAK 整合的 20 天演進史"
 date: 2026-01-02T17:00:00+08:00
 draft: false
-categories: ["Project (專案)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - Maker & Hardware (創客與硬體)
 series: ["WalkGIS"]
-tags: ["Roadmap", "Milestone", "Agentic Workflow", "GIS", "Dev Log"]
+tags:
+  - Agentic Workflow
+  - GIS
 summary: "整理 WalkGIS 專案從 2025/12/13 發想至今的完整演進歷程。透過 Mermaid 圖表與詳細里程碑表格，記錄了這個專案如何從單純的「散步地圖概念」，經由 Agentic AI 的輔助，一路進化為去中心化協議 (V2)，並最終整合至軍規 ATAK 系統的技術路徑。"
----
-![WalkGIS20日極速進化](WalkGIS20日極速進化.png)
+---![WalkGIS20日極速進化](WalkGIS20日極速進化.png)
 
 這 20 天(其實是四天)是一場極高密度的開發旅程。WalkGIS 從一個「想記錄散步軌跡」的簡單念頭，在 AI Agent (Antigravity) 的深度協作下，迅速演化成一個具備去中心化架構、自動化工作流與軍規整合能力的完整 GIS 生態系。
 

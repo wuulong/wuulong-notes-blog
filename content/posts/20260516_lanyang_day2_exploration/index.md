@@ -1,17 +1,21 @@
 ---
 title: "蘭陽溪探索 Day 2 (實際行程)：高山林業與感官地層 —— 太平山、見晴與鳩之澤"
 date: 2026-05-16
-tags: ["河流探索", "蘭陽溪", "太平山", "蹦蹦車", "鳩之澤", "OO-History"]
-categories: ["Project (專案)"]
+tags:
+  - OO-History
+  - 太平山
+  - 河流探索
+  - 蘭陽溪
+categories:
+  - History & Culture (歷史與文化)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-蘭陽溪"]
 cover:
     image: "assets/images/lanyang_day2_actual_cover.png"
     alt: "太平山蹦蹦車"
     relative: false
 description: "蘭陽溪探索第二天的實際紀錄。深入太平山林場考掘林業遺構，體驗茂興與見晴步道的時空靜謐，最後下切至鳩之澤溫泉體驗水文與感官的雙重療癒。"
----
-
-# 蘭陽溪探索 Day 2 實遊筆記：高山林業與感官地層
+---# 蘭陽溪探索 Day 2 實遊筆記：高山林業與感官地層
 
 今日（2026-05-16）完成了蘭陽溪中上游的深度考掘。行程從宜蘭市出發，直衝海拔兩千公尺的**太平山**，這不僅是地理高度的攀升，更是從「平原開墾」轉向「**高山採伐遺構**」的歷史斷層掃描。
 

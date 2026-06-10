@@ -2,12 +2,18 @@
 title: "Vibe Coding：當意圖與美學跨越技術的高牆"
 date: 2026-02-14T07:15:00+08:00
 draft: false
-tags: ["Vibe Coding", "AI Studio", "BMAD", "Antigravity", "個人賦能", "WalkGIS"]
-categories: ["Project (專案)"]
+tags:
+  - Antigravity
+  - WalkGIS
+  - 個人賦能
+categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
----
-
-> 「Coding 是在對抗語法，Vibe Coding 是在對齊靈魂。」—— 這是我在寫完《個人賦能》第十二章後，最深刻的體感。
+---> 「Coding 是在對抗語法，Vibe Coding 是在對齊靈魂。」—— 這是我在寫完《個人賦能》第十二章後，最深刻的體感。
 
 第十二章《Vibe Coding》是全書技術難度最高，卻也是賦能感最爆炸的章節。在這一章的寫作過程中，我不斷在思考一個問題：**對於一個非專業工程師的讀者，該如何讓他們真正「統御」程式碼，而不是被程式碼淹沒？**（本書所有章節與練習已同步釋出於 GitHub：[PersonalAI-Empowerment](https://github.com/wuulong/PersonalAI-Empowerment)）
 

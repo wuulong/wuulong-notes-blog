@@ -2,13 +2,19 @@
 title: "從「使用」到「統御」——《個人 AI 賦能》第十章發布實錄"
 date: 2026-02-12T08:34:00+08:00
 draft: false
-categories: ["Project (專案)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Announcements (公告)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
 series: ["個人AI賦能方法論"]
-tags: ["Antigravity", "治理系統", "三位一體", "數位領主"]
+tags:
+  - Antigravity
+  - 三位一體
+  - 數位領主
+  - 治理系統
 description: "分享撰寫《個人 AI 賦能》第十章的心路歷程，探討如何從 AI 使用者轉化為數位系統統御者，並發布三位一體治理套件。"
----
-
-### **哈爸筆記：從「使用」到「統御」——《個人 AI 賦能》第十章發布實錄**
+---### **哈爸筆記：從「使用」到「統御」——《個人 AI 賦能》第十章發布實錄**
 
 #### **1. 數位主權的臨界點**
 在撰寫第十章之前，我以為我已經很懂 AI 了。但在這一章的「抗重力訓練」中，我才發現真正的賦能邊界在哪裡。

@@ -2,15 +2,16 @@
 title: "GCP 雲端省錢術：PostgreSQL 瘦身與架構優化實錄"
 date: 2025-12-17T09:00:00+08:00
 draft: false
-tags: ["GCP", "PostgreSQL", "Docker", "Cost Optimization", "DevOps"]
+tags:
+  - DevOps
+  - GCP
 series: ["GCP學習旅程"]
-categories: ["Technology (技術)"]
+categories:
+  - Software Engineering (軟體工程)
 description: "如何將 GCP 上的 PostgreSQL 資料庫成本最佳化？紀錄從刪除閒置的 500GB 硬碟，到利用 Docker 容器化部署、設定權限分流，以及申請免費固定 IP 的完整過程。"
 summary: "近期為了優化個人專案的雲端成本，我對 GCP 上的 PostgreSQL 資料庫進行了一次「大手術」。將原本掛載的 500GB 閒置硬碟移除，改用 Docker 部署在 10GB 的系統碟上，並配置了固定 IP 與防火牆。這篇文章紀錄了如何從每月數百元的硬碟費中解套，同時建立更安全、標準化的 DB 架構。"
 top: false
----
-
-最近在整理手邊的 Side Project 時，發現 GCP 的帳單上有個顯眼的項目：一顆 500GB 的 Persistent Disk。
+---最近在整理手邊的 Side Project 時，發現 GCP 的帳單上有個顯眼的項目：一顆 500GB 的 Persistent Disk。
 
 仔細一查，這顆硬碟只為了跑一個資料量不到 200MB 的 PostgreSQL 資料庫。每個月光是這顆閒置硬碟就要花掉約 **$20 USD (約 NT$600)**，而實際上使用的空間連 0.1% 都不到。這對於個人專案來說，簡直是暴殄天物。
 

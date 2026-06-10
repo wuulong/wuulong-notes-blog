@@ -2,13 +2,21 @@
 title: "從數據挖掘到實務施工：建構《個人賦能》書稿與開源發布"
 date: 2026-02-06
 draft: false
-tags: [AI賦能, 數位考古, 系統工程, AgenticAI, OpenSource, Antigravity]
-categories: [Project (專案)]
+tags:
+  - AI賦能
+  - AgenticAI
+  - Antigravity
+  - 數位考古
+categories:
+  - Agentic AI (代理程式 AI)
+  - Digital Archaeology (數位考古)
+  - History & Culture (歷史與文化)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - System Engineering (系統工程)
 series: [個人AI賦能方法論]
 summary: "在完成了橫跨三年的數位考古後，接下來的挑戰是如何將這些碎裂的數據轉化為具備邏輯的書稿。本文紀錄我如何利用「數位格律」與「建構紀錄」制度，指揮 AI 進行精確施工，並正式在 GitHub 上釋出《個人賦能》的前兩章內容。"
----
-
-在之前的文章中，我分享了如何挖掘過去三年的數位地層（UI 對話、CLI Log、MQA 筆記）。今天，這場長征迎來了一個重要的轉折點：我們正式從「數據挖掘」階段進入了「實體施工」階段。
+---在之前的文章中，我分享了如何挖掘過去三年的數位地層（UI 對話、CLI Log、MQA 筆記）。今天，這場長征迎來了一個重要的轉折點：我們正式從「數據挖掘」階段進入了「實體施工」階段。
 
 這不僅僅是把資料整理成文，更是一次對於「原創性」與「人機協作律法」的深刻實踐。
 

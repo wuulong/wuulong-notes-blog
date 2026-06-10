@@ -2,12 +2,23 @@
 title: "實作筆記：從 Deep Research 到 WalkGIS 自動地圖生成 - 以濁水溪流域為例"
 date: 2026-01-11
 draft: false
-tags: [AI, WalkGIS, Deep Research, Python, Automation, GIS]
-categories: ["Project (專案)"]
+tags:
+  - AI
+  - Deep Research
+  - GIS
+  - Python
+  - WalkGIS
+  - 自動化
+categories:
+  - Academic Research (學術研究)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
----
-
-# 引言：打造「百科全書式」的流域地圖
+---# 引言：打造「百科全書式」的流域地圖
 
 一直以來，我對於製作「有深度」的地圖充滿熱情。一張好的地圖，不應該只是標記與導航，它應該能承載歷史的厚度、文化的溫度，以及地理空間的邏輯。
 

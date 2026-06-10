@@ -1,13 +1,20 @@
 ---
 title: "[哈爸筆記] 讓 AI 擁有地理動向的靈魂：智慧行車導遊兩日開發實錄"
 date: 2026-03-11T09:10:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
+  - Travel & Geography (旅行與地理)
 series: ["智慧導遊"]
-tags: ["HUD", "SpatiaLite", "Hammerspoon", "Gemini", "Open Data", "GIS"]
+tags:
+  - GIS
+  - Gemini
+  - Hammerspoon
+  - Open Data
+  - SpatiaLite
 draft: false
----
-
-最近兩天，我跟我的 AI 夥伴 (Antigravity) 泡在 `Travel-Advisor-HUD` 這個專案裡。目標很單純：**讓我的行車助理不再只是「唸出路名」，而是像個真正懂我的「私人導遊」。**
+---最近兩天，我跟我的 AI 夥伴 (Antigravity) 泡在 `Travel-Advisor-HUD` 這個專案裡。目標很單純：**讓我的行車助理不再只是「唸出路名」，而是像個真正懂我的「私人導遊」。**
 
 在兩天的密集對話中，我們經歷了幾次關鍵的「卡關」與「破繭而出」，這幾個點我覺得是開發地理感知型 AI (Geographic AI) 最迷人的地方。
 

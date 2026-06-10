@@ -2,13 +2,22 @@
 title: "「鄉鎮導航」地圖：AI 與 GIS 協作的全台行政區劃深耕實驗"
 date: 2026-02-04T20:03:00+08:00
 draft: false
-tags: ["WalkGIS", "AI 協作", "方法論", "GIS", "Deep Research"]
-categories: ["Project (專案)"]
+tags:
+  - AI 協作
+  - Deep Research
+  - GIS
+  - WalkGIS
+  - 方法論
+categories:
+  - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Methodology (方法論)
+  - Travel & Geography (旅行與地理)
 series: ["鄉鎮導航"]
 description: "記錄如何利用 AI 與 GIS 技術，在短時間內初始化全台 390 個行政區劃，並透過 Deep Research 實現高品質人文地誌加厚的完整過程。"
----
-
-![臺灣地理行政區域概覽](臺灣地理行政區域概覽.png)
+---![臺灣地理行政區域概覽](臺灣地理行政區域概覽.png)
 
 這是一場關於「空間數據」如何轉化為「人文地誌」的實驗。
 

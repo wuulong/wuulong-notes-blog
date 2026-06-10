@@ -2,13 +2,14 @@
 title: "系統整合太難？試試看「AI 代理人網絡 (A2A)」的新解法"
 date: 2025-12-15T12:33:11+08:00
 series: ["GenAI實驗"]
-categories: ["GenAI (生成式 AI)"]
-tags: ["AI Agent", "HealthTech", "System Integration", "A2A"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - GenAI (生成式 AI)
+tags:
+  - AI Agent
 summary: "醫療資訊系統整合總是卡關？如果我們不強求系統對接，而是讓每個角色都有一個「AI 秘書」來幫忙傳話呢？這篇文章探討 Agent-to-Agent (A2A) 架構如何繞過技術債，用更彈性、更像人類協作的方式解決資訊孤島問題。"
 draft: false
----
-
-在醫療、金融或大型企業中，我們常常聽到一個痛點：「系統整合好難！」
+---在醫療、金融或大型企業中，我們常常聽到一個痛點：「系統整合好難！」
 
 不同的醫院用不同的系統，甚至同一家醫院裡，放射科跟檢驗科的系統也未必能順利溝通。
 這導致了所謂的**「資訊孤島」**：

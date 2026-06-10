@@ -2,12 +2,16 @@
 title: "[曾文溪Day4] 從文明解構到海口回望：在大圳與神榕間看見大河的創造與守護 (實際遊記)"
 date: 2026-01-31
 draft: false
-tags: [WalkGIS, 曾文溪, 隆田chacha, 烏山頭水庫, 神榕, 極西點, 安平天后宮]
-categories: ["Life and Thoughts (生活與隨筆)"]
+tags:
+  - WalkGIS
+  - 曾文溪
+  - 隆田chacha
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - History & Culture (歷史與文化)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-曾文溪"]
----
-
-> **寫在旅程後**：
+---> **寫在旅程後**：
 > 曾文溪四日史詩的終章，我們在大圳的核心、神榕的樹影與海口的燈塔間，完成了對這條母親河的完整拼讀。從隆田的數位劇場開始，我們回首了水利的壯闊，最終在安平天后宮的燈火中，收束這場與水共舞的探索。
 
 ## 實際旅程

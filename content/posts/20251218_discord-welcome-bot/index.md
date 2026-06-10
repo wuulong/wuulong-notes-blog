@@ -2,14 +2,18 @@
 title: "社群經營自動化暖身：用 n8n 打造 Discord 每日歡迎機器人"
 date: 2025-12-18T12:00:00+08:00
 draft: false
-tags: ["n8n", "Discord", "Automation", "Community Management"]
+tags:
+  - Community Management
+  - Discord
+  - n8n
+  - 自動化
 series: ["n8n"]
-categories: ["Technology (技術)"]
+categories:
+  - Automation & Workflows (自動化與工作流程)
+  - Community & Networking (社群與交流)
 description: "在打造複雜的 AI Agent 之前，我們先來個社群自動化的暖身操。這篇文章教學如何使用 n8n 建立一個「Discord 每日歡迎機器人」，不但能定時整理新加入的夥伴名單，還能自動抓取社群討論內容，透過 Gemini 生成「昨日懶人包」，讓歡迎訊息變得更有料！"
 summary: "覺得 Discord 的 MEE6 歡迎訊息太制式？本文分享如何用 n8n 自幹一個「每日歡迎機器人」。這個自動化流程會在每天中午定時執行，除了整理新成員名單，還串接了 Google Gemini，自動閱讀 #general 频道的討論串並生成「每日社群懶人包」。文中包含完整的權限設定與 AI 摘要實作教學。"
----
-
-在深入研究 [AI Agent 架構](/wuulong-notes-blog/posts/20251217_building-agentic-discord-bot/) 這種比較硬核的技術之前，我們今天先來做個輕鬆的 **社群自動化 (Community Automation)** 暖身操。
+---在深入研究 [AI Agent 架構](/wuulong-notes-blog/posts/20251217_building-agentic-discord-bot/) 這種比較硬核的技術之前，我們今天先來做個輕鬆的 **社群自動化 (Community Automation)** 暖身操。
 
 經營 Discord 社群時，我們通常希望給新加入的朋友一點溫暖，但又面臨兩難：
 1.  **即時歡迎 (Real-time)**：每進一個人就 `@` 一次，如果剛好這天進來 50 個人，頻道就會被洗版，舊成員反而會想把通知關掉。

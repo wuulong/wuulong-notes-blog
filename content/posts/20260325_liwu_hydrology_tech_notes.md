@@ -1,16 +1,21 @@
 ---
 title: "立霧溪水化：從 20m DTM 萃取「絕對連通」潛勢溪流的技術長征"
 date: 2026-03-25T11:30:00+08:00
-tags: ["河流探索", "DTM", "水理分析", "GoogleMyMaps", "AI協作"]
-categories: ["Project (專案)"]
+tags:
+  - AI協作
+  - DTM
+  - Google My Maps
+  - 河流探索
+categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-立霧溪"]
 cover:
     image: "/assets/images/liwu_gorge_cover.png"
     alt: "立霧溪 DTM 水理模擬成果"
     relative: false
----
-
-# 立霧溪水化：從 20m DTM 萃取「絕對連通」潛勢溪流的技術長征
+---# 立霧溪水化：從 20m DTM 萃取「絕對連通」潛勢溪流的技術長征
 
 最近在進行 **2026 台灣河流探索：立霧溪** 的計畫中，遇到了一個困難問題：**「官方的河道路網在深山峽谷裡不夠用。」** 為了在 Google My Maps 上能有精確的導航，我決定啟動一場「數位成河」的挑戰——從 203 張 DTM 網格中，重新模擬出立霧溪的水脈靈魂。
 

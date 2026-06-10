@@ -1,13 +1,17 @@
 ---
 title: "WalkGIS V0.1 釋出：如果地圖是一本可讀的故事書"
 date: 2025-12-29T16:30:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - Announcements (公告)
+  - GIS & Mapping (地理資訊與地圖)
 series: ["WalkGIS"]
-tags: ["散步地圖", "后豐鐵馬道", "Open Data", "Mermaid", "Google Maps"]
+tags:
+  - Google Maps
+  - Mermaid
+  - Open Data
+  - 散步地圖
 draft: false
----
-
-我們很高興宣布 **WalkGIS Project V0.1** 正式釋出！ 🎉
+---我們很高興宣布 **WalkGIS Project V0.1** 正式釋出！ 🎉
 
 這是一個實驗性的專案，旨在探索如何讓「地圖資料」不僅是冷冰冰的座標，而是能被人類與 AI 共同閱讀、協作的「散步故事」。
 

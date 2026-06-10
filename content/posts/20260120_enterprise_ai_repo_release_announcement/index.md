@@ -2,12 +2,17 @@
 title: "正式釋出：企業生成式 AI 轉型方法論 v1.1.0——一套可實踐的企業 AI 轉型 OS"
 date: 2026-01-20T07:35:00+08:00
 draft: false
-tags: ["Enterprise AI", "GenAI", "Digital Transformation", "Open Source", "Methodology"]
-categories: ["Project (專案)"]
+tags:
+  - Enterprise AI
+  - Methodology
+  - 數位轉型
+categories:
+  - Announcements (公告)
+  - Enterprise AI Transformation (企業 AI 轉型)
+  - GenAI (生成式 AI)
+  - Methodology (方法論)
 series: ["企業AI轉型全書"]
----
-
-經歷了密集的理論建構與多產業案例（製造業、醫療業、電商業）的壓力測試，我決定將這套 **《企業生成式 AI 轉型方法論 (v1.1.0)》** 正式分離為獨立專案，並在 GitHub 上開源釋出。
+---經歷了密集的理論建構與多產業案例（製造業、醫療業、電商業）的壓力測試，我決定將這套 **《企業生成式 AI 轉型方法論 (v1.1.0)》** 正式分離為獨立專案，並在 GitHub 上開源釋出。
 
 這不僅是一本書，更是一套為組織量身打造的 **「轉型作業系統」**。
 

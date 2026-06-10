@@ -3,18 +3,19 @@ title: "AI 賦能實戰：如何用 Deep Research 產出一份綠島「感官地
 description: "在踏上綠島之前，我們利用 AI 進行了垂直式的厚數據採集。這不僅是一份計畫，更是一次將數位研究轉化為實體探勘點位的完整實驗。"
 date: 2026-04-17
 categories:
-  - "GenAI (生成式 AI)"
-  - "Knowledge Base (知識庫)"
+  - Academic Research (學術研究)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series:
   - "2026台灣河流探索-卑南溪"
 tags:
-  - "綠島"
-  - "Deep Research"
-  - "數位地景"
-  - "行程規劃"
----
-
-![綠島深度規劃實踐](./planning_header.png)
+  - Deep Research
+  - 綠島
+---![綠島深度規劃實踐](./planning_header.png)
 
 > **哈爸筆記**：
 > 傳統的旅遊規劃是「查景點、看評價、排行程」。但在 AI 負能的時代，我們可以用更硬核的方式來定義一場旅行：**「先研究地層，再閱讀歷史，最後才設定座標。」**

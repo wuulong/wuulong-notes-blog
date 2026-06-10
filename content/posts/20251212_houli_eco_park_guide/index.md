@@ -1,13 +1,16 @@
 ---
 title: "后里環保公園 (Houli Eco Park) 車泊攻略"
 date: 2025-12-12T07:42:37+08:00
-categories: ["Project (專案)"]  
+categories:
+  - Outdoor & Camping (戶外與車宿)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"] 
-tags: ["車宿", "露營", "大甲溪"]
+tags:
+  - 大甲溪
+  - 車宿
+  - 露營
 draft: false
 ---
-
-
 **后里環保公園** 是中部地區極受歡迎的「合法車泊專區」，以腹地廣大、環境清幽且**完全免費**而聞名。這裡是您在大甲溪流域探險行程中，最理想的中繼過夜點。
 
 ## 📍 基本資訊

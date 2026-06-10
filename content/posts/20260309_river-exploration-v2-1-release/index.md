@@ -1,12 +1,20 @@
 ---
 title: "從地圖對合到時空演義：考古遺跡、生存原理與《流域導航》v2.1 建模釋出"
 date: 2026-03-09T13:10:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - Announcements (公告)
+  - GIS & Mapping (地理資訊與地圖)
+  - History & Culture (歷史與文化)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
-tags: ["流域導航", "HGIS", "考古遣蹟", "OO-History", "生存模擬", "南科遺址", "哈爸筆記"]
----
-
-在兩週前，我們釋出了《流域導航》v2.0，確立了「HGIS Layer 0-1-2」的三層知識架構，並透過 **`hgis-atlas-architect`** 技能大幅提升了地名與史料的對合效率。
+tags:
+  - HGIS
+  - OO-History
+  - 哈爸筆記
+  - 流域導航
+---在兩週前，我們釋出了《流域導航》v2.0，確立了「HGIS Layer 0-1-2」的三層知識架構，並透過 **`hgis-atlas-architect`** 技能大幅提升了地名與史料的對合效率。
 
 然而，隨著我們深入曾文溪流域的「青瞑蛇」改道史，我們撞上了一個數位探索的核心挑戰：**當文字史料斷裂時，該如何導航？**
 

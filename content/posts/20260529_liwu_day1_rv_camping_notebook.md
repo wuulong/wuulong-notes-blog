@@ -1,17 +1,24 @@
 ---
 title: "立霧溪大縱走 Day 1：在牌樓與綠松石水色前，重新定義河流探索的靈魂 (哈爸筆記)"
 date: 2026-05-29
-tags: ["台灣河流探索", "立霧溪", "車宿", "人機協作", "WalkGIS"]
-categories: ["Project (專案)"]
+tags:
+  - WalkGIS
+  - 台灣河流探索
+  - 立霧溪
+  - 車宿
+categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-立霧溪"]
 cover:
     image: "/assets/images/liwu_gorge_cover.png"
     alt: "立霧溪大縱走 Day 1 探索"
     relative: false
 map_id: "20260324_liwu_river"
----
-
-# 立霧溪大縱走 Day 1：在牌樓與綠松石水色前，重新定義河流探索的靈魂
+---# 立霧溪大縱走 Day 1：在牌樓與綠松石水色前，重新定義河流探索的靈魂
 
 這週日 (5/31) 我就要出發去立霧溪了。原本在白板上只規劃了兩天的簡單踏查，但昨晚在與 AI 助手討論時，思維突然被炸開了：**立霧溪不只是一條切開太魯閣大理岩的峽谷，它是一把在中央山脈主脊上，與濁水溪進行著萬年向源侵蝕的「液態之刃」！**
 

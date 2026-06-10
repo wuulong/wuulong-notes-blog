@@ -2,13 +2,21 @@
 title: "Antigravity 實戰：解放 Google Maps MCP 的力量，AI 導遊帶你去吃喝"
 date: 2026-01-05T07:50:00+08:00
 draft: false
-tags: ["AI", "Google Maps", "MCP", "Antigravity", "Gemini", "Automation"]
-categories: ["GenAI (生成式 AI)"]
+tags:
+  - AI
+  - Antigravity
+  - Gemini
+  - Google Maps
+  - 自動化
+categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Travel & Geography (旅行與地理)
 series: ["GenAI實驗"]
 description: "這篇文章紀錄了如何突破 CLI 與 API 的限制，成功讓 AI Agent (Antigravity) 接入 Google Maps Grounding Lite MCP，並實戰應用於自行車道美食搜尋。"
----
-
-# Antigravity 實戰：解放 Google Maps MCP 的力量，AI 導遊帶你去吃喝
+---# Antigravity 實戰：解放 Google Maps MCP 的力量，AI 導遊帶你去吃喝
 
 身為一個依賴 AI 協作的開發者，我一直在思考如何讓我的 Agent (Antigravity) 擁有「真實世界的眼睛」。雖然它能寫程式、能搜尋網頁，但遇到「地理空間」的問題時——例如「這條路沿線有什麼好吃的？」——它往往只能給我模糊的網頁摘要，而不是精確的地點資訊。
 

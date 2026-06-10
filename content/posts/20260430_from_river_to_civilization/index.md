@@ -1,14 +1,17 @@
 ---
 title: "從水流到文明：探究路徑的必然性與 AI 賦能的合理結果"
 date: 2026-04-30T12:00:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - Automation & Workflows (自動化與工作流程)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
-tags: ["文明溯源", "邏輯必然性", "AI賦能", "探索歷程", "山脈水文"]
+tags:
+  - AI賦能
+  - 山脈水文
 featured_image: "featured.png"
 description: "為什麼流域探索最終必然走向文明探究？本篇深入分析這四個月探索路徑的邏輯順序，探討為何這是一場對未知地景系統的「逆向工程」，以及 AI 如何加速了這種必然結果的浮現。"
----
-
-# 從水流到文明：探究路徑的必然性與 AI 賦能的合理結果
+---# 從水流到文明：探究路徑的必然性與 AI 賦能的合理結果
 
 過去四個月，我的探索路徑從大甲溪的河口起始，最終停在了能高越嶺的斷崖。回頭望去，這段歷程並非零散的點位紀錄，而是一場對台灣地景這個「未知複雜系統」的 **「逆向工程 (Reverse Engineering)」**。
 

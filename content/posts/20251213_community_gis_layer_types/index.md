@@ -1,15 +1,16 @@
 ---
 title: "社區 GIS 圖層分類學：通用型分類架構參考"
 date: 2025-12-13T22:45:37+08:00
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
 series: ["WalkGIS"]
-tags: ["GIS", "圖層設計", "社區地圖", "Open Data"]
+tags:
+  - GIS
+  - Open Data
 draft: false
 ShowToc: true
 TocOpen: true
----
-
-# 社區 GIS 圖層分類範例與資料類型
+---# 社區 GIS 圖層分類範例與資料類型
 
 在進行社區地圖繪製或 GIS 資料庫建置時，一個完善的圖層分類架構能幫助我們更有系統地收集與管理資料。以下是整理出的通用型 `layer_type` (主分類) 和 `layer_subtype` (次分類) 建議列表，您可以參考這些架構來填充 `layers` 表格，作為散步地圖的分類依據。
 

@@ -1,15 +1,18 @@
 ---
 title: "幕後紀實：GenAI 如何協助我從零啟動「台灣河流探索」計畫"
 date: 2025-12-13T07:06:56+08:00
-categories: ["GenAI (生成式 AI)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - GenAI (生成式 AI)
+  - River Exploration (河流探索)
 series: ["架構推動"]
-tags: ["GenAI", "Hugo", "Project Management", "AI協作"]
+tags:
+  - AI協作
+  - Hugo
 draft: false
 ShowToc: true
 TocOpen: true
----
-
-# 當靈感遇上 AI：一個上午的加速實踐
+---# 當靈感遇上 AI：一個上午的加速實踐
 
 這篇文章不是遊記，而是關於**這個網站與這個計畫是如何誕生**的紀錄。
 過去，當我們萌生一個「想去探索台灣河流」的念頭時，往往會卡在繁瑣的規劃、資料蒐集，甚至是架設網站的技術門檻上。但這次，我嘗試了一種全新的工作模式——**與 Agentic AI (Antigravity) 協作規劃**。

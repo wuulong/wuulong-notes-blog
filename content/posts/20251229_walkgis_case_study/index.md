@@ -2,13 +2,20 @@
 title: "WalkGIS 實戰：一小時打造「大甲溪溯源」與「智慧水圳」雙主題地圖"
 date: 2025-12-29T21:50:00+08:00
 draft: false
-categories: ["GenAI (生成式 AI)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
-tags: ["SQLite", "Mermaid", "NotebookLM", "Smart Water", "Taichung"]
+tags:
+  - Mermaid
+  - NotebookLM
+  - SQLite
+  - Taichung
 summary: "驗證 WalkGIS 系統的擴充性：透過標準化流程，快速部署「大甲溪水利溯源」與「智慧水圳」兩條全新路線，並整合 Google Maps 導航與 AI 內容生成。"
----
-
-在 [WalkGIS V0.1 發布](/posts/20251229_walkgis_v0_1_release/) 與 [自動化工作流](/posts/20251229_walkgis_notebooklm_workflow/) 建置完成後，我決定來場「壓力測試」。
+---在 [WalkGIS V0.1 發布](/posts/20251229_walkgis_v0_1_release/) 與 [自動化工作流](/posts/20251229_walkgis_notebooklm_workflow/) 建置完成後，我決定來場「壓力測試」。
 
 **挑戰目標**：在不修改一行程式碼的情況下，僅透過新增數據 (Data Injection) 與腳本 (Scripting)，快速上線兩條全新的主題地圖。
 

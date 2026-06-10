@@ -1,15 +1,21 @@
 ---
 title: "大甲溪散步地圖：SQLite Schema 設計 (AI 友善 WKT 版本)"
 date: 2025-12-14T07:45:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
-tags: ["SQLite", "WKT", "Schema Design", "QGIS", "AI Compatible"]
+tags:
+  - AI Compatible
+  - QGIS
+  - SQLite
+  - Schema Design
+  - WKT
 draft: false
 ShowToc: true
 TocOpen: true
----
-
-# 散步地圖資料庫 Schema 設計 (AI 友善版)
+---# 散步地圖資料庫 Schema 設計 (AI 友善版)
 
 ## 導言
 本文件旨在闡述為「大甲溪散步地圖」專案設計的 SQLite 資料庫 Schema。此設計特別考量了 **GenAI 協作 (Agentic Workflow)** 的需求，選擇使用標準的 **WKT (Well-Known Text)** 格式來處理地理空間資料，取代依賴性較高的 SpatiaLite 二進位格式。這確保了從資料蒐集、AI 處理到 QGIS 呈現的過程中，資料具有最高的可讀性與移植性。

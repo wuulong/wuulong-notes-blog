@@ -2,13 +2,15 @@
 title: "WalkGIS 自動化之路：打造「地圖生成代理人」與新竹水圳實戰"
 date: 2025-12-30T06:00:00+08:00
 draft: false
-categories: ["Project (專案)"]
+categories:
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
-tags: ["Task Design", "Python", "Feedback Loop", "Hsinchu"]
+tags:
+  - Python
 summary: "記錄如何將地圖製作流程封裝成可重複執行的 Agent Task，並以「新竹智慧水圳地圖」進行壓力測試與迭代修正的過程。"
----
-
-在上一篇 [WalkGIS 實戰案例](/posts/20251229_walkgis_case_study/) 中，我們雖然成功建立了台中大甲溪與智慧水圳地圖，但過程仍包含許多「人工介入」：手動下指令搜尋座標、手動修復 SQL、手動執行腳本。
+---在上一篇 [WalkGIS 實戰案例](/posts/20251229_walkgis_case_study/) 中，我們雖然成功建立了台中大甲溪與智慧水圳地圖，但過程仍包含許多「人工介入」：手動下指令搜尋座標、手動修復 SQL、手動執行腳本。
 
 對於一名追求效率的開發者來說，重複兩次是偶然，重複三次就是模式。是時候把這個模式封裝成一個自動化的 **Task** 了。
 

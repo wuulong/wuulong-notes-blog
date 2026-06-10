@@ -1,15 +1,17 @@
 ---
 title: "專案計畫：大甲溪散步地圖資料建構 (Data Collection Plan)"
 date: 2025-12-13T18:35:20+08:00
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"]
-tags: ["散步地圖", "資料蒐集", "Field Study", "Open Data"]
+tags:
+  - Open Data
+  - 散步地圖
 draft: false
 ShowToc: true
 TocOpen: true
----
-
-# 把理論帶進現場：大甲溪地圖建構計畫
+---# 把理論帶進現場：大甲溪地圖建構計畫
 
 承襲先前整理的[〈散步地圖的概念與應用〉]({< relref "20251213_walking_map_concept.md" >})，我們決定利用這次 2026 年 1 月的大甲溪探險，進行實地的資料蒐集與圖層建構。
 

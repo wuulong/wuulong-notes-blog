@@ -2,14 +2,15 @@
 title: "實戰 n8n 整合 Google Custom Search：從踩坑到成功"
 date: 2025-12-19T10:40:00+08:00
 draft: false
-categories: ["Technology (技術)"]
+categories:
+  - Automation & Workflows (自動化與工作流程)
 series: ["n8n"]
-tags: ["n8n", "Google Search", "API", "Troubleshooting"]
+tags:
+  - Troubleshooting
+  - n8n
 summary: "紀錄如何在 n8n 中透過 HTTP Request 節點實作 Google 搜尋功能，包括 API Key 申請、CSE 設定、網站驗證與除錯技巧。"
 
----
-
-## 🎯 核心目標
+---## 🎯 核心目標
 
 在 n8n 的 AI Agent Workflow 中，賦予 Agent 「上網搜尋」的能力，特別是用於 Retrieve 針對特定網站（例如自己的部落格）的內容。
 

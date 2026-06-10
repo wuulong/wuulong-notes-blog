@@ -1,13 +1,16 @@
 ---
 title: "大甲溪 (Dajia River) 深度一日遊計畫"
 date: 2025-12-12T07:42:37+08:00
-categories: ["Project (專案)"]  
+categories:
+  - Outdoor & Camping (戶外與車宿)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"] 
-tags: ["車宿", "露營", "大甲溪"]
+tags:
+  - 大甲溪
+  - 車宿
+  - 露營
 draft: false
 ---
-
-
 本計畫專為「第一次探訪」設計，聚焦於大甲溪流域最經典的自行車道與河口濕地景觀。考量交通時間與遊玩品質，建議以**開車**為主要交通方式。
 
 ## 📅 行程總覽

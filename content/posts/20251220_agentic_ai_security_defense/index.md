@@ -2,13 +2,16 @@
 title: "當 AI 代理人開始操控工具：從單點防守到「防禦縱深」的安全性發想"
 date: 2025-12-20T06:15:00+08:00
 draft: false
-categories: ["GenAI (生成式 AI)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - GenAI (生成式 AI)
 series: ["GenAI實驗"]
-tags: ["Agentic AI", "AI Security", "LLM", "Defense in Depth"]
+tags:
+  - AI Agent
+  - AI Security
+  - LLM
 summary: "探討 Agentic AI 帶來的安全挑戰，提出監控、即時阻攔與長線溯源結合的「全戰線」防禦機制。"
----
-
-![Agentic AI Security](defense_in_depth.png)
+---![Agentic AI Security](defense_in_depth.png)
 
 
 當 AI 從單純的對話框進化到能自主操縱工具、執行指令的 "Agent" 時，我們面對的不再只是文字內容的過濾，而是真實世界行為的風險管理。

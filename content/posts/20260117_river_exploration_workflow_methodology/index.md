@@ -2,12 +2,19 @@
 title: "AI 協作下的現代探險家：從數位規劃到實地探索的標準工作流"
 date: 2026-01-17
 draft: false
-tags: [AI協作, Workflow, 濁水溪, 知識管理, 旅行規劃]
-categories: ["Life and Thoughts (生活與隨筆)"]
+tags:
+  - AI協作
+  - 濁水溪
+  - 知識管理
+categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
----
-
-> **前言**：
+---> **前言**：
 > 在完成了四天三夜的濁水溪溯源之旅後，許多朋友好奇：如何在有限時間內，規劃出如此深度且具備彈性的行程？
 > 其實，這不僅是一場旅行，更是一次 **AI 協作 (AI-Augmented)** 的實驗。我將這次的經驗提煉成一套標準工作流（SOP），分享給所有熱愛探索與科技的朋友。
 

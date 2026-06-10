@@ -2,15 +2,21 @@
 title: "WalkGIS 實戰：ATAK 碎裂軌跡合併與 Google My Maps 輕量化指南"
 date: 2026-01-09
 description: "解決 ATAK 自動分段記錄導致的軌跡碎裂問題，以及如何透過 Python 進行合併與抽稀，以突破 Google My Maps 的單一圖層 2000 點限制。"
-tags: ["WalkGIS", "ATAK", "Python", "GPX", "Google My Maps"]
-categories: ["Project (專案)"]
+tags:
+  - ATAK
+  - GPX
+  - Google My Maps
+  - Python
+  - WalkGIS
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - Maker & Hardware (創客與硬體)
+  - Software Engineering (軟體工程)
 series: [WalkGIS]
 params:
   ShowToc: true
   TocOpen: true
----
-
-![Day4合併軌跡](Day4合併軌跡.png)
+---![Day4合併軌跡](Day4合併軌跡.png)
 
 在進行長距離的河川探索（如大甲溪、濁水溪）時，我們依賴 **ATAK** (Android Team Awareness Kit) 作為主要的軌跡記錄工具。然而，在實際作業中遇到了一個痛點：
 

@@ -2,12 +2,16 @@
 title: "[技術隨筆] 當 Hugin 投降時：我與 AI 協作拼接珍貴地圖的「灰盒」實戰"
 date: 2026-02-02
 draft: false
-tags: [AI協作, OpenCV, SIFT, 地圖拼接, 哈爸筆記]
-categories: ["Technology (技術)"]
+tags:
+  - AI協作
+  - 哈爸筆記
+categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-曾文溪"]
----
-
-> **哈爸筆記**：
+---> **哈爸筆記**：
 > 有時候最專業的工具不一定是最快的工具。這是一次從「想學專業軟體」到「讓 AI 寫專屬程式」的心路歷程，也驗證了人機協作中「人類提供結構，AI 提供執行」的高效模式。
 
 ![嘉南農田水利會灌溉區平面圖](嘉南農田水利會灌溉區平面圖.jpg)

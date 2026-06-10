@@ -2,15 +2,21 @@
 title: "WalkGIS 實戰：如何製作「有廁所的便利商店」地圖 (Google My Maps + ATAK)"
 date: 2026-01-09
 description: "為了河流探索的補給需求，利用 OpenStreetMap 開放資料與 Python 腳本，篩選出全台「有廁所」的便利商店，並成功匯入 Google My Maps 與 ATAK 進行離線導航。"
-tags: ["WalkGIS", "ATAK", "OpenStreetMap", "Python", "Google My Maps", "GIS"]
-categories: ["Project (專案)"]
+tags:
+  - ATAK
+  - GIS
+  - Google My Maps
+  - Python
+  - WalkGIS
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - Maker & Hardware (創客與硬體)
+  - Software Engineering (軟體工程)
 series: [WalkGIS]
 params:
   ShowToc: true
   TocOpen: true
----
-
-在規劃「2026 台灣河流探索」的過程中，除了路線本身的挑戰，最實際的問題往往是：「哪裡可以補給？」以及更重要的——「哪裡有廁所？」。
+---在規劃「2026 台灣河流探索」的過程中，除了路線本身的挑戰，最實際的問題往往是：「哪裡可以補給？」以及更重要的——「哪裡有廁所？」。
 
 雖然 Google Maps 很強大，但要一眼在地圖上看出「哪一家超商有廁所」並不容易。於是，我決定自己動手做一張專屬的地圖，並將其整合到我的主力導航工具 **Google My Maps** 與 **ATAK** 中。
 

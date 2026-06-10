@@ -1,15 +1,18 @@
 ---
 title: "散步地圖的概念與應用：從移動軌跡看見在地紋理"
 date: 2025-12-13T18:33:47+08:00
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
 series: ["WalkGIS"]
-tags: ["GIS", "散步地圖", "公民依歸", "QGIS", "GPX"]
+tags:
+  - GIS
+  - GPX
+  - QGIS
+  - 散步地圖
 draft: false
 ShowToc: true
 TocOpen: true
----
-
-# 什麼是「散步地圖」？
+---# 什麼是「散步地圖」？
 
 在我們進行河流探索時，地圖不僅是導航的工具，更是一種「策展」的媒介。
 散步地圖的核心概念，是**透過地圖串聯更多的協力與情報，並利用群眾的移動軌跡描繪出有意義的資訊**。這與我們強調的公私協力、開放資料精神不謀而合。

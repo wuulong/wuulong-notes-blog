@@ -1,14 +1,16 @@
 ---
 title: "高美濕地：風、潮汐與大甲溪的終章"
 date: 2025-12-13T09:34:12+08:00
-categories: ["Project (專案)"]
+categories:
+  - Community & Networking (社群與交流)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"]
-tags: ["高美濕地", "生態", "燈塔", "美食", "家庭聚會"]
+tags:
+  - 美食
 draft: false
 ShowToc: true
 TocOpen: true
----
-![高美濕地生態轉變史](高美濕地生態轉變史.png)
+---![高美濕地生態轉變史](高美濕地生態轉變史.png)
 
 # 大甲溪的最後一哩路
 

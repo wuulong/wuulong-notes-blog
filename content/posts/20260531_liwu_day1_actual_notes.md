@@ -1,17 +1,25 @@
 ---
 title: "立霧溪五天極致探索 Day 1：封閉的太魯閣、門戶的文明衝擊與新城夜雨 (實遊筆記)"
 date: 2026-05-31T22:00:00+08:00
-tags: ["台灣河流探索", "立霧溪", "新城", "太魯閣", "車宿", "WalkGIS", "實遊筆記"]
-categories: ["Project (專案)"]
+tags:
+  - WalkGIS
+  - 台灣河流探索
+  - 太魯閣
+  - 實遊筆記
+  - 立霧溪
+  - 車宿
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-立霧溪"]
 cover:
     image: "/assets/images/liwu_gorge_cover.png"
     alt: "立霧溪第一天實際踏查"
     relative: false
 map_id: "20260324_liwu_river"
----
-
-# 立霧溪五天極致探索 Day 1：封閉的太魯閣、門戶的文明衝擊與新城夜雨
+---# 立霧溪五天極致探索 Day 1：封閉的太魯閣、門戶的文明衝擊與新城夜雨
 
 今天（5/31）是「立霧溪五天五夜大縱走」的正式起點。原本我們的計畫是極速切入立霧溪的精華峽谷，前往燕子口、砂卡礑與布洛灣，最後在天祥或合流露營區車宿。
 

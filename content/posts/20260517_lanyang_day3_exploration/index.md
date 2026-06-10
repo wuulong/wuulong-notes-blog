@@ -1,17 +1,25 @@
 ---
 title: "蘭陽溪探索 Day 3 (實際行程)：垂直地景與權力網絡 —— 從平原市場到武陵星空"
 date: 2026-05-17
-tags: ["河流探索", "蘭陽溪", "思源埡口", "南山村", "武陵農場", "車宿", "OO-History"]
-categories: ["Field Log (實遊筆記)"]
+tags:
+  - OO-History
+  - 思源埡口
+  - 武陵農場
+  - 河流探索
+  - 蘭陽溪
+  - 車宿
+categories:
+  - History & Culture (歷史與文化)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-蘭陽溪"]
 cover:
     image: "assets/images/lanyang_day3_actual_cover.png"
     alt: "武陵農場滿天星空"
     relative: false
 description: "蘭陽溪探索第三天的實際紀錄。從三星市場的黑鮪魚驚喜出發，行經天送埤、清水地熱，越過被 Google Maps 誤報的牛鬥觀景台，見證馬諾源的高麗菜單一地景，體驗思源埡口一線之隔的氣候傳送門，最終夜宿武陵農場體驗震撼的高山星空。"
----
-
-# 蘭陽溪探索 Day 3 實遊筆記：從平原市場到武陵星空
+---# 蘭陽溪探索 Day 3 實遊筆記：從平原市場到武陵星空
 
 今日（2026-05-17）完成了蘭陽溪中上游至大甲溪源頭的超高難度垂直地景跨越。這是一趟從海拔 15 公尺的三星平原，一路上攀至 1,948 公尺思源埡口，最後降至武陵農場進行車宿的高山考掘。
 

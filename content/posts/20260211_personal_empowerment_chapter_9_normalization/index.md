@@ -1,13 +1,17 @@
 ---
 title: "從碎片到建築師：第九章的「定錨」與人機協作實錄"
 date: 2026-02-11
-categories: ["Project (專案)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
 series: ["個人AI賦能方法論"]
-tags: ["NotebookLM", "Methodology", "Tone-Calibration", "Human-AI-Collaboration", "Normalization", "Digital-Assets"]
+tags:
+  - Methodology
+  - NotebookLM
 description: "記錄《個人賦能》第九章的建構過程：從在地語氣的校準、知識資產的定錨，到面對系統延遲時精彩的人機補位瞬間。"
----
-
-# 從碎片到建築師：第九章的「定錨」與人機協作實錄
+---# 從碎片到建築師：第九章的「定錨」與人機協作實錄
 
 **日期**：2026-02-11  
 **座標**：數位書本施工現場 / 第九章 NotebookLM 對位完成日

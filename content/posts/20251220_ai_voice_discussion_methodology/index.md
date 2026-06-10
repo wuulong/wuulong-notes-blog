@@ -2,14 +2,15 @@
 title: "不再擔心「句點王」：如何透過 AI 語音對談達成高效思維進化"
 date: 2025-12-20T06:45:00+08:00
 draft: false
-categories: ["GenAI (生成式 AI)"]
+categories:
+  - GenAI (生成式 AI)
+  - Methodology (方法論)
 series: ["GenAI實驗"]
-tags: ["AI 語音", "方法論", "思維導引", "SOP"]
+tags:
+  - 方法論
 summary: "分享一套利用 AI 語音討論的方法論，將對話轉化為具備「無限開放性」與「邏輯紀錄」的思考深化工具。"
 
----
-
-![AI Voice Discussion](ai_voice_discussion.png)
+---![AI Voice Discussion](ai_voice_discussion.png)
 
 你是否曾有過滿腦子的靈感，卻因為身邊沒人能即時討論，或是怕被打斷而讓思緒中斷？其實，利用 GenAI 的語音模式，我們可以建立一個永遠在線、且絕不會產生範疇衝突的思考夥伴。
 

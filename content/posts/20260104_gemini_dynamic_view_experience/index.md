@@ -2,12 +2,17 @@
 title: "Gemini Dynamic View 實戰：一句話把萬字研究報告變成視覺化簡報"
 date: 2026-01-04T11:30:00+08:00
 draft: false
-categories: ["Project (專案)"]
+categories:
+  - Academic Research (學術研究)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
 series: ["WalkGIS"]
-tags: ["Gemini", "Dynamic View", "Deep Research", "Data Visualization", "AI Productivity"]
+tags:
+  - Deep Research
+  - Gemini
 summary: "在將 Deep Research 應用於 WalkGIS 的過程中，我意外發現了 Gemini 'Dynamic View' 的強大之處。透過幾個簡單的 Prompt，一份幾萬字的枯燥水利工程報告，瞬間被轉化為精美的時間軸、比較表與行程卡片。這不僅是視覺化工具，更是新一代的知識策展神器。"
----
-![懶人包](懶人包.png)
+---![懶人包](懶人包.png)
 
 這兩天我在測試將 Gemini Deep Research 導入 WalkGIS 地圖（[詳見前文：地圖即提示](../20260104_map_as_a_prompt/)）。
 

@@ -1,14 +1,17 @@
 ---
 title: "二仁溪探索 Day 2：曲流美學與跨域邊界 (行前計劃)"
 date: 2026-02-05
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-二仁溪"]
-tags: ["環境博物館", "行前計劃", "WalkGIS"]
+tags:
+  - WalkGIS
+  - 環境博物館
+  - 行前計劃
 description: "進入中游沖積平原，觀察地理學大曲流與橫跨兩市的治理基礎設施。"
 draft: false
----
-
-# 二仁溪探索 Day 2：曲流美學與跨域邊界 (行前計劃)
+---# 二仁溪探索 Day 2：曲流美學與跨域邊界 (行前計劃)
 
 ## 🗺️ 探索主題
 進入中游沖積平原，觀察地理學大曲流與橫跨兩市的治理基礎設施。

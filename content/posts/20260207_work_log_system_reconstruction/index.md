@@ -1,13 +1,16 @@
 ---
 title: "數位演化的黑盒解密：從流水帳到「產出導向」的工作日誌系統"
 date: 2026-02-07
-categories: ["Methodology (方法論)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Maker & Hardware (創客與硬體)
+  - Methodology (方法論)
 series: ["哈爸實驗室"]
-tags: ["Work-Log", "Product-Oriented", "Knowledge-Management", "AI-Agent", "Personal-Growth"]
+tags:
+  - AI Agent
+  - 知識管理
 description: "面對高速的 AI 協作，如何確保每一天的努力都不會隨風而逝？透過建立「產出導向」的工作日誌系統，我們成功回溯並重整了從 2025 年底至今的數位演化路徑。"
----
-
-# 數位演化的黑盒解密：從流水帳到「產出導向」的工作日誌系統
+---# 數位演化的黑盒解密：從流水帳到「產出導向」的工作日誌系統
 
 ## 🕳️ 消失的「中間歷程」
 

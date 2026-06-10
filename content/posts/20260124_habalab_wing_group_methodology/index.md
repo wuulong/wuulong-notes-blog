@@ -2,12 +2,17 @@
 title: "「Wing Group」運作實踐：利用 NotebookLM 打造社群知識的輕量化生產線"
 date: 2026-01-24
 description: "分享哈爸實驗室 Wing Group 的核心運作方式：如何將長篇會議轉化為具備代號、易於檢索且視覺化的知識資產。"
-tags: ["HabaLab", "Wing Group", "NotebookLM", "知識管理", "社群營運"]
-categories: ["Project (專案)"]
+tags:
+  - HabaLab
+  - NotebookLM
+  - 知識管理
+categories:
+  - Community & Networking (社群與交流)
+  - Maker & Hardware (創客與硬體)
+  - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
 series: ["哈爸實驗室"]
----
-
-在「哈爸實驗室」的社群架構中，**Wing Group（側翼組）** 扮演著知識萃取與支撐的關鍵角色。很多人會問：側翼組具體要怎麼「動起來」？
+---在「哈爸實驗室」的社群架構中，**Wing Group（側翼組）** 扮演著知識萃取與支撐的關鍵角色。很多人會問：側翼組具體要怎麼「動起來」？
 
 我們摸索出了一套極低門檻、高度自動化的運作模型。不疊床架屋，而是利用現有的 AI 工具，將每一次雙周會的「閃電分享」精煉成可長久留存的數位資產。
 

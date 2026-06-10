@@ -2,12 +2,17 @@
 title: "從隨手錄音到 ATC 任務帳本：一場關於「思緒自動化」的實務探索"
 date: 2026-01-25
 description: "記錄如何透過手機錄音捕捉碎片靈感，利用 NotebookLM 跨越雜訊提取核心，最終在 AI Agent 的協作下推展至結構化的 TASKS 任務管理系統，完成思緒從「捕捉」到「落地」的完整閉環。"
-tags: ["AI Workflow", "NotebookLM", "Antigravity", "Task Management", "Personal Assistant"]
-categories: ["Life and Thoughts (生活與隨筆)"]
+tags:
+  - AI Workflow
+  - Antigravity
+  - NotebookLM
+categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
 series: ["GenAI實驗"]
----
-
-在繁忙的工作與移動中，最珍貴也最易逝的是那些「隨口說出」的靈感。最近我實驗了一套流程，成功將散落在手機錄音中的碎片思緒，轉化為生產力工具中實實在在的待辦事項。
+---在繁忙的工作與移動中，最珍貴也最易逝的是那些「隨口說出」的靈感。最近我實驗了一套流程，成功將散落在手機錄音中的碎片思緒，轉化為生產力工具中實實在在的待辦事項。
 
 這不只是一個工具鏈的組合，更是一場關於**思緒如何被抽象化、結構化並最終落地**的過程。
 

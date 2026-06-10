@@ -1,13 +1,18 @@
 ---
 title: "數位河流學：結合 GenAI、開放資料與流域治理的深度探索指南"
 date: 2025-12-13T06:01:58+08:00
-categories: ["GenAI (生成式 AI)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Methodology (方法論)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
-tags: ["GenAI", "Open Data", "GIS", "流域治理", "公民科學"]
+tags:
+  - GIS
+  - Open Data
+  - 流域治理
 draft: false
----
-
-# 為什麼我們要重新學習「看見」河流？
+---# 為什麼我們要重新學習「看見」河流？
 
 在開始這趟旅程之前，我想分享的不只是一份旅遊攻略，而是一套**「重新認識環境」的方法論**。
 

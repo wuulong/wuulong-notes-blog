@@ -6,10 +6,25 @@ tags:
 
 # Catagory
 - GenAI (生成式 AI)
-- Technology (技術)
-- Project (專案)
-- Knowledge Base (知識庫)
-- Life and Thoughts (生活與隨筆)
+- Agentic AI (代理程式 AI)
+- GIS & Mapping (地理資訊與地圖)
+- River Exploration (河流探索)
+- History & Culture (歷史與文化)
+- Software Engineering (軟體工程)
+- Automation & Workflows (自動化與工作流程)
+- System Engineering (系統工程)
+- Enterprise AI Transformation (企業 AI 轉型)
+- Personal AI Empowerment (個人 AI 賦能)
+- Productivity & KM (生產力與知識管理)
+- Maker & Hardware (創客與硬體)
+- Outdoor & Camping (戶外與車宿)
+- Travel & Geography (旅行與地理)
+- Life & Reflections (生活與隨筆)
+- Methodology (方法論)
+- Academic Research (學術研究)
+- Digital Archaeology (數位考古)
+- Community & Networking (社群與交流)
+- Announcements (公告)
 
 # Series
 series: [""]

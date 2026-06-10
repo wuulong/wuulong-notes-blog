@@ -2,19 +2,15 @@
 title: "從日常漫遊到地景解碼：我在台東分享的 AI 賦能心法"
 date: 2026-04-17T07:10:00+08:00
 categories:
-  - "GenAI (生成式 AI)"
-  - "Life and Thoughts (生活與隨筆)"
+  - GenAI (生成式 AI)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series:
   - "2026台灣河流探索-卑南溪"
 tags:
-  - "台東"
-  - "數位賦能"
-  - "銀髮族"
-  - "旅宿業者"
-  - "地方創生"
----
-
-# 演講現場的震撼教育：當簡報失效，才是賦能的開始
+  - 台東
+---# 演講現場的震撼教育：當簡報失效，才是賦能的開始
 
 ![台東演講現場](taitung_lecture.jpg)
 *在台東演講現場，臨時調整策略，與資深學員們直接互動。*

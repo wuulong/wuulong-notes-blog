@@ -1,13 +1,22 @@
 ---
 title: "「Skill 優先」的 AI 協作新實踐：從需求定義到知識點萃取的自動化進化"
 date: 2026-02-07
-categories: ["Project (專案)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - Maker & Hardware (創客與硬體)
+  - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
+  - System Engineering (系統工程)
 series: ["哈爸實驗室"]
-tags: ["Skill-First", "知識管理", "Python", "Automation", "NotebookLM", "Workflow"]
+tags:
+  - NotebookLM
+  - Python
+  - 知識管理
+  - 自動化
 description: "記錄第一次嘗試「先定義 Skill 通用邏輯，再投入實戰修正」的協作經驗。透過建立知識點萃取員 (Knowledge Point Distiller)，我們實現了會議錄影到結構化知識庫的高效轉化。"
----
-
-# 「Skill 優先」的 AI 協作新實踐：從需求定義到知識點萃取的自動化進化
+---# 「Skill 優先」的 AI 協作新實踐：從需求定義到知識點萃取的自動化進化
 
 ## 🚀 序言：一個新的協作節奏
 

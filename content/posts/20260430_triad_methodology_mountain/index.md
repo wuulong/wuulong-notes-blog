@@ -1,14 +1,20 @@
 ---
 title: "山脈水文探索的三柱架構：邏輯、證據與實踐的數位循環"
 date: 2026-04-30T11:00:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
-tags: ["三柱架構", "AI技能", "知識工程", "SDM", "Antigravity"]
+tags:
+  - Antigravity
+  - SDM
+  - 三柱架構
+  - 知識工程
 featured_image: "featured.png"
 description: "如何管理一本書、一個資料庫與一段實地走訪的關係？本篇介紹我們在山脈水文專案中實踐的『三柱架構』，以及如何透過 AI 代理人的技能體系實現複雜地理分析的自動化。"
----
-
-# 山脈水文探索的三柱架構：邏輯、證據與實踐的數位循環
+---# 山脈水文探索的三柱架構：邏輯、證據與實踐的數位循環
 
 在處理像「台灣山脈水文」這樣複雜的主題時，我們往往會陷入資料碎片化的困境：筆記在 Markdown 裡、數據在 Excel 裡、心得在部落格裡，彼此互不相連。
 

@@ -2,15 +2,20 @@
 title: "WalkGIS 實戰：為 ATAK 打造專屬的「河川探索」戰術圖示包"
 date: 2026-01-09
 description: "如何使用 Python 強大的繪圖庫，不依賴網路素材，自動生成高辨識度、風格統一的中文單字圖示，並打包成 ATAK 專用的 Data Package，讓戶外探索地圖一目瞭然。"
-tags: ["WalkGIS", "ATAK", "Python", "GIS", "Visualization"]
-categories: ["Project (專案)"]
+tags:
+  - ATAK
+  - GIS
+  - Python
+  - WalkGIS
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - Maker & Hardware (創客與硬體)
+  - Software Engineering (軟體工程)
 series: [WalkGIS]
 params:
   ShowToc: true
   TocOpen: true
----
-
-在 [上一篇](/posts/20260109_convenience_stores_toilets_map/) 我們搞定了「有廁所的便利商店」地圖資料。然而，當我們真正走入濁水溪或曾文溪的荒野時，地圖上需要的資訊遠不止這些。
+---在 [上一篇](/posts/20260109_convenience_stores_toilets_map/) 我們搞定了「有廁所的便利商店」地圖資料。然而，當我們真正走入濁水溪或曾文溪的荒野時，地圖上需要的資訊遠不止這些。
 
 我們需要知道哪裡有**攔沙壩 (Weir)** 可以觀察水流，哪裡有 **吊橋 (Suspension Bridge)** 可以跨越峽谷，哪裡有 **土地公廟 (Earth God Temple)** 可以補給休息。
 

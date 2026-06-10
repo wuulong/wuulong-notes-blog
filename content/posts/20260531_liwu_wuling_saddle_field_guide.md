@@ -2,16 +2,20 @@
 title: "武嶺鞍部地學解碼與現地探訪筆記：站在搶水戰爭的最前線"
 date: 2026-05-31T12:00:00+08:00
 draft: false
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
 series: ["2026台灣河流探索-立霧溪"]
-tags: ["武嶺", "河川襲奪", "分水嶺", "現地探索", "DTM", "哈爸筆記", "肩狀稜"]
+tags:
+  - DTM
+  - 哈爸筆記
+  - 武嶺
 cover:
     image: "images/posts/20260531_wuling_guide_cover.png"
     alt: "武嶺埡口黑色片岩與公路選線現地探訪示意圖"
     relative: false
----
-
-# 武嶺鞍部地學解碼與現地探訪筆記：站在搶水戰爭的最前線
+---# 武嶺鞍部地學解碼與現地探訪筆記：站在搶水戰爭的最前線
 
 你真的懂武嶺嗎？
 

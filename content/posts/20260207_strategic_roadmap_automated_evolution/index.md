@@ -1,13 +1,19 @@
 ---
 title: "戰略羅盤自動化：解決「進展太快、記錄太細、方向模糊」的個人數位革命"
 date: 2026-02-07
-categories: ["Project (專案)"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - Maker & Hardware (創客與硬體)
+  - Personal AI Empowerment (個人 AI 賦能)
 series: ["哈爸實驗室"]
-tags: ["Strategic-Roadmap", "Mermaid", "Personal-Strategy", "AI-Agent", "Knowledge-Management"]
+tags:
+  - AI Agent
+  - Mermaid
+  - 知識管理
 description: "長期困擾於日常記錄過於碎片化，導致難以看清大方向進展。透過建立「策略羅盤管理員」Skill，我們成功將碎瑣日誌轉化為宏觀的年度與月度戰略視角。"
----
-
-# 戰略羅盤自動化：解決「進展太快、記錄太細、方向模糊」的個人數位革命
+---# 戰略羅盤自動化：解決「進展太快、記錄太細、方向模糊」的個人數位革命
 
 ## 🌪️ 困擾許久的「迷霧」
 

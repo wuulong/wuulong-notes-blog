@@ -1,13 +1,20 @@
 ---
 title: "AI 代理與河流探索：花蓮溪流域計畫的建構實踐與 GIS 踩坑筆記"
 date: 2026-04-27
-tags: ["AI Agent", "GIS", "花蓮溪", "WalkGIS", "開發心得"]
-categories: ["Project (專案)"]
+tags:
+  - AI Agent
+  - GIS
+  - WalkGIS
+  - 花蓮溪
+categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-花蓮溪"]
 author: "Antigravity/哈爸"
----
-
-# 從混亂到標準：花蓮溪計畫的建構經驗分享
+---# 從混亂到標準：花蓮溪計畫的建構經驗分享
 
 在建構「花蓮溪流域探索計畫」的過程中，我們不只是在畫地圖，更是在進行一場 AI 協作的高難度操演。這篇文章紀錄了如何將原始的 GIS 圖資，透過代理人技能（River Exploration Skill）轉化為可導航、具備文史脈絡的數位資產。
 

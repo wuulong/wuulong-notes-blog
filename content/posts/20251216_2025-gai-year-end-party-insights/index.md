@@ -2,13 +2,14 @@
 title: "新科技需要新流程！參加 2025 GAI 忘年會的兩個關鍵反思"
 date: 2025-12-16T06:35:03+08:00
 series: ["聚會"]
-categories: ["GenAI (生成式 AI)"]
-tags: ["GAI 忘年會", "PDCA", "Context Engineering", "PM Prototype", "Workflow Innovation"]
+categories:
+  - Automation & Workflows (自動化與工作流程)
+  - Community & Networking (社群與交流)
+  - GenAI (生成式 AI)
+tags:
 summary: "參加講者尾牙「GAI 忘年會」，原本只是想輕鬆聚聚，卻帶回了兩個重磅的思維升級。當公司可以被 Context 化，當 PM 可以直接用 AI 寫 Code，我們的管理模式與工作流程正在經歷一場寧靜的革命。"
 draft: false
----
-
-參加「Generative AI 年會」的講者尾牙（忘年會），原本預期是大夥吃吃喝喝、交流感情的場合。沒想到在輕鬆的氛圍下，聽到了幾段含金量極高的分享，讓我對 AI 在組織與流程中的應用有了新的體悟。
+---參加「Generative AI 年會」的講者尾牙（忘年會），原本預期是大夥吃吃喝喝、交流感情的場合。沒想到在輕鬆的氛圍下，聽到了幾段含金量極高的分享，讓我對 AI 在組織與流程中的應用有了新的體悟。
 
 這次聚會不僅僅是吃飯，更像是一場高品質的腦力激盪。其中有兩個核心洞見，我認為非常值得記錄下來，與大家分享。
 

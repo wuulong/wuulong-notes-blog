@@ -1,12 +1,16 @@
 ---
 title: "從地名到建構 HGIS 的數位鏈金術 (1)：當 DTM 數值地形遇上在地 curiosity——解開「潭後」與「黃金洞」之謎"
 date: 2026-02-22T13:10:00+08:00
-categories: ["Project (專案)"]
+categories:
+  - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
 series: ["台灣史探索"]
-tags: ["GIS", "DTM", "水利工程", "黃金洞", "哈爸筆記"]
-
----
-![hgis-series-01-dtm-curiosity.png](hgis-series-01-dtm-curiosity.png)
+tags:
+  - DTM
+  - GIS
+  - 哈爸筆記
+  - 水利工程
+---![hgis-series-01-dtm-curiosity.png](hgis-series-01-dtm-curiosity.png)
 一切的起點，源自於對家鄉地名的好奇。
 
 老爸出生在潭後，但我一直不知道為什麼是這個名字。這裡沒有水潭，何來「潭後」之名？如果只是在 Google Maps 上滑動縮放，這個問題可能永遠得不到解答，因為現代的衛星空照圖，早就被密集的建築與柏油路給覆蓋。

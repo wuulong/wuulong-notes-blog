@@ -1,13 +1,19 @@
 ---
 title: "大阪旅遊的 AI 助手實驗：從 NotebookLM 到 Agentic AI 的深度應用"
 date: 2025-12-25T09:00:00+09:00
-categories: ["GenAI (生成式 AI)"]
-tags: ["大阪", "Agentic AI", "NotebookLM", "NotebookLM", "Antigravity", "旅遊規劃", "梅田大迷宮"]
+categories:
+  - Agentic AI (代理程式 AI)
+  - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
+  - Travel & Geography (旅行與地理)
+tags:
+  - AI Agent
+  - Antigravity
+  - NotebookLM
+  - 大阪
 series: ["2025日本行"]
 draft: false
----
-
-這次來大阪旅遊，除了享受美食與美景，我還做了一個特別的實驗：**練習使用生成式 AI (GenAI) 來輔助旅遊規劃與決策**。這不僅僅是問 Gemini「大阪哪裡好玩」，而是更深入地利用 AI 的邏輯推演與資料整理能力，來解決旅遊中遇到的「資訊過載」與「複雜交通」問題。
+---這次來大阪旅遊，除了享受美食與美景，我還做了一個特別的實驗：**練習使用生成式 AI (GenAI) 來輔助旅遊規劃與決策**。這不僅僅是問 Gemini「大阪哪裡好玩」，而是更深入地利用 AI 的邏輯推演與資料整理能力，來解決旅遊中遇到的「資訊過載」與「複雜交通」問題。
 
 以下分享我如何運用 **NotebookLM** 與 **Agentic AI** (Antigravity) 來理解大阪梅田站這座複雜的交通樞紐。
 

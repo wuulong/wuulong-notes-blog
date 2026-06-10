@@ -1,17 +1,22 @@
 ---
 title: "不要被 AI 掏空！硬核學術研究者的「數位主權」革命 —— 從 VRES 實戰到《個人賦能》v1.1 改版"
 date: 2026-05-20
-tags: ["生成式 AI", "個人AI賦能方法論", "學術研究", "SQLite", "CLI", "Skill 裝備", "數位主權", "教育治理"]
-categories: ["GenAI (生成式 AI)"]
+tags:
+  - SQLite
+categories:
+  - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
+  - GenAI (生成式 AI)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 cover:
     image: "assets/images/agentic_research_cover.png"
     alt: "主權研究者演化"
     relative: false
 description: "記錄一次硬核電機學術研究方法論的探索。從解決研究生「複製貼上 AI 黑箱代碼」的認知掏空危機出發，我們將這套理論落地為實體 Python CLI、SQLite 混血資料庫與 Skill 技能，成功寫入《個人賦能》v1.1 新增之第 14 章情境展開篇，並準備與碩博生分享這場奪回學術數位主權的革命。"
----
-
-# 不要被 AI 掏空！硬核學術研究者的「數位主權」革命 —— 從 VRES 實戰到《個人賦能》v1.1 改版
+---# 不要被 AI 掏空！硬核學術研究者的「數位主權」革命 —— 從 VRES 實戰到《個人賦能》v1.1 改版
 
 最近幾週，不論是在與企業對接 AI 轉型的案子中，還是在規劃與實體學術研究生的對話時，我都深刻感受到一個籠罩在整個學術與專業領域上空的隱形危機：**「自我掏空（Self-hollowing）與認知斷代」**。
 
