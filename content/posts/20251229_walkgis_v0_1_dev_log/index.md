@@ -14,7 +14,8 @@ tags:
   - Mermaid
   - SQLite
 draft: false
----在構建「WalkGIS —— 全台散步地圖」專案的過程中，我與 AI Agent (Antigravity) 進行了一場深度的架構辯論。核心問題在於：**當我們希望 AI 能像人類一樣理解地圖時，傳統的 GIS 資料庫還是最好的選擇嗎？**
+---
+在構建「WalkGIS —— 全台散步地圖」專案的過程中，我與 AI Agent (Antigravity) 進行了一場深度的架構辯論。核心問題在於：**當我們希望 AI 能像人類一樣理解地圖時，傳統的 GIS 資料庫還是最好的選擇嗎？**
 
 這篇文章記錄了我們如何從傳統的 SpatiaLite 方案，轉向一個更輕量、更適合 LLM 的 **"Text-based GIS"** 架構。
 

@@ -2,11 +2,6 @@
 title: "為了這本書，我啟動了一場數位考古：尋找遺失的三種證據"
 date: 2026-01-27
 draft: false
-tags:
-  - AI賦能
-  - DataAnalysis
-  - 寫作流
-  - 數位考古
 categories:
   - Digital Archaeology (數位考古)
   - History & Culture (歷史與文化)
@@ -14,7 +9,8 @@ categories:
   - Personal AI Empowerment (個人 AI 賦能)
 series: [個人AI賦能方法論]
 summary: "書的架構有了，但證據在哪裡？為了證明「AI 賦能」不是自我感覺良好的雞湯，我決定對自己過去三年的數位足跡進行一場考古。本文定義了這場考古的三大目標地層：從早期的對話存檔 (Archive)、中期的指令洪流 (Stream)，到近期的協作軌跡 (Trace)。"
----上一篇提到，透過 NotebookLM 的協助，我成功將混亂的語音筆記轉化為一份結構嚴謹的書籍目錄 (`00_Book_Planning.md`)。
+---
+上一篇提到，透過 NotebookLM 的協助，我成功將混亂的語音筆記轉化為一份結構嚴謹的書籍目錄 (`00_Book_Planning.md`)。
 
 那一刻，我看著螢幕上完美的章節安排——「第一篇：對話的藝術」、「第二篇：動態磨合」、「第三篇：人機共生」——心裡充滿了成就感。我以為接下來只要把這幾年累積的經驗填進去，這本書就完成了。
 

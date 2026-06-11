@@ -3,15 +3,16 @@ title: "從虛擬到真實：能高古道水文地景解碼的 POC 實證歷程"
 date: 2026-05-01T09:55:00+08:00
 tags:
   - DTM
-  - 三柱架構
-  - 山脈水文
-  - 知識工程
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - Productivity & KM (生產力與知識管理)
 series: ["mountain-hydrology-atlas"]
----這不只是一次地理分析，而是一場關於「如何證明文明邏輯」的數位實驗。
+locations:
+  - 能高古道
+
+---
+這不只是一次地理分析，而是一場關於「如何證明文明邏輯」的數位實驗。
 
 在建構《Mountain Hydrology Atlas》（台灣山脈水文地景解碼）的過程中，我選擇了「能高越嶺古道」作為第一個 POC (Proof of Concept)。雖然資料庫 (DB) 目前僅釋出了 Schema，但這場從 0 到 1 的實證歷程，揭示了數位地景研究中最核心的挑戰與魅力。
 

@@ -5,16 +5,18 @@ draft: false
 tags:
   - AI
   - HGIS
-  - Taiwan History Atlas
   - WalkGIS
-  - 曾文溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
 series: ["台灣史探索"]
 description: "HGIS 系列第九篇：跳脫傳統圖資限制，運用 Layer 4 空間拓樸技術，計算全台 2,249 個遺址與流域河道的距離規律，解讀史前先民在曾文溪流域的選址智慧。"
----當我們在地圖上標註了全台兩千五百多個考古遺址後，下一個問題是：**「為什麼他們要住在這？」**
+basins:
+  - 曾文溪
+
+---
+當我們在地圖上標註了全台兩千五百多個考古遺址後，下一個問題是：**「為什麼他們要住在這？」**
 
 在傳統的 HGIS 中，我們習慣去找「古地圖」。但面對三千年前的遺址，世界地圖還是一片空白。這時，我們必須切換思維，引入 **Layer 4：空間拓樸分析 (Spatial Topology)**。
 

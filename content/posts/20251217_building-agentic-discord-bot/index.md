@@ -4,9 +4,7 @@ date: 2025-12-17T15:30:00+08:00
 draft: false
 tags:
   - AI Agent
-  - Discord Bot
   - Gemini
-  - n8n
 series: ["n8n"]
 categories:
   - Agentic AI (代理程式 AI)
@@ -16,7 +14,8 @@ categories:
 description: "這篇文章紀錄了我的 Discord Bot 成長三部曲：從最基礎的 Echo Bot，到接上 Google Gemini 大腦，最後透過 n8n 的 Agent 節點賦予它使用工具 (計算機、維基百科) 的能力，真正實現 Agentic AI。"
 summary: "為了解決機器人「已讀不回」的問題痛了一整晚後，我決定不只要修好它，還要讓它變聰明。本文分享如何利用 n8n 的 AI Agent 節點，結合 Google Gemini 模型與外部工具 (Calculator, Wikipedia)，打造一個不只能聊天，還能「思考」並「主動查證」的智慧助理。"
 top: true
----接續上一篇 **[【踩坑筆記】用 n8n 打造 Discord Bot](/posts/20251217_n8n-discord-bot-troubleshooting/)**，在經歷了無數次 "Token 錯誤" 和 "Intent 沒開" 的崩潰後，我的機器人終於會說話了。
+---
+接續上一篇 **[【踩坑筆記】用 n8n 打造 Discord Bot](/posts/20251217_n8n-discord-bot-troubleshooting/)**，在經歷了無數次 "Token 錯誤" 和 "Intent 沒開" 的崩潰後，我的機器人終於會說話了。
 
 但只會 "Echo" (我說什麼它回什麼) 的機器人實在太無聊。既然都已經在 n8n 上了，何不直上雲端，幫它接個最強的大腦？
 

@@ -8,9 +8,14 @@ categories:
   - Travel & Geography (旅行與地理)
 series:
   - "2026台灣河流探索-卑南溪"
-tags:
+basins:
+  - 卑南溪
+
+locations:
   - 台東
----# 演講現場的震撼教育：當簡報失效，才是賦能的開始
+
+---
+# 演講現場的震撼教育：當簡報失效，才是賦能的開始
 
 ![台東演講現場](taitung_lecture.jpg)
 *在台東演講現場，臨時調整策略，與資深學員們直接互動。*

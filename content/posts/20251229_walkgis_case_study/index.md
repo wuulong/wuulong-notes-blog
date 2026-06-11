@@ -13,9 +13,12 @@ tags:
   - Mermaid
   - NotebookLM
   - SQLite
-  - Taichung
 summary: "驗證 WalkGIS 系統的擴充性：透過標準化流程，快速部署「大甲溪水利溯源」與「智慧水圳」兩條全新路線，並整合 Google Maps 導航與 AI 內容生成。"
----在 [WalkGIS V0.1 發布](/posts/20251229_walkgis_v0_1_release/) 與 [自動化工作流](/posts/20251229_walkgis_notebooklm_workflow/) 建置完成後，我決定來場「壓力測試」。
+basins:
+  - 大甲溪
+
+---
+在 [WalkGIS V0.1 發布](/posts/20251229_walkgis_v0_1_release/) 與 [自動化工作流](/posts/20251229_walkgis_notebooklm_workflow/) 建置完成後，我決定來場「壓力測試」。
 
 **挑戰目標**：在不修改一行程式碼的情況下，僅透過新增數據 (Data Injection) 與腳本 (Scripting)，快速上線兩條全新的主題地圖。
 

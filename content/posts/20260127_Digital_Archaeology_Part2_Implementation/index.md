@@ -3,12 +3,8 @@ title: "數位考古實作：三種方法挖掘隱藏在 Log 中的賦能數據"
 date: 2026-01-27
 draft: false
 tags:
-  - AI賦能
-  - AgenticAI
-  - DataAnalysis
   - Gemini
   - Python
-  - 數位考古
 categories:
   - Agentic AI (代理程式 AI)
   - Digital Archaeology (數位考古)
@@ -19,7 +15,8 @@ categories:
   - Software Engineering (軟體工程)
 series: [個人AI賦能方法論]
 summary: "定義了考古地層後，接下來就是技術實作。本文分享我如何運用三種不同的技術手段，分別處理「手動存檔」、「碎裂 Log」與「協作筆記」，從數萬條紀錄中量化出我的 AI 賦能證據。"
----在上一篇中，我將過去三年的 AI 使用紀錄定義為三個地層：**知識沉積 (AIQA)**、**實戰指令流 (CLI Log)** 以及 **協作軌跡 (MQA Notes)**。
+---
+在上一篇中，我將過去三年的 AI 使用紀錄定義為三個地層：**知識沉積 (AIQA)**、**實戰指令流 (CLI Log)** 以及 **協作軌跡 (MQA Notes)**。
 
 今天，我要分享的是「工具實作篇」。為了寫這本書，我不能只靠印象，我需要數據。以下是我指揮 AI 協助我開發的三款數位挖掘器。
 

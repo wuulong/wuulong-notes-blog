@@ -3,8 +3,6 @@ title: "[GIS筆記] SHP 轉檔的亂碼陷阱：從「百年舊堤」案例看�
 date: 2026-01-11
 draft: false
 tags:
-  - Big5
-  - GDAL
   - GIS
   - Python
 categories:
@@ -12,7 +10,8 @@ categories:
   - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
----在將既有的 GIS 開放資料（如 QGIS 專案中的 Shapefile）整合進 WalkGIS 系統時，最常遇到的挑戰往往不是座標轉換，而是**文字編碼（Encoding）**。
+---
+在將既有的 GIS 開放資料（如 QGIS 專案中的 Shapefile）整合進 WalkGIS 系統時，最常遇到的挑戰往往不是座標轉換，而是**文字編碼（Encoding）**。
 
 最近在處理「濁水溪流域情報地圖」中的「百年舊堤」圖層時，我遇到了一個經典的亂碼案例。這篇文章將紀錄問題的成因、誤判的過程，以及最終的正確解法，作為未來處理 GIS 舊資料的參考。
 

@@ -5,9 +5,7 @@ draft: false
 tags:
   - AI
   - HGIS
-  - Taiwan History Atlas
   - WalkGIS
-  - 曾文溪
 categories:
   - Digital Archaeology (數位考古)
   - GIS & Mapping (地理資訊與地圖)
@@ -16,7 +14,11 @@ categories:
   - River Exploration (河流探索)
 series: ["台灣史探索"]
 description: "HGIS 系列第八篇：探討如何整合文資局與中研院多方數據，建立全台 2,563 處遺址的 Master Registry，並運用 AI Agent 進行 Layer 1 至 Layer 2 的知識建模與血緣追蹤。"
----在之前的 HGIS 系列中，我們主要處理的是「紙上的歷史」——透過方志與古籍還原清代的社會空間。然而，要真正觸摸到「台灣主體性」最深層的脈絡，我們必須將目光投向更長的時間尺度：**考古遺址**。
+basins:
+  - 曾文溪
+
+---
+在之前的 HGIS 系列中，我們主要處理的是「紙上的歷史」——透過方志與古籍還原清代的社會空間。然而，要真正觸摸到「台灣主體性」最深層的脈絡，我們必須將目光投向更長的時間尺度：**考古遺址**。
 
 如果說《臺灣通史》記載的是數百年的族群演進，那麼埋藏在台南平原地底下的「文化層」，則是長達數千年的地景變遷證詞。
 

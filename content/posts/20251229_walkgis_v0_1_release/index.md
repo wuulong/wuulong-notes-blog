@@ -6,12 +6,11 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
 series: ["WalkGIS"]
 tags:
-  - Google Maps
   - Mermaid
   - Open Data
-  - 散步地圖
 draft: false
----我們很高興宣布 **WalkGIS Project V0.1** 正式釋出！ 🎉
+---
+我們很高興宣布 **WalkGIS Project V0.1** 正式釋出！ 🎉
 
 這是一個實驗性的專案，旨在探索如何讓「地圖資料」不僅是冷冰冰的座標，而是能被人類與 AI 共同閱讀、協作的「散步故事」。
 

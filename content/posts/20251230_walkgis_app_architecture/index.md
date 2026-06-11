@@ -9,11 +9,10 @@ categories:
 series: ["WalkGIS"]
 tags:
   - GIS
-  - GitHub Pages
-  - React
   - SQLite
 summary: "揭秘如何利用 SQLite WebAssembly 與靜態網頁技術，以零後端成本打造高效能的 GIS 應用程式，實現資料庫前端查詢與 Markdown 動態載入的混合架構。"
----[WalkGIS App](https://walkgis-544663807110.us-west1.run.app/)
+---
+[WalkGIS App](https://walkgis-544663807110.us-west1.run.app/)
 ![walkgis_app_head](walkgis_app_head.png)
 在 [WalkGIS 專案資料庫](/wuulong-notes-blog/posts/20251230_walkgis_automation_task/) 建置完成後，下一步就是如何將這些豐富的資料（地圖、景點、故事）優雅地呈現給使用者。
 

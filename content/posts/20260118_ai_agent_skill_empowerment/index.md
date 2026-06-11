@@ -5,8 +5,8 @@ draft: false
 tags:
   - AI Agent
   - Antigravity
-  - River Exploration
   - WalkGIS
+  - 工作流程
   - 數位轉型
 categories:
   - Agentic AI (代理程式 AI)
@@ -17,7 +17,8 @@ categories:
   - Personal AI Empowerment (個人 AI 賦能)
 series: ["GenAI實驗"]
 image: cover.png
----> **寫在轉化後**：
+---
+> **寫在轉化後**：
 > 我們與 AI 的對話往往像是一場漫長的淘金。在過去幾週的「河流探索」專案中，我與 AI 助手累積了數百次關於 GIS 處理、水利考掘與行程規劃的對話。這些對話中隱含著極高的「專業 SOP」，但若不加以整理，它們終將沉沒在歷史紀錄中。本文記錄了我如何讓 AI 「自我解構」，將對話轉化為持續賦能的 Agent Skills。
 
 ![AI 技能賦能](cover.png)

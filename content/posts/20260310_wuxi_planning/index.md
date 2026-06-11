@@ -7,10 +7,18 @@ categories:
 series: ["2026台灣河流探索-烏溪"]
 tags:
   - WalkGIS
+basins:
   - 烏溪
-  - 行前計劃
+
+locations:
+  - 台中
+  - 霧峰
+
+destinations:
   - 霧峰林家
----# 烏溪流域探索：行前計劃 (SOP 實測回補)
+
+---
+# 烏溪流域探索：行前計劃 (SOP 實測回補)
 
 > **目的**：本計畫為「烏溪流浪」後的「反向建模」，旨在利用修訂後的 `river-exploration` 技能，將零散的探訪點補完為具備敘事靈魂的數位資產。
 

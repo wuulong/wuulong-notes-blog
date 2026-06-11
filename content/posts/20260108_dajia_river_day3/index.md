@@ -4,11 +4,8 @@ date: 2026-01-08
 description: "大甲溪之旅第三天，深入東勢客家庄與谷關溫泉鄉。這是一場關於「找路」的旅程，在 Google Maps、魯地圖與國土測繪圖之間切換，尋找消失的水圳與在地的洗衣文化。同場加映：ATAK 軌跡資料包的匯出與分析實驗。"
 tags:
   - ATAK
-  - GPX
   - KML
-  - Relive
   - WalkGIS
-  - 大甲溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
@@ -19,7 +16,14 @@ series: ["2026台灣河流探索-大甲溪"]
 params:
   ShowToc: true
   TocOpen: true
----今天的行程很長，從后里平原一路往上游挺進，穿過東勢客家山城，最後抵達群山環繞的谷關。這不僅是海拔的爬升，也是一場對於「地圖準確度」的實戰測試。
+basins:
+  - 大甲溪
+
+destinations:
+  - 水圳文化
+
+---
+今天的行程很長，從后里平原一路往上游挺進，穿過東勢客家山城，最後抵達群山環繞的谷關。這不僅是海拔的爬升，也是一場對於「地圖準確度」的實戰測試。
 
 同時，我也進行了一場關於 **ATAK (Android Team Awareness Kit)** 軟體的實戰實驗：到底把資料「打成一包 (Data Package)」對於旅行紀錄有什麼幫助？
 

@@ -4,14 +4,23 @@ date: 2026-04-26
 draft: false
 tags:
   - 哈爸筆記
-  - 泛舟
-  - 秀姑巒溪
 categories:
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-秀姑巒溪"]
 image: "https://www.relive.com/view/vZqNKW9kJGv/gif"
----> **哈爸筆記**：
+basins:
+  - 秀姑巒溪
+
+locations:
+  - 瑞港公路
+
+destinations:
+  - 光復糖廠
+  - 奇美部落
+
+---
+> **哈爸筆記**：
 > 秀姑巒溪的第二天，我們從「看河」變成了「入河」。泛舟不只是刺激的運動，它提供了一個平常難以企及的低位角，讓我們在激流中仰望千萬年堆疊的地層。而下午從瑞港公路回望，再到光復糖廠的歷史餘韻，是一場從自然動能回歸人文變遷的深刻旅程。
 
 ## 📅 今日探勘軌跡 (Relive)

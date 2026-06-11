@@ -6,12 +6,22 @@ categories:
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-秀姑巒溪"]
-tags:
-  - 泛舟
-  - 玉里
-  - 秀姑巒溪
 image: "/walkgis_prj/assets/images/placeholder_river.png"
----# 秀姑巒溪流域探索計劃
+basins:
+  - 秀姑巒溪
+
+locations:
+  - 玉里
+  - 瑞穗
+  - 秀姑巒溪
+  - 花蓮
+
+destinations:
+  - 奇美部落
+  - 秀姑巒溪大橋
+
+---
+# 秀姑巒溪流域探索計劃
 
 秀姑巒溪是台灣東部最大的河流，也是唯一一條切穿海岸山脈的河流，孕育了深厚的阿美族文化與壯麗的峽谷地景。本計劃將透過 4 日的深度行程，系統化地從上游牧場、中游峽谷部落，一直探索到太平洋的出海口。
 

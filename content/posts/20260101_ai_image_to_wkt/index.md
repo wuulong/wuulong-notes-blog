@@ -9,12 +9,11 @@ categories:
 series: ["WalkGIS"]
 tags:
   - AI Agent
-  - Data Engineering
   - GIS
-  - WKT
   - WalkGIS
 summary: "當手上只有一張靜態的工程示意圖，卻想在地圖上畫出真實的管線路徑時，該怎麼辦？本文記錄了我如何引導 AI Agent，透過「座標錨定」與「關鍵點推估」，將圖片中的線條轉化為標準的 WKT (Well-Known Text) 格式，成功在 WalkGIS 上重現大安大甲溪聯通管的地下網絡。"
----在製作 [大安大甲溪聯通管工程地圖](/posts/20260101_daan_dajia_pipeline_map/) 的過程中，我遇到了一個棘手的問題。
+---
+在製作 [大安大甲溪聯通管工程地圖](/posts/20260101_daan_dajia_pipeline_map/) 的過程中，我遇到了一個棘手的問題。
 
 我手上有一張非常清楚的官方工程示意圖（JPG 格式），標示了紅色、紫色、黃色三條輸水管線的走向。但我**沒有 KML 或 Shapefile 原始檔**。
 

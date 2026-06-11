@@ -3,9 +3,7 @@ title: "從錄影到 GitHub：雙周會會議記錄的 AI 自動化工作流實�
 date: 2026-01-24
 description: "分享如何利用 AI Agent 與 NotebookLM，將長達一小時的社群雙周會錄影，快速轉化為高品質的結構化會議記錄，並自動發布至 GitHub 的完整過程。"
 tags:
-  - AI Workflow
   - Antigravity
-  - HabaLab
   - NotebookLM
 categories:
   - Agentic AI (代理程式 AI)
@@ -13,7 +11,8 @@ categories:
   - Maker & Hardware (創客與硬體)
   - Productivity & KM (生產力與知識管理)
 series: ["哈爸實驗室"]
----在「哈爸實驗室」雙周會 #1 結束後，我嘗試建立了一套「低阻力」的會議後處理流程。目標很明確：**不要讓產出會議記錄變成一種負擔**，而是透過 AI 工具鏈，在幾分鐘內完成從音訊到 GitHub 存檔的全部動作。
+---
+在「哈爸實驗室」雙周會 #1 結束後，我嘗試建立了一套「低阻力」的會議後處理流程。目標很明確：**不要讓產出會議記錄變成一種負擔**，而是透過 AI 工具鏈，在幾分鐘內完成從音訊到 GitHub 存檔的全部動作。
 
 以下是這次實戰的完整工作流：
 

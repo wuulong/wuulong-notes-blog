@@ -7,10 +7,17 @@ categories:
   - Travel & Geography (旅行與地理)
 series:
   - "2026台灣河流探索-卑南溪"
-tags:
-  - Relive
+basins:
+  - 卑南溪
+
+locations:
   - 綠島
----![綠島星空與寂靜](./header.png)
+
+destinations:
+  - 朝日溫泉
+
+---
+![綠島星空與寂靜](./header.png)
 
 > **哈爸筆記**：
 > 計畫是理性的，但探勘是感性的。當我躺在朝日溫泉外的停車場，面對這輩子第一次遇見的「絕對黑暗」時，所有的 AI 算力都抵不過那一刻內心的震撼。

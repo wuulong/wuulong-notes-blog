@@ -4,7 +4,6 @@ date: 2026-04-20
 draft: false
 tags:
   - WalkGIS
-  - 卑南溪
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)
@@ -12,7 +11,15 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-卑南溪"]
 featured_image: 滑翔傘.png
----> **寫在旅程後**：
+basins:
+  - 卑南溪
+
+destinations:
+  - 紅葉少棒
+  - 鹿野高台
+
+---
+> **寫在旅程後**：
 > 第二天的探勘，我們從海拔 900 米的起飛場直衝縱谷上空，又降落到卑南溪畔最荒涼的惡地。這是一場「垂直尺度」極大的跨越，不僅看見了地理的壯闊，也遇見了能用一片葉子吹出交響樂的奇人。
 
 ## 今日足跡：縱谷的交響與皺摺

@@ -7,10 +7,8 @@ weight: 1
 categories:
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
-
-tags:
-
----## 💡 目前進度與未來發想
+---
+## 💡 目前進度與未來發想
 - 剛完成大甲溪的流域探索
 - 計劃下一個流域探索中
 

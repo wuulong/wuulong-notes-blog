@@ -4,7 +4,6 @@ date: 2026-01-02
 description: 紀錄如何透過 Agentic Workflow，快速理解 ATAK Data Package 格式，並實作一鍵匯出 WalkGIS 地圖的功能，即刻銜接離線協作需求。
 tags:
   - ATAK
-  - Agentic Workflow
   - KML
   - Python
   - WalkGIS
@@ -16,7 +15,8 @@ categories:
   - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
----這兩天在整理「大安大甲溪聯通管工程」的 WalkGIS 專案資料時，我思考了一個問題：**網頁版的 GIS 雖然方便瀏覽，但如果我要去現場勘查，或者需要跟團隊進行離線協作，最專業的工具其實是 ATAK (Android Team Awareness Kit)。**
+---
+這兩天在整理「大安大甲溪聯通管工程」的 WalkGIS 專案資料時，我思考了一個問題：**網頁版的 GIS 雖然方便瀏覽，但如果我要去現場勘查，或者需要跟團隊進行離線協作，最專業的工具其實是 ATAK (Android Team Awareness Kit)。**
 
 但是，要將 WalkGIS (基於 Markdown 和 KML) 的資料轉移到 ATAK，並不是單純把 KML 丟進去就好。為了最好的使用者體驗，我們需要製作成 **Data Package (Mission Package)**，這樣才能包含版本資訊、圖示設定，甚至自動載入地圖。
 

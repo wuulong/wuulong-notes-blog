@@ -4,13 +4,16 @@ date: 2026-01-16
 draft: false
 tags:
   - WalkGIS
-  - 日月潭
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-濁水溪"]
----> **寫在終章後**：
+basins:
+  - 濁水溪
+
+---
+> **寫在終章後**：
 > 旅程的最後一天，以此行最輕鬆愜意的方式——騎乘電輔車環日月潭一圈，畫下完美的句點。
 > 雖然因時間關係取消了鳥嘴潭行程，但深度體驗了日月潭的湖光山色、廟宇建築與熱鬧碼頭，讓這趟濁水溪溯源之旅在滿滿的回憶中結束。
 [濁水溪_day4_relive](https://www.relive.com/view/vAOZmNxDVov)

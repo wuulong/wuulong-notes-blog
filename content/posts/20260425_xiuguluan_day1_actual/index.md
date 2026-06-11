@@ -3,15 +3,24 @@ title: "[秀姑巒溪Day1] 板塊擠壓與隱形分水嶺：從池上北望，�
 date: 2026-04-25
 draft: false
 tags:
-  - 玉里
-  - 秀姑巒溪
   - 車宿
 categories:
   - Outdoor & Camping (戶外與車宿)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-秀姑巒溪"]
 image: "https://www.relive.com/view/vPv41LW4yRO/gif"
----> **探勘日期**：2026-04-25 (六)  
+basins:
+  - 秀姑巒溪
+
+locations:
+  - 池上分水嶺
+  - 玉里
+
+destinations:
+  - 虎爺溫泉
+
+---
+> **探勘日期**：2026-04-25 (六)  
 > **路線概覽**：池上 → 陸安 (分水嶺) → 富里 (羅山/吉拉米代) → 玉里 (板塊線) → 瑞穗  
 > **軌跡紀錄**：[Relive 3D 軌跡影片](https://www.relive.com/view/vPv41LW4yRO)
 

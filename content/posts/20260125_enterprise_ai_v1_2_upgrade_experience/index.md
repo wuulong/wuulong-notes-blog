@@ -4,8 +4,6 @@ date: 2026-01-25T07:55:00+08:00
 draft: false
 tags:
   - AI Agent
-  - Enterprise AI
-  - Methodology
   - 數位轉型
 categories:
   - Agentic AI (代理程式 AI)
@@ -14,7 +12,8 @@ categories:
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
 series: ["企業AI轉型全書"]
----![featured](featured.png)
+---
+![featured](featured.png)
 在完成 v1.1.0 的「評測先行」與「Wing Group」基礎後，我對方法論的可行性邊界產生了更深的思考。這場 v1.2.0 的升級，不僅是內容的增補，更是一場關於「組織靈魂」的重構——我們將其定義為 **「有機賦能 OS (Organic Empowerment OS)」**。
 
 這篇文章記錄了這場從質疑、提案、計畫到實作的完整歷程。

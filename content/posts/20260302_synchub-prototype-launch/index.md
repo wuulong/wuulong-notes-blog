@@ -3,8 +3,6 @@ title: "從個人沙盒到企業大腦：團隊 AI 賦能實驗 (SyncHub) 正式
 date: 2026-03-02T08:00:00+08:00
 draft: false
 tags:
-  - SyncHub
-  - 工作流
   - 知識管理
 categories:
   - Automation & Workflows (自動化與工作流程)
@@ -14,7 +12,8 @@ categories:
 series: ["團隊AI賦能實驗"]
 author: "哈爸"
 description: "我們總是談論AI如何賦能個人，或是直接跳到遙不可及的企業級Agent應用。但中間的斷層呢？今天，我們將正式啟動『團隊 AI (SyncHub)』實驗計畫，透過 Inbox/Outbox 的非同步設計，讓個人的高效率工作手感無縫對齊團隊戰略。"
----> 本文記錄了《企業生成式 AI 轉型》方法論中，關於『個人為主，團隊為原型』的首次實體化實驗。
+---
+> 本文記錄了《企業生成式 AI 轉型》方法論中，關於『個人為主，團隊為原型』的首次實體化實驗。
 
 回顧這些日子以來，我與 AI (Antigravity) 的協作已經達到了一種近乎肌肉記憶的流暢感。從建立 [TMUX 自動化工作空間]、使用 Hammerspoon 打造「2+1 快手」，到用 `TASKS_LEDGER` 與 Mermaid 畫出戰略版圖，這是一套高度個人化的超級沙盒 (PA Sandbox)。
 

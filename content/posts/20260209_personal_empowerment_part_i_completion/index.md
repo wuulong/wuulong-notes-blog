@@ -7,10 +7,9 @@ categories:
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
 series: ["個人AI賦能方法論"]
-tags:
-  - Book-Project
 description: "在不到四小時內完成書籍第一篇的核心撰寫，這是一場關於意志、證據與系統自動化升級的極限協作。"
----# 數位演化的「完美銜接」：個人賦能第一篇完稿紀實
+---
+# 數位演化的「完美銜接」：個人賦能第一篇完稿紀實
 
 ## 🌊 頃刻間的「產能海嘯」：證據先行，架構後隨
 

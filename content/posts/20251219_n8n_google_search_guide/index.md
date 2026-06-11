@@ -5,12 +5,10 @@ draft: false
 categories:
   - Automation & Workflows (自動化與工作流程)
 series: ["n8n"]
-tags:
-  - Troubleshooting
-  - n8n
 summary: "紀錄如何在 n8n 中透過 HTTP Request 節點實作 Google 搜尋功能，包括 API Key 申請、CSE 設定、網站驗證與除錯技巧。"
 
----## 🎯 核心目標
+---
+## 🎯 核心目標
 
 在 n8n 的 AI Agent Workflow 中，賦予 Agent 「上網搜尋」的能力，特別是用於 Retrieve 針對特定網站（例如自己的部落格）的內容。
 

@@ -4,8 +4,6 @@ date: 2026-01-13
 draft: false
 tags:
   - WalkGIS
-  - 流域探索
-  - 濁水溪
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)
@@ -13,7 +11,16 @@ categories:
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-濁水溪"]
----> **寫在旅程後**：
+basins:
+  - 濁水溪
+
+locations:
+  - 彰化
+  - 雲林
+  - 鹿港
+
+---
+> **寫在旅程後**：
 > 計畫總趕不上變化，這才是旅行的醍醐味。原訂的「海口溯源」因為一時興起，前半段變成了「老街美食巡禮」。雖然錯過了一些點，但也意外收穫了鹿港的好滋味。
 ![濁水溪day1_relive](濁水溪day1_relive.png)
 - [relive video](https://www.relive.com/zh-TW/view/vXOnzd8JMBO)

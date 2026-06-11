@@ -10,12 +10,21 @@ series: ["2026台灣河流探索-立霧溪"]
 tags:
   - DTM
   - 哈爸筆記
-  - 武嶺
 cover:
     image: "images/posts/20260531_wuling_guide_cover.png"
     alt: "武嶺埡口黑色片岩與公路選線現地探訪示意圖"
     relative: false
----# 武嶺鞍部地學解碼與現地探訪筆記：站在搶水戰爭的最前線
+basins:
+  - 立霧溪
+
+locations:
+  - 分水嶺
+
+destinations:
+  - 武嶺
+
+---
+# 武嶺鞍部地學解碼與現地探訪筆記：站在搶水戰爭的最前線
 
 你真的懂武嶺嗎？
 

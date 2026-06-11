@@ -6,12 +6,10 @@ categories:
   - Announcements (公告)
   - Productivity & KM (生產力與知識管理)
 series: ["公告"]
-tags:
-  - Hugo
-  - River Exploration
 summary: "為了集中創作能量與技術資源，原獨立的「2026 台灣河流探索」網站正式併入「哈爸筆記」，未來將作為本站的核心系列持續更新。"
 
----## 為什麼要「匯流」？
+---
+## 為什麼要「匯流」？
 
 這段時間以來，我同時維護著兩個 Hugo 網站：「哈爸筆記」與「2026 台灣河流探索」。
 

@@ -8,14 +8,14 @@ categories:
   - River Exploration (河流探索)
 series: ["GIS學習旅程"]
 tags:
-  - Big5
-  - GDAL
   - KML
-  - ogr2ogr
-  - 大甲溪
 author: "Wuulong"
 summary: "本實驗使用 GDAL/ogr2ogr 工具，從中央管河川區域 Shapefile 中萃取大甲溪河流範圍，解決 Big5 編碼篩選問題，進行 1 公里緩衝分析 (Buffer)，並透過 SQL ST_Union 合併多個圖層特徵，最終產出 KML 檔案。"
----## 實驗目的
+basins:
+  - 大甲溪
+
+---
+## 實驗目的
 
 目標是從「流域情報開放地圖的中央管河川區域」Shapefile (`RIVERL.shp`) 中，精確萃取「大甲溪」的河流範圍線。針對這些河流線進行 **1 公里緩衝 (Buffer)** 擴展，最後將分散的緩衝區特徵 (Features) **合併 (Dissolve/Union)** 為單一幾何圖形，並輸出為 KML 格式以便於 Google My Maps 使用。
 

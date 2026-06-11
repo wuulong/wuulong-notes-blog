@@ -4,9 +4,7 @@ date: 2026-01-12
 draft: false
 tags:
   - AI
-  - Google Maps
   - Python
-  - Travel
   - WalkGIS
   - 車宿
 categories:
@@ -16,7 +14,11 @@ categories:
   - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-濁水溪"]
----最近在整理 WalkGIS 的「濁水溪流域地圖」，資料庫裡累積了近 400 個景點 (POI)。看著這些密密麻麻的點，我突然萌生一個念頭：**「能不能請 AI 幫我規劃一趟從海口走到源頭的四日遊？」**
+basins:
+  - 濁水溪
+
+---
+最近在整理 WalkGIS 的「濁水溪流域地圖」，資料庫裡累積了近 400 個景點 (POI)。看著這些密密麻麻的點，我突然萌生一個念頭：**「能不能請 AI 幫我規劃一趟從海口走到源頭的四日遊？」**
 
 這原本只是一個隨性的提問，沒想到 AI 利用資料庫中的經度 (Longitude) 資料，展現了令我驚豔的規劃能力，甚至連車宿點和美食導航都一手包辦。
 

@@ -59,6 +59,9 @@ taxonomies:
     category: categories
     tag: tags
     series: series
+    basin: basins
+    location: locations
+    destination: destinations
 
 menu:
   main:
@@ -70,14 +73,26 @@ menu:
       name: categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
+    - identifier: basins
+      name: Basins
+      url: /basins/
+      weight: 12
+    - identifier: locations
+      name: Locations
+      url: /locations/
+      weight: 13
+    - identifier: destinations
+      name: Destinations
+      url: /destinations/
+      weight: 14
     - identifier: series
       name: Series
       url: /series/
       weight: 15
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
     - identifier: discord
       name: Discord
       url: "https://discord.gg/bywmcqCAEs"

@@ -5,13 +5,11 @@ categories:
   - Community & Networking (社群與交流)
   - Personal AI Empowerment (個人 AI 賦能)
 series: ["社群經營"]
-tags:
-  - Community Management
-  - Discord
 draft: true
 ShowToc: true
 TocOpen: true
----# 一個人，多個興趣，該開幾個 Discord？
+---
+# 一個人，多個興趣，該開幾個 Discord？
 
 作為一個斜槓探索者，我同時經營著「GenAI 研究 (LearnLLM)」與「河流探索 (River Exploration)」等多個截然不同的專案。
 這引發了一個常見的社群經營難題：**我應該為每個專案開一個獨立的 Discord 伺服器，還是把所有雞蛋放在同一個籃子裡？**

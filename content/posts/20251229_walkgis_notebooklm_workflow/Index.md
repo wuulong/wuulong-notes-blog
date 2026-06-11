@@ -10,12 +10,11 @@ categories:
 series: ["WalkGIS"]
 tags:
   - NotebookLM
-  - Prompt Engineering
-  - RAG
   - SQLite
   - 自動化
 summary: "如何將生硬的 GIS 數據變成生動的旅遊故事？本文分享我的 WalkGIS 自動化工作流：使用 Shell Script 從 SQLite 精準萃取地圖資料，餵給 Google NotebookLM，一鍵生成卡通風格導覽與投影片大綱。"
----在 [WalkGIS V0.1 發布](/posts/20251229_walkgis_v0_1_release/) 後，我擁有了一個結構嚴謹的 SQLite 資料庫 (`walkgis.db`)，裡面躺著精確的經緯度、WKT 在地幾何資料，以及 24 個景點的詳細 Markdown 介紹。
+---
+在 [WalkGIS V0.1 發布](/posts/20251229_walkgis_v0_1_release/) 後，我擁有了一個結構嚴謹的 SQLite 資料庫 (`walkgis.db`)，裡面躺著精確的經緯度、WKT 在地幾何資料，以及 24 個景點的詳細 Markdown 介紹。
 
 這對開發者來說很完美，但對一般遊客來說太「硬」了。
 

@@ -6,7 +6,5 @@ summary: "search"
 placeholder: "搜尋筆記內容..."
 categories:
   - Life & Reflections (生活與隨筆)
-
-tags:
-
 ---
+

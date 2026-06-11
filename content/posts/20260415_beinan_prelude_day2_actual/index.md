@@ -5,11 +5,18 @@ date: 2026-04-15
 categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-卑南溪"]
-tags:
-  - 大武
-  - 實遊紀錄
 draft: false
----> **哈爸筆記**：
+basins:
+  - 卑南溪
+
+locations:
+  - 大武
+
+destinations:
+  - 舊香蘭遺址
+
+---
+> **哈爸筆記**：
 > 第二日的南迴，比起路徑，更多的是「圖騰」與「水」的對話。我們在霧中迎接沒現身的晨曦，在大鳥村與金崙教堂解索圖騰的密碼，最後在被河水淹沒的野溪溫泉旁，領悟到地理規律的無常。
 
 🎥 **Relive 3D 軌跡紀錄**：[點此觀看今日南迴跨域影片](https://www.relive.com/view/vdORzxWK2KO)

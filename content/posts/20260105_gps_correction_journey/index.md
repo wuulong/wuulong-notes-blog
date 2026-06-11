@@ -8,12 +8,12 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
-  - Data Governance
   - GIS
   - Python
   - 自動化
 summary: "在 WalkGIS 2.0 的開發過程中，我發現早期的地圖資料存在嚴重的 GPS 誤差。本文記錄了如何利用 Google Maps API 進行批次自動化校正，並解決了「台灣中心點」歸零問題、路徑檔被誤改以及資料一致性維護的技術挑戰。"
----在推動 WalkGIS 2.0 的過程中，最關鍵的基礎建設就是**資料準確性**。
+---
+在推動 WalkGIS 2.0 的過程中，最關鍵的基礎建設就是**資料準確性**。
 
 早期建立地圖時，為了求快，很多點位是依賴 LLM (大語言模型) 的模糊知識，或是手動在地圖上點大概位置。結果今天心血來潮一驗證，發現誤差驚人。
 

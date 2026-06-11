@@ -10,14 +10,15 @@ series: ["2026台灣河流探索-頭前溪"]
 tags:
   - HGIS
   - 哈爸筆記
-  - 新竹五書
-  - 歷史地理
-  - 頭前溪
 cover:
     image: "/Users/wuulong/.gemini/antigravity/brain/4367c524-67eb-432c-bbc3-f696abfd047b/touqian_river_kg_cover_1774351249791.png"
     alt: "頭前溪知識圖譜與科技地景"
     relative: false
----> 「水權即政權，權力即空間。」
+basins:
+  - 頭前溪
+
+---
+> 「水權即政權，權力即空間。」
 > 
 > 作為 11 個流域探索的最終站，同時也是哈爸的居住地，頭前溪計畫不再只是河道走查。受到 [HGIS 系列五：知識圖譜](/20260222_hgis-series-05-knowledge-graph) 的啟發，我們將這份 8 日模組化計畫升級為 **「Entity-Bound（角色繫結）」** 的時空導航。
 

@@ -9,9 +9,9 @@ categories:
 series: ["n8n"]
 tags:
   - Gemini
-  - n8n
 summary: "Google Search 找不到剛發布的文章？本篇介紹如何利用 n8n 直接讀取 GitHub Repo 原始碼，結合 Gemini 的長文本能力，實作真正的「即時」問答機器人。"
----![n8n_github_rag.png](n8n_github_rag.png)
+---
+![n8n_github_rag.png](n8n_github_rag.png)
 
 ## 📉 Google Search 的極限：索引焦慮
 

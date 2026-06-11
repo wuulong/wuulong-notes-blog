@@ -8,9 +8,9 @@ categories:
 series: ["GenAI實驗"]
 tags:
   - AI Agent
-  - AI Security
 summary: "探討 AI 代理人化後的管理挑戰，提出「AI 安全官」概念，從行為意圖、特徵值到本質進行多層次安全監控。"
----![AI Security Officer](ai_security_officer.png)
+---
+![AI Security Officer](ai_security_officer.png)
 *(請將您的架構圖命名為 `ai_security_officer.png` 並放入此目錄)*
 
 當 AI 越來越像人，甚至在操作工具與思考上比人更聰明時，我們管理 AI 的邏輯也該從單純的「程式除錯」轉向類似「人員管理」的架構了。

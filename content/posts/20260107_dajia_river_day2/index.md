@@ -3,11 +3,7 @@ title: "2026 大甲溪河流探索 Day 2：清水美食、聯通管工地與潭�
 date: 2026-01-07
 description: "大甲溪之旅第二天，從清水市場的在地早餐開始，深入探勘「大安大甲溪聯通管」的巨大管線工地，最後在潭子游泳、逛夜市，享受一個充實的公路生活日。"
 tags:
-  - Relive
   - WalkGIS
-  - 大甲溪
-  - 水利工程
-  - 車泊
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Outdoor & Camping (戶外與車宿)
@@ -16,7 +12,19 @@ series: ["2026台灣河流探索-大甲溪"]
 params:
   ShowToc: true
   TocOpen: true
----![relive](大甲溪_day2_relive.png)
+basins:
+  - 大甲溪
+
+locations:
+  - 台中
+  - 清水
+  - 潭子
+
+destinations:
+  - 潭子夜市
+
+---
+![relive](大甲溪_day2_relive.png)
 延續昨晚在海線的餘韻，大甲溪探索的第二天，行程比起昨天單純的「順流而下」，多了一點「城鄉穿梭」的味道。
 
 今天的主題很跳痛：早上是傳統美食，中午是硬核水利工程，晚上則是都市休閒。

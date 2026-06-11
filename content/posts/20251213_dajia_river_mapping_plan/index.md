@@ -7,11 +7,14 @@ categories:
 series: ["2026台灣河流探索-大甲溪"]
 tags:
   - Open Data
-  - 散步地圖
 draft: false
 ShowToc: true
 TocOpen: true
----# 把理論帶進現場：大甲溪地圖建構計畫
+basins:
+  - 大甲溪
+
+---
+# 把理論帶進現場：大甲溪地圖建構計畫
 
 承襲先前整理的[〈散步地圖的概念與應用〉]({< relref "20251213_walking_map_concept.md" >})，我們決定利用這次 2026 年 1 月的大甲溪探險，進行實地的資料蒐集與圖層建構。
 

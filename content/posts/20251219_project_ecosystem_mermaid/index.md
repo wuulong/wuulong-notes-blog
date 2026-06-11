@@ -7,15 +7,13 @@ categories:
   - Software Engineering (軟體工程)
 series: ["架構推動"]
 tags:
-  - AI Compatible
   - QGIS
   - SQLite
-  - Schema Design
-  - WKT
 draft: false
 ShowToc: true
 TocOpen: true
----# 哈爸實驗室：技術與應用生態全景圖
+---
+# 哈爸實驗室：技術與應用生態全景圖
 
 這張圖展示了「哈爸筆記」作為核心技術引擎，如何支撐並孵化出「2026 台灣河流探索」這個實踐場域。
 

@@ -7,7 +7,6 @@ tags:
   - HGIS
   - Python
   - QGIS
-  - SDM
   - 自動化
 categories:
   - Automation & Workflows (自動化與工作流程)
@@ -15,7 +14,8 @@ categories:
   - Software Engineering (軟體工程)
 series: ["台灣史探索"]
 description: "探討如何利用 Jinja2 與 Python 實現 QGIS 專案檔 (.qgs) 的自動化產出，消除手動配置 CRS 與圖層的瓶頸，實現『數據更新 -> 一鍵開圖』的軟體定義地圖 (Software-Defined Maps) 流程。"
----![qgis_poc_screenshot.png](qgis_poc_screenshot.png)
+---
+![qgis_poc_screenshot.png](qgis_poc_screenshot.png)
 
 在進行 HGIS（歷史地理資訊系統）研究時，我發現最耗時的往往不是分析數據，而是「準備地圖」。每次要開啟一個新研究，總要重複掛載百年歷史底圖、設定 KML 座標、調整 SQLite 的 SQL 篩選器...。
 

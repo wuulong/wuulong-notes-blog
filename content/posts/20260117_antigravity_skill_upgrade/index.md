@@ -5,13 +5,15 @@ draft: false
 tags:
   - AI協作
   - Antigravity
+  - 工作流程
   - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
----> **寫在升級後**：
+---
+> **寫在升級後**：
 > 剛整理完濁水溪的探索方法論 (SOP)，正準備發佈時，發現我的 AI 助手 Antigravity 也有了新功能——支援 **Skill (技能)** 系統。
 > 於是，我順手請 AI 將原本單純的文字版 Task，升級為更具結構化的 Skill。這不僅是一次工具的迭代，更是 AI 協作模式的進化。
 

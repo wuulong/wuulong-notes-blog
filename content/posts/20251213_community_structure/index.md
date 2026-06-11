@@ -6,14 +6,11 @@ categories:
   - GenAI (生成式 AI)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
-tags:
-  - Community
-  - Discord
-  - 數位遊牧
 draft: false
 ShowToc: true
 TocOpen: true
----# 我們如何連結彼此？社群運作的思考
+---
+# 我們如何連結彼此？社群運作的思考
 
 隨著「台灣河流探索」計畫的啟動，除了產出攻略與知識外，我更希望能連結一群志同道合的夥伴。
 但在數位時代，工具太多，注意力太碎。為了避免「LINE 群組洗版焦慮」或「FB 演算法綁架」，我們設計了一套**分層的社群運作架構**，讓不同需求的夥伴都能找到舒服的位置。

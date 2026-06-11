@@ -15,7 +15,8 @@ series: [WalkGIS]
 params:
   ShowToc: true
   TocOpen: true
----在 [上一篇](/posts/20260109_convenience_stores_toilets_map/) 我們搞定了「有廁所的便利商店」地圖資料。然而，當我們真正走入濁水溪或曾文溪的荒野時，地圖上需要的資訊遠不止這些。
+---
+在 [上一篇](/posts/20260109_convenience_stores_toilets_map/) 我們搞定了「有廁所的便利商店」地圖資料。然而，當我們真正走入濁水溪或曾文溪的荒野時，地圖上需要的資訊遠不止這些。
 
 我們需要知道哪裡有**攔沙壩 (Weir)** 可以觀察水流，哪裡有 **吊橋 (Suspension Bridge)** 可以跨越峽谷，哪裡有 **土地公廟 (Earth God Temple)** 可以補給休息。
 

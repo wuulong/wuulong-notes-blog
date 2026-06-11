@@ -4,13 +4,22 @@ date: 2026-01-29
 draft: false
 tags:
   - WalkGIS
-  - 曾文溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-曾文溪"]
----> **寫在行程後**：
+basins:
+  - 曾文溪
+
+locations:
+  - 左鎮
+
+destinations:
+  - 南化水庫
+
+---
+> **寫在行程後**：
 > 曾文溪的第二天，不僅僅是水利工程的巡禮，更是一場關於「記憶」與「歸屬」的深度對話。在玉井與左鎮之間，我們穿梭在百年前的抗日戰況、深山的信仰避風港，以及連指標都付之闕如卻溫暖無比的老街。原來，河流帶走的是泥沙，留給土地的是厚重的歷史。
 
 - [今日 relive](https://www.relive.com/view/vDqgz3L5EV6)

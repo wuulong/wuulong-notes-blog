@@ -4,8 +4,6 @@ date: 2026-01-09
 description: "大甲溪之旅第四天，深入八仙山森林遊樂區重溫舊夢，品嚐松鶴部落的五葉松汁。午後轉往新社台地，體驗各式各樣的香菇料理，並在白冷圳的圓堀終點，為這趟水利探索畫下完美句點。"
 tags:
   - WalkGIS
-  - 大甲溪
-  - 車泊
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Outdoor & Camping (戶外與車宿)
@@ -14,7 +12,15 @@ series: ["2026台灣河流探索-大甲溪"]
 params:
   ShowToc: true
   TocOpen: true
----![relive_day4](relive_day4.png)
+basins:
+  - 大甲溪
+
+destinations:
+  - 八仙山
+  - 松鶴部落
+
+---
+![relive_day4](relive_day4.png)
 
 旅程來到第四天，今天的關鍵字是：**森林**與**菌菇**。
 

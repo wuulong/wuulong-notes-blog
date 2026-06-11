@@ -4,13 +4,24 @@ date: 2026-01-28
 draft: false
 tags:
   - WalkGIS
-  - 曾文溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-曾文溪"]
----> **寫在旅程開始**：
+basins:
+  - 曾文溪
+
+locations:
+  - 公路旅行
+  - 玉井夜市
+
+destinations:
+  - 曾文水庫
+  - 龜丹溫泉
+
+---
+> **寫在旅程開始**：
 > 曾文溪的探索之旅，我們選擇了一條特別的「逆行」路徑。不同於原本規劃的順流而下，我們決定從北南下，直奔流域的最上游，先探訪曾文溪的源頭與蓄水心臟，再隨著水流慢慢往海邊移動。這是一趟公路移動與身心放鬆的序曲。
 
 ![曾文溪Day1_relive](曾文溪Day1_relive.png)

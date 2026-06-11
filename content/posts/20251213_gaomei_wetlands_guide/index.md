@@ -5,12 +5,18 @@ categories:
   - Community & Networking (社群與交流)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"]
-tags:
-  - 美食
 draft: false
 ShowToc: true
 TocOpen: true
----![高美濕地生態轉變史](高美濕地生態轉變史.png)
+basins:
+  - 大甲溪
+
+destinations:
+  - 燈塔
+  - 高美濕地
+
+---
+![高美濕地生態轉變史](高美濕地生態轉變史.png)
 
 # 大甲溪的最後一哩路
 

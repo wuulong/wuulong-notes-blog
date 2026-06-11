@@ -2,7 +2,6 @@
 title: "[流域印章] 從數位到實體：用 nano banana 2 打造 11 個台灣流域的探索印記"
 date: 2026-03-20
 draft: false
-tags:
 categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索"]

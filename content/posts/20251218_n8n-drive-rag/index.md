@@ -5,8 +5,6 @@ draft: false
 tags:
   - AI Agent
   - Gemini
-  - RAG
-  - n8n
   - 自動化
 series: ["n8n"]
 categories:
@@ -16,7 +14,8 @@ categories:
 description: "如何使用 n8n 串接 Google Drive 讀取私人 Markdown 文件，並結合 Gemini AI 進行問答？本文紀錄了解決 Google OAuth 403 驗證錯誤的關鍵步驟。"
 summary: "繼 Discord Bot 之後，今天挑戰讓 AI 讀取我的「私人知識庫」。利用 n8n 的 Google Drive 節點下載文件，透過 Extract Text 解析，最後餵給 Gemini 進行問答。過程中踩了 Google OAuth '測試使用者' 的坑。"
 images: ["n8n_drive_workflow.png"]
----昨天我們用 n8n 打造了一個會自動觀測 Discord 頻道的 AI 機器人，今天我要進一步強化它的大腦，讓它**能夠讀取我的私人文件**。
+---
+昨天我們用 n8n 打造了一個會自動觀測 Discord 頻道的 AI 機器人，今天我要進一步強化它的大腦，讓它**能夠讀取我的私人文件**。
 
 這就是現在最紅的 **RAG (Retrieval-Augmented Generation，檢索增強生成)** 的基礎型態。我們不只依賴 AI 模型原本的知識，而是「餵」給它我們自己的資料（例如公司的規章、個人的筆記、專案的規格書），讓它根據這些資料來回答問題。
 

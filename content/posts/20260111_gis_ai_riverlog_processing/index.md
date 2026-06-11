@@ -16,7 +16,11 @@ categories:
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["WalkGIS","2026台灣河流探索-濁水溪"]
----![2026流域探索_濁水溪](2026流域探索_濁水溪.png)
+basins:
+  - 濁水溪
+
+---
+![2026流域探索_濁水溪](2026流域探索_濁水溪.png)
 
 最近在研究 LASS 社群維護的 「[流域情報開放地圖](https://github.com/LinkItONEDevGroup/BasinStoryMap)」 QGIS 專案，這是一個集結了政府開放資料與民間調適計畫成果的龐大資料庫。
 
