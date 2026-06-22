@@ -23,48 +23,51 @@ basins:
 
 有別於以往的連續縱走，本計畫將淡水河流域切分為 **5 個獨立的單次探索模組**。本著「細緻探索」的理念，每個模組皆包含數日或單日深度觀察行程，探索者可以利用不同的週末，由下游海口往中上游水源逐步溯源。
 
+* **地圖與 GPS 軌跡導覽**：[淡水河全流域 Google My Maps](https://www.google.com/maps/d/edit?mid=1EQcQafwy2K7KcWjWzgAvCdDW9y1ZIh8&usp=sharing)
+* **全圖資 KML 下載**：[2026_tamsui_river_full.kml](file:///Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/data/2026_tamsui_river_full.kml)
+
 ---
 
 ## 🧭 模組化探索推薦順序與行程
 
 ### 🏁 階段一：海口與都會段（建立河流的終點認知）
 
-#### 建議順序 1：【海口故事】關渡與淡水港口歷史
-* **探索重點**：淡水河口感潮段，河海交匯與洋行商貿起點。
-* **行程建議**：
+#### 建議順序 1：【海口故事】關渡與淡水港口歷史 ➔ [前往「海口故事細部計畫文」](../2026xxxx_tamsui_guandu_planned/)
+* **探索重點**：淡水河口與河海交界感潮段，河海交匯與洋行商貿起點。
+* **行程大綱**：
   * 觀察 [關渡宮與紅樹林區](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_guandu) 的潮汐交匯與濕地生態。
   * 走訪淡水港口鄞山寺、馬偕墓及洋行舊址，理解清末淡水港如何透過河運與大稻埕連動。
 
-#### 建議順序 2：【都會脈動】大稻埕、社子島與都會防洪
+#### 建議順序 2：【都會脈動】大稻埕、社子島與都會防洪 ➔ [前往「都會脈動細部計畫文」](../2026xxxx_tamsui_dadaocheng_planned/)
 * **探索重點**：高密度都会防洪工程與兩河交匯地景。
-* **行程建議**：
+* **行程大綱**：
   * 走訪 [大稻埕碼頭與水門](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_dadaocheng)，觀察五號水門的防洪閘門設計。
-  * 騎行或漫步 [社子島島頭公園](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_shezi) 觀察大漢溪（淡水河）與基隆河的交匯，並對比兩側堤防的高度。
+  * 觀察 [社子島島頭公園](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_shezi) 觀察大漢溪（淡水河）與基隆河的交匯，對比社子島 6 米矮堤與對岸 9.6 米高堤的歷史脈絡。
 
 ---
 
 ### 🏔️ 階段二：中上游水源溯源段（尋找台北水源命脈）
 
-#### 建議順序 3：【水源之心】新店溪與南勢溪系統
+#### 建議順序 3：【水源之心】新店溪與南勢溪系統 ➔ [前往「水源之心細部計畫文」](../2026xxxx_tamsui_neidong_planned/)
 * **探索重點**：大台北民生用水的起點，從都會取水設施一路追溯至森林保護區。
-* **行程建議**：
+* **行程大綱**：
   * **Day 3A（中下游取水）**：探索自來水博物館（臺北水道水源地）、中和配水池與 [碧潭與青潭水源地](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_bitan)。
-  * **Day 3B（上游山林）**：深入 [內洞國家森林遊樂區](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_neidong)，步行觀察瀑布群與水源涵養林的森林地貌。
+  * **Day 3B（上游山林）**：深入 [內洞國家森林遊樂區](?map=2026xxxx_tamsui_exploration&feature=20260315_內洞國家森林遊樂區)，步行觀察瀑布群與水源涵養林的森林地貌。
 
-#### 建議順序 4：【水利與山林溯源】大漢溪與三峽河系統
+#### 建議順序 4：【水利與山林溯源】大漢溪與三峽河系統 ➔ [前往「水利與山林溯源細部計畫文」](../2026xxxx_tamsui_sanxia_daxi_planned/)
 * **探索重點**：桃園大圳農業灌溉網絡，與大豹溪、霞雲溪上游的水源生態。
-* **行程建議**：
+* **行程大綱**：
   * **Day 4A（中游水利）**：走訪 [大溪三坑水利網](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_sanxia_daxi)，追蹤三坑仔隘歷史與桃園大圳進水閘門。
-  * **Day 4B（三峽山林）**：走訪 [滿月圓國家森林遊樂區](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_manyueyuan)，觀察三峽河上游大豹溪森林水源。
-  * **Day 4C（大漢溪上游）**：探索 [東眼山國家森林遊樂區](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_dongyanshan) 的三千萬年沉積波痕與林業歷史。
+  * **Day 4B（三峽山林）**：走訪 [滿月圓國家森林遊樂區](?map=2026xxxx_tamsui_exploration&feature=20260315_滿月圓國家森林遊樂區)，觀察三峽河上游大豹溪森林水源。
+  * **Day 4C（大漢溪上游）**：探索 [東眼山國家森林遊樂區](?map=2026xxxx_tamsui_exploration&feature=20260315_東眼山國家森林遊樂區) 的三千萬年沉積波痕與林業歷史。
 
 ---
 
 ### 🌿 階段三：獨立支流地學
 
-#### 建議順序 5：【地景奇蹟】基隆河分洪與平溪煤礦
+#### 建議順序 5：【地景奇蹟】基隆河分洪與平溪煤礦 ➔ [前往「地景奇蹟細部計畫文」](../2026xxxx_tamsui_yuanshanzi_planned/)
 * **探索重點**：基隆河奪河地景與分洪水利工程奇蹟。
-* **行程建議**：
+* **行程大綱**：
   * **Day 5A（防洪與瀑布）**：參訪 [員山子分洪道](?map=2026xxxx_tamsui_exploration&feature=2026xxxx_tamsui_yuanshanzi) 入水口，觀察圓弧堰工程，並走訪十分瀑布與壺穴。
   * **Day 5B（煤礦與古道）**：走訪菁桐老街、平溪招待所，並健行金字碑古道。
 

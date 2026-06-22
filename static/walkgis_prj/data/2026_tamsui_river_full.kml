@@ -6915,4385 +6915,2899 @@
                 </Point>
             </Placemark>
             <Placemark id="4575">
-                <name>三坑仔隘 (古)</name>
-                <description>ID: 20260223_hsinchu_2721_三坑仔隘
-【類別】: Infrastructure
-【對合來源】: MOI_Historic_Settlement
-【對合地名】: 三坑仔 (桃園市龍潭區)
-
-=== 史料記載 ===
-[志二建置志] 三坑仔隘，民隘。在桃澗堡，距城東五十三里大銅鑼圈之北。今設隘丁二十名。...</description>
-                <Point id="4574">
-                    <coordinates>121.2482,24.8438,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4577">
                 <name>三峽大豹忠魂碑</name>
                 <description>ID: 20260315_三峽大豹忠魂碑
 </description>
-                <Point id="4576">
+                <Point id="4574">
                     <coordinates>121.39488398474516,24.875306602593607,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4579">
+            <Placemark id="4577">
                 <name>三峽宰樞廟</name>
                 <description>ID: 20260315_三峽宰樞廟
 </description>
-                <Point id="4578">
+                <Point id="4576">
                     <coordinates>121.371314,24.934054,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4581">
+            <Placemark id="4579">
                 <name>三峽庄役場</name>
                 <description>ID: 20260315_三峽庄役場
 </description>
-                <Point id="4580">
+                <Point id="4578">
                     <coordinates>121.36933850000004,24.9344439,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4583">
+            <Placemark id="4581">
                 <name>三峽拱橋</name>
                 <description>ID: 20260315_三峽拱橋
 </description>
-                <Point id="4582">
+                <Point id="4580">
                     <coordinates>121.37384120821,24.9345158801697,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4585">
+            <Placemark id="4583">
                 <name>三峽長福巖清水祖師廟</name>
                 <description>ID: 20260315_三峽長福巖清水祖師廟
 </description>
-                <Point id="4584">
+                <Point id="4582">
                     <coordinates>121.37037150000003,24.9337917,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4587">
+            <Placemark id="4585">
                 <name>三重先嗇宮</name>
                 <description>ID: 20260315_三重先嗇宮
 </description>
-                <Point id="4586">
+                <Point id="4584">
                     <coordinates>121.475913358812,25.0505131041208,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4589">
-                <name>三重埔橋 (古)</name>
-                <description>ID: 20260223_hsinchu_1300_三重埔橋
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 三重埔 (鷺洲庄)
-
-=== 史料記載 ===
-[目錄] 三重埔橋在縣東南十八里三重埔，為縣城適樹杞林各莊之所。長三丈二尺，寬三尺。彭阿福建年月無考。...</description>
-                <Point id="4588">
-                    <coordinates>121.48314415511007,25.069249244113813,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4591">
-                <name>三重夜宿點</name>
-                <description>ID: 20260518_lanyang_sanchong_stay
-</description>
-                <Point id="4590">
-                    <coordinates>121.4965,25.0625,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4593">
+            <Placemark id="4587">
                 <name>世界宗教博物館</name>
                 <description>ID: 20260315_世界宗教博物館
 </description>
-                <Point id="4592">
+                <Point id="4586">
                     <coordinates>121.507808,25.007963,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4595">
+            <Placemark id="4589">
                 <name>中和「太武山莊」</name>
                 <description>ID: 20260315_中和「太武山莊」
 </description>
-                <Point id="4594">
+                <Point id="4588">
                     <coordinates>121.47619081021963,25.00391038841616,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4597">
+            <Placemark id="4591">
                 <name>中和區「圓通禪寺」</name>
                 <description>ID: 20260315_中和區「圓通禪寺」
 </description>
-                <Point id="4596">
+                <Point id="4590">
                     <coordinates>121.49276443906538,24.98274887792217,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4599">
+            <Placemark id="4593">
                 <name>中和瑞穗配水池</name>
                 <description>ID: 20260315_中和瑞穗配水池
 </description>
-                <Point id="4598">
+                <Point id="4592">
                     <coordinates>121.471553726174,24.9994380624888,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4601">
-                <name>中和莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3132_中和莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 永和 (中和庄)
-
-=== 史料記載 ===
-[志二建置志] 城南大甲堡六十三莊西臨海、南連彰化：大甲土城距城一百里、東莊離大甲三里、六分莊五里、磁磘莊五里、馬鳴埔莊五里、鐵砧山腳莊四里、新厝仔莊五里、內水尾莊三里、頭分田莊一里、大甲東番社三里、墩仔腳莊十五里、...</description>
-                <Point id="4600">
-                    <coordinates>121.48088343944752,25.010247575735214,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4603">
-                <name>中坑庄 (古)</name>
-                <description>ID: 20260223_hsinchu_4517_中坑庄
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 中坑 (中和庄)
-
-=== 史料記載 ===
-[樹杞林志] 九芎林街（距署北二十里）、高梘头（距署北二十一里）、水坑庄（距署北二十三里）、赤柯寮（距署北二十七里）、到别牛（距署北二十里）、燥坑庄（距署北十七里）、崁下庄（距署北十九里）、伯公窝（距署北二十二里）...
-[樹杞林志] 中坑庄：户数五十六，男一百六十五，女一百三十九；计丁口三百四。...</description>
-                <Point id="4602">
-                    <coordinates>121.47793372608882,24.986932213867508,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4605">
-                <name>中坑莊 (古)</name>
-                <description>ID: 20260223_hsinchu_682_中坑莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 中坑 (中和庄)
-
-=== 史料記載 ===
-[目錄] 中坑莊在縣東二十二里。戶二十八，丁口一百七十五。...</description>
-                <Point id="4604">
-                    <coordinates>121.47793372608882,24.986932213867508,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4607">
+            <Placemark id="4595">
                 <name>中山基督長老教會</name>
                 <description>ID: 20260315_中山基督長老教會
 </description>
-                <Point id="4606">
+                <Point id="4594">
                     <coordinates>121.5242134,25.0489998,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4609">
-                <name>中崙嶺 (古)</name>
-                <description>ID: 20260223_hsinchu_2478_中崙嶺
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 中崙 (臺北市)
-
-=== 史料記載 ===
-[志一封域志] 中路山：五指山、天馬峰、橫山、南河山、獅頭山、三灣山、象齒林山、三重埔山、員山仔山、金山面山、吳寶䯻山、茭力埔山、牛寮仔仙、鹿仔坑山、大崎山、葫蘆堵山、大崙嶺、中崙嶺、風吹輦崎、虎頭山、十八尖山、枕頭...</description>
-                <Point id="4608">
-                    <coordinates>121.53991919907342,25.05103089111362,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4611">
-                <name>中崙莊 (古)</name>
-                <description>ID: 20260223_hsinchu_997_中崙莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 中崙 (臺北市)
-
-=== 史料記載 ===
-[目錄] 中崙莊在縣北十八里。戶四十五，丁口四百二十二。...</description>
-                <Point id="4610">
-                    <coordinates>121.53991919907342,25.05103089111362,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4613">
-                <name>中港厝莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2951_中港厝莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 中港厝 (新莊街)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東興直堡一十九莊西臨海：龜崙頂莊距城九十里、搭寮坑莊九十二里、陂角店莊九十五里、新莊街百十里、中港厝莊百十五里、中瘟莊百十五里、頭重莊百十三里、和尚洲莊百二十五里、武朥灣莊百十里、三重埔莊百二十...</description>
-                <Point id="4612">
-                    <coordinates>121.43994445626907,25.049972409178046,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4615">
-                <name>九芎林圳 (古)</name>
-                <description>ID: 20260223_hsinchu_4624_九芎林圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 九芎林 (坪林庄)
-
-=== 史料記載 ===
-[樹杞林志] 一、九芎林圳引溉九芎林栅门外之田。...</description>
-                <Point id="4614">
-                    <coordinates>121.74479571727188,24.903580626363198,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4617">
-                <name>九芎林渡 (古)</name>
-                <description>ID: 20260223_hsinchu_5308_九芎林渡
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 九芎林 (坪林庄)
-
-=== 史料記載 ===
-[封域志] 九芎林渡在五塊厝溪，距縣東十里；為竹塹往九芎林之處。兩岸相距約十三、四丈。民渡船一；里人共捐金建置。每人來往，均給渡船錢四文。...</description>
-                <Point id="4616">
-                    <coordinates>121.74479571727188,24.903580626363198,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4619">
-                <name>九芎林隘 (古)</name>
-                <description>ID: 20260223_hsinchu_2708_九芎林隘
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 九芎林 (坪林庄)
-
-=== 史料記載 ===
-[志二建置志] 九芎林隘，官隘即南河隘民隘。在東廂內山要處，距城東四十里猴洞隘之北。九芎林原設隘丁十名，系官征屯租，按丁全數給糧；今仍之。...
-[封域志] 咸菜甕隘民隘。距縣城東五十里之間，鎮守山叉口。九芎林隘在其南，此隘在其北。原設隘丁二十名。今廢。...</description>
-                <Point id="4618">
-                    <coordinates>121.74479571727188,24.903580626363198,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4621">
+            <Placemark id="4597">
                 <name>二二八國家紀念館 /財團法人二二八事件紀念基金會</name>
                 <description>ID: 20260315_二二八國家紀念館 _財團法人二二八事件紀念基金會
 </description>
-                <Point id="4620">
+                <Point id="4596">
                     <coordinates>121.51392,25.031554,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4623">
-                <name>五分埔圳 (古)</name>
-                <description>ID: 20260223_hsinchu_2061_五分埔圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 五分埔 (松山庄)
-
-=== 史料記載 ===
-[目錄] 五分埔圳在縣東二十五里。於五分埔引水汴頭圳水西行，計長二里。溉田三十餘甲。陂長年收水租榖十石。又西行至霄裏溪口，入於新埔大溪。...</description>
-                <Point id="4622">
-                    <coordinates>121.56932360153723,25.037835574298015,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4625">
-                <name>五堵渡 (古)</name>
-                <description>ID: 20260223_hsinchu_3248_五堵渡
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 五堵 (七堵庄)
-
-=== 史料記載 ===
-[志二建置志] 五堵渡，廳北百六十里。官渡；船一。...</description>
-                <Point id="4624">
-                    <coordinates>121.68259979031268,25.084376637867194,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4627">
+            <Placemark id="4599">
                 <name>五股西雲寺</name>
                 <description>ID: 20260315_五股西雲寺
 </description>
-                <Point id="4626">
+                <Point id="4598">
                     <coordinates>121.445934540328,25.0965905070912,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4629">
+            <Placemark id="4601">
                 <name>仁安醫院</name>
                 <description>ID: 20260315_仁安醫院
 </description>
-                <Point id="4628">
+                <Point id="4600">
                     <coordinates>121.5115311,25.060508,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4631">
-                <name>保長坑莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3019_保長坑莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 保長坑 (汐止街)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東石碇堡一十四莊東接內山：樟樹灣莊距城百三十五里、叭嗹港莊百三十八里、水返腳街百四十里、康誥坑莊百四十里、保長坑莊百四十二里、五堵莊百四十五里、六堵莊百四十七里、七堵莊百五十里、八堵莊百五十餘里...</description>
-                <Point id="4630">
-                    <coordinates>121.66922885999465,25.07523388101907,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4633">
+            <Placemark id="4603">
                 <name>傅園</name>
                 <description>ID: 20260315_傅園
 </description>
-                <Point id="4632">
+                <Point id="4602">
                     <coordinates>121.53376360417748,25.01634422002625,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4635">
+            <Placemark id="4605">
                 <name>內洞國家森林遊樂區</name>
                 <description>ID: 20260315_內洞國家森林遊樂區
 </description>
-                <Point id="4634">
+                <Point id="4604">
                     <coordinates>121.5255815,24.8338518,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4637">
+            <Placemark id="4607">
                 <name>內洞國家森林遊樂區</name>
                 <description>ID: 20260315_內洞國家森林遊樂區_1
 </description>
-                <Point id="4636">
+                <Point id="4606">
                     <coordinates>121.52635598511414,24.834468318419223,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4639">
-                <name>內洞國家森林遊樂區 (Neidong National Forest Recreation Area)</name>
-                <description>ID: 2026xxxx_tamsui_neidong
-新北市烏來區信賢里</description>
-                <Point id="4638">
-                    <coordinates>121.5263944,24.8343774,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4641">
+            <Placemark id="4609">
                 <name>內湖庄役場會議室</name>
                 <description>ID: 20260315_內湖庄役場會議室
 </description>
-                <Point id="4640">
+                <Point id="4608">
                     <coordinates>121.5896408,25.0817645,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4643">
+            <Placemark id="4611">
                 <name>內湖清代採石場</name>
                 <description>ID: 20260315_內湖清代採石場
 </description>
-                <Point id="4642">
+                <Point id="4610">
                     <coordinates>121.5681256,25.0903491,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4645">
-                <name>內湖莊 (古)</name>
-                <description>ID: 20260223_hsinchu_823_內湖莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 內湖 (內湖庄)
-
-=== 史料記載 ===
-[目錄] 內湖莊在縣西南十五里。戶三十三，丁口一百八十六。...
-[志二建置志] 城外兼東芝蘭堡三十二莊東北接噶瑪蘭界、西北臨海：劍潭莊距城百二十里、內湖莊百二十五里、角角溝百三十里、有臘莊百三十五里、芝蘭街百二十五里、毛少翁社百二十七里、淇裏岸莊百三十五里、北投社百三十五里、嗄嘮...
-[志二建置志] 城北兼東拳山堡一十四莊東北接內山生番界：公館街距城百二十里、溪仔口莊百二十五里、大坪林莊百三十里、秀朗社百二十里、暗坑仔莊百二十五里、青潭莊百三十五里、十五分莊百二十五里、內湖莊百二十八里、木柵莊百三...
-[附錄二文征下] 林云村方伯「聞警戒嚴」、「登埤誓眾」諸詩，英氣勃發；餘以有關時事，故亟登之。至吟詠園中景物，則美不勝收；嚴選數首，以見其概。乃培桂概從刪去，僅錄其「內湖莊」一首；此則「潛園琴餘草」中率爾之作也。鄭儀部...
-[●竹城沿革] 口牆圍、中隘莊、頂寮、浸水莊、內湖莊、沸水港、香山塘、香山莊、南隘莊、海山署、韭菜坑、三塊厝、牛埔莊、鹿仔坑、茄苳湖、矺仔坑、中坑、新城、豎林、八股湖、寶斗仁、深井莊、崎林莊、南坑莊、東坑莊、南坑、八...</description>
-                <Point id="4644">
-                    <coordinates>121.5747372584877,25.08903103734876,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4647">
+            <Placemark id="4613">
                 <name>內湖郭氏古宅</name>
                 <description>ID: 20260315_內湖郭氏古宅
 </description>
-                <Point id="4646">
+                <Point id="4612">
                     <coordinates>121.586817,25.079616,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4649">
-                <name>內湖陂 (古)</name>
-                <description>ID: 20260223_hsinchu_3399_內湖陂
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 內湖 (內湖庄)
-
-=== 史料記載 ===
-[志二建置志] 內湖陂又名霧裡薛圳，在拳山堡，距廳北一百餘里。莊民所置。其水由內湖溝仔口、鯉魚山腳築陂鑿穿石門過見尾街、後溪仔口、公館街後通流，灌溉大加蠟西畔古亭倉、陂仔腳、三板橋、大灣莊、下陂頭及艋舺街一帶等田七百...</description>
-                <Point id="4648">
-                    <coordinates>121.5747372584877,25.08903103734876,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4651">
+            <Placemark id="4615">
                 <name>全祥茶莊精製廠</name>
                 <description>ID: 20260315_全祥茶莊精製廠
 </description>
-                <Point id="4650">
+                <Point id="4614">
                     <coordinates>121.50836856603192,25.05505168255652,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4653">
+            <Placemark id="4617">
                 <name>兩江醫院</name>
                 <description>ID: 20260315_兩江醫院
 </description>
-                <Point id="4652">
+                <Point id="4616">
                     <coordinates>121.51006303557966,25.054454975799857,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4655">
-                <name>八堵渡 (古)</name>
-                <description>ID: 20260223_hsinchu_3250_八堵渡
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 八堵 (七堵庄)
-
-=== 史料記載 ===
-[志二建置志] 八堵渡，廳北百七十三里。官渡；船一。往大雞籠要路。...</description>
-                <Point id="4654">
-                    <coordinates>121.71404948875494,25.10673458634328,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4657">
+            <Placemark id="4619">
                 <name>八芝蘭番仔井</name>
                 <description>ID: 20260315_八芝蘭番仔井
 </description>
-                <Point id="4656">
+                <Point id="4618">
                     <coordinates>121.53463482423626,25.12109205860975,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4659">
-                <name>六堵渡 (古)</name>
-                <description>ID: 20260223_hsinchu_3249_六堵渡
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 六堵 (七堵庄)
-
-=== 史料記載 ===
-[志二建置志] 六堵渡，廳北百六十三里。官渡；船一。...</description>
-                <Point id="4658">
-                    <coordinates>121.69683005021628,25.082410425484962,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4661">
-                <name>六張犁圳 (古)</name>
-                <description>ID: 20260223_hsinchu_1890_六張犁圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 六張犁 (臺北市)
-
-=== 史料記載 ===
-[目錄] 六張犁圳在縣東十里。於隘口莊頭引九芎林南溪水瀦為陂，西北行經六張犁、鹿場、小麻園子、土牛溝頂、下鬥崙、泉州厝、紅毛田等莊，計長五里。溉田一百六十餘甲。乾隆間，林先坤開浚。又北行至釣橋，入於下鬥崙溪。...</description>
-                <Point id="4660">
-                    <coordinates>121.55235188373058,25.018942602106222,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4663">
-                <name>六張犁橋 (古)</name>
-                <description>ID: 20260223_hsinchu_1258_六張犁橋
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 六張犁 (臺北市)
-
-=== 史料記載 ===
-[目錄] 六張犁橋在縣東八里六張犁莊，為縣城適竹北堡新埔各莊之所。長二丈四尺，寬四尺八寸。莊民捐建年月無考。...</description>
-                <Point id="4662">
-                    <coordinates>121.55235188373058,25.018942602106222,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4665">
+            <Placemark id="4621">
                 <name>前南菜園日式宿舍</name>
                 <description>ID: 20260315_前南菜園日式宿舍
 </description>
-                <Point id="4664">
+                <Point id="4620">
                     <coordinates>121.51856442730217,25.027976553894785,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4667">
+            <Placemark id="4623">
                 <name>前日軍衛戍醫院北投分院</name>
                 <description>ID: 20260315_前日軍衛戍醫院北投分院
 </description>
-                <Point id="4666">
+                <Point id="4622">
                     <coordinates>121.5097658,25.1395917,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4669">
+            <Placemark id="4625">
                 <name>前清淡水關稅務司官邸</name>
                 <description>ID: 20260315_前清淡水關稅務司官邸
 </description>
-                <Point id="4668">
+                <Point id="4624">
                     <coordinates>121.436187050638,25.1740582794444,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4671">
+            <Placemark id="4627">
                 <name>前美國大使官邸</name>
                 <description>ID: 20260315_前美國大使官邸
 </description>
-                <Point id="4670">
+                <Point id="4626">
                     <coordinates>121.522161,25.053279,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4673">
+            <Placemark id="4629">
                 <name>勸業銀行舊廈</name>
                 <description>ID: 20260315_勸業銀行舊廈
 </description>
-                <Point id="4672">
+                <Point id="4628">
                     <coordinates>121.5141637,25.0435651,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4675">
+            <Placemark id="4631">
                 <name>北投不動明王石窟</name>
                 <description>ID: 20260315_北投不動明王石窟
 </description>
-                <Point id="4674">
+                <Point id="4630">
                     <coordinates>121.51763517237023,25.137978954312167,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4677">
+            <Placemark id="4633">
                 <name>北投公共浴場</name>
                 <description>ID: 20260315_北投公共浴場
 </description>
-                <Point id="4676">
+                <Point id="4632">
                     <coordinates>121.507372,25.136779,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4679">
+            <Placemark id="4635">
                 <name>北投文物館</name>
                 <description>ID: 20260315_北投文物館
 </description>
-                <Point id="4678">
+                <Point id="4634">
                     <coordinates>121.5144826,25.1381804,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4681">
+            <Placemark id="4637">
                 <name>北投普濟寺</name>
                 <description>ID: 20260315_北投普濟寺
 </description>
-                <Point id="4680">
+                <Point id="4636">
                     <coordinates>121.511277,25.135996,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4683">
+            <Placemark id="4639">
                 <name>北投真言宗石窟建築群</name>
                 <description>ID: 20260315_北投真言宗石窟建築群
 </description>
-                <Point id="4682">
+                <Point id="4638">
                     <coordinates>121.5092798,25.1333143,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4685">
-                <name>北投社 (古)</name>
-                <description>ID: 20260223_hsinchu_2797_北投社
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 竹子湖 (北投庄)
-
-=== 史料記載 ===
-[志二建置志] 番社社倉三十四所：「府志」云：一、搭搭攸社，一、峰仔峙社，一、擺接社，一、雷里社，一、武朥灣社，一、雞柔山社，一、大浪泵社，一、八里坌仔社，一、毛少翁社，一、北投社，一、奇裏岸社，一、小雞籠社，一、金...
-[志二建置志] 城外兼東芝蘭堡三十二莊東北接噶瑪蘭界、西北臨海：劍潭莊距城百二十里、內湖莊百二十五里、角角溝百三十里、有臘莊百三十五里、芝蘭街百二十五里、毛少翁社百二十七里、淇裏岸莊百三十五里、北投社百三十五里、嗄嘮...
-[志二建置志] 岸裡舊社距城一百二十里、大甲德化社距城一百里、大甲東社距城一百里、日南社距城九十里、日北社距城九十里、雙寮社距城九十里、房裏社距城八十五里貓盂社距城八十五里、苑裏社距城八十二里、吞霄社距城七十五里、後...
-[志二建置志] 淡北武朥灣社屯管下大小一十九社，屯丁三百名：武朥灣社屯丁三十二名，擺接社屯丁一十三名，雷朗社屯丁二十二名，龜崙社屯丁二十三名，南嵌社屯丁一十四名，坑仔社屯丁一十六名，圭泵社屯丁一十五名，搭搭攸社屯丁一...
-[考二物產考] 淡北之金包里、北投社等處，皆產硫磺詳載「稗海紀游」。向來封禁，設屯番守之。艋舺營會同新莊縣丞，四季仲月焚燒，年終結報，杜私採也。同治二年，督、撫憲左、徐會奏，請試行開採硫磺以裨軍務。如不甚多，隨時停止...</description>
-                <Point id="4684">
-                    <coordinates>121.54047842498125,25.184304580057997,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4687">
+            <Placemark id="4641">
                 <name>北投穀倉</name>
                 <description>ID: 20260315_北投穀倉
 </description>
-                <Point id="4686">
+                <Point id="4640">
                     <coordinates>121.498944,25.135741,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4689">
+            <Placemark id="4643">
                 <name>北投臺灣銀行舊宿舍</name>
                 <description>ID: 20260315_北投臺灣銀行舊宿舍
 </description>
-                <Point id="4688">
+                <Point id="4642">
                     <coordinates>121.5118146,25.1364533,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4691">
-                <name>北投莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3213_北投莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 竹子湖 (北投庄)
-
-=== 史料記載 ===
-[志二建置志] 北投莊石橋，廳北百三十里芝蘭街。原系木橋；道光二年，李錦節等修換。...</description>
-                <Point id="4690">
-                    <coordinates>121.54047842498125,25.184304580057997,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4693">
-                <name>南勢角莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3045_南勢角莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 南勢角 (中和庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東擺接堡一十七莊東北連內山生番界：加蠟仔莊距城百十五里、港仔嘴莊百十五里、芎蕉腳莊百十八里、龜崙蘭莊百十七里、枋寮街百十七里、新埔墘莊百十八里、南勢角莊百二十里、後埔莊百二十里、員山仔莊百二十八...</description>
-                <Point id="4692">
-                    <coordinates>121.49164834576906,24.982060995042204,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4695">
+            <Placemark id="4645">
                 <name>南海學園科學館</name>
                 <description>ID: 20260315_南海學園科學館
 </description>
-                <Point id="4694">
+                <Point id="4644">
                     <coordinates>121.5123708,25.0318695,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4697">
+            <Placemark id="4647">
                 <name>南港臺電倉庫</name>
                 <description>ID: 20260315_南港臺電倉庫
 </description>
-                <Point id="4696">
+                <Point id="4646">
                     <coordinates>121.58335,25.048988,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4699">
-                <name>南靖厝莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2936_南靖厝莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 南靖厝 (鶯歌庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東海山堡一十七莊東北接內山生番界：風櫃店莊距城百一十里、潭底莊百一十五里、山仔腳莊百十里、樟樹窟莊百零六里、南靖厝莊百里、尖山莊九十里、鷹哥石莊九十里、大湖莊八十五里、二甲九九十里、莊中莊九十里...
-[考四祥異考] 二十有四年秋八月大水。南靖厝莊居民漂沒。...</description>
-                <Point id="4698">
-                    <coordinates>121.34850311617033,24.94790475397799,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4701">
+            <Placemark id="4649">
                 <name>博愛路2號店屋</name>
                 <description>ID: 20260315_博愛路2號店屋
 </description>
-                <Point id="4700">
+                <Point id="4648">
                     <coordinates>121.511107,25.046895,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4703">
+            <Placemark id="4651">
                 <name>博愛路4、6、8號店屋</name>
                 <description>ID: 20260315_博愛路4、6、8號店屋
 </description>
-                <Point id="4702">
+                <Point id="4650">
                     <coordinates>121.51112680514424,25.04681940558158,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4705">
+            <Placemark id="4653">
                 <name>原三井物產株式會社臺北支店</name>
                 <description>ID: 20260315_原三井物產株式會社臺北支店
 </description>
-                <Point id="4704">
+                <Point id="4652">
                     <coordinates>121.5148641,25.043567,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4707">
+            <Placemark id="4655">
                 <name>原八芝蘭公學校講堂</name>
                 <description>ID: 20260315_原八芝蘭公學校講堂
 </description>
-                <Point id="4706">
+                <Point id="4654">
                     <coordinates>121.5248831,25.0932987,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4709">
+            <Placemark id="4657">
                 <name>原大磯內科醫院</name>
                 <description>ID: 20260315_原大磯內科醫院
 </description>
-                <Point id="4708">
+                <Point id="4656">
                     <coordinates>121.5172901838291,25.03048564424406,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4711">
+            <Placemark id="4659">
                 <name>原大阪商船株式會社臺北支店</name>
                 <description>ID: 20260315_原大阪商船株式會社臺北支店
 </description>
-                <Point id="4710">
+                <Point id="4658">
                     <coordinates>121.51435161895112,25.046709300382272,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4713">
+            <Placemark id="4661">
                 <name>原熱帶醫學研究所士林支所本館</name>
                 <description>ID: 20260315_原熱帶醫學研究所士林支所本館
 </description>
-                <Point id="4712">
+                <Point id="4660">
                     <coordinates>121.5280008979949,25.088418921779898,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4715">
+            <Placemark id="4663">
                 <name>原臺北信用組合</name>
                 <description>ID: 20260315_原臺北信用組合
 </description>
-                <Point id="4714">
+                <Point id="4662">
                     <coordinates>121.510626,25.04233,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4717">
+            <Placemark id="4665">
                 <name>原臺北北警察署</name>
                 <description>ID: 20260315_原臺北北警察署
 </description>
-                <Point id="4716">
+                <Point id="4664">
                     <coordinates>121.5151499,25.0590095,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4719">
+            <Placemark id="4667">
                 <name>原臺北帝國大學農學部生物學教室</name>
                 <description>ID: 20260315_原臺北帝國大學農學部生物學教室
 </description>
-                <Point id="4718">
+                <Point id="4666">
                     <coordinates>121.5397264,25.0186526,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4721">
+            <Placemark id="4669">
                 <name>原臺灣教育會館</name>
                 <description>ID: 20260315_原臺灣教育會館
 </description>
-                <Point id="4720">
+                <Point id="4668">
                     <coordinates>121.5137903,25.0316135,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4723">
+            <Placemark id="4671">
                 <name>原臺灣製糖株式會社臺北製糖所倉庫</name>
                 <description>ID: 20260315_原臺灣製糖株式會社臺北製糖所倉庫
 </description>
-                <Point id="4722">
+                <Point id="4670">
                     <coordinates>121.4945766358268,25.03334011231763,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4725">
+            <Placemark id="4673">
                 <name>原臺灣軍司令官官邸(孫立人將軍官邸)</name>
                 <description>ID: 20260315_原臺灣軍司令官官邸(孫立人將軍官邸)
 </description>
-                <Point id="4724">
+                <Point id="4672">
                     <coordinates>121.5182944,25.0292139,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4727">
+            <Placemark id="4675">
                 <name>原臺灣軍司令部</name>
                 <description>ID: 20260315_原臺灣軍司令部
 </description>
-                <Point id="4726">
+                <Point id="4674">
                     <coordinates>121.510806,25.036895,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4729">
+            <Placemark id="4677">
                 <name>原英商嘉士洋行倉庫</name>
                 <description>ID: 20260315_原英商嘉士洋行倉庫
 </description>
-                <Point id="4728">
+                <Point id="4676">
                     <coordinates>121.446332,25.165656,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4731">
-                <name>叭嗹港莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3016_叭嗹港莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 叭嗹港 (汐止街)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東石碇堡一十四莊東接內山：樟樹灣莊距城百三十五里、叭嗹港莊百三十八里、水返腳街百四十里、康誥坑莊百四十里、保長坑莊百四十二里、五堵莊百四十五里、六堵莊百四十七里、七堵莊百五十里、八堵莊百五十餘里...</description>
-                <Point id="4730">
-                    <coordinates>121.61262300852384,25.11047246272864,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4733">
+            <Placemark id="4679">
                 <name>台北二二八紀念館</name>
                 <description>ID: 20260315_台北二二八紀念館
 </description>
-                <Point id="4732">
+                <Point id="4678">
                     <coordinates>121.515561,25.040398,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4735">
+            <Placemark id="4681">
                 <name>台北偶戲館</name>
                 <description>ID: 20260315_台北偶戲館
 </description>
-                <Point id="4734">
+                <Point id="4680">
                     <coordinates>121.561336,25.047741,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4737">
+            <Placemark id="4683">
                 <name>台北放送局板橋放送所</name>
                 <description>ID: 20260315_台北放送局板橋放送所
 </description>
-                <Point id="4736">
+                <Point id="4682">
                     <coordinates>121.464811,25.007454,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4739">
+            <Placemark id="4685">
                 <name>台北植物園</name>
                 <description>ID: 20260315_台北植物園
 </description>
-                <Point id="4738">
+                <Point id="4684">
                     <coordinates>121.510191,25.031211,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4741">
+            <Placemark id="4687">
                 <name>台北當代藝術館</name>
                 <description>ID: 20260315_台北當代藝術館
 </description>
-                <Point id="4740">
+                <Point id="4686">
                     <coordinates>121.518971,25.050737,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4743">
+            <Placemark id="4689">
                 <name>台北霞海城隍廟</name>
                 <description>ID: 20260315_台北霞海城隍廟
 </description>
-                <Point id="4742">
+                <Point id="4688">
                     <coordinates>121.510168,25.0556001,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4745">
+            <Placemark id="4691">
                 <name>台灣基督長老教會大稻埕教會</name>
                 <description>ID: 20260315_台灣基督長老教會大稻埕教會
 </description>
-                <Point id="4744">
+                <Point id="4690">
                     <coordinates>121.5125884,25.0595264,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4747">
+            <Placemark id="4693">
                 <name>司法大廈</name>
                 <description>ID: 20260315_司法大廈
 </description>
-                <Point id="4746">
+                <Point id="4692">
                     <coordinates>121.512273,25.037825,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4749">
+            <Placemark id="4695">
                 <name>吟松閣</name>
                 <description>ID: 20260315_吟松閣
 </description>
-                <Point id="4748">
+                <Point id="4694">
                     <coordinates>121.514307,25.137274,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4751">
+            <Placemark id="4697">
                 <name>周氏節孝坊</name>
                 <description>ID: 20260315_周氏節孝坊
 </description>
-                <Point id="4750">
+                <Point id="4696">
                     <coordinates>121.4977834,25.1341265,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4753">
+            <Placemark id="4699">
                 <name>員山子分洪道 (Yuanshanzi Flood Diversion Channel)</name>
                 <description>ID: 2026xxxx_tamsui_yuanshanzi
 新北市瑞芳區瑞八公路</description>
-                <Point id="4752">
+                <Point id="4698">
                     <coordinates>121.8300641,25.1061386,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4755">
-                <name>嗄嘮別莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2973_嗄嘮別莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 嗄嘮別 (北投庄)
-
-=== 史料記載 ===
-[志二建置志] 城外兼東芝蘭堡三十二莊東北接噶瑪蘭界、西北臨海：劍潭莊距城百二十里、內湖莊百二十五里、角角溝百三十里、有臘莊百三十五里、芝蘭街百二十五里、毛少翁社百二十七里、淇裏岸莊百三十五里、北投社百三十五里、嗄嘮...</description>
-                <Point id="4754">
-                    <coordinates>121.47080938159564,25.13429991948517,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4757">
+            <Placemark id="4701">
                 <name>國定古蹟嚴家淦故居</name>
                 <description>ID: 20260315_國定古蹟嚴家淦故居
 </description>
-                <Point id="4756">
+                <Point id="4700">
                     <coordinates>121.512560397629,25.0343693545883,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4759">
+            <Placemark id="4703">
                 <name>國家人權博物館</name>
                 <description>ID: 20260315_國家人權博物館
 </description>
-                <Point id="4758">
+                <Point id="4702">
                     <coordinates>121.533293,24.987928,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4761">
+            <Placemark id="4705">
                 <name>國立中正紀念堂管理處</name>
                 <description>ID: 20260315_國立中正紀念堂管理處
 </description>
-                <Point id="4760">
+                <Point id="4704">
                     <coordinates>121.519047,25.036756,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4763">
+            <Placemark id="4707">
                 <name>國立國父紀念館</name>
                 <description>ID: 20260315_國立國父紀念館
 </description>
-                <Point id="4762">
+                <Point id="4706">
                     <coordinates>121.560241,25.040029,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4765">
+            <Placemark id="4709">
                 <name>國立政治大學民族學博物館</name>
                 <description>ID: 20260315_國立政治大學民族學博物館
 </description>
-                <Point id="4764">
+                <Point id="4708">
                     <coordinates>121.57352,24.985848,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4767">
+            <Placemark id="4711">
                 <name>國立故宮博物院</name>
                 <description>ID: 20260315_國立故宮博物院
 </description>
-                <Point id="4766">
+                <Point id="4710">
                     <coordinates>121.548492,25.102357,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4769">
+            <Placemark id="4713">
                 <name>國立歷史博物館</name>
                 <description>ID: 20260315_國立歷史博物館
 </description>
-                <Point id="4768">
+                <Point id="4712">
                     <coordinates>121.511202,25.031573,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4771">
+            <Placemark id="4715">
                 <name>國立臺北教育大學北師美術館</name>
                 <description>ID: 20260315_國立臺北教育大學北師美術館
 </description>
-                <Point id="4770">
+                <Point id="4714">
                     <coordinates>121.544542,25.024563,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4773">
+            <Placemark id="4717">
                 <name>國立臺北藝術大學關渡美術館</name>
                 <description>ID: 20260315_國立臺北藝術大學關渡美術館
 </description>
-                <Point id="4772">
+                <Point id="4716">
                     <coordinates>121.471546,25.13334,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4775">
+            <Placemark id="4719">
                 <name>國立臺北護理健康大學城區部文教大樓</name>
                 <description>ID: 20260315_國立臺北護理健康大學城區部文教大樓
 </description>
-                <Point id="4774">
+                <Point id="4718">
                     <coordinates>121.5033595,25.0417554,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4777">
+            <Placemark id="4721">
                 <name>國立臺灣博物館</name>
                 <description>ID: 20260315_國立臺灣博物館
 </description>
-                <Point id="4776">
+                <Point id="4720">
                     <coordinates>121.515033,25.042755,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4779">
+            <Placemark id="4723">
                 <name>國立臺灣博物館-南門館</name>
                 <description>ID: 20260315_國立臺灣博物館-南門館
 </description>
-                <Point id="4778">
+                <Point id="4722">
                     <coordinates>121.51596,25.033203,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4781">
+            <Placemark id="4725">
                 <name>國立臺灣博物館-古生物館</name>
                 <description>ID: 20260315_國立臺灣博物館-古生物館
 </description>
-                <Point id="4780">
+                <Point id="4724">
                     <coordinates>121.514362,25.043568,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4783">
+            <Placemark id="4727">
                 <name>國立臺灣博物館-本館</name>
                 <description>ID: 20260315_國立臺灣博物館-本館
 </description>
-                <Point id="4782">
+                <Point id="4726">
                     <coordinates>121.5150048,25.0434071,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4785">
+            <Placemark id="4729">
                 <name>國立臺灣大學人類學博物館</name>
                 <description>ID: 20260315_國立臺灣大學人類學博物館
 </description>
-                <Point id="4784">
+                <Point id="4728">
                     <coordinates>121.534911,25.017791,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4787">
+            <Placemark id="4731">
                 <name>國立臺灣大學動物博物館</name>
                 <description>ID: 20260315_國立臺灣大學動物博物館
 </description>
-                <Point id="4786">
+                <Point id="4730">
                     <coordinates>121.538978,25.015533,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4789">
+            <Placemark id="4733">
                 <name>國立臺灣大學博物館群</name>
                 <description>ID: 20260315_國立臺灣大學博物館群
 </description>
-                <Point id="4788">
+                <Point id="4732">
                     <coordinates>121.539745,25.017359,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4791">
+            <Placemark id="4735">
                 <name>國立臺灣大學地質標本館</name>
                 <description>ID: 20260315_國立臺灣大學地質標本館
 </description>
-                <Point id="4790">
+                <Point id="4734">
                     <coordinates>121.537418,25.014503,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4793">
+            <Placemark id="4737">
                 <name>國立臺灣大學日式宿舍-溫州街22巷4號</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍-溫州街22巷4號
 </description>
-                <Point id="4792">
+                <Point id="4736">
                     <coordinates>121.5327277,25.0235961,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4795">
+            <Placemark id="4739">
                 <name>國立臺灣大學日式宿舍─羅銅壁寓所</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍─羅銅壁寓所
 </description>
-                <Point id="4794">
+                <Point id="4738">
                     <coordinates>121.531442,25.027168,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4797">
+            <Placemark id="4741">
                 <name>國立臺灣大學日式宿舍─翁通楹寓所</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍─翁通楹寓所
 </description>
-                <Point id="4796">
+                <Point id="4740">
                     <coordinates>121.532748,25.0276262,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4799">
+            <Placemark id="4743">
                 <name>國立臺灣大學日式宿舍─馬廷英故居</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍─馬廷英故居
 </description>
-                <Point id="4798">
+                <Point id="4742">
                     <coordinates>121.5325366,25.028051,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4801">
+            <Placemark id="4745">
                 <name>國立臺灣大學日式宿舍－戴炎輝寓所</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍－戴炎輝寓所
 </description>
-                <Point id="4800">
+                <Point id="4744">
                     <coordinates>121.5195204,25.0287398,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4803">
+            <Placemark id="4747">
                 <name>國立臺灣大學日式宿舍－戴運軌寓所</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍－戴運軌寓所
 </description>
-                <Point id="4802">
+                <Point id="4746">
                     <coordinates>121.521248,25.029921,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4805">
+            <Placemark id="4749">
                 <name>國立臺灣大學日式宿舍－潮州街9號</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍－潮州街9號
 </description>
-                <Point id="4804">
+                <Point id="4748">
                     <coordinates>121.52157583910368,25.02985273579918,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4807">
+            <Placemark id="4751">
                 <name>國立臺灣大學日式宿舍－福州街20、22、26號</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍－福州街20、22、26號
 </description>
-                <Point id="4806">
+                <Point id="4750">
                     <coordinates>121.5175985673294,25.028103190207077,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4809">
+            <Placemark id="4753">
                 <name>國立臺灣大學日式宿舍－青田街7巷2號</name>
                 <description>ID: 20260315_國立臺灣大學日式宿舍－青田街7巷2號
 </description>
-                <Point id="4808">
+                <Point id="4752">
                     <coordinates>121.532112,25.0279769,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4811">
+            <Placemark id="4755">
                 <name>國立臺灣大學昆蟲標本館</name>
                 <description>ID: 20260315_國立臺灣大學昆蟲標本館
 </description>
-                <Point id="4810">
+                <Point id="4754">
                     <coordinates>121.540736,25.01119,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4813">
+            <Placemark id="4757">
                 <name>國立臺灣大學校史館</name>
                 <description>ID: 20260315_國立臺灣大學校史館
 </description>
-                <Point id="4812">
+                <Point id="4756">
                     <coordinates>121.535333,25.017804,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4815">
+            <Placemark id="4759">
                 <name>國立臺灣大學植物標本館</name>
                 <description>ID: 20260315_國立臺灣大學植物標本館
 </description>
-                <Point id="4814">
+                <Point id="4758">
                     <coordinates>121.535182,25.016383,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4817">
+            <Placemark id="4761">
                 <name>國立臺灣大學檔案館</name>
                 <description>ID: 20260315_國立臺灣大學檔案館
 </description>
-                <Point id="4816">
+                <Point id="4760">
                     <coordinates>121.528795,25.01383,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4819">
+            <Placemark id="4763">
                 <name>國立臺灣大學物理文物廳</name>
                 <description>ID: 20260315_國立臺灣大學物理文物廳
 </description>
-                <Point id="4818">
+                <Point id="4762">
                     <coordinates>121.535979,25.016863,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4821">
+            <Placemark id="4765">
                 <name>國立臺灣大學農業陳列館</name>
                 <description>ID: 20260315_國立臺灣大學農業陳列館
 </description>
-                <Point id="4820">
+                <Point id="4764">
                     <coordinates>121.534255,25.018149,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4823">
+            <Placemark id="4767">
                 <name>國立臺灣大學醫學人文博物館</name>
                 <description>ID: 20260315_國立臺灣大學醫學人文博物館
 </description>
-                <Point id="4822">
+                <Point id="4766">
                     <coordinates>121.518857,25.039548,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4825">
+            <Placemark id="4769">
                 <name>國立臺灣工藝研究發展中心-臺北當代工藝設計分館</name>
                 <description>ID: 20260315_國立臺灣工藝研究發展中心-臺北當代工藝設計分館
 </description>
-                <Point id="4824">
+                <Point id="4768">
                     <coordinates>121.512294,25.03195,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4827">
+            <Placemark id="4771">
                 <name>國立臺灣工藝研究發展中心-鶯歌多媒材研發分館</name>
                 <description>ID: 20260315_國立臺灣工藝研究發展中心-鶯歌多媒材研發分館
 </description>
-                <Point id="4826">
+                <Point id="4770">
                     <coordinates>121.334532,24.966846,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4829">
+            <Placemark id="4773">
                 <name>國立臺灣文學館臺灣文學基地</name>
                 <description>ID: 20260315_國立臺灣文學館臺灣文學基地
 </description>
-                <Point id="4828">
+                <Point id="4772">
                     <coordinates>121.528318,25.041231,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4831">
+            <Placemark id="4775">
                 <name>國立臺灣科學教育館</name>
                 <description>ID: 20260315_國立臺灣科學教育館
 </description>
-                <Point id="4830">
+                <Point id="4774">
                     <coordinates>121.516687,25.096128,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4833">
+            <Placemark id="4777">
                 <name>國立臺灣藝術大學有章藝術博物館</name>
                 <description>ID: 20260315_國立臺灣藝術大學有章藝術博物館
 </description>
-                <Point id="4832">
+                <Point id="4776">
                     <coordinates>121.448731,25.006494,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4835">
+            <Placemark id="4779">
                 <name>圓山別莊</name>
                 <description>ID: 20260315_圓山別莊
 </description>
-                <Point id="4834">
+                <Point id="4778">
                     <coordinates>121.524532,25.073173,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4837">
-                <name>坪林圳 (古)</name>
-                <description>ID: 20260223_hsinchu_1832_坪林圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 坪林 (坪林庄)
-
-=== 史料記載 ===
-[目錄] 坪林圳在縣東南二十八里。於上游四里員崠子嵌下引花草林溪水瀦為陂，西北行二里至頂公館莊，又一里至坪林莊。溉田六大十餘甲。嘉慶間，墾戶金惠成開浚。又西北行半里，引水入樹杞林圳。...</description>
-                <Point id="4836">
-                    <coordinates>121.69019871056805,24.941113516414262,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4839">
+            <Placemark id="4781">
                 <name>坪林尾橋</name>
                 <description>ID: 20260315_坪林尾橋
 </description>
-                <Point id="4838">
+                <Point id="4780">
                     <coordinates>121.711456115071,24.9347219711008,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4841">
-                <name>坪林庄 (古)</name>
-                <description>ID: 20260223_hsinchu_4607_坪林庄
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 闊瀨 (坪林庄)
-
-=== 史料記載 ===
-[樹杞林志] 一、上公馆圳引溉上公馆庄、坪林庄等处田。...</description>
-                <Point id="4840">
-                    <coordinates>121.77418385138195,24.975329958416637,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4843">
-                <name>坪林莊 (古)</name>
-                <description>ID: 20260223_hsinchu_704_坪林莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 闊瀨 (坪林庄)
-
-=== 史料記載 ===
-[目錄] 坪林莊在縣東三十六里。戶三十，丁口二百一十八。...
-[●竹城沿革] 隙仔溪、油車港、十塊寮、楊寮埔、蟹仔埔、槺榔莊、新莊仔、魚寮、麻園、外田心仔、下鬥崙、番仔埤、南仔莊、豆仔埔、中鬥崙、紅毛田、番仔寮、湳仔莊、新社莊、溪洲莊、過港莊、金門厝、苦苓腳、楊寮莊、虎仔山、拔...</description>
-                <Point id="4842">
-                    <coordinates>121.77418385138195,24.975329958416637,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4845">
-                <name>坪頂莊 (古)</name>
-                <description>ID: 20260223_hsinchu_994_坪頂莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 坪頂 (士林庄)
-
-=== 史料記載 ===
-[目錄] 坪頂莊在縣北十二里。戶三十，丁口一百一十五。...</description>
-                <Point id="4844">
-                    <coordinates>121.57233368259661,25.14835708244594,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4847">
+            <Placemark id="4783">
                 <name>士林公有市場</name>
                 <description>ID: 20260315_士林公有市場
 </description>
-                <Point id="4846">
+                <Point id="4782">
                     <coordinates>121.524152,25.0887173,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4849">
+            <Placemark id="4785">
                 <name>士林大東路54號店屋</name>
                 <description>ID: 20260315_士林大東路54號店屋
 </description>
-                <Point id="4848">
+                <Point id="4784">
                     <coordinates>121.525497,25.089759,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4851">
+            <Placemark id="4787">
                 <name>士林慈諴宮</name>
                 <description>ID: 20260315_士林慈諴宮
 </description>
-                <Point id="4850">
+                <Point id="4786">
                     <coordinates>121.524711,25.089679,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4853">
+            <Placemark id="4789">
                 <name>士林潘宅</name>
                 <description>ID: 20260315_士林潘宅
 </description>
-                <Point id="4852">
+                <Point id="4788">
                     <coordinates>121.524062,25.0895389,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4855">
+            <Placemark id="4791">
                 <name>士林神農宮(芝蘭廟)</name>
                 <description>ID: 20260315_士林神農宮(芝蘭廟)
 </description>
-                <Point id="4854">
+                <Point id="4790">
                     <coordinates>121.5262387,25.0979097,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4857">
+            <Placemark id="4793">
                 <name>壹號館</name>
                 <description>ID: 20260315_壹號館
 </description>
-                <Point id="4856">
+                <Point id="4792">
                     <coordinates>121.2969674,24.8658422,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4859">
+            <Placemark id="4795">
                 <name>壽山巖觀音寺</name>
                 <description>ID: 20260315_壽山巖觀音寺
 </description>
-                <Point id="4858">
+                <Point id="4794">
                     <coordinates>121.365910085642,25.0033498534033,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4861">
+            <Placemark id="4797">
                 <name>大同之家(含網球場)</name>
                 <description>ID: 20260315_大同之家(含網球場)
 </description>
-                <Point id="4860">
+                <Point id="4796">
                     <coordinates>121.512235,25.034956,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4863">
-                <name>大坪林圳 (古)</name>
-                <description>ID: 20260223_hsinchu_3391_大坪林圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 大坪林 (新店庄)
-
-=== 史料記載 ===
-[志二建置志] 大坪林圳，在拳山堡，距廳北一百四十里。莊民所置。其水引青潭溪，灌溉田四百六十五甲。...</description>
-                <Point id="4862">
-                    <coordinates>121.5312658717337,24.97564996585649,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4865">
-                <name>大坪林莊 (古)</name>
-                <description>ID: 20260223_hsinchu_921_大坪林莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大坪林 (新店庄)
-
-=== 史料記載 ===
-[目錄] 大坪林莊在縣南四十五里。戶七十九，丁口五百二十一。...
-[志二建置志] 城北兼東拳山堡一十四莊東北接內山生番界：公館街距城百二十里、溪仔口莊百二十五里、大坪林莊百三十里、秀朗社百二十里、暗坑仔莊百二十五里、青潭莊百三十五里、十五分莊百二十五里、內湖莊百二十八里、木柵莊百三...
-[●竹城沿革] 一、大坪林莊〔至〕隘寮下街四十里。...</description>
-                <Point id="4864">
-                    <coordinates>121.5312658717337,24.97564996585649,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4867">
-                <name>大安寮莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3052_大安寮莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大安寮 (土城庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東擺接堡一十七莊東北連內山生番界：加蠟仔莊距城百十五里、港仔嘴莊百十五里、芎蕉腳莊百十八里、龜崙蘭莊百十七里、枋寮街百十七里、新埔墘莊百十八里、南勢角莊百二十里、後埔莊百二十里、員山仔莊百二十八...</description>
-                <Point id="4866">
-                    <coordinates>121.42887220313528,24.957048707737865,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4869">
-                <name>大安溪圳 (古)</name>
-                <description>ID: 20260223_hsinchu_3456_大安溪圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 大安 (臺北市)
-
-=== 史料記載 ===
-[志二建置志] 大安溪圳，在大甲堡頂下，距廳南九十五里。灌溉田三百九十甲。每甲年納水租五斗。...</description>
-                <Point id="4868">
-                    <coordinates>121.53432424555335,25.03418050168109,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4871">
-                <name>大安街 (古)</name>
-                <description>ID: 20260223_hsinchu_3154_大安街
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大安 (臺北市)
-
-=== 史料記載 ===
-[志二建置志] 城南大甲堡六十三莊西臨海、南連彰化：大甲土城距城一百里、東莊離大甲三里、六分莊五里、磁磘莊五里、馬鳴埔莊五里、鐵砧山腳莊四里、新厝仔莊五里、內水尾莊三里、頭分田莊一里、大甲東番社三里、墩仔腳莊十五里、...
-[封域志] 大安街在縣西南九十七里。...</description>
-                <Point id="4870">
-                    <coordinates>121.53432424555335,25.03418050168109,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4873">
-                <name>大安陂圳 (古)</name>
-                <description>ID: 20260223_hsinchu_3366_大安陂圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 大安 (臺北市)
-
-=== 史料記載 ===
-[志二建置志] 大安陂圳，在擺接堡溪東，距廳北一百一十里。圳長三里餘，一帶旱溪，軟陂植樹。顧圳業戶林成祖等鳩佃所置。其水自三叉河二甲九至鴟鴞山下透九芎林引入大陡門至軟陂下分圳，寬二丈四尺，長十餘里。灌溉大安寮至港仔嘴...</description>
-                <Point id="4872">
-                    <coordinates>121.53432424555335,25.03418050168109,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4875">
-                <name>大平莊 (古)</name>
-                <description>ID: 20260223_hsinchu_6170_大平莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大平 (雙溪庄)
-
-=== 史料記載 ===
-[●竹城沿革] 枋寮莊、水汴頭、老坑莊、秀才窩、糞箕窩、大湖口、四腳亭、水流東、老寮坑、三礅仔、六股莊、崗頂莊、水坑口、旱抗口、火墘耳、老焿寮、新堡街、四座厝、五份埔、太平窩、楊梅壢、照鏡莊、九芎湖、廣和莊、大平莊、...</description>
-                <Point id="4874">
-                    <coordinates>121.83356536029446,24.976428152798846,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4877">
-                <name>大武崙莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2982_大武崙莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大武崙 (基隆街)
-
-=== 史料記載 ===
-[志二建置志] 城外兼東芝蘭堡三十二莊東北接噶瑪蘭界、西北臨海：劍潭莊距城百二十里、內湖莊百二十五里、角角溝百三十里、有臘莊百三十五里、芝蘭街百二十五里、毛少翁社百二十七里、淇裏岸莊百三十五里、北投社百三十五里、嗄嘮...</description>
-                <Point id="4876">
-                    <coordinates>121.69320577129984,25.15215438541852,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4879">
-                <name>大湖莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2939_大湖莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大湖 (鶯歌庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東海山堡一十七莊東北接內山生番界：風櫃店莊距城百一十里、潭底莊百一十五里、山仔腳莊百十里、樟樹窟莊百零六里、南靖厝莊百里、尖山莊九十里、鷹哥石莊九十里、大湖莊八十五里、二甲九九十里、莊中莊九十里...
-[●竹城沿革] 口牆圍、中隘莊、頂寮、浸水莊、內湖莊、沸水港、香山塘、香山莊、南隘莊、海山署、韭菜坑、三塊厝、牛埔莊、鹿仔坑、茄苳湖、矺仔坑、中坑、新城、豎林、八股湖、寶斗仁、深井莊、崎林莊、南坑莊、東坑莊、南坑、八...</description>
-                <Point id="4878">
-                    <coordinates>121.33655141930981,24.970546508610614,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4881">
-                <name>大湖街 (古)</name>
-                <description>ID: 20260223_hsinchu_5185_大湖街
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大湖 (鶯歌庄)
-
-=== 史料記載 ===
-[封域志] 大湖街在縣南七十八里。...
-[封域志] 腦市一在縣城內南門街；一在樹杞林堡樹杞林街；一在樹杞林堡北埔街；一在頭分堡南莊街；一在苗慄堡苗慄街；一在苗慄堡大湖街。...</description>
-                <Point id="4880">
-                    <coordinates>121.33655141930981,24.970546508610614,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4883">
+            <Placemark id="4799">
                 <name>大溪三坑水利網 (Daxi Sankeng Irrigation Network)</name>
                 <description>ID: 2026xxxx_tamsui_sanxia_daxi
 桃園市龍潭區三坑里</description>
-                <Point id="4882">
+                <Point id="4798">
                     <coordinates>121.2516681,24.8242633,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4885">
-                <name>大溪墘莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2877_大溪墘莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大溪墘 (石碇庄)
-
-=== 史料記載 ===
-[志二建置志] 城外北廂一十七莊西臨海：水田莊附郭、湳仔莊距城三里、金門厝莊四里、舊社莊四里、麻園莊七里、頂溪洲莊七里、新莊仔莊八里、白地粉莊八里、溪心灞莊九里、嵌頂莊十里、鳳鼻尾莊十一里、紅毛港莊二十里、蚝殼港莊三...
-[●竹城沿革] 一、大溪墘莊紳董彭大福糴存新榖六十石。...
-[●竹城沿革] 一、大溪墘莊紳董範姜俊糴存新榖一百二十八石。又糴存新榖九十石。...</description>
-                <Point id="4884">
-                    <coordinates>121.68861508669154,25.011174979774182,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4887">
+            <Placemark id="4801">
                 <name>大溪敬字亭</name>
                 <description>ID: 20260315_大溪敬字亭
 </description>
-                <Point id="4886">
+                <Point id="4800">
                     <coordinates>121.27619,24.890576,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4889">
+            <Placemark id="4803">
                 <name>大溪歷史館(原四連棟)</name>
                 <description>ID: 20260315_大溪歷史館(原四連棟)
 </description>
-                <Point id="4888">
+                <Point id="4802">
                     <coordinates>121.286546,24.8808676,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4891">
+            <Placemark id="4805">
                 <name>大溪簡送德古宅</name>
                 <description>ID: 20260315_大溪簡送德古宅
 </description>
-                <Point id="4890">
+                <Point id="4804">
                     <coordinates>121.280933672394,24.854742857390335,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4893">
+            <Placemark id="4807">
                 <name>大溪蓮座山觀音寺</name>
                 <description>ID: 20260315_大溪蓮座山觀音寺
 </description>
-                <Point id="4892">
+                <Point id="4806">
                     <coordinates>121.280821708041,24.8721217853378,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4895">
+            <Placemark id="4809">
                 <name>大溪齋明寺</name>
                 <description>ID: 20260315_大溪齋明寺
 </description>
-                <Point id="4894">
+                <Point id="4808">
                     <coordinates>121.274349837363,24.888962223664,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4897">
+            <Placemark id="4811">
                 <name>大稻埕千秋街店屋</name>
                 <description>ID: 20260315_大稻埕千秋街店屋
 </description>
-                <Point id="4896">
+                <Point id="4810">
                     <coordinates>121.5083787,25.0551403,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4899">
+            <Placemark id="4813">
                 <name>大稻埕圓環防空蓄水池</name>
                 <description>ID: 20260315_大稻埕圓環防空蓄水池
 </description>
-                <Point id="4898">
+                <Point id="4812">
                     <coordinates>121.5146522,25.0537718,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4901">
+            <Placemark id="4815">
                 <name>大稻埕慈聖宮</name>
                 <description>ID: 20260315_大稻埕慈聖宮
 </description>
-                <Point id="4900">
+                <Point id="4814">
                     <coordinates>121.51196074976473,25.060232006361694,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4903">
+            <Placemark id="4817">
                 <name>大稻埕碼頭與水門 (Dadaocheng Wharf)</name>
                 <description>ID: 2026xxxx_tamsui_dadaocheng
 台北市大同區五號水門</description>
-                <Point id="4902">
+                <Point id="4816">
                     <coordinates>121.5074,25.056,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4905">
+            <Placemark id="4819">
                 <name>大稻埕變電所</name>
                 <description>ID: 20260315_大稻埕變電所
 </description>
-                <Point id="4904">
+                <Point id="4818">
                     <coordinates>121.5169818,25.0563045,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4907">
+            <Placemark id="4821">
                 <name>大稻埕辜宅</name>
                 <description>ID: 20260315_大稻埕辜宅
 </description>
-                <Point id="4906">
+                <Point id="4820">
                     <coordinates>121.508503,25.0583499,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4909">
+            <Placemark id="4823">
                 <name>大觀義學</name>
                 <description>ID: 20260315_大觀義學
 </description>
-                <Point id="4908">
+                <Point id="4822">
                     <coordinates>121.455866755157,25.0111269288249,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4911">
+            <Placemark id="4825">
                 <name>大龍峒保安宮</name>
                 <description>ID: 20260315_大龍峒保安宮
 </description>
-                <Point id="4910">
+                <Point id="4824">
                     <coordinates>121.515553,25.073105,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4913">
+            <Placemark id="4827">
                 <name>天母白屋(美軍宿舍)</name>
                 <description>ID: 20260315_天母白屋(美軍宿舍)
 </description>
-                <Point id="4912">
+                <Point id="4826">
                     <coordinates>121.5307158,25.1248835,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4915">
+            <Placemark id="4829">
                 <name>婦聯總會</name>
                 <description>ID: 20260315_婦聯總會
 </description>
-                <Point id="4914">
+                <Point id="4828">
                     <coordinates>121.509681,25.040419,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4917">
+            <Placemark id="4831">
                 <name>孫運璿重慶南路寓所</name>
                 <description>ID: 20260315_孫運璿重慶南路寓所
 </description>
-                <Point id="4916">
+                <Point id="4830">
                     <coordinates>121.511537,25.033632,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4919">
+            <Placemark id="4833">
                 <name>學海書院（今高氏宗祠）</name>
                 <description>ID: 20260315_學海書院（今高氏宗祠）
 </description>
-                <Point id="4918">
+                <Point id="4832">
                     <coordinates>121.495628,25.0363299,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4921">
+            <Placemark id="4835">
                 <name>安坑孝女廖氏嬌紀念碑</name>
                 <description>ID: 20260315_安坑孝女廖氏嬌紀念碑
 </description>
-                <Point id="4920">
+                <Point id="4834">
                     <coordinates>121.513525411517,24.9615296041436,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4923">
+            <Placemark id="4837">
                 <name>寶藏巖</name>
                 <description>ID: 20260315_寶藏巖
 </description>
-                <Point id="4922">
+                <Point id="4836">
                     <coordinates>121.5332267,25.0105644,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4925">
+            <Placemark id="4839">
                 <name>專賣局(今臺灣菸酒股份有限公司)</name>
                 <description>ID: 20260315_專賣局(今臺灣菸酒股份有限公司)
 </description>
-                <Point id="4924">
+                <Point id="4838">
                     <coordinates>121.514856973849,25.034088345483,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4927">
+            <Placemark id="4841">
                 <name>小烏來風景特定區</name>
                 <description>ID: 20260315_小烏來風景特定區
 </description>
-                <Point id="4926">
+                <Point id="4840">
                     <coordinates>121.37490248001562,24.789994828822365,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4929">
-                <name>尖山庄 (古)</name>
-                <description>ID: 20260223_hsinchu_4543_尖山庄
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 尖山 (鶯歌庄)
-
-=== 史料記載 ===
-[樹杞林志] 顺兴庄（距署西北十四里）、中大坜（距署北八里）、上大坜（距署北九里）、崩岗凸（距署北十二里）、尖山庄（距署北十六里）、沙湖坜（距署北十七里）、水仙仑（距署西北十九里）、藤轑坑（距署北十一里）、北坑仔（...
-[樹杞林志] 尖山庄：户数四十一，男九十六，女八十六；计丁口一百八十二。...</description>
-                <Point id="4928">
-                    <coordinates>121.33261886702257,24.949271220219554,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4931">
-                <name>尖山莊 (古)</name>
-                <description>ID: 20260223_hsinchu_913_尖山莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 尖山 (鶯歌庄)
-
-=== 史料記載 ===
-[目錄] 尖山莊在縣南三十一里。戶六十，丁口三百三十一。...
-[志二建置志] 城北兼東海山堡一十七莊東北接內山生番界：風櫃店莊距城百一十里、潭底莊百一十五里、山仔腳莊百十里、樟樹窟莊百零六里、南靖厝莊百里、尖山莊九十里、鷹哥石莊九十里、大湖莊八十五里、二甲九九十里、莊中莊九十里...</description>
-                <Point id="4930">
-                    <coordinates>121.33261886702257,24.949271220219554,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4933">
+            <Placemark id="4843">
                 <name>尖石TAPUNG古堡（李崠隘勇監督所）</name>
                 <description>ID: 20260315_尖石TAPUNG古堡（李崠隘勇監督所）
 </description>
-                <Point id="4932">
+                <Point id="4842">
                     <coordinates>121.303667655621,24.6926118674001,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4935">
+            <Placemark id="4845">
                 <name>山佳車站</name>
                 <description>ID: 20260315_山佳車站
 </description>
-                <Point id="4934">
+                <Point id="4844">
                     <coordinates>121.392744151462,24.9723251626911,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4937">
-                <name>崁頂莊 (古)</name>
-                <description>ID: 20260223_hsinchu_6251_崁頂莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 崁頂 (臺北市)
-
-=== 史料記載 ===
-[●竹城沿革] 海口尾、澎湖厝、竹圍仔、過溝仔、海口莊、水鏡頭、湖尾莊、大牛欄、山寮莊、頂橋仔頭、草橋莊、中港街、營盤邊、大丘園、爐竹湳、大莊口、營盤埔、崁頂莊、圓潭溪、後厝仔、後莊埔、車坪莊、滾水仔、公館仔、內公館...</description>
-                <Point id="4936">
-                    <coordinates>121.5026894628806,25.027138598719656,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4939">
-                <name>崙子莊 (古)</name>
-                <description>ID: 20260223_hsinchu_655_崙子莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 崙子 (鶯歌庄)
-
-=== 史料記載 ===
-[目錄] 崙子莊在縣城北門外。戶一百五十三，丁口八百零九。...
-[目錄] 隆恩圳一名四百甲圳，又名大南北圳在縣東七里。於上游十一里九芎林溪口引九芎林南溪水西南行此處溪分南北，本圳屬南溪；其北溪西行為新社溪，即新社等圳引水之源三里至菜頭寮北岸沿溪引水入菜頭寮、旱溪子、大埒、隘...</description>
-                <Point id="4938">
-                    <coordinates>121.38154743091948,24.96702843698489,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4941">
+            <Placemark id="4847">
                 <name>帝國生命保險株式會社臺北支店</name>
                 <description>ID: 20260315_帝國生命保險株式會社臺北支店
 </description>
-                <Point id="4940">
+                <Point id="4846">
                     <coordinates>121.511307,25.041559,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4943">
+            <Placemark id="4849">
                 <name>平溪南無大悲救苦觀世音菩薩碣</name>
                 <description>ID: 20260315_平溪南無大悲救苦觀世音菩薩碣
 </description>
-                <Point id="4942">
+                <Point id="4848">
                     <coordinates>121.74426231897802,25.04032420079962,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4945">
+            <Placemark id="4851">
                 <name>平溪嶺腳蔡家紅磚洋樓</name>
                 <description>ID: 20260315_平溪嶺腳蔡家紅磚洋樓
 </description>
-                <Point id="4944">
+                <Point id="4850">
                     <coordinates>121.74871232562172,25.03089135899476,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4947">
-                <name>康誥坑莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3018_康誥坑莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 康誥坑 (汐止街)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東石碇堡一十四莊東接內山：樟樹灣莊距城百三十五里、叭嗹港莊百三十八里、水返腳街百四十里、康誥坑莊百四十里、保長坑莊百四十二里、五堵莊百四十五里、六堵莊百四十七里、七堵莊百五十里、八堵莊百五十餘里...</description>
-                <Point id="4946">
-                    <coordinates>121.65567681554754,25.045937670228952,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4949">
+            <Placemark id="4853">
                 <name>廣福宮(三山國王廟)</name>
                 <description>ID: 20260315_廣福宮(三山國王廟)
 </description>
-                <Point id="4948">
+                <Point id="4852">
                     <coordinates>121.455298437786,25.0355264426634,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4951">
+            <Placemark id="4855">
                 <name>延平基督教會</name>
                 <description>ID: 20260315_延平基督教會
 </description>
-                <Point id="4950">
+                <Point id="4854">
                     <coordinates>121.512667,25.0624664,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4953">
+            <Placemark id="4857">
                 <name>建國中學紅樓</name>
                 <description>ID: 20260315_建國中學紅樓
 </description>
-                <Point id="4952">
+                <Point id="4856">
                     <coordinates>121.512235,25.030936,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4955">
+            <Placemark id="4859">
                 <name>建國啤酒廠</name>
                 <description>ID: 20260315_建國啤酒廠
 </description>
-                <Point id="4954">
+                <Point id="4858">
                     <coordinates>121.5357123,25.0459174,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4957">
-                <name>引水入五分埔圳 (古)</name>
-                <description>ID: 20260223_hsinchu_2055_引水入五分埔圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 五分埔 (松山庄)
-
-=== 史料記載 ===
-[目錄] 蛤子窟圳在縣東三十四里。於水坑口引咸菜甕溪水西行一里至石岡子，又二里至烏樹林，又一里至醮寮埔。溉田二十八甲。道光間，□□□鳩資開浚。陂長年收水租榖二十八石。又行一里，引水入水汴頭圳，又引水入五分埔圳。...
-[目錄] 水汴頭圳在縣東二十七里。於烏樹林引咸菜甕溪水瀦為陂，西行三里至水汴頭，又一里至六股。溉田四十六甲。嘉慶間，各田主鳩資開浚。陂長年收水租榖四十六石。又西行二里至五分埔，引水入五分埔圳。...</description>
-                <Point id="4956">
-                    <coordinates>121.56932360153723,25.037835574298015,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4959">
-                <name>引水入六張犁圳 (古)</name>
-                <description>ID: 20260223_hsinchu_1886_引水入六張犁圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 六張犁 (臺北市)
-
-=== 史料記載 ===
-[目錄] 隘口圳在縣東十二里。於菜頭寮莊尾引九芎林南溪水西北行，計長三里。溉田六十餘甲。又北行東入於溪西，引水入六張犁圳。...</description>
-                <Point id="4958">
-                    <coordinates>121.55235188373058,25.018942602106222,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4961">
+            <Placemark id="4861">
                 <name>張羣故居</name>
                 <description>ID: 20260315_張羣故居
 </description>
-                <Point id="4960">
+                <Point id="4860">
                     <coordinates>121.5299557,25.0909479,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4963">
+            <Placemark id="4863">
                 <name>急公好義坊</name>
                 <description>ID: 20260315_急公好義坊
 </description>
-                <Point id="4962">
+                <Point id="4862">
                     <coordinates>121.51433539898088,25.041210525458663,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4965">
+            <Placemark id="4865">
                 <name>慈雲寺</name>
                 <description>ID: 20260315_慈雲寺
 </description>
-                <Point id="4964">
+                <Point id="4864">
                     <coordinates>121.5041572,25.0464399,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4967">
+            <Placemark id="4867">
                 <name>懷寧街96號店屋</name>
                 <description>ID: 20260315_懷寧街96號店屋
 </description>
-                <Point id="4966">
+                <Point id="4866">
                     <coordinates>121.513958,25.042149,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4969">
+            <Placemark id="4869">
                 <name>懷寧街98號店屋</name>
                 <description>ID: 20260315_懷寧街98號店屋
 </description>
-                <Point id="4968">
+                <Point id="4868">
                     <coordinates>121.513949,25.04211,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4971">
-                <name>打鐵坑 (古)</name>
-                <description>ID: 20260223_hsinchu_6088_打鐵坑
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 打鐵坑 (龍潭庄)
-
-=== 史料記載 ===
-[●竹城沿革] 隙仔溪、油車港、十塊寮、楊寮埔、蟹仔埔、槺榔莊、新莊仔、魚寮、麻園、外田心仔、下鬥崙、番仔埤、南仔莊、豆仔埔、中鬥崙、紅毛田、番仔寮、湳仔莊、新社莊、溪洲莊、過港莊、金門厝、苦苓腳、楊寮莊、虎仔山、拔...
-[●竹城沿革] 枋寮莊、水汴頭、老坑莊、秀才窩、糞箕窩、大湖口、四腳亭、水流東、老寮坑、三礅仔、六股莊、崗頂莊、水坑口、旱抗口、火墘耳、老焿寮、新堡街、四座厝、五份埔、太平窩、楊梅壢、照鏡莊、九芎湖、廣和莊、大平莊、...</description>
-                <Point id="4970">
-                    <coordinates>121.22345225692821,24.823238126124966,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4973">
-                <name>打鐵坑莊 (古)</name>
-                <description>ID: 20260223_hsinchu_942_打鐵坑莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 打鐵坑 (龍潭庄)
-
-=== 史料記載 ===
-[目錄] 打鐵坑莊在縣東三十里。戶四十，丁口三百三十四。...</description>
-                <Point id="4972">
-                    <coordinates>121.22345225692821,24.823238126124966,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4975">
-                <name>打鐵莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3150_打鐵莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 打鐵坑 (龍潭庄)
-
-=== 史料記載 ===
-[志二建置志] 城南大甲堡六十三莊西臨海、南連彰化：大甲土城距城一百里、東莊離大甲三里、六分莊五里、磁磘莊五里、馬鳴埔莊五里、鐵砧山腳莊四里、新厝仔莊五里、內水尾莊三里、頭分田莊一里、大甲東番社三里、墩仔腳莊十五里、...</description>
-                <Point id="4974">
-                    <coordinates>121.22345225692821,24.823238126124966,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4977">
+            <Placemark id="4871">
                 <name>拉拉山國家森林遊樂區</name>
                 <description>ID: 20260315_拉拉山國家森林遊樂區_1
 </description>
-                <Point id="4976">
+                <Point id="4870">
                     <coordinates>121.38387399958457,24.679838999692045,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4979">
+            <Placemark id="4873">
                 <name>拉拉山國家森林遊樂區</name>
                 <description>ID: 20260315_拉拉山國家森林遊樂區
 </description>
-                <Point id="4978">
+                <Point id="4872">
                     <coordinates>121.4225957,24.7032813,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4981">
+            <Placemark id="4875">
                 <name>摩耶精舍（張大千園邸）</name>
                 <description>ID: 20260315_摩耶精舍（張大千園邸）
 </description>
-                <Point id="4980">
+                <Point id="4874">
                     <coordinates>121.554836,25.1026927,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4983">
+            <Placemark id="4877">
                 <name>新北市立淡水古蹟博物館</name>
                 <description>ID: 20260315_新北市立淡水古蹟博物館
 </description>
-                <Point id="4982">
+                <Point id="4876">
                     <coordinates>121.431306,25.178689,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4985">
+            <Placemark id="4879">
                 <name>新北市立烏來泰雅民族博物館</name>
                 <description>ID: 20260315_新北市立烏來泰雅民族博物館
 </description>
-                <Point id="4984">
+                <Point id="4878">
                     <coordinates>121.551506,24.864091,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4987">
+            <Placemark id="4881">
                 <name>新北市立鶯歌陶瓷博物館</name>
                 <description>ID: 20260315_新北市立鶯歌陶瓷博物館
 </description>
-                <Point id="4986">
+                <Point id="4880">
                     <coordinates>121.352032,24.949251,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="4989">
-                <name>新南莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3005_新南莊
-【類別】: Location
-【對合來源】: MOI_Historic_Settlement
-【對合地名】: 新南街 (桃園市大溪區)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東大加臘堡一十六莊：艋舺下嵌莊距城百十里、三板橋莊百十三里、古亭莊百十五里、大灣莊百十六里、林口莊百七十里、上陂頭莊百十七里、錫口街百二十二里、新南莊百二十七里、南港仔街百三十里、搭搭攸莊百二十...</description>
-                <Point id="4988">
-                    <coordinates>121.2864,24.8819,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4991">
-                <name>新埔口渡 (古)</name>
-                <description>ID: 20260223_hsinchu_1634_新埔口渡
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 新埔 (板橋庄)
-
-=== 史料記載 ===
-[目錄] 新埔口渡在縣東二十一里新埔溪廣安義渡之下游，為新埔各莊入縣城之所。兩岸相距三十丈。義渡船一，光緒初紳士蔡景熙捐設。又於秋冬水小，架搭木橋以便行人。來往渡船錢四文。...</description>
-                <Point id="4990">
-                    <coordinates>121.45407067832004,25.027402681201956,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4993">
-                <name>新埔圳 (古)</name>
-                <description>ID: 20260223_hsinchu_2067_新埔圳
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 新埔 (板橋庄)
-
-=== 史料記載 ===
-[目錄] 新埔圳在縣東二十二里。於上游三里五分埔引咸菜甕溪水瀦為陂，西行二里至田心子莊，又於霄裏溪尾引霄裏溪水瀦為小陂，西行，計長二里許。溉田三十餘甲。乾隆間開浚。陂長年收水租榖三十石。其五分埔之水，由田心子莊...</description>
-                <Point id="4992">
-                    <coordinates>121.45407067832004,25.027402681201956,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4995">
-                <name>新埔堡 (古)</name>
-                <description>ID: 20260223_hsinchu_5497_新埔堡
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 新埔 (板橋庄)
-
-=== 史料記載 ===
-[封域志] 新埔堡義塚...
-[賦役志] 一、新埔堡：計一萬三千三百五十八戶，男四萬五千四百零八丁、女三萬八千四百九十口。...
-[賦役志] 新埔堡田甲錢糧...
-[賦役志] 新埔堡園甲錢糧...
-[學校志] 新埔堡廟宇...</description>
-                <Point id="4994">
-                    <coordinates>121.45407067832004,25.027402681201956,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4997">
-                <name>新埔社 (古)</name>
-                <description>ID: 20260223_hsinchu_3786_新埔社
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 新埔 (板橋庄)
-
-=== 史料記載 ===
-[志四學校志] 竹塹城四設四城內，中港社一廢，後壟社一今廢，貓里社一今廢，吞霄社一今廢，大甲社一，新埔社一今廢，桃仔園社一廢，大姑嵌社一今廢，艋舺街二，大稻埕一以上系同治六年同知嚴金清設互詳「義倉」。塹城外二一在舊社...
-[學校志] 「廳志」載云：『社學凡六』。今將劃歸淡屬而外，屬新竹轄下者凡四：一、竹塹社；一、後壟社；一、蓬山社；一、大甲東社。又「廳志」列於義塾者，如中港社、貓里社、通霄社、新埔社，計四處。同治年間，即多廢弛；以...</description>
-                <Point id="4996">
-                    <coordinates>121.45407067832004,25.027402681201956,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="4999">
-                <name>新埔莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2883_新埔莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 新埔 (板橋庄)
-
-=== 史料記載 ===
-[志二建置志] 城外東北廂一十六莊東接內山生番界：新社莊距城七里、豆仔埔莊八里、枋寮莊十里、新埔莊二十里、大茅埔莊二十一里、五份埔莊二十一里、六股莊二十二里、石崗仔莊二十四里、烏樹林莊二十六里、鹽菜甕莊三十五里、三峽...
-[考四祥異考] 江氏，新埔莊內山人，陳萬成妻，年一百三歲。...
-[職官表] 江氏，新埔莊內山人；陳萬成妻。一百三歲。...
-[●竹城沿革] 一、新埔莊紳董陳朝綱原存舊榖二百一十二石八斗。...
-[●竹城沿革] 一、新埔莊紳董潘澄漢原存舊榖三百零八石四斗。...</description>
-                <Point id="4998">
-                    <coordinates>121.45407067832004,25.027402681201956,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5001">
-                <name>新埔街 (古)</name>
-                <description>ID: 20260223_hsinchu_305_新埔街
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 新埔 (板橋庄)
-
-=== 史料記載 ===
-[目錄] 大屏山在縣東二十二里。其山自獅頭山東方來，高三十餘丈，長一里許。形平而直，兩端圓而下垂，為新埔街之屏帳。左為獅頭山、右為大墩山，形家目為旗鼓。山之東半名上樟樹林、西半名下樟樹林，各有義塚一所，周廣一里...
-[目錄] 新埔街在縣東二十二里。戶二百零二，丁口一千五百二十五。...
-[目錄] 新埔街在縣東二十二里。...
-[目錄] 同治元年仲秋月穀旦，新埔街貢生潘榮光敬立。...
-[列傳四列女] 林氏，新埔街天喜女，賴雙喜妻。年二十三寡六年舉報，年七十一。...</description>
-                <Point id="5000">
-                    <coordinates>121.45407067832004,25.027402681201956,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5003">
-                <name>新堡街 (古)</name>
-                <description>ID: 20260223_hsinchu_6165_新堡街
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大窠坑 (新莊街)
-
-=== 史料記載 ===
-[●竹城沿革] 枋寮莊、水汴頭、老坑莊、秀才窩、糞箕窩、大湖口、四腳亭、水流東、老寮坑、三礅仔、六股莊、崗頂莊、水坑口、旱抗口、火墘耳、老焿寮、新堡街、四座厝、五份埔、太平窩、楊梅壢、照鏡莊、九芎湖、廣和莊、大平莊、...</description>
-                <Point id="5002">
-                    <coordinates>121.3989251706203,25.061703844611653,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5005">
+            <Placemark id="4883">
                 <name>新富市場</name>
                 <description>ID: 20260315_新富市場
 </description>
-                <Point id="5004">
+                <Point id="4882">
                     <coordinates>121.5018955,25.0360209,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5007">
+            <Placemark id="4885">
                 <name>新店安康接待室</name>
                 <description>ID: 20260315_新店安康接待室
 </description>
-                <Point id="5006">
+                <Point id="4884">
                     <coordinates>121.490579,24.949711,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5009">
+            <Placemark id="4887">
                 <name>新店獅仔頭山隘勇線</name>
                 <description>ID: 20260315_新店獅仔頭山隘勇線
 </description>
-                <Point id="5008">
+                <Point id="4886">
                     <coordinates>121.501063887609,24.9027198275334,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5011">
+            <Placemark id="4889">
                 <name>新店臺北菸廠鍋爐間及煙囪</name>
                 <description>ID: 20260315_新店臺北菸廠鍋爐間及煙囪
 </description>
-                <Point id="5010">
+                <Point id="4888">
                     <coordinates>121.508260972531,24.9586376855026,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5013">
-                <name>新社莊 (古)</name>
-                <description>ID: 20260223_hsinchu_745_新社莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大窠坑 (新莊街)
-
-=== 史料記載 ===
-[目錄] 新社莊在縣北八里。戶一百六十二，丁口八百一十四。...
-[志二建置志] 城外東北廂一十六莊東接內山生番界：新社莊距城七里、豆仔埔莊八里、枋寮莊十里、新埔莊二十里、大茅埔莊二十一里、五份埔莊二十一里、六股莊二十二里、石崗仔莊二十四里、烏樹林莊二十六里、鹽菜甕莊三十五里、三峽...
-[●竹城沿革] 隙仔溪、油車港、十塊寮、楊寮埔、蟹仔埔、槺榔莊、新莊仔、魚寮、麻園、外田心仔、下鬥崙、番仔埤、南仔莊、豆仔埔、中鬥崙、紅毛田、番仔寮、湳仔莊、新社莊、溪洲莊、過港莊、金門厝、苦苓腳、楊寮莊、虎仔山、拔...</description>
-                <Point id="5012">
-                    <coordinates>121.3989251706203,25.061703844611653,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5015">
+            <Placemark id="4891">
                 <name>新芳春茶行</name>
                 <description>ID: 20260315_新芳春茶行
 </description>
-                <Point id="5014">
+                <Point id="4890">
                     <coordinates>121.5125267,25.0570716,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5017">
+            <Placemark id="4893">
                 <name>新莊慈祐宮</name>
                 <description>ID: 20260315_新莊慈祐宮
 </description>
-                <Point id="5016">
+                <Point id="4892">
                     <coordinates>121.452882468271,25.0343760288719,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5019">
+            <Placemark id="4895">
                 <name>新莊文昌祠</name>
                 <description>ID: 20260315_新莊文昌祠
 </description>
-                <Point id="5018">
+                <Point id="4894">
                     <coordinates>121.45498429346036,25.034509188197937,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5021">
+            <Placemark id="4897">
                 <name>新莊武聖廟</name>
                 <description>ID: 20260315_新莊武聖廟
 </description>
-                <Point id="5020">
+                <Point id="4896">
                     <coordinates>121.450164,25.033612,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5023">
+            <Placemark id="4899">
                 <name>新莊水道記碑</name>
                 <description>ID: 20260315_新莊水道記碑
 </description>
-                <Point id="5022">
+                <Point id="4898">
                     <coordinates>121.39910154198,25.0407553593908,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5025">
-                <name>新莊街 (古)</name>
-                <description>ID: 20260223_hsinchu_2950_新莊街
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大窠坑 (新莊街)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東興直堡一十九莊西臨海：龜崙頂莊距城九十里、搭寮坑莊九十二里、陂角店莊九十五里、新莊街百十里、中港厝莊百十五里、中瘟莊百十五里、頭重莊百十三里、和尚洲莊百二十五里、武朥灣莊百十里、三重埔莊百二十...</description>
-                <Point id="5024">
-                    <coordinates>121.3989251706203,25.061703844611653,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5027">
+            <Placemark id="4901">
                 <name>景美集應廟</name>
                 <description>ID: 20260315_景美集應廟
 </description>
-                <Point id="5026">
+                <Point id="4900">
                     <coordinates>121.5417818,24.9917925,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5029">
-                <name>暖暖莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3020_暖暖莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 暖暖 (七堵庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東石碇堡一十四莊東接內山：樟樹灣莊距城百三十五里、叭嗹港莊百三十八里、水返腳街百四十里、康誥坑莊百四十里、保長坑莊百四十二里、五堵莊百四十五里、六堵莊百四十七里、七堵莊百五十里、八堵莊百五十餘里...</description>
-                <Point id="5028">
-                    <coordinates>121.73797386389856,25.07803254300708,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5031">
-                <name>暖暖街 (古)</name>
-                <description>ID: 20260223_hsinchu_3935_暖暖街
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 暖暖 (七堵庄)
-
-=== 史料記載 ===
-[列傳四列女] 陳梅娘，石錠堡留女，暖暖街周開基妻。年二十三寡，卒年四十。...</description>
-                <Point id="5030">
-                    <coordinates>121.73797386389856,25.07803254300708,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5033">
+            <Placemark id="4903">
                 <name>曹洞宗大本山臺灣別院鐘樓</name>
                 <description>ID: 20260315_曹洞宗大本山臺灣別院鐘樓
 </description>
-                <Point id="5032">
+                <Point id="4902">
                     <coordinates>121.5220102755577,25.039328651228367,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5035">
+            <Placemark id="4905">
                 <name>朝北醫院</name>
                 <description>ID: 20260315_朝北醫院
 </description>
-                <Point id="5034">
+                <Point id="4904">
                     <coordinates>121.49999898944738,25.04022848620483,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5037">
+            <Placemark id="4907">
                 <name>李國鼎故居</name>
                 <description>ID: 20260315_李國鼎故居
 </description>
-                <Point id="5036">
+                <Point id="4906">
                     <coordinates>121.5276738,25.0406342,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5039">
+            <Placemark id="4909">
                 <name>李春生紀念基督長老教會(大稻埕郵便電信支局)</name>
                 <description>ID: 20260315_李春生紀念基督長老教會(大稻埕郵便電信支局)
 </description>
-                <Point id="5038">
+                <Point id="4908">
                     <coordinates>121.508252,25.055108,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5041">
+            <Placemark id="4911">
                 <name>李臨秋故居</name>
                 <description>ID: 20260315_李臨秋故居
 </description>
-                <Point id="5040">
+                <Point id="4910">
                     <coordinates>121.508714,25.055176,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5043">
+            <Placemark id="4913">
                 <name>李騰芳古宅</name>
                 <description>ID: 20260315_李騰芳古宅
 </description>
-                <Point id="5042">
+                <Point id="4912">
                     <coordinates>121.2956785842,24.8907724546631,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5045">
+            <Placemark id="4915">
                 <name>李騰芳古宅</name>
                 <description>ID: 20260315_李騰芳古宅_1
 </description>
-                <Point id="5044">
+                <Point id="4914">
                     <coordinates>121.288168,24.8849131,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5047">
-                <name>東勢莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2831_東勢莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 東勢 (士林庄)
-
-=== 史料記載 ===
-[志二建置志] 城外東廂二十五莊東接內山生番界：東勢莊距城二里、下車店莊三里、大陂坪莊四里、埔仔頂莊五里、牛路頭莊六里、柴梳山莊六里、麻園堵莊八里、二十張犁莊五里、白沙墩莊五里、斗崙莊六里、八張犁莊七里、六張犁莊七里...
-[志二建置志] 城北兼東桃澗堡二十九莊西近海：中壢街距城五十五里、內壢溪莊五十七里、嵌腳莊六十五里、下茄冬莊七十里、新莊仔莊七十里、赤嵌莊七十五里、大埔莊七十五里、坑仔口莊八十里、過溪仔莊八十里、南嵌街八十里、桃仔園...
-[志二建置志] 城北兼東大加臘堡一十六莊：艋舺下嵌莊距城百十里、三板橋莊百十三里、古亭莊百十五里、大灣莊百十六里、林口莊百七十里、上陂頭莊百十七里、錫口街百二十二里、新南莊百二十七里、南港仔街百三十里、搭搭攸莊百二十...
-[列傳四列女] 蔡氏，貓兒錠陴仔頭莊琴女，東勢莊林媽成妻。年二十一寡，卒年四十九。...
-[列傳四列女] 鄭於娘，八甲鄉安女，東勢莊蕭寶志妻。年十九寡，卒年三十一。...</description>
-                <Point id="5046">
-                    <coordinates>121.53585630218994,25.119694120836595,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5049">
-                <name>東勢陂 (古)</name>
-                <description>ID: 20260223_hsinchu_661_東勢陂
-【類別】: Irrigation
-【對合來源】: 1920_Oaza
-【對合大字】: 東勢 (士林庄)
-
-=== 史料記載 ===
-[目錄] 東勢陂腳莊在縣東三里。戶六十，丁口二百四十二。...</description>
-                <Point id="5048">
-                    <coordinates>121.53585630218994,25.119694120836595,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5051">
-                <name>東眼山國家森林遊樂區</name>
-                <description>ID: 20260315_東眼山國家森林遊樂區_1
-</description>
-                <Point id="5050">
-                    <coordinates>121.40971031948,24.831538892032764,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5053">
+            <Placemark id="4917">
                 <name>東眼山國家森林遊樂區</name>
                 <description>ID: 20260315_東眼山國家森林遊樂區
 </description>
-                <Point id="5052">
+                <Point id="4916">
                     <coordinates>121.407938,24.8312598,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5055">
-                <name>東眼山國家森林遊樂區 (Dongyanshan National Forest Recreation Area)</name>
-                <description>ID: 2026xxxx_tamsui_dongyanshan
-桃園市復興區霞雲里</description>
-                <Point id="5054">
-                    <coordinates>121.407938,24.8312598,0.0</coordinates>
+            <Placemark id="4919">
+                <name>東眼山國家森林遊樂區</name>
+                <description>ID: 20260315_東眼山國家森林遊樂區_1
+</description>
+                <Point id="4918">
+                    <coordinates>121.40971031948,24.831538892032764,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5057">
+            <Placemark id="4921">
                 <name>松山市場</name>
                 <description>ID: 20260315_松山市場
 </description>
-                <Point id="5056">
+                <Point id="4920">
                     <coordinates>121.5759294,25.0501902,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5059">
+            <Placemark id="4923">
                 <name>松山菸廠</name>
                 <description>ID: 20260315_松山菸廠
 </description>
-                <Point id="5058">
+                <Point id="4922">
                     <coordinates>121.55935,25.0436839,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5061">
+            <Placemark id="4925">
                 <name>松山陳宅</name>
                 <description>ID: 20260315_松山陳宅
 </description>
-                <Point id="5060">
+                <Point id="4924">
                     <coordinates>121.57400517556684,25.05075788315441,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5063">
+            <Placemark id="4927">
                 <name>板橋浮洲劉氏古厝</name>
                 <description>ID: 20260315_板橋浮洲劉氏古厝
 </description>
-                <Point id="5062">
+                <Point id="4926">
                     <coordinates>121.442415,25.005274,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5065">
+            <Placemark id="4929">
                 <name>板橋迪毅堂</name>
                 <description>ID: 20260315_板橋迪毅堂
 </description>
-                <Point id="5064">
+                <Point id="4928">
                     <coordinates>121.457396,25.007338,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5067">
+            <Placemark id="4931">
                 <name>枋橋建學碑</name>
                 <description>ID: 20260315_枋橋建學碑
 </description>
-                <Point id="5066">
+                <Point id="4930">
                     <coordinates>121.458305999999,25.0109039999999,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5069">
+            <Placemark id="4933">
                 <name>林本源園邸</name>
                 <description>ID: 20260315_林本源園邸
 </description>
-                <Point id="5068">
+                <Point id="4932">
                     <coordinates>121.454584956033,25.0110868081386,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5071">
+            <Placemark id="4935">
                 <name>林秀俊墓</name>
                 <description>ID: 20260315_林秀俊墓
 </description>
-                <Point id="5070">
+                <Point id="4934">
                     <coordinates>121.57505417316304,25.06762478423135,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5073">
+            <Placemark id="4937">
                 <name>桂永清墓園</name>
                 <description>ID: 20260315_桂永清墓園
 </description>
-                <Point id="5072">
+                <Point id="4936">
                     <coordinates>121.497351,24.99286,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5075">
+            <Placemark id="4939">
                 <name>桃園市立大溪木藝生態博物館</name>
                 <description>ID: 20260315_桃園市立大溪木藝生態博物館
 </description>
-                <Point id="5074">
+                <Point id="4938">
                     <coordinates>121.286666,24.88101,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5077">
-                <name>榮華大壩</name>
-                <description>ID: 20260518_lanyang_ronghua_dam
-</description>
-                <Point id="5076">
-                    <coordinates>121.350833,24.736944,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5079">
+            <Placemark id="4941">
                 <name>槓仔寮砲台</name>
                 <description>ID: 20260315_槓仔寮砲台
 </description>
-                <Point id="5078">
+                <Point id="4940">
                     <coordinates>121.779959335074,25.1446212545836,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5081">
-                <name>樟樹灣渡 (古)</name>
-                <description>ID: 20260223_hsinchu_3289_樟樹灣渡
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 樟樹灣 (汐止街)
-
-=== 史料記載 ===
-[志二建置志] 樟樹灣渡，廳北百五十二里石碇堡以上六渡俱峰仔峙下流。...</description>
-                <Point id="5080">
-                    <coordinates>121.63063870954447,25.062850339375323,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5083">
-                <name>樟樹灣莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3015_樟樹灣莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 樟樹灣 (汐止街)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東石碇堡一十四莊東接內山：樟樹灣莊距城百三十五里、叭嗹港莊百三十八里、水返腳街百四十里、康誥坑莊百四十里、保長坑莊百四十二里、五堵莊百四十五里、六堵莊百四十七里、七堵莊百五十里、八堵莊百五十餘里...
-[志二建置志] 城南後壟堡三十三莊西臨海：山仔頂莊距城三十五里、百三莊三十六里、圓寶莊三十六里、後壟街四十里、大莊四十里、海豐莊四十二里、溝仔背莊四十二里、新港埔莊四十里、車路頭莊四十二里、田寮莊四十五里、西山莊四十...</description>
-                <Point id="5082">
-                    <coordinates>121.63063870954447,25.062850339375323,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5085">
-                <name>樟樹窟莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2935_樟樹窟莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 樟樹窟 (鶯歌庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東海山堡一十七莊東北接內山生番界：風櫃店莊距城百一十里、潭底莊百一十五里、山仔腳莊百十里、樟樹窟莊百零六里、南靖厝莊百里、尖山莊九十里、鷹哥石莊九十里、大湖莊八十五里、二甲九九十里、莊中莊九十里...</description>
-                <Point id="5084">
-                    <coordinates>121.36592381991673,24.956598285728447,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5087">
+            <Placemark id="4943">
                 <name>樹林太平橋碑</name>
                 <description>ID: 20260315_樹林太平橋碑
 </description>
-                <Point id="5086">
+                <Point id="4942">
                     <coordinates>121.418888499274,24.984198610698662,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5089">
+            <Placemark id="4945">
                 <name>樹林後村圳改修碑及水汴頭</name>
                 <description>ID: 20260315_樹林後村圳改修碑及水汴頭
 </description>
-                <Point id="5088">
+                <Point id="4944">
                     <coordinates>121.425742,24.980201,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5091">
+            <Placemark id="4947">
                 <name>樹林抗日先烈十三公紀念墓園</name>
                 <description>ID: 20260315_樹林抗日先烈十三公紀念墓園
 </description>
-                <Point id="5090">
+                <Point id="4946">
                     <coordinates>121.430175539519,24.9986635812416,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5093">
+            <Placemark id="4949">
                 <name>機器局第五號倉庫</name>
                 <description>ID: 20260315_機器局第五號倉庫
 </description>
-                <Point id="5092">
+                <Point id="4948">
                     <coordinates>121.509026,25.049321,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5095">
-                <name>橫溪渡 (古)</name>
-                <description>ID: 20260223_hsinchu_3277_橫溪渡
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 橫溪 (三峽庄)
-
-=== 史料記載 ===
-[志二建置志] 橫溪渡，廳東北百十五里海山堡。...</description>
-                <Point id="5094">
-                    <coordinates>121.39380610002047,24.93193499734094,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5097">
-                <name>橫溪莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2942_橫溪莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 橫溪 (三峽庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東海山堡一十七莊東北接內山生番界：風櫃店莊距城百一十里、潭底莊百一十五里、山仔腳莊百十里、樟樹窟莊百零六里、南靖厝莊百里、尖山莊九十里、鷹哥石莊九十里、大湖莊八十五里、二甲九九十里、莊中莊九十里...</description>
-                <Point id="5096">
-                    <coordinates>121.39380610002047,24.93193499734094,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5099">
+            <Placemark id="4951">
                 <name>欽差行臺</name>
                 <description>ID: 20260315_欽差行臺
 </description>
-                <Point id="5098">
+                <Point id="4950">
                     <coordinates>121.508655,25.0310042,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5101">
+            <Placemark id="4953">
                 <name>歸綏街文萌樓</name>
                 <description>ID: 20260315_歸綏街文萌樓
 </description>
-                <Point id="5100">
+                <Point id="4952">
                     <coordinates>121.5147755,25.0584192,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5103">
+            <Placemark id="4955">
                 <name>殷海光故居</name>
                 <description>ID: 20260315_殷海光故居
 </description>
-                <Point id="5102">
+                <Point id="4954">
                     <coordinates>121.531995,25.0241829,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5105">
+            <Placemark id="4957">
                 <name>永和網溪別墅</name>
                 <description>ID: 20260315_永和網溪別墅
 </description>
-                <Point id="5104">
+                <Point id="4956">
                     <coordinates>121.51693,25.015868,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5107">
+            <Placemark id="4959">
                 <name>永樂町派出所(迪化街1段260號)</name>
                 <description>ID: 20260315_永樂町派出所(迪化街1段260號)
 </description>
-                <Point id="5106">
+                <Point id="4958">
                     <coordinates>121.50926,25.060414,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5109">
+            <Placemark id="4961">
                 <name>汐止茄苳腳臺灣鐵路遺蹟</name>
                 <description>ID: 20260315_汐止茄苳腳臺灣鐵路遺蹟
 </description>
-                <Point id="5108">
+                <Point id="4960">
                     <coordinates>121.664375488447,25.0705988830107,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5111">
-                <name>沙崙莊 (古)</name>
-                <description>ID: 20260223_hsinchu_832_沙崙莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 沙崙 (淡水街)
-
-=== 史料記載 ===
-[目錄] 沙崙莊在縣西北四里。戶三十五，丁口三百一十九。...
-[目錄] 沙崙莊在縣北八十里。戶三十二，丁口一百七十。...
-[列傳四列女] 陳燦娘，沙崙莊財女，水田蕭願妻。年二十八寡，卒年四十八。停柩宅中，左右火發，獨氏宅存。...
-[列傳四列女] 杜■〈毛上火下〉娘，竹仔崙德成女，沙崙莊楊文通繼室。年三十二，夫歿，既殯，亦自經死。咸豐五年事。...
-[●竹城沿革] 貓兒錠、崁頂後、竹圍仔、崁仔下、大丘園、松柏樹下、番仔湖、吳厝莊、下番仔湖、新莊仔、福興圓山仔、外湖莊、青埔莊、青埔後湖、圓山仔、甲頭厝、新莊下莊、圓笨莊、三座厝、上石排嶺、赤牛欄思仔、紅尾港後湖、蚵...</description>
-                <Point id="5110">
-                    <coordinates>121.4104518188504,25.186441383395277,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5113">
+            <Placemark id="4963">
                 <name>泰山大窠坑新築道路記念碑</name>
                 <description>ID: 20260315_泰山大窠坑新築道路記念碑
 </description>
-                <Point id="5112">
+                <Point id="4962">
                     <coordinates>121.404813224306,25.0564497632829,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5115">
+            <Placemark id="4965">
                 <name>泰山李石樵故居</name>
                 <description>ID: 20260315_泰山李石樵故居
 </description>
-                <Point id="5114">
+                <Point id="4964">
                     <coordinates>121.436266,25.040093,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5117">
+            <Placemark id="4967">
                 <name>海山神社殘蹟</name>
                 <description>ID: 20260315_海山神社殘蹟
 </description>
-                <Point id="5116">
+                <Point id="4966">
                     <coordinates>121.478903683824,25.0047268473336,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5119">
+            <Placemark id="4969">
                 <name>淡水外僑墓園</name>
                 <description>ID: 20260315_淡水外僑墓園
 </description>
-                <Point id="5118">
+                <Point id="4968">
                     <coordinates>121.437964760547,25.176969707482,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5121">
+            <Placemark id="4971">
                 <name>淡水崎仔頂施家古厝</name>
                 <description>ID: 20260315_淡水崎仔頂施家古厝
 </description>
-                <Point id="5120">
+                <Point id="4970">
                     <coordinates>121.44150390583586,25.16994797042385,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5123">
+            <Placemark id="4973">
                 <name>淡水日商中野宅</name>
                 <description>ID: 20260315_淡水日商中野宅
 </description>
-                <Point id="5122">
+                <Point id="4972">
                     <coordinates>121.43674345551,25.1729095281349,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5125">
+            <Placemark id="4975">
                 <name>淡水氣候觀測所</name>
                 <description>ID: 20260315_淡水氣候觀測所
 </description>
-                <Point id="5124">
+                <Point id="4974">
                     <coordinates>121.449246730591,25.1646071747579,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5127">
+            <Placemark id="4977">
                 <name>淡水水上機場</name>
                 <description>ID: 20260315_淡水水上機場
 </description>
-                <Point id="5126">
+                <Point id="4976">
                     <coordinates>121.446636693705,25.164411096162,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5129">
+            <Placemark id="4979">
                 <name>淡水海關碼頭</name>
                 <description>ID: 20260315_淡水海關碼頭
 </description>
-                <Point id="5128">
+                <Point id="4978">
                     <coordinates>121.431852157263,25.1746737525711,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5131">
+            <Placemark id="4981">
                 <name>淡水福佑宮</name>
                 <description>ID: 20260315_淡水福佑宮
 </description>
-                <Point id="5130">
+                <Point id="4980">
                     <coordinates>121.439844432723,25.1701177452502,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5133">
+            <Placemark id="4983">
                 <name>淡水禮拜堂</name>
                 <description>ID: 20260315_淡水禮拜堂
 </description>
-                <Point id="5132">
+                <Point id="4982">
                     <coordinates>121.438406731929,25.1718805573663,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5135">
+            <Placemark id="4985">
                 <name>淡水紅毛城</name>
                 <description>ID: 20260315_淡水紅毛城
 </description>
-                <Point id="5134">
+                <Point id="4984">
                     <coordinates>121.432983389911,25.1752887242875,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5137">
+            <Placemark id="4987">
                 <name>淡水臺銀日式宿舍</name>
                 <description>ID: 20260315_淡水臺銀日式宿舍
 </description>
-                <Point id="5136">
+                <Point id="4986">
                     <coordinates>121.434773,25.173657,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5139">
+            <Placemark id="4989">
                 <name>淡水街長多田榮吉故居</name>
                 <description>ID: 20260315_淡水街長多田榮吉故居
 </description>
-                <Point id="5138">
+                <Point id="4988">
                     <coordinates>121.43731182418736,25.17328890173273,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5141">
+            <Placemark id="4991">
                 <name>淡水重建街14號街屋</name>
                 <description>ID: 20260315_淡水重建街14號街屋
 </description>
-                <Point id="5140">
+                <Point id="4990">
                     <coordinates>121.440117157479,25.1708254223416,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5143">
+            <Placemark id="4993">
                 <name>淡水重建街16號街屋</name>
                 <description>ID: 20260315_淡水重建街16號街屋
 </description>
-                <Point id="5142">
+                <Point id="4992">
                     <coordinates>121.440140318663,25.1707842553877,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5145">
+            <Placemark id="4995">
                 <name>淡水龍山寺</name>
                 <description>ID: 20260315_淡水龍山寺
 </description>
-                <Point id="5144">
+                <Point id="4994">
                     <coordinates>121.44213222223772,25.170037864535153,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5147">
+            <Placemark id="4997">
                 <name>深坑黃氏永安居</name>
                 <description>ID: 20260315_深坑黃氏永安居
 </description>
-                <Point id="5146">
+                <Point id="4996">
                     <coordinates>121.610927,25.001062,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5149">
+            <Placemark id="4999">
                 <name>深坑黃氏興順居</name>
                 <description>ID: 20260315_深坑黃氏興順居
 </description>
-                <Point id="5148">
+                <Point id="4998">
                     <coordinates>121.61514711090884,25.002418595720076,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5151">
-                <name>深澳坑 (古)</name>
-                <description>ID: 20260223_hsinchu_3747_深澳坑
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 深澳 (瑞芳庄)
-
-=== 史料記載 ===
-[志三賦役志] 深澳坑，周圍五里，距雞籠街八里、海口七里。凡六洞，現開五、閉歇一。...</description>
-                <Point id="5150">
-                    <coordinates>121.8061233816997,25.12608305815483,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5153">
-                <name>深澳莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2984_深澳莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 深澳 (瑞芳庄)
-
-=== 史料記載 ===
-[志二建置志] 城外兼東芝蘭堡三十二莊東北接噶瑪蘭界、西北臨海：劍潭莊距城百二十里、內湖莊百二十五里、角角溝百三十里、有臘莊百三十五里、芝蘭街百二十五里、毛少翁社百二十七里、淇裏岸莊百三十五里、北投社百三十五里、嗄嘮...</description>
-                <Point id="5152">
-                    <coordinates>121.8061233816997,25.12608305815483,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5155">
-                <name>深窩莊 (古)</name>
-                <description>ID: 20260223_hsinchu_948_深窩莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 坡內坑 (深坑庄)
-
-=== 史料記載 ===
-[目錄] 深窩莊在縣東三十里。戶二十，丁口一百二十五。...</description>
-                <Point id="5154">
-                    <coordinates>121.57644401803762,24.999224827400024,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5157">
+            <Placemark id="5001">
                 <name>清代機器局遺構</name>
                 <description>ID: 20260315_清代機器局遺構
 </description>
-                <Point id="5156">
+                <Point id="5000">
                     <coordinates>121.5105182,25.0506667,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5159">
+            <Placemark id="5003">
                 <name>清真寺</name>
                 <description>ID: 20260315_清真寺
 </description>
-                <Point id="5158">
+                <Point id="5002">
                     <coordinates>121.534195,25.0279341,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5161">
-                <name>港子嘴莊 (古)</name>
-                <description>ID: 20260223_hsinchu_1066_港子嘴莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 港子嘴 (板橋庄)
-
-=== 史料記載 ===
-[目錄] 港子嘴莊在縣北六十五里。戶二十二，丁口一百五十八。...</description>
-                <Point id="5160">
-                    <coordinates>121.4752812195549,25.025259284335945,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5163">
-                <name>湳子莊 (古)</name>
-                <description>ID: 20260223_hsinchu_743_湳子莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 湳子 (板橋庄)
-
-=== 史料記載 ===
-[目錄] 湳子莊一作南雅莊在縣北三里。戶七十四，丁口三百五十二。...
-[目錄] 湳子莊在縣北七十五里。戶一十七，丁口一百四十三。...
-[目錄] 萬年橋舊名湳子橋在縣北二里湳子溝，為南北往來孔道、縣城適湳子舊社各莊之所。長一丈八尺，寬八尺。嘉慶間，竹塹社屯千總錢茂祖創建木橋，並於橋南北各砌石塊為路，共計長一里許。道光二十二年，舊橋朽壞，郊鋪金長...
-[目錄] 湳子莊萬年橋碑...</description>
-                <Point id="5162">
-                    <coordinates>121.44500379766298,25.002218501898824,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5165">
-                <name>溪洲底莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3013_溪洲底莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 溪洲底 (士林庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東大加臘堡一十六莊：艋舺下嵌莊距城百十里、三板橋莊百十三里、古亭莊百十五里、大灣莊百十六里、林口莊百七十里、上陂頭莊百十七里、錫口街百二十二里、新南莊百二十七里、南港仔街百三十里、搭搭攸莊百二十...
-[列傳四列女] 郭井娘，溪洲底莊珍女，加蠟仔莊石陽妻。年二十六寡，現年五十四，子一。...</description>
-                <Point id="5164">
-                    <coordinates>121.48128976631718,25.105361843491096,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5167">
-                <name>溪洲莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3101_溪洲莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 溪洲 (板橋庄)
-
-=== 史料記載 ===
-[志二建置志] 城南後壟堡三十三莊西臨海：山仔頂莊距城三十五里、百三莊三十六里、圓寶莊三十六里、後壟街四十里、大莊四十里、海豐莊四十二里、溝仔背莊四十二里、新港埔莊四十里、車路頭莊四十二里、田寮莊四十五里、西山莊四十...
-[列傳四列女] 黃束娘，苦苓腳莊賀女，溪洲莊王宰妻。年二十一寡，卒年五十六。...
-[●竹城沿革] 隙仔溪、油車港、十塊寮、楊寮埔、蟹仔埔、槺榔莊、新莊仔、魚寮、麻園、外田心仔、下鬥崙、番仔埤、南仔莊、豆仔埔、中鬥崙、紅毛田、番仔寮、湳仔莊、新社莊、溪洲莊、過港莊、金門厝、苦苓腳、楊寮莊、虎仔山、拔...</description>
-                <Point id="5166">
-                    <coordinates>121.42343986516157,24.98435473540195,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5169">
-                <name>溪洲隘 (古)</name>
-                <description>ID: 20260223_hsinchu_2728_溪洲隘
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 溪洲 (板橋庄)
-
-=== 史料記載 ===
-[志二建置志] 溪洲隘，民隘。在桃澗堡內山橫崗，距城東六十里大坪隘之北。今設隘丁十名。...</description>
-                <Point id="5168">
-                    <coordinates>121.42343986516157,24.98435473540195,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5171">
+            <Placemark id="5005">
                 <name>滬尾偕醫館</name>
                 <description>ID: 20260315_滬尾偕醫館
 </description>
-                <Point id="5170">
+                <Point id="5004">
                     <coordinates>121.43854084525218,25.17176727891315,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5173">
+            <Placemark id="5007">
                 <name>滬尾小學校禮堂</name>
                 <description>ID: 20260315_滬尾小學校禮堂
 </description>
-                <Point id="5172">
+                <Point id="5006">
                     <coordinates>121.439464,25.172912,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5175">
+            <Placemark id="5009">
                 <name>滬尾水道</name>
                 <description>ID: 20260315_滬尾水道
 </description>
-                <Point id="5174">
+                <Point id="5008">
                     <coordinates>121.46502,25.17478,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5177">
+            <Placemark id="5011">
                 <name>滬尾湖南勇古墓</name>
                 <description>ID: 20260315_滬尾湖南勇古墓
 </description>
-                <Point id="5176">
+                <Point id="5010">
                     <coordinates>121.449585953691,25.1656962547544,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5179">
+            <Placemark id="5013">
                 <name>滬尾礮臺</name>
                 <description>ID: 20260315_滬尾礮臺
 </description>
-                <Point id="5178">
+                <Point id="5012">
                     <coordinates>121.429567960167,25.1790170993222,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5181">
+            <Placemark id="5015">
                 <name>滿月圓國家森林遊樂區</name>
                 <description>ID: 20260315_滿月圓國家森林遊樂區_1
 </description>
-                <Point id="5180">
+                <Point id="5014">
                     <coordinates>121.44905985609203,24.822226122295795,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5183">
+            <Placemark id="5017">
                 <name>滿月圓國家森林遊樂區</name>
                 <description>ID: 20260315_滿月圓國家森林遊樂區
 </description>
-                <Point id="5182">
+                <Point id="5016">
                     <coordinates>121.4451832,24.8361276,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5185">
-                <name>滿月圓國家森林遊樂區 (Manyueyuan National Forest Recreation Area)</name>
-                <description>ID: 2026xxxx_tamsui_manyueyuan
-新北市三峽區有木里</description>
-                <Point id="5184">
-                    <coordinates>121.4451832,24.8361276,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5187">
+            <Placemark id="5019">
                 <name>潘宮籌墓</name>
                 <description>ID: 20260315_潘宮籌墓
 </description>
-                <Point id="5186">
+                <Point id="5018">
                     <coordinates>121.542048,25.109823,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5189">
-                <name>潭底莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2933_潭底莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 潭底 (鶯歌庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東海山堡一十七莊東北接內山生番界：風櫃店莊距城百一十里、潭底莊百一十五里、山仔腳莊百十里、樟樹窟莊百零六里、南靖厝莊百里、尖山莊九十里、鷹哥石莊九十里、大湖莊八十五里、二甲九九十里、莊中莊九十里...
-[志二建置志] 榕樹橋，廳北百二十里海山堡潭底莊。道光四年，張必榮等捐修。...</description>
-                <Point id="5188">
-                    <coordinates>121.41195231812853,24.998340474712244,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5191">
+            <Placemark id="5021">
                 <name>濟南基督長老教會</name>
                 <description>ID: 20260315_濟南基督長老教會
 </description>
-                <Point id="5190">
+                <Point id="5020">
                     <coordinates>121.51939,25.043457,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5193">
-                <name>牛埔莊 (古)</name>
-                <description>ID: 20260223_hsinchu_720_牛埔莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 牛埔 (臺北市)
-
-=== 史料記載 ===
-[目錄] 牛埔莊在縣西四里。戶一百五十九，丁口七百八十三。...
-[志二建置志] 城外西廂一十莊西臨海：隙仔莊距城二里、南勢莊三里、牛埔莊四里、茇仔林莊四里、虎仔山莊五里、浸水莊五里、三塊厝莊六里、羊寮莊六里、香山莊八里、汧水港莊十里。...
-[列傳四列女] 曾妹娘，牛埔莊婁女，魚寮莊戴忠妻。年二十四寡，卒年五十九。...
-[封域志] 隆恩牛埔橋在牛埔莊，距縣西三里；為西城外往香山通衢。橋長二丈有奇。牛埔莊居民造。...
-[●竹城沿革] 口牆圍、中隘莊、頂寮、浸水莊、內湖莊、沸水港、香山塘、香山莊、南隘莊、海山署、韭菜坑、三塊厝、牛埔莊、鹿仔坑、茄苳湖、矺仔坑、中坑、新城、豎林、八股湖、寶斗仁、深井莊、崎林莊、南坑莊、東坑莊、南坑、八...</description>
-                <Point id="5192">
-                    <coordinates>121.51459849127286,25.064291829076865,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5195">
+            <Placemark id="5023">
                 <name>牯嶺街高等官舍群</name>
                 <description>ID: 20260315_牯嶺街高等官舍群
 </description>
-                <Point id="5194">
+                <Point id="5022">
                     <coordinates>121.51776222618344,25.02763657109418,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5197">
+            <Placemark id="5025">
                 <name>獅球嶺砲台</name>
                 <description>ID: 20260315_獅球嶺砲台
 </description>
-                <Point id="5196">
+                <Point id="5024">
                     <coordinates>121.73438,25.12109,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5199">
-                <name>獅球嶺莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2989_獅球嶺莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 獅球嶺 (基隆街)
-
-=== 史料記載 ===
-[志二建置志] 城外兼東芝蘭堡三十二莊東北接噶瑪蘭界、西北臨海：劍潭莊距城百二十里、內湖莊百二十五里、角角溝百三十里、有臘莊百三十五里、芝蘭街百二十五里、毛少翁社百二十七里、淇裏岸莊百三十五里、北投社百三十五里、嗄嘮...</description>
-                <Point id="5198">
-                    <coordinates>121.7292139830757,25.123589698436938,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5201">
+            <Placemark id="5027">
                 <name>王寵惠墓園</name>
                 <description>ID: 20260315_王寵惠墓園
 </description>
-                <Point id="5200">
+                <Point id="5026">
                     <coordinates>121.545748,25.094415,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5203">
+            <Placemark id="5029">
                 <name>王義德墓</name>
                 <description>ID: 20260315_王義德墓
 </description>
-                <Point id="5202">
+                <Point id="5028">
                     <coordinates>121.598229,25.048976,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5205">
+            <Placemark id="5031">
                 <name>理學堂大書院</name>
                 <description>ID: 20260315_理學堂大書院
 </description>
-                <Point id="5204">
+                <Point id="5030">
                     <coordinates>121.434367346069,25.1759356499419,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5207">
+            <Placemark id="5033">
                 <name>瑞芳四腳亭砲台</name>
                 <description>ID: 20260315_瑞芳四腳亭砲台
 </description>
-                <Point id="5206">
+                <Point id="5032">
                     <coordinates>121.781162,25.1168,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5209">
+            <Placemark id="5035">
                 <name>瑠公圳引水石硿</name>
                 <description>ID: 20260315_瑠公圳引水石硿
 </description>
-                <Point id="5208">
+                <Point id="5034">
                     <coordinates>121.539025781252,24.9521738879501,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5211">
-                <name>番子園莊 (古)</name>
-                <description>ID: 20260223_hsinchu_804_番子園莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 番子園 (板橋庄)
-
-=== 史料記載 ===
-[目錄] 番子園莊在縣東北六里。戶二十一，丁口一百二十九。...</description>
-                <Point id="5210">
-                    <coordinates>121.43646873794444,25.0078448312537,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5213">
+            <Placemark id="5037">
                 <name>番學堂遺構</name>
                 <description>ID: 20260315_番學堂遺構
 </description>
-                <Point id="5212">
+                <Point id="5036">
                     <coordinates>121.50974581450606,25.04090636864061,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5215">
+            <Placemark id="5039">
                 <name>白榕蔭堂墓園(白崇禧將軍墓)</name>
                 <description>ID: 20260315_白榕蔭堂墓園(白崇禧將軍墓)
 </description>
-                <Point id="5214">
+                <Point id="5038">
                     <coordinates>121.5616282,25.0178966,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5217">
-                <name>白石隘 (古)</name>
-                <description>ID: 20260223_hsinchu_4381_白石隘
-【類別】: Infrastructure
-【對合來源】: MOI_Historic_Settlement
-【對合地名】: 白石 (新竹縣尖石鄉)
-
-=== 史料記載 ===
-[附錄二文征下] 近查大姑嵌墾地最多，漸漸墾闢，可以直達山後。查三層埔，曰草嶺寮、牛角壟寮、舊腦寮龍過脈寮，計隘丁十四名。霄崙下嵌九隘：曰微斜路寮、弸崗嵌寮、牛浴窟寮、茅埔寮、加冬坑寮、石厝坑寮、石峽寮、白石關寮、九芎...</description>
-                <Point id="5216">
-                    <coordinates>121.2181,24.5552,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5219">
+            <Placemark id="5041">
                 <name>白色恐怖景美紀念園區</name>
                 <description>ID: 20260315_白色恐怖景美紀念園區
 </description>
-                <Point id="5218">
+                <Point id="5040">
                     <coordinates>121.532322,24.988122,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5221">
+            <Placemark id="5043">
                 <name>監察院</name>
                 <description>ID: 20260315_監察院
 </description>
-                <Point id="5220">
+                <Point id="5042">
                     <coordinates>121.51989,25.045425,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5223">
-                <name>石厝坑 (古)</name>
-                <description>ID: 20260223_hsinchu_4407_石厝坑
-【類別】: Location
-【對合來源】: MOI_Historic_Settlement
-【對合地名】: 石厝坑 (桃園市大溪區)
-
-=== 史料記載 ===
-[附錄二文征下] 近查大姑嵌墾地最多，漸漸墾闢，可以直達山後。查三層埔，曰草嶺寮、牛角壟寮、舊腦寮龍過脈寮，計隘丁十四名。霄崙下嵌九隘：曰微斜路寮、弸崗嵌寮、牛浴窟寮、茅埔寮、加冬坑寮、石厝坑寮、石峽寮、白石關寮、九芎...</description>
-                <Point id="5222">
-                    <coordinates>121.3049,24.8553,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5225">
-                <name>石碇堡 (古)</name>
-                <description>ID: 20260223_hsinchu_3697_石碇堡
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 員潭仔坑 (石碇庄)
-
-=== 史料記載 ===
-[志三賦役志] 道光二十一年，同知曹謹編查戶口：廳治城廂八千五百二十三丁口，城南四堡一萬三千一百三十丁口，城南三堡八千七百三十二丁口，城南二堡一萬四千一百五十八丁口，城南一堡一萬二千三百八十二丁口，城北一堡一萬八千九...
-[志三賦役志] 石碇堡暖暖、四腳亭，周圍一里許，暖暖距雞籠街八里，四腳亭距暖暖一十二里、溪河水口一里。凡四洞，現開。...</description>
-                <Point id="5224">
-                    <coordinates>121.65487063270783,24.991070219322086,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5227">
+            <Placemark id="5045">
                 <name>石門水庫風景特定區</name>
                 <description>ID: 20260315_石門水庫風景特定區
 </description>
-                <Point id="5226">
+                <Point id="5044">
                     <coordinates>121.24732412764703,24.811308053419168,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5229">
-                <name>石頭溪莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2944_石頭溪莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 石頭溪 (鶯歌庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東海山堡一十七莊東北接內山生番界：風櫃店莊距城百一十里、潭底莊百一十五里、山仔腳莊百十里、樟樹窟莊百零六里、南靖厝莊百里、尖山莊九十里、鷹哥石莊九十里、大湖莊八十五里、二甲九九十里、莊中莊九十里...</description>
-                <Point id="5228">
-                    <coordinates>121.39104972630763,24.95758050373027,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5231">
+            <Placemark id="5047">
                 <name>碧潭吊橋</name>
                 <description>ID: 20260315_碧潭吊橋
 </description>
-                <Point id="5230">
+                <Point id="5046">
                     <coordinates>121.535696,24.956257,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5233">
+            <Placemark id="5049">
                 <name>碧潭與青潭水源地 (Bitan and Qingtan Water Source)</name>
                 <description>ID: 2026xxxx_tamsui_bitan
 新北市新店區新店溪</description>
-                <Point id="5232">
+                <Point id="5048">
                     <coordinates>121.54594,24.94781,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5235">
+            <Placemark id="5051">
                 <name>社子島島頭公園 (Shezi Island Tip)</name>
                 <description>ID: 2026xxxx_tamsui_shezi
 台北市士林區延平北路九段</description>
-                <Point id="5234">
+                <Point id="5050">
                     <coordinates>121.4646,25.1118,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5237">
-                <name>社後莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3050_社後莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 社後 (板橋庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東擺接堡一十七莊東北連內山生番界：加蠟仔莊距城百十五里、港仔嘴莊百十五里、芎蕉腳莊百十八里、龜崙蘭莊百十七里、枋寮街百十七里、新埔墘莊百十八里、南勢角莊百二十里、後埔莊百二十里、員山仔莊百二十八...</description>
-                <Point id="5236">
-                    <coordinates>121.44626402375596,25.021205673702845,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5239">
+            <Placemark id="5053">
                 <name>福州街11號日式宿舍</name>
                 <description>ID: 20260315_福州街11號日式宿舍
 </description>
-                <Point id="5238">
+                <Point id="5052">
                     <coordinates>121.519745,25.0297239,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5241">
-                <name>福德社 (古)</name>
-                <description>ID: 20260223_hsinchu_5751_福德社
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 福德坑 (三峽庄)
-
-=== 史料記載 ===
-[學校志] 福德社一在頭分街管內田寮莊。道光十七年建。廟宇九合七勺、地基......。一在上東興莊。乾隆三年建。廟宇二坪二合五勺、地基一百零四坪。一在後莊。道光二十五年建。廟宇二坪四合四勺、地基二十六坪。一在土牛...</description>
-                <Point id="5240">
-                    <coordinates>121.33517328940603,24.91564943044462,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5243">
+            <Placemark id="5055">
                 <name>福生堂醫院</name>
                 <description>ID: 20260315_福生堂醫院
 </description>
-                <Point id="5242">
+                <Point id="5054">
                     <coordinates>121.510786,25.057704,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5245">
-                <name>秀朗社 (古)</name>
-                <description>ID: 20260223_hsinchu_3028_秀朗社
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 秀朗 (中和庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東拳山堡一十四莊東北接內山生番界：公館街距城百二十里、溪仔口莊百二十五里、大坪林莊百三十里、秀朗社百二十里、暗坑仔莊百二十五里、青潭莊百三十五里、十五分莊百二十五里、內湖莊百二十八里、木柵莊百三...</description>
-                <Point id="5244">
-                    <coordinates>121.51592877969301,25.00118795814991,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5247">
+            <Placemark id="5057">
                 <name>空軍總司令部(原臺灣總督府工業研究所)</name>
                 <description>ID: 20260315_空軍總司令部(原臺灣總督府工業研究所)
 </description>
-                <Point id="5246">
+                <Point id="5056">
                     <coordinates>121.539854,25.039168,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5249">
+            <Placemark id="5059">
                 <name>立法院(原臺北州立第二高等女學校)</name>
                 <description>ID: 20260315_立法院(原臺北州立第二高等女學校)
 </description>
-                <Point id="5248">
+                <Point id="5058">
                     <coordinates>121.5195803,25.0439998,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5251">
+            <Placemark id="5061">
                 <name>紀州庵</name>
                 <description>ID: 20260315_紀州庵
 </description>
-                <Point id="5250">
+                <Point id="5060">
                     <coordinates>121.520369,25.021114,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5253">
+            <Placemark id="5063">
                 <name>紅毛城</name>
                 <description>ID: 20260315_紅毛城
 </description>
-                <Point id="5252">
+                <Point id="5062">
                     <coordinates>121.4327664,25.175368,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5255">
-                <name>紅瓦厝莊 (古)</name>
-                <description>ID: 20260223_hsinchu_1020_紅瓦厝莊
-【類別】: Location
-【對合來源】: MOI_Historic_Settlement
-【對合地名】: 紅瓦厝 (桃園市大溪區)
-
-=== 史料記載 ===
-[目錄] 紅瓦厝莊在縣北四十里。戶九十六，丁口九百三十八。...</description>
-                <Point id="5254">
-                    <coordinates>121.299,24.8656,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5257">
+            <Placemark id="5065">
                 <name>紫藤廬</name>
                 <description>ID: 20260315_紫藤廬
 </description>
-                <Point id="5256">
+                <Point id="5064">
                     <coordinates>121.534306,25.02462,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5259">
+            <Placemark id="5067">
                 <name>總督府山林課宿舍</name>
                 <description>ID: 20260315_總督府山林課宿舍
 </description>
-                <Point id="5258">
+                <Point id="5066">
                     <coordinates>121.5277296362754,25.027938292650717,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5261">
+            <Placemark id="5069">
                 <name>總督府農業試驗所昆蟲部</name>
                 <description>ID: 20260315_總督府農業試驗所昆蟲部
 </description>
-                <Point id="5260">
+                <Point id="5068">
                     <coordinates>121.54019,25.01096,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5263">
+            <Placemark id="5071">
                 <name>總統府</name>
                 <description>ID: 20260315_總統府
 </description>
-                <Point id="5262">
+                <Point id="5070">
                     <coordinates>121.512481,25.03997,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5265">
+            <Placemark id="5073">
                 <name>義芳居古厝</name>
                 <description>ID: 20260315_義芳居古厝
 </description>
-                <Point id="5264">
+                <Point id="5072">
                     <coordinates>121.547304,25.0115119,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5267">
+            <Placemark id="5075">
                 <name>老松國小</name>
                 <description>ID: 20260315_老松國小
 </description>
-                <Point id="5266">
+                <Point id="5074">
                     <coordinates>121.502725,25.038046,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5269">
+            <Placemark id="5077">
                 <name>臨沂街71巷33號日式住宅</name>
                 <description>ID: 20260315_臨沂街71巷33號日式住宅
 </description>
-                <Point id="5268">
+                <Point id="5076">
                     <coordinates>121.5304349340435,25.03558172430388,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5271">
+            <Placemark id="5079">
                 <name>臨濟護國禪寺</name>
                 <description>ID: 20260315_臨濟護國禪寺
 </description>
-                <Point id="5270">
+                <Point id="5078">
                     <coordinates>121.5206333,25.0724293,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5273">
+            <Placemark id="5081">
                 <name>自由之家</name>
                 <description>ID: 20260315_自由之家
 </description>
-                <Point id="5272">
+                <Point id="5080">
                     <coordinates>121.511694,25.034833,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5275">
+            <Placemark id="5083">
                 <name>臺北公會堂</name>
                 <description>ID: 20260315_臺北公會堂
 </description>
-                <Point id="5274">
+                <Point id="5082">
                     <coordinates>121.510127,25.043108,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5277">
+            <Placemark id="5085">
                 <name>臺北孔子廟</name>
                 <description>ID: 20260315_臺北孔子廟
 </description>
-                <Point id="5276">
+                <Point id="5084">
                     <coordinates>121.5161793,25.0727623,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5279">
+            <Placemark id="5087">
                 <name>臺北工業學校紅樓</name>
                 <description>ID: 20260315_臺北工業學校紅樓
 </description>
-                <Point id="5278">
+                <Point id="5086">
                     <coordinates>121.534547,25.043201,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5281">
+            <Placemark id="5089">
                 <name>臺北市政府消防局防災科學教育館</name>
                 <description>ID: 20260315_臺北市政府消防局防災科學教育館
 </description>
-                <Point id="5280">
+                <Point id="5088">
                     <coordinates>121.590338,25.06935,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5283">
+            <Placemark id="5091">
                 <name>臺北市政府舊廈(原建成小學校)</name>
                 <description>ID: 20260315_臺北市政府舊廈(原建成小學校)
 </description>
-                <Point id="5282">
+                <Point id="5090">
                     <coordinates>121.5189745,25.0507246,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5285">
+            <Placemark id="5093">
                 <name>臺北市政府衛生局舊址</name>
                 <description>ID: 20260315_臺北市政府衛生局舊址
 </description>
-                <Point id="5284">
+                <Point id="5092">
                     <coordinates>121.520692,25.050205,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5287">
+            <Placemark id="5095">
                 <name>臺北市立動物園</name>
                 <description>ID: 20260315_臺北市立動物園
 </description>
-                <Point id="5286">
+                <Point id="5094">
                     <coordinates>121.581025,24.998556,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5289">
+            <Placemark id="5097">
                 <name>臺北市立天文科學教育館</name>
                 <description>ID: 20260315_臺北市立天文科學教育館
 </description>
-                <Point id="5288">
+                <Point id="5096">
                     <coordinates>121.518299,25.095829,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5291">
+            <Placemark id="5099">
                 <name>臺北市立美術館</name>
                 <description>ID: 20260315_臺北市立美術館
 </description>
-                <Point id="5290">
+                <Point id="5098">
                     <coordinates>121.524808,25.072415,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5293">
+            <Placemark id="5101">
                 <name>臺北府城—東門、南門、小南門、北門</name>
                 <description>ID: 20260315_臺北府城—東門、南門、小南門、北門
 </description>
-                <Point id="5292">
+                <Point id="5100">
                     <coordinates>121.508138958664,25.0369019523157,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5295">
+            <Placemark id="5103">
                 <name>臺北撫臺街洋樓</name>
                 <description>ID: 20260315_臺北撫臺街洋樓
 </description>
-                <Point id="5294">
+                <Point id="5102">
                     <coordinates>121.51076694251458,25.046753712776763,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5297">
+            <Placemark id="5105">
                 <name>臺北放送局</name>
                 <description>ID: 20260315_臺北放送局
 </description>
-                <Point id="5296">
+                <Point id="5104">
                     <coordinates>121.51561,25.040383,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5299">
+            <Placemark id="5107">
                 <name>臺北植物園腊葉館</name>
                 <description>ID: 20260315_臺北植物園腊葉館
 </description>
-                <Point id="5298">
+                <Point id="5106">
                     <coordinates>121.508655,25.0310042,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5301">
+            <Placemark id="5109">
                 <name>臺北機廠</name>
                 <description>ID: 20260315_臺北機廠
 </description>
-                <Point id="5300">
+                <Point id="5108">
                     <coordinates>121.563142,25.047006,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5303">
+            <Placemark id="5111">
                 <name>臺北水道水源地</name>
                 <description>ID: 20260315_臺北水道水源地
 </description>
-                <Point id="5302">
+                <Point id="5110">
                     <coordinates>121.5300049,25.0125415,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5305">
+            <Placemark id="5113">
                 <name>臺北監獄圍牆遺蹟</name>
                 <description>ID: 20260315_臺北監獄圍牆遺蹟
 </description>
-                <Point id="5304">
+                <Point id="5112">
                     <coordinates>121.526182,25.032072,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5307">
+            <Placemark id="5115">
                 <name>臺北第一高女</name>
                 <description>ID: 20260315_臺北第一高女
 </description>
-                <Point id="5306">
+                <Point id="5114">
                     <coordinates>121.513015,25.038606,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5309">
+            <Placemark id="5117">
                 <name>臺北第三高女(中山女中)</name>
                 <description>ID: 20260315_臺北第三高女(中山女中)
 </description>
-                <Point id="5308">
+                <Point id="5116">
                     <coordinates>121.5372124,25.0485124,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5311">
+            <Placemark id="5119">
                 <name>臺北賓館</name>
                 <description>ID: 20260315_臺北賓館
 </description>
-                <Point id="5310">
+                <Point id="5118">
                     <coordinates>121.515877,25.039805,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5313">
+            <Placemark id="5121">
                 <name>臺北郵局</name>
                 <description>ID: 20260315_臺北郵局
 </description>
-                <Point id="5312">
+                <Point id="5120">
                     <coordinates>121.51203766739896,25.047462405750228,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5315">
+            <Placemark id="5123">
                 <name>臺北酒廠</name>
                 <description>ID: 20260315_臺北酒廠
 </description>
-                <Point id="5314">
+                <Point id="5122">
                     <coordinates>121.52940123795712,25.044088980459957,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5317">
+            <Placemark id="5125">
                 <name>臺大昆蟲館</name>
                 <description>ID: 20260315_臺大昆蟲館
 </description>
-                <Point id="5316">
+                <Point id="5124">
                     <coordinates>121.5405304,25.0112956,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5319">
+            <Placemark id="5127">
                 <name>臺大法學院</name>
                 <description>ID: 20260315_臺大法學院
 </description>
-                <Point id="5318">
+                <Point id="5126">
                     <coordinates>121.5250637,25.0404822,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5321">
+            <Placemark id="5129">
                 <name>臺大醫學院舊館</name>
                 <description>ID: 20260315_臺大醫學院舊館
 </description>
-                <Point id="5320">
+                <Point id="5128">
                     <coordinates>121.51889330510778,25.039430984811716,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5323">
+            <Placemark id="5131">
                 <name>臺大醫院舊館</name>
                 <description>ID: 20260315_臺大醫院舊館
 </description>
-                <Point id="5322">
+                <Point id="5130">
                     <coordinates>121.51723215332294,25.04160021705641,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5325">
+            <Placemark id="5133">
                 <name>臺灣大學原帝大校舍(舊圖書館、行政大樓、文學院)</name>
                 <description>ID: 20260315_臺灣大學原帝大校舍(舊圖書館、行政大樓、文學院)
 </description>
-                <Point id="5324">
+                <Point id="5132">
                     <coordinates>121.53676844865332,25.017710168619537,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5327">
+            <Placemark id="5135">
                 <name>臺灣大學校門</name>
                 <description>ID: 20260315_臺灣大學校門
 </description>
-                <Point id="5326">
+                <Point id="5134">
                     <coordinates>121.5397264,25.0186526,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5329">
+            <Placemark id="5137">
                 <name>臺灣師範大學原高等學校校舍（講堂、行政大樓、文薈廳、普字樓）</name>
                 <description>ID: 20260315_臺灣師範大學原高等學校校舍（講堂、行政大樓、文薈廳、普字樓）
 </description>
-                <Point id="5328">
+                <Point id="5136">
                     <coordinates>121.5274986,25.0264676,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5331">
+            <Placemark id="5139">
                 <name>臺灣戲曲中心</name>
                 <description>ID: 20260315_臺灣戲曲中心
 </description>
-                <Point id="5330">
+                <Point id="5138">
                     <coordinates>121.519087,25.102339,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5333">
+            <Placemark id="5141">
                 <name>臺灣民主紀念園區</name>
                 <description>ID: 20260315_臺灣民主紀念園區
 </description>
-                <Point id="5332">
+                <Point id="5140">
                     <coordinates>121.517699137187,25.0367036294547,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5335">
+            <Placemark id="5143">
                 <name>臺灣總督府交通局遞信部</name>
                 <description>ID: 20260315_臺灣總督府交通局遞信部
 </description>
-                <Point id="5334">
+                <Point id="5142">
                     <coordinates>121.51080892735294,25.039958033849793,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5337">
+            <Placemark id="5145">
                 <name>臺灣總督府交通局鐵道部(廳舍、八角樓男廁、戰時指揮中心、工務室、電源室、食堂)</name>
                 <description>ID: 20260315_臺灣總督府交通局鐵道部(廳舍、八角樓男廁、戰時指揮中心、工務室、電源室、食堂)
 </description>
-                <Point id="5336">
+                <Point id="5144">
                     <coordinates>121.510740615863,25.0495020942044,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5339">
+            <Placemark id="5147">
                 <name>臺灣總督府博物館</name>
                 <description>ID: 20260315_臺灣總督府博物館
 </description>
-                <Point id="5338">
+                <Point id="5146">
                     <coordinates>121.514990525448,25.0429313846194,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5341">
+            <Placemark id="5149">
                 <name>臺灣總督府電話交換局</name>
                 <description>ID: 20260315_臺灣總督府電話交換局
 </description>
-                <Point id="5340">
+                <Point id="5148">
                     <coordinates>121.511122,25.039598,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5343">
+            <Placemark id="5151">
                 <name>臺灣銀行</name>
                 <description>ID: 20260315_臺灣銀行
 </description>
-                <Point id="5342">
+                <Point id="5150">
                     <coordinates>121.512912,25.041467,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5345">
+            <Placemark id="5153">
                 <name>臺灣電力株式會社社長宿舍</name>
                 <description>ID: 20260315_臺灣電力株式會社社長宿舍
 </description>
-                <Point id="5344">
+                <Point id="5152">
                     <coordinates>121.509419,25.039849,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5347">
+            <Placemark id="5155">
                 <name>臺陽礦業公司平溪招待所</name>
                 <description>ID: 20260315_臺陽礦業公司平溪招待所
 </description>
-                <Point id="5346">
+                <Point id="5154">
                     <coordinates>121.722198,25.022536,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5349">
+            <Placemark id="5157">
                 <name>興福庄建塚記念碑</name>
                 <description>ID: 20260315_興福庄建塚記念碑
 </description>
-                <Point id="5348">
+                <Point id="5156">
                     <coordinates>121.5481007,25.002115,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5351">
+            <Placemark id="5159">
                 <name>舊總督府第二師範學校大禮堂</name>
                 <description>ID: 20260315_舊總督府第二師範學校大禮堂
 </description>
-                <Point id="5350">
+                <Point id="5158">
                     <coordinates>121.5462911,25.0245572,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5353">
+            <Placemark id="5161">
                 <name>舊高等農林學校作業室（磯永吉紀念室）</name>
                 <description>ID: 20260315_舊高等農林學校作業室（磯永吉紀念室）
 </description>
-                <Point id="5352">
+                <Point id="5160">
                     <coordinates>121.5412759,25.0151946,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5355">
+            <Placemark id="5163">
                 <name>艋舺助順將軍廟（晉德宮）</name>
                 <description>ID: 20260315_艋舺助順將軍廟（晉德宮）
 </description>
-                <Point id="5354">
+                <Point id="5162">
                     <coordinates>121.503394,25.0458809,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5357">
+            <Placemark id="5165">
                 <name>艋舺地藏庵</name>
                 <description>ID: 20260315_艋舺地藏庵
 </description>
-                <Point id="5356">
+                <Point id="5164">
                     <coordinates>121.5006844,25.0369444,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5359">
+            <Placemark id="5167">
                 <name>艋舺洪氏祖厝</name>
                 <description>ID: 20260315_艋舺洪氏祖厝
 </description>
-                <Point id="5358">
+                <Point id="5166">
                     <coordinates>121.5037439,25.0315237,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5361">
+            <Placemark id="5169">
                 <name>艋舺清水巖</name>
                 <description>ID: 20260315_艋舺清水巖
 </description>
-                <Point id="5360">
+                <Point id="5168">
                     <coordinates>121.5021374,25.0403184,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5363">
-                <name>艋舺街 (古)</name>
-                <description>ID: 20260223_hsinchu_3789_艋舺街
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 艋舺 (臺北市)
-
-=== 史料記載 ===
-[志四學校志] 竹塹城四設四城內，中港社一廢，後壟社一今廢，貓里社一今廢，吞霄社一今廢，大甲社一，新埔社一今廢，桃仔園社一廢，大姑嵌社一今廢，艋舺街二，大稻埕一以上系同治六年同知嚴金清設互詳「義倉」。塹城外二一在舊社...
-[考四祥異考] 十有八年秋七月，艋舺街火。...
-[考四祥異考] 三年夏五月，艋舺街雌雞變雄。飢。...
-[考四祥異考] 六年夏四月，艋舺街火，六月有年。冬十一月，地大震：二十三日雞籠頭金包里沿海山傾地裂，海水暴漲，屋宇傾壞，溺數百人。桃仔園火。...</description>
-                <Point id="5362">
-                    <coordinates>121.49535739701852,25.043737328744136,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5365">
+            <Placemark id="5171">
                 <name>艋舺謝宅</name>
                 <description>ID: 20260315_艋舺謝宅
 </description>
-                <Point id="5364">
+                <Point id="5170">
                     <coordinates>121.5006071,25.0408777,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5367">
+            <Placemark id="5173">
                 <name>艋舺青山宮</name>
                 <description>ID: 20260315_艋舺青山宮
 </description>
-                <Point id="5366">
+                <Point id="5172">
                     <coordinates>121.4995367,25.0399968,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5369">
+            <Placemark id="5175">
                 <name>艋舺龍山寺</name>
                 <description>ID: 20260315_艋舺龍山寺
 </description>
-                <Point id="5368">
+                <Point id="5174">
                     <coordinates>121.499934,25.036778,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5371">
+            <Placemark id="5177">
                 <name>芝山岩惠濟宮</name>
                 <description>ID: 20260315_芝山岩惠濟宮
 </description>
-                <Point id="5370">
+                <Point id="5176">
                     <coordinates>121.5307227,25.1029989,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5373">
+            <Placemark id="5179">
                 <name>芝山岩隘門</name>
                 <description>ID: 20260315_芝山岩隘門
 </description>
-                <Point id="5372">
+                <Point id="5178">
                     <coordinates>121.5307541,25.1030693,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5375">
+            <Placemark id="5181">
                 <name>芳蘭大厝</name>
                 <description>ID: 20260315_芳蘭大厝
 </description>
-                <Point id="5374">
+                <Point id="5180">
                     <coordinates>121.547946,25.013467,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5377">
+            <Placemark id="5183">
                 <name>草山御賓館</name>
                 <description>ID: 20260315_草山御賓館
 </description>
-                <Point id="5376">
+                <Point id="5182">
                     <coordinates>121.5524955,25.1507476,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5379">
+            <Placemark id="5185">
                 <name>草山教師研習中心</name>
                 <description>ID: 20260315_草山教師研習中心
 </description>
-                <Point id="5378">
+                <Point id="5184">
                     <coordinates>121.5498319,25.1504307,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5381">
+            <Placemark id="5187">
                 <name>草山水道系統</name>
                 <description>ID: 20260315_草山水道系統
 </description>
-                <Point id="5380">
+                <Point id="5186">
                     <coordinates>121.5347849,25.1594188,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5383">
-                <name>草山莊 (古)</name>
-                <description>ID: 20260223_hsinchu_766_草山莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 草山 (士林庄)
-
-=== 史料記載 ===
-[目錄] 草山莊在縣東南十六里。戶一十二，丁口五十八。...
-[●竹城沿革] 口牆圍、中隘莊、頂寮、浸水莊、內湖莊、沸水港、香山塘、香山莊、南隘莊、海山署、韭菜坑、三塊厝、牛埔莊、鹿仔坑、茄苳湖、矺仔坑、中坑、新城、豎林、八股湖、寶斗仁、深井莊、崎林莊、南坑莊、東坑莊、南坑、八...</description>
-                <Point id="5382">
-                    <coordinates>121.5487503525839,25.15137373488671,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5385">
-                <name>草店尾街 (古)</name>
-                <description>ID: 20260223_hsinchu_1141_草店尾街
-【類別】: Location
-【對合來源】: MOI_Historic_Settlement
-【對合地名】: 草店尾街 (桃園市大溪區)
-
-=== 史料記載 ===
-[目錄] 草店尾街在縣西南二十五里中港土城北門內。...</description>
-                <Point id="5384">
-                    <coordinates>121.2868,24.8858,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5387">
-                <name>莊中莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2940_莊中莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 中坑 (中和庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東海山堡一十七莊東北接內山生番界：風櫃店莊距城百一十里、潭底莊百一十五里、山仔腳莊百十里、樟樹窟莊百零六里、南靖厝莊百里、尖山莊九十里、鷹哥石莊九十里、大湖莊八十五里、二甲九九十里、莊中莊九十里...</description>
-                <Point id="5386">
-                    <coordinates>121.47793372608882,24.986932213867508,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5389">
-                <name>莊子莊 (古)</name>
-                <description>ID: 20260223_hsinchu_834_莊子莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 社子 (士林庄)
-
-=== 史料記載 ===
-[目錄] 莊子莊在縣西北五里。戶三十二，丁口一百三十五。...</description>
-                <Point id="5388">
-                    <coordinates>121.50391209341609,25.090083579645658,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5391">
+            <Placemark id="5189">
                 <name>菁桐車站</name>
                 <description>ID: 20260315_菁桐車站
 </description>
-                <Point id="5390">
+                <Point id="5188">
                     <coordinates>121.723921355572,25.0238742071232,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5393">
+            <Placemark id="5191">
                 <name>萬華林宅</name>
                 <description>ID: 20260315_萬華林宅
 </description>
-                <Point id="5392">
+                <Point id="5190">
                     <coordinates>121.498397,25.033532,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5395">
-                <name>萬順寮莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3034_萬順寮莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 萬順寮 (深坑庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東拳山堡一十四莊東北接內山生番界：公館街距城百二十里、溪仔口莊百二十五里、大坪林莊百三十里、秀朗社百二十里、暗坑仔莊百二十五里、青潭莊百三十五里、十五分莊百二十五里、內湖莊百二十八里、木柵莊百三...
-[●竹城沿革] 一、據拳山堡萬順寮莊董事胡文貨、莊正林服、莊耆陳藍、林德、黃良寬、高派貞、隘首高陽等呈請，自道光十八年起，每年配納義渡租榖四十石折繳番銀五十二元，由耕佃曾綿按年起廳完納。...</description>
-                <Point id="5394">
-                    <coordinates>121.59941702854388,25.013158303831926,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5397">
-                <name>萬順寮隘 (古)</name>
-                <description>ID: 20260223_hsinchu_2748_萬順寮隘
-【類別】: Infrastructure
-【對合來源】: 1920_Oaza
-【對合大字】: 萬順寮 (深坑庄)
-
-=== 史料記載 ===
-[志二建置志] 萬順寮隘，民隘。在拳山堡北首內山橫崗，距城東北一百四十里暗坑仔隘之北。原設隘丁十二名，今設十五名。...</description>
-                <Point id="5396">
-                    <coordinates>121.59941702854388,25.013158303831926,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5399">
+            <Placemark id="5193">
                 <name>蔡瑞月舞蹈研究社</name>
                 <description>ID: 20260315_蔡瑞月舞蹈研究社
 </description>
-                <Point id="5398">
+                <Point id="5192">
                     <coordinates>121.5219899,25.0556637,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5401">
+            <Placemark id="5195">
                 <name>蔣中正宋美齡士林官邸</name>
                 <description>ID: 20260315_蔣中正宋美齡士林官邸
 </description>
-                <Point id="5400">
+                <Point id="5194">
                     <coordinates>121.530152,25.094898,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5403">
+            <Placemark id="5197">
                 <name>藝師館</name>
                 <description>ID: 20260315_藝師館
 </description>
-                <Point id="5402">
+                <Point id="5196">
                     <coordinates>121.2866716,24.8809853,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5405">
+            <Placemark id="5199">
                 <name>蘆洲保和宮</name>
                 <description>ID: 20260315_蘆洲保和宮
 </description>
-                <Point id="5404">
+                <Point id="5198">
                     <coordinates>121.471279,25.084074,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5407">
+            <Placemark id="5201">
                 <name>蘆洲李宅</name>
                 <description>ID: 20260315_蘆洲李宅
 </description>
-                <Point id="5406">
+                <Point id="5200">
                     <coordinates>121.466658572847,25.085425992644367,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5409">
+            <Placemark id="5203">
                 <name>蘆洲陳頭北古厝</name>
                 <description>ID: 20260315_蘆洲陳頭北古厝
 </description>
-                <Point id="5408">
+                <Point id="5202">
                     <coordinates>121.461977,25.095897,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5411">
+            <Placemark id="5205">
                 <name>行政院</name>
                 <description>ID: 20260315_行政院
 </description>
-                <Point id="5410">
+                <Point id="5204">
                     <coordinates>121.520121891479,25.0457593736325,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5413">
+            <Placemark id="5207">
                 <name>衡陽路11號店屋</name>
                 <description>ID: 20260315_衡陽路11號店屋
 </description>
-                <Point id="5412">
+                <Point id="5206">
                     <coordinates>121.5136808,25.042433,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5415">
+            <Placemark id="5209">
                 <name>衡陽路13號店屋</name>
                 <description>ID: 20260315_衡陽路13號店屋
 </description>
-                <Point id="5414">
+                <Point id="5208">
                     <coordinates>121.513562,25.0424109,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5417">
+            <Placemark id="5211">
                 <name>衡陽路15號店屋</name>
                 <description>ID: 20260315_衡陽路15號店屋
 </description>
-                <Point id="5416">
+                <Point id="5210">
                     <coordinates>121.513482,25.04241,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5419">
+            <Placemark id="5213">
                 <name>衡陽路17號及重慶南路1段119號店屋</name>
                 <description>ID: 20260315_衡陽路17號及重慶南路1段119號店屋
 </description>
-                <Point id="5418">
+                <Point id="5212">
                     <coordinates>121.513408,25.042445,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5421">
+            <Placemark id="5215">
                 <name>衡陽路2號店屋</name>
                 <description>ID: 20260315_衡陽路2號店屋
 </description>
-                <Point id="5420">
+                <Point id="5214">
                     <coordinates>121.513941,25.04224,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5423">
+            <Placemark id="5217">
                 <name>衡陽路4號店屋</name>
                 <description>ID: 20260315_衡陽路4號店屋
 </description>
-                <Point id="5422">
+                <Point id="5216">
                     <coordinates>121.513853,25.042239,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5425">
+            <Placemark id="5219">
                 <name>衡陽路54號店屋</name>
                 <description>ID: 20260315_衡陽路54號店屋
 </description>
-                <Point id="5424">
+                <Point id="5218">
                     <coordinates>121.51205,25.042182,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5427">
+            <Placemark id="5221">
                 <name>衡陽路56號店屋</name>
                 <description>ID: 20260315_衡陽路56號店屋
 </description>
-                <Point id="5426">
+                <Point id="5220">
                     <coordinates>121.511998,25.042182,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5429">
+            <Placemark id="5223">
                 <name>衡陽路58號店屋</name>
                 <description>ID: 20260315_衡陽路58號店屋
 </description>
-                <Point id="5428">
+                <Point id="5222">
                     <coordinates>121.51194,25.042186,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5431">
+            <Placemark id="5225">
                 <name>衡陽路60號店屋</name>
                 <description>ID: 20260315_衡陽路60號店屋
 </description>
-                <Point id="5430">
+                <Point id="5224">
                     <coordinates>121.511882,25.042183,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5433">
+            <Placemark id="5227">
                 <name>衡陽路92號店屋</name>
                 <description>ID: 20260315_衡陽路92號店屋
 </description>
-                <Point id="5432">
+                <Point id="5226">
                     <coordinates>121.510748,25.0421309,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5435">
+            <Placemark id="5229">
                 <name>西本願寺（鐘樓、樹心會館）</name>
                 <description>ID: 20260315_西本願寺（鐘樓、樹心會館）
 </description>
-                <Point id="5434">
+                <Point id="5228">
                     <coordinates>121.50714392608658,25.040358281959016,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5437">
+            <Placemark id="5231">
                 <name>西門紅樓（原新起街市場）</name>
                 <description>ID: 20260315_西門紅樓（原新起街市場）
 </description>
-                <Point id="5436">
+                <Point id="5230">
                     <coordinates>121.5069348,25.0420652,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5439">
+            <Placemark id="5233">
                 <name>觀音禪堂</name>
                 <description>ID: 20260315_觀音禪堂
 </description>
-                <Point id="5438">
+                <Point id="5232">
                     <coordinates>121.52262803270366,25.03939539745816,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5441">
-                <name>觀音街 (古)</name>
-                <description>ID: 20260223_hsinchu_1149_觀音街
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 觀音坑 (五股庄)
-
-=== 史料記載 ===
-[目錄] 觀音街在縣北五十里。...
-[封域志] 觀音街在縣北五十里。...</description>
-                <Point id="5440">
-                    <coordinates>121.4208347997436,25.118106895531902,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5443">
+            <Placemark id="5235">
                 <name>郭宗嘏墓</name>
                 <description>ID: 20260315_郭宗嘏墓
 </description>
-                <Point id="5442">
+                <Point id="5234">
                     <coordinates>121.43230832865136,25.156481399429087,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5445">
+            <Placemark id="5237">
                 <name>郵政博物館</name>
                 <description>ID: 20260315_郵政博物館
 </description>
-                <Point id="5444">
+                <Point id="5236">
                     <coordinates>121.514765,25.031666,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5447">
+            <Placemark id="5239">
                 <name>郵政博物館臺北館</name>
                 <description>ID: 20260315_郵政博物館臺北館
 </description>
-                <Point id="5446">
+                <Point id="5238">
                     <coordinates>121.511391,25.047031,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5449">
+            <Placemark id="5241">
                 <name>鄞山寺(汀州會館)</name>
                 <description>ID: 20260315_鄞山寺(汀州會館)
 </description>
-                <Point id="5448">
+                <Point id="5240">
                     <coordinates>121.448239891607,25.1692953827687,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5451">
+            <Placemark id="5243">
                 <name>重慶南路一段104號店屋（原辻利茶舖）</name>
                 <description>ID: 20260315_重慶南路一段104號店屋（原辻利茶舖）
 </description>
-                <Point id="5450">
+                <Point id="5242">
                     <coordinates>121.513072,25.042508,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5453">
+            <Placemark id="5245">
                 <name>金字碑</name>
                 <description>ID: 20260315_金字碑
 </description>
-                <Point id="5452">
+                <Point id="5244">
                     <coordinates>121.84091380905078,25.0840720752969,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5455">
+            <Placemark id="5247">
                 <name>金義合行</name>
                 <description>ID: 20260315_金義合行
 </description>
-                <Point id="5454">
+                <Point id="5246">
                     <coordinates>121.501236,25.034266,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5457">
+            <Placemark id="5249">
                 <name>錦町日式宿舍─林務局局長舊宿舍</name>
                 <description>ID: 20260315_錦町日式宿舍─林務局局長舊宿舍
 </description>
-                <Point id="5456">
+                <Point id="5248">
                     <coordinates>121.527847,25.0299279,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5459">
+            <Placemark id="5251">
                 <name>鐵道部臺北工場車輛修理工場</name>
                 <description>ID: 20260315_鐵道部臺北工場車輛修理工場
 </description>
-                <Point id="5458">
+                <Point id="5250">
                     <coordinates>121.510679,25.049775,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5461">
+            <Placemark id="5253">
                 <name>鐵道部部長宿舍</name>
                 <description>ID: 20260315_鐵道部部長宿舍
 </description>
-                <Point id="5460">
+                <Point id="5252">
                     <coordinates>121.5083606,25.049057,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5463">
+            <Placemark id="5255">
                 <name>長榮海事博物館</name>
                 <description>ID: 20260315_長榮海事博物館
 </description>
-                <Point id="5462">
+                <Point id="5254">
                     <coordinates>121.518901,25.038695,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5465">
+            <Placemark id="5257">
                 <name>長老教會北投教堂</name>
                 <description>ID: 20260315_長老教會北投教堂
 </description>
-                <Point id="5464">
+                <Point id="5256">
                     <coordinates>121.5013699,25.1313119,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5467">
+            <Placemark id="5259">
                 <name>閻錫山墓</name>
                 <description>ID: 20260315_閻錫山墓
 </description>
-                <Point id="5466">
+                <Point id="5258">
                     <coordinates>121.5607684,25.1331932,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5469">
+            <Placemark id="5261">
                 <name>閻錫山故居</name>
                 <description>ID: 20260315_閻錫山故居
 </description>
-                <Point id="5468">
+                <Point id="5260">
                     <coordinates>121.56069811600784,25.134083447702665,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5471">
+            <Placemark id="5263">
                 <name>關渡媽祖石</name>
                 <description>ID: 20260315_關渡媽祖石
 </description>
-                <Point id="5470">
+                <Point id="5262">
                     <coordinates>121.46389428294,25.125587807961,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5473">
+            <Placemark id="5265">
                 <name>關渡宮與紅樹林區 (Guandu Temple and Mangrove Area)</name>
                 <description>ID: 2026xxxx_tamsui_guandu
 台北市北投區知行路</description>
-                <Point id="5472">
+                <Point id="5264">
                     <coordinates>121.4639554,25.1176791,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5475">
+            <Placemark id="5267">
                 <name>陳天來故居</name>
                 <description>ID: 20260315_陳天來故居
 </description>
-                <Point id="5474">
+                <Point id="5266">
                     <coordinates>121.5084909,25.0560091,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5477">
+            <Placemark id="5269">
                 <name>陳德星堂</name>
                 <description>ID: 20260315_陳德星堂
 </description>
-                <Point id="5476">
+                <Point id="5268">
                     <coordinates>121.5158641,25.0555111,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5479">
+            <Placemark id="5271">
                 <name>陳悅記祖宅(老師府)</name>
                 <description>ID: 20260315_陳悅記祖宅(老師府)
 </description>
-                <Point id="5478">
+                <Point id="5270">
                     <coordinates>121.511934,25.075541,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5481">
+            <Placemark id="5273">
                 <name>陳文瀾古墓群</name>
                 <description>ID: 20260315_陳文瀾古墓群
 </description>
-                <Point id="5480">
+                <Point id="5272">
                     <coordinates>121.58521644530248,25.085234911258173,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5483">
+            <Placemark id="5275">
                 <name>陽明山中山樓</name>
                 <description>ID: 20260315_陽明山中山樓
 </description>
-                <Point id="5482">
+                <Point id="5274">
                     <coordinates>121.5526547,25.1556188,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5485">
+            <Placemark id="5277">
                 <name>陽明山國家公園</name>
                 <description>ID: 20260315_陽明山國家公園
 </description>
-                <Point id="5484">
+                <Point id="5276">
                     <coordinates>121.53977800856492,25.15957969176076,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5487">
-                <name>雙溪莊 (古)</name>
-                <description>ID: 20260223_hsinchu_733_雙溪莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 大平 (雙溪庄)
-
-=== 史料記載 ===
-[目錄] 雙溪莊在縣南九里。戶二十八，丁口一百五十五。...
-[列傳四列女] 葉畏娘，同安庠生夢熙女，雙溪莊監生連兆熊妻。年二十五寡，現年七十五。...
-[●竹城沿革] 口牆圍、中隘莊、頂寮、浸水莊、內湖莊、沸水港、香山塘、香山莊、南隘莊、海山署、韭菜坑、三塊厝、牛埔莊、鹿仔坑、茄苳湖、矺仔坑、中坑、新城、豎林、八股湖、寶斗仁、深井莊、崎林莊、南坑莊、東坑莊、南坑、八...</description>
-                <Point id="5486">
-                    <coordinates>121.83356536029446,24.976428152798846,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5489">
+            <Placemark id="5279">
                 <name>霧裡薛圳第二支線明渠</name>
                 <description>ID: 20260315_霧裡薛圳第二支線明渠
 </description>
-                <Point id="5488">
+                <Point id="5278">
                     <coordinates>121.531644,25.025867,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5491">
-                <name>青潭莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3030_青潭莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 青潭 (新店庄)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東拳山堡一十四莊東北接內山生番界：公館街距城百二十里、溪仔口莊百二十五里、大坪林莊百三十里、秀朗社百二十里、暗坑仔莊百二十五里、青潭莊百三十五里、十五分莊百二十五里、內湖莊百二十八里、木柵莊百三...</description>
-                <Point id="5490">
-                    <coordinates>121.5724513029626,24.947952801983266,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5493">
-                <name>頂埔莊 (古)</name>
-                <description>ID: 20260223_hsinchu_908_頂埔莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 頂埔 (土城庄)
-
-=== 史料記載 ===
-[目錄] 頂埔莊在縣南二十八里。戶九十九，丁口九百一十一。...</description>
-                <Point id="5492">
-                    <coordinates>121.40806543632543,24.957143243969576,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5495">
-                <name>頂東勢莊 (古)</name>
-                <description>ID: 20260223_hsinchu_662_頂東勢莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 頂東勢 (松山庄)
-
-=== 史料記載 ===
-[目錄] 頂東勢莊在縣東三里。戶八十九，丁口五百七十一。...</description>
-                <Point id="5494">
-                    <coordinates>121.54857417176027,25.057226952996697,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5497">
+            <Placemark id="5281">
                 <name>頂泰山巖</name>
                 <description>ID: 20260315_頂泰山巖
 </description>
-                <Point id="5496">
+                <Point id="5280">
                     <coordinates>121.42357078898,25.0437547701617,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5499">
+            <Placemark id="5283">
                 <name>順益台灣原住民博物館</name>
                 <description>ID: 20260315_順益台灣原住民博物館
 </description>
-                <Point id="5498">
+                <Point id="5282">
                     <coordinates>121.5519775,25.1009689,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5501">
-                <name>頭前莊 (古)</name>
-                <description>ID: 20260223_hsinchu_3989_頭前莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 頭前 (新莊街)
-
-=== 史料記載 ===
-[列傳四列女] 林柔娘，艋舺天賜女，頭前莊陳媽德妻。年二十四寡六年舉報，年六十二。...</description>
-                <Point id="5500">
-                    <coordinates>121.45229002872296,25.05520908999195,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5503">
+            <Placemark id="5285">
                 <name>馬偕墓</name>
                 <description>ID: 20260315_馬偕墓
 </description>
-                <Point id="5502">
+                <Point id="5284">
                     <coordinates>121.437951115928,25.1769983056119,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5505">
+            <Placemark id="5287">
                 <name>鳳飛飛故事館</name>
                 <description>ID: 20260315_鳳飛飛故事館
 </description>
-                <Point id="5504">
+                <Point id="5286">
                     <coordinates>121.2872127,24.880039,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5507">
+            <Placemark id="5289">
                 <name>鶯歌汪洋居</name>
                 <description>ID: 20260315_鶯歌汪洋居
 </description>
-                <Point id="5506">
+                <Point id="5288">
                     <coordinates>121.353159987087,24.9527716755443,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5509">
+            <Placemark id="5291">
                 <name>黃氏節孝坊</name>
                 <description>ID: 20260315_黃氏節孝坊
 </description>
-                <Point id="5508">
+                <Point id="5290">
                     <coordinates>121.51584697072482,25.04304953721744,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5511">
+            <Placemark id="5293">
                 <name>齊東街日式宿舍</name>
                 <description>ID: 20260315_齊東街日式宿舍
 </description>
-                <Point id="5510">
+                <Point id="5292">
                     <coordinates>121.5287991,25.0415992,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5513">
+            <Placemark id="5295">
                 <name>龍安坡黃宅濂讓居</name>
                 <description>ID: 20260315_龍安坡黃宅濂讓居
 </description>
-                <Point id="5512">
+                <Point id="5294">
                     <coordinates>121.5391574,25.0238754,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="5515">
+            <Placemark id="5297">
                 <name>龜崙嶺鐵道橋遺構</name>
                 <description>ID: 20260315_龜崙嶺鐵道橋遺構
 </description>
-                <Point id="5514">
+                <Point id="5296">
                     <coordinates>121.392367844869,25.015839088321,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5517">
-                <name>龜崙蘭溪洲莊 (古)</name>
-                <description>ID: 20260223_hsinchu_4023_龜崙蘭溪洲莊
-【類別】: Location
-【對合來源】: 1920_Oaza
-【對合大字】: 龜崙蘭溪洲 (中和庄)
-
-=== 史料記載 ===
-[列傳四列女] 許鴦娘，龜崙蘭溪洲莊居女，加蠟仔莊石返妻。年二十三寡，現年六十一。...</description>
-                <Point id="5516">
-                    <coordinates>121.50351012209497,25.014811351460146,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="5519">
-                <name>龜崙頂莊 (古)</name>
-                <description>ID: 20260223_hsinchu_2947_龜崙頂莊
-【類別】: Location
-【對合來源】: MOI_Historic_Settlement
-【對合地名】: 龜崙頂 (桃園市龜山區)
-
-=== 史料記載 ===
-[志二建置志] 城北兼東興直堡一十九莊西臨海：龜崙頂莊距城九十里、搭寮坑莊九十二里、陂角店莊九十五里、新莊街百十里、中港厝莊百十五里、中瘟莊百十五里、頭重莊百十三里、和尚洲莊百二十五里、武朥灣莊百十里、三重埔莊百二十...</description>
-                <Point id="5518">
-                    <coordinates>121.3663,25.0044,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>

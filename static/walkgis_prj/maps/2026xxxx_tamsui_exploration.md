@@ -48,7 +48,7 @@ graph TD;
 #### 建議順序 2：【都會脈動】大稻埕、社子島與都會防洪 (預估時間：1 日)
 - **水文定位**：都會防洪核心。觀察淡水河與基隆河交匯的沖積扇，以及大稻埕防洪閘門與二重疏洪道。
 - **核心特徵點**：
-  - [[2026xxxx_tamsui_dadaocheng]] 大稻埕碼頭與水門：觀察五號水門的防洪工程設計。
+  - [[2026xxxx_tamsui_dadaocheng]] 大稻埕碼頭與水門：觀察五號水門的防洪閘門設計。
   - [[2026xxxx_tamsui_shezi]] 社子島島頭公園：270度河景，觀察低矮防洪牆與低密度開發脈絡。
 
 ---
@@ -59,14 +59,14 @@ graph TD;
 - **水文定位**：供應台北市主要民生自來水之水系。從都會取水古蹟上溯至南勢溪森林保護區。
 - **細分單日行程**：
   - **單日行程 3A（中下游取水）**：臺北水道水源地（自來水園區）、青潭取水站、[[2026xxxx_tamsui_bitan]] 碧潭與青潭水源地。
-  - **單日行程 3B（上游山林）**：[[2026xxxx_tamsui_neidong]] 內洞國家森林遊樂區（南勢溪水源保護與負離子步道）。
+  - **單日行程 3B（上游山林）**：[[20260315_內洞國家森林遊樂區]] 內洞國家森林遊樂區（南勢溪水源保護與負離子步道）。
 
 #### 建議順序 4：【水利與山林溯源】大漢溪與三峽河系統 (預估時間：3 日)
 - **水文定位**：大漢溪中游農業水利網，與上遊大豹溪及霞雲溪分水嶺森林涵養。
 - **細分單日行程**：
   - **單日行程 4A（中游水利）**：[[2026xxxx_tamsui_sanxia_daxi]] 大溪三坑水利網（桃園大圳取水口與三坑老街水圳路徑）。
-  - **單日行程 4B（大豹溪山林）**：[[2026xxxx_tamsui_manyueyuan]] 滿月圓國家森林遊樂區（三峽河上游與瀑布群步道）。
-  - **單日行程 4C（大漢溪上游）**：[[2026xxxx_tamsui_dongyanshan]] 東眼山國家森林遊樂區（大漢溪支流源頭與三千萬年地質波痕）。
+  - **單日行程 4B（大豹溪山林）**：[[20260315_滿月圓國家森林遊樂區]] 滿月圓國家森林遊樂區（三峽河上游與瀑布群步道）。
+  - **單日行程 4C（大漢溪上游）**：[[20260315_東眼山國家森林遊樂區]] 東眼山國家森林遊樂區（大漢溪支流源頭與三千萬年地質波痕）。
 
 ---
 
@@ -94,35 +94,33 @@ graph TD;
 
 ## 📦 下載與資源 (ATAK DP / KMZ)
 
-* **Google My Maps 探索圖資**：預留 [2026_tamsui_river_full.kml](file:///Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/data/2026_tamsui_river_full.kml) 檔案下載。
+* **Google My Maps 探索圖資**：[淡水河全流域 Google My Maps](https://www.google.com/maps/d/edit?mid=1EQcQafwy2K7KcWjWzgAvCdDW9y1ZIh8&usp=sharing)
+* **KML 原始檔**：[2026_tamsui_river_full.kml](file:///Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/data/2026_tamsui_river_full.kml) 檔案下載。
 * **ATAK 任務包 (Data Package)**：預留 `static/walkgis_prj/data/ATAK_Tamsui_River_2026.zip` （包含 1904 堡圖、現代水系向量與 POI KML）。
 
 ---
 
 ## 🧠 AI 深度探索 (Deep Research Prompts)
 
-請複製以下 Prompt 並使用 Gemini Advanced 或 NotebookLM 工具，將本機的 Feature 絕對路徑做為語境 Grounding 進行深度挖掘：
+請複製以下 Prompt 並使用 Gemini Advanced 或 NotebookLM 工具，進行深度地學文史對合分析：
 
 ```markdown
 # Context
-一個名為「淡水河全流域模組化探索」的計畫，涵蓋大漢溪、新店溪、基隆河三大系統，結合了中上遊森林涵養區（內洞、滿月圓、東眼山）與中下游水利設施。
+一個名為「淡水河全流域模組化探索」的計畫，結合了「全台重要探索點位 (national_exploration_spots)」中的森林與水源特徵（如內洞、滿月圓、東眼山）與我們新建的都會防洪與中游水圳設施。
 
 # Task
-請根據以下提供的景點特徵檔案，分析淡水河從「上游森林涵養」到「中下游取水防洪」的水文交互關係，並挖掘「失落的渡口」、「防洪工程轉變」與「山林林業開發歷史」。
+請根據以下提供的景點特徵檔案，分析淡水河從「上游森林涵養」到「中下游取水防洪」的水文交互關係，並挖掘「防洪工程轉變」與「山林林業開發歷史」。
 
 **景點特徵檔案列表：**
 1. 大稻埕碼頭：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_dadaocheng.md
 2. 社子島頭：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_shezi.md
 3. 關渡與紅樹林：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_guandu.md
-4. 內洞森林：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_neidong.md
-5. 碧潭與青潭：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_bitan.md
-6. 大溪三坑：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_sanxia_daxi.md
-7. 滿月圓：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_manyueyuan.md
-8. 東眼山：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_dongyanshan.md
-9. 員山子分洪：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_yuanshanzi.md
+4. 碧潭與青潭：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_bitan.md
+5. 大溪三坑：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_sanxia_daxi.md
+6. 員山子分洪：/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features/2026xxxx_tamsui_yuanshanzi.md
 
 # Requirements
-1. **水文連動分析**：上游森林保護區（如內洞、滿月圓）對於中下游取水設施（如青潭堰、桃園大圳）的水質與水量穩定有何具體影響？
+1. **水文連動分析**：上游森林保護區（如內洞、滿月圓、東眼山，直接共用自 national_exploration_spots 既有資料）對於中下游取水設施（如青潭堰、桃園大圳）的水質與水量穩定有何具體影響？
 2. **防洪策略演進**：對比都會堤防高牆（大稻埕）、二重疏洪道與基隆河員山子分洪道的防洪哲學差異。
 3. **林業與地景**：東眼山的林業文化遺產與三千萬年前的地質波痕如何訴說大漢溪流域的環境史？
 ```
