@@ -68,6 +68,7 @@ $$\text{民間代碼} = \text{[官方最鄰近上級河川代碼]} - \text{C} \t
     *   代碼向後延伸：`114021-C01-01`
 
 以下為南勢溪流域（官方與民間 WRA-Civ 結合）的最新拓樸結構圖：
+- [使用 mermaid.live 視覺化](https://mermaid.live/edit#pako:eNqNk29r01AUxr9KuGOwQVruTW6aNgWhbh-gFV9pZITm3jWYJiVNdFoK-mKIdg6Go5uKfyayibJ1L5yyCvs0Ju2-hTfJ0qQjyPIinOfmPL9zODm3B5q2ToAC1h2t0-Ju31Utjj1NU-t2VwnlbEqNpqGZHDVMU1kgiEqU8F3XsR8SZQEK5bKOrmThsaG7LQV1NqrXIE3jkWEamnUFoZSKBM4gVJKbEOZBYsydNYQwFOB9FQTDU3-8F4y_c0vx2bIKHnCFwq0kCbEk__WeP_iSJqEwKUbF78VFzj_ZD4bnwe4oOHvOLfmjw8nvd8tz5VAWWwtrH_zyL7ZSbC3F5lnqzDL9M_CPd1NL_f-WRtj816PJxeZ0_zh1NXL6D053Lodvkv6nb9_n9V_MzGVtBUazefX57_kHf3SSGU-Bfcpr7JpdYPbJ2eHli63Js2_zduEGdjGsvnkU_Pw47xVv4MXRXz0IBi-n2z_8T-N5Ao4JmZ2brQyfQJKglgT1JGjMVryaQ4jmxmenkBViVuDZmlcBz66ToQOFamaX8KBNnLYWatALa6jAbZE2UYHCQp1QzTNdFahWn_k6mnXPtttAcR2POR3bW28lwuvomktWDY3d1TSDWDpxVmzPcoGCoAgjBlB6YINpoVIsCZIsQYyxDFGFB0-AImChCCWMJCwLqCRBSerz4GlUFRblcrnCTktQlmUsloX-PxZnUk0)
 
 ```mermaid
 graph TD
