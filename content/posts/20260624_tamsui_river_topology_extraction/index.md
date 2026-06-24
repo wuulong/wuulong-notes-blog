@@ -270,5 +270,144 @@ graph BT
 
 ---
 
+## 🔗 官民大整合：淡水河流域完整拓樸整合版 (WRA-Civ)
+
+為了解決官方拓樸資料庫在細微溪谷與山區野溪上的缺失，我們將水利署官方的 **74 條權威拓樸河段**，與社群第一階段及第二階段深度下鑽擴充的 **34 條民間 WRA-Civ 拓樸子流**進行了全面大對合。
+
+這份整合圖（共計 **108 條水系節點**）以 `graph TD` 樹狀分支視角，完整還原了淡水河從主流、主要支流（大漢溪、新店溪、基隆河）、二級官方支流，一路下鑽至三級、四級民間微細末梢野溪（如處女瀑布源流 `11401B-C01-C01`、哈盆古道露門溪 `114021-C06`）的完整階層脈絡：
+- [mermaid.live 可視化](https://mermaid.live/edit#pako:eNqlmltPG0kWx78K6nmZkQxyd7l9G2kljE24Q24vu6xGFtiJtQQiAruzG0UC7RAG7EAuLASDSZxMyGICOEASMAl8GXe3-2n2I2xXdR9XlW8DZYTQKfzvX1edqjrnVLcfSiMTozEpKN2ZjN6_23IrPDzeYv2MjEUfPAjH4i0T8XhiJBEda4knxsaC38XkuBqPuR5MTU78LRb8zq34_aOy02z9R2J06m5Qvv_zjxWQkcTfE2OJ6LgDicfjKOYuQ-Kqb8TtrgWxMTd-kmWP2-3-y7Ckf8nq-WP98Kjle_t_PwxLf21pbf2TI5KxSPvtvf71jV7I2SKZiFhUfRWLki1R8WRBO_pGRXIVqq6KRYXs-5U-nlJRSAzVYYnMwpm2-dwSfV8spMwP-5b1g6PvEKOGiWhPe7VCRWExVMQSGbun2vE6FUXEUJ0OKvOMijrFUNfw4tnZpYprYotCwe7_fKDvpbD7tbkVbe-p3T996bm1NGEeFDE8wqLsinawz0IdNRJjehzmXNKcZxzpEaOpjrfnFqhIFUN58Zwc5bXjNSryiqF8eKWsfzNeHeFpKa3u4NFuzGn5VWZv-MTYfsxestZXHrPN7Q_mfMpcWyyenDBsvxg7gF2QPzG2ly2RdnpqfEk70oAYsN0SlbJr2vLbSmC7GLALA9_PmMSzHLBLDNjtLCCyvjlgtxiwB_tw4YX59FMlsEcM2It7WEhpmVwlsLcSeKmkpBDRal4r0IWuVCWl-ioWhYOd9mRNS9IBKFVJqb6KReGlomc_a-cpKmoXQw3hRXKW1PZo-lCGxFDX7RkyzudKL_eo7rqYu3C41lL8LatCc30ViyI5_DxlhWYqComhcA7HSyt_ztE6xGg4d9tr1VGExTgkcc--1b8xbo-IoXDitpKN8WKTG2CnGA3nbiuyG9kLK9lS3TUxWpczj0xRoXSJoQYt0f92zk7MvbT2eoYKB8UWK07--vqBcb5ERVU5v76KReEga_x7Wcsy9-sWQ5Hwmpq3Ni4V9YihcGAtzczqR7R2UHrFUH14gL9ktadPqKhPDNVv177m6gsq6hdDDdjpXNtPU9GA2GLAVZuZec7tRo9Q-kEk6b0qmOnHZRGqSj_1VSwKh3A9vYp_C7nfv_6qPd3VMx-tXWJvp9-_LjhXymJ8xcnPe9vs-QEpYjQyZ8mV0rsLI3VMaUiMhmfEeJYz1z-xsQN5xGi4jtaWk6V0kqJUMRSuo4sXGfM_X7iOecVouJQupX4pJY8oyieGIpXz9r65SmMj8ouhSKG8XtDn3lNUQAzVbod2_eSAotrFUKQmKHwp5d5xng-J0TpIIEqyKRN1iKHC9j6qPkSisBgQFwfaxob262Pat4gYChcHpScL-gU9jaNOMRSuDDS8JDKVw6wqDv5Iy2JvYOn-gk5OfI7ohlgPcbVhbjChrKrUqCNhITftrnOimwKcW2RVrHKiWwKc23hfWxH1eItb9rfFXERqlbcFyukW4_Q4HHZf94ihSKFyeFx-tuPoesVofXb9qi1lOFqfGK3fTmpWoLDOqJTWL0bDFYu5tqmfZClqQAw1SGqRj_r5UY2wMyjGHHLi2FytUHalE2Ybc4b-qcNNlIuvi6cZ7oQit1ofNYHF9YvxaducTxkz_-WxShNY5MSu4y2eiZpgkseCT7J6cqG0tGtNBE_2XKVqZchu8O3pkXb2llHWdOzlmYq9uY3cK56pNMHEXjUO17iToLumVxsU_wwTOWPHZ9U384yy5tgvz4SiuJDT3rzksVd6zNzGvCZxumrlYe1zgVHW6uoVmIr9cE_PP-OZzfSTLP53S6WvGZ6JmmCS09XmlrlxyDM9TTBJRb8_rzElKmGqTTBxaa8dfLbiSSm5zWO9TWB95b3PM31XebnCMCGiFgsrbDiVa4bT-m_DOGYIlmg6WTxjXkuFmmSSSPJ40dgp8MwrnTHbmNM17Prdi9KLWX2Lhh1UczddAUu6OrtrzD_nzgTuJntL4t5s3sgd8EzUBJNkk3zOqpiKJ4vabzs82dMEGW8rcy-tZ2fwYza2gKq5uRqehjm4F1LV-01c6LEe9taM2HUfmHMRu93Bmi8vjCXmQVd7k6WFSt6WvTE3D_lMrTbB9JIweMge0AmzKrY0fKLLYTshFJxmSotL-utTRlzTA3UfO3PYCEyWNVPLTF0RaZKplH3FPVuO1MxZlw8yJLnnj0tni1w8DNVMW38Y6arjYuUV-oescZzWVw70T7Ps1TVj5eVfaHI39sNNydvVYmGLe53sp7divvxRfk7pguwDhgxGCIwOMMJgRMDoLH8N5cdquHwNZAoYCAwPGCoYXjB8YPgbwgMgawejC4xuMHrA6HVBeQmG3AiuAFMZAuM6GDAWBfyjgH8U8I8SaQjvBBn4R4GeK4NggKMUGIsCY1F6G8L7QNYPxgAY4HMETkAw1wgGhVAjOCoTYNYQzBqCWUN-MGCCEDgThRrCwY0I3IhgmSHwGAKPoRtggOvQzYbwWyC7DQY4FoFjESwSBD5E4EM00BAOs4aGGk4NCQ4u9lDKNhDb8LjYYxvbUNhG-Rpywil_m6vWzRFzrcxSZXflJ4hteNiGyja8bMPX6OYyO3I7TrKN8uJju4XclZ8gtuFhG2qjm9vlhIstAlhPq2wDhmQnSxeb4tiGwvYeNRx5OSm42GBNL5Fc0p3JxKgUjEfHHsRc0r3Y5L0obksPMW1YmrobuxcbloKWORqLR6fHpoal4fFH1nX3o-N_npi4JwWnJqetKycnpu_chcb0_dHoVCyciN6ZjFJFbHw0NtkxMT0-JQWVgEIQUvCh9LMUbPXLKNDmVr1WREayFRBUl_RPKejztClIVQJe69frD6jqI5f0L3LTQJvP41F8Xo_11yurbvXR_wFvMLHq)
+
+```mermaid
+graph TD
+    classDef official fill:#e1f5fe,stroke:#0288d1,stroke-width:1px;
+    classDef civilian fill:#fff3e0,stroke:#f57c00,stroke-width:1px;
+
+    R_114000["淡水河 (114000)"] --> R_114010["大漢溪 (114010)"]
+    R_114010["大漢溪 (114010)"] --> R_114011["三峽溪 (114011)"]
+    R_114011["三峽溪 (114011)"] --> R_11401B["大豹溪 (11401B)"]
+    R_114011["三峽溪 (114011)"] --> R_11401C["麻園溪(二鬮溪) (11401C)"]
+    R_114011["三峽溪 (114011)"] --> R_11401D["中埔溪 (11401D)"]
+    R_114011["三峽溪 (114011)"] --> R_11401E["竹崙溪 (11401E)"]
+    R_114011["三峽溪 (114011)"] --> R_11401F["竹坑溪 (11401F)"]
+    R_114011["三峽溪 (114011)"] --> R_11401G["橫溪 (11401G)"]
+    R_114010["大漢溪 (114010)"] --> R_114012["鶯歌溪(兔子坑溪排水) (114012)"]
+    R_114010["大漢溪 (114010)"] --> R_114013["塔寮坑溪排水 (114013)"]
+    R_114010["大漢溪 (114010)"] --> R_114014["塔克金溪 (114014)"]
+    R_114010["大漢溪 (114010)"] --> R_114015["三光溪 (114015)"]
+    R_114010["大漢溪 (114010)"] --> R_114016["泰崗溪 (114016)"]
+    R_114010["大漢溪 (114010)"] --> R_114017["白石溪(薩克雅尖溪) (114017)"]
+    R_114010["大漢溪 (114010)"] --> R_114018["玉峰溪(馬里闊丸溪) (114018)"]
+    R_114010["大漢溪 (114010)"] --> R_114019["永福溪幹線 (114019)"]
+    R_114010["大漢溪 (114010)"] --> R_11401A["街口溪幹線 (11401A)"]
+    R_114010["大漢溪 (114010)"] --> R_11401H["觀音溪幹線 (11401H)"]
+    R_114010["大漢溪 (114010)"] --> R_11401I["三坑溪幹線 (11401I)"]
+    R_114010["大漢溪 (114010)"] --> R_11401J["打鐵溪幹線 (11401J)"]
+    R_114010["大漢溪 (114010)"] --> R_11401K["二坪溪幹線 (11401K)"]
+    R_114000["淡水河 (114000)"] --> R_114020["新店溪 (114020)"]
+    R_114020["新店溪 (114020)"] --> R_114021["南勢溪 (114021)"]
+    R_114021["南勢溪 (114021)"] --> R_11402A["桶後溪 (11402A)"]
+    R_114021["南勢溪 (114021)"] --> R_11402P["軋孔溪 (11402P)"]
+    R_114021["南勢溪 (114021)"] --> R_11402Q["大羅蘭溪 (11402Q)"]
+    R_114020["新店溪 (114020)"] --> R_114022["北勢溪 (114022)"]
+    R_114022["北勢溪 (114022)"] --> R_11402B["後寮溪 (11402B)"]
+    R_114022["北勢溪 (114022)"] --> R_11402C["溪尾寮溪 (11402C)"]
+    R_114022["北勢溪 (114022)"] --> R_11402D["坪溪 (11402D)"]
+    R_114022["北勢溪 (114022)"] --> R_11402E["灣潭溪 (11402E)"]
+    R_114022["北勢溪 (114022)"] --> R_11402F["金瓜寮溪 (11402F)"]
+    R_114022["北勢溪 (114022)"] --> R_11402G["石硿子溪 (11402G)"]
+    R_114022["北勢溪 (114022)"] --> R_11402H["後坑溪 (11402H)"]
+    R_114022["北勢溪 (114022)"] --> R_11402O["𩻸魚堀溪 (11402O)"]
+    R_114020["新店溪 (114020)"] --> R_114023["景美溪 (114023)"]
+    R_114023["景美溪 (114023)"] --> R_11402I["烏塗溪 (11402I)"]
+    R_114023["景美溪 (114023)"] --> R_11402J["指南溪 (11402J)"]
+    R_114023["景美溪 (114023)"] --> R_11402K["老泉溪 (11402K)"]
+    R_114023["景美溪 (114023)"] --> R_11402L["無名溪 (11402L)"]
+    R_114023["景美溪 (114023)"] --> R_11402M["中間溪 (11402M)"]
+    R_114023["景美溪 (114023)"] --> R_11402N["永定溪 (11402N)"]
+    R_114020["新店溪 (114020)"] --> R_114024["青潭溪 (114024)"]
+    R_114000["淡水河 (114000)"] --> R_114030["基隆河 (114030)"]
+    R_114030["基隆河 (114030)"] --> R_114031["暖暖溪（含東勢坑溪） (114031)"]
+    R_114030["基隆河 (114030)"] --> R_114032["大武崙溪 (114032)"]
+    R_114030["基隆河 (114030)"] --> R_114033["拔西猴溪 (114033)"]
+    R_114030["基隆河 (114030)"] --> R_114034["瑪陵坑溪 (114034)"]
+    R_114030["基隆河 (114030)"] --> R_114035["友蚋溪 (114035)"]
+    R_114030["基隆河 (114030)"] --> R_114036["保長坑溪 (114036)"]
+    R_114030["基隆河 (114030)"] --> R_114037["茄苳溪 (114037)"]
+    R_114030["基隆河 (114030)"] --> R_114038["禮門溪 (114038)"]
+    R_114030["基隆河 (114030)"] --> R_114039["智慧溪 (114039)"]
+    R_114030["基隆河 (114030)"] --> R_11403A["北港溪 (11403A)"]
+    R_114030["基隆河 (114030)"] --> R_11403B["康誥坑溪 (11403B)"]
+    R_114030["基隆河 (114030)"] --> R_11403C["下寮溪 (11403C)"]
+    R_114030["基隆河 (114030)"] --> R_11403D["大坑溪排水 (11403D)"]
+    R_114030["基隆河 (114030)"] --> R_11403E["四分溪 (11403E)"]
+    R_114030["基隆河 (114030)"] --> R_11403F["草濫溪 (11403F)"]
+    R_114030["基隆河 (114030)"] --> R_11403G["內溝溪排水 (11403G)"]
+    R_11403G["內溝溪排水 (11403G)"] --> R_11403R["安泰溪 (11403R)"]
+    R_114030["基隆河 (114030)"] --> R_11403H["雙溪 (11403H)"]
+    R_11403H["雙溪 (11403H)"] --> R_11403S["內雙溪 (11403S)"]
+    R_11403H["雙溪 (11403H)"] --> R_11403T["外雙溪 (11403T)"]
+    R_11403H["雙溪 (11403H)"] --> R_11403U["猴洞坑溪 (11403U)"]
+    R_114030["基隆河 (114030)"] --> R_11403I["磺溪 (11403I)"]
+    R_114030["基隆河 (114030)"] --> R_11403J["磺港溪 (11403J)"]
+    R_114030["基隆河 (114030)"] --> R_11403K["貴子坑溪 (11403K)"]
+    R_114030["基隆河 (114030)"] --> R_11403L["石厝坑溪 (11403L)"]
+    R_114030["基隆河 (114030)"] --> R_11403M["拔下二溪 (11403M)"]
+    R_114030["基隆河 (114030)"] --> R_11403N["關渡溪 (11403N)"]
+    R_114030["基隆河 (114030)"] --> R_11403O["深澳坑溪排水 (11403O)"]
+    R_114030["基隆河 (114030)"] --> R_11403P["大內坑溪排水 (11403P)"]
+    R_114021["南勢溪 (114021)"] -.-> R_114021_C01["加九寮溪 (114021-C01)"]
+    R_114021["南勢溪 (114021)"] -.-> R_114021_C02["給里瀨溪 (114021-C02)"]
+    R_114021["南勢溪 (114021)"] -.-> R_114021_C03["內洞溪 (114021-C03)"]
+    R_114021["南勢溪 (114021)"] -.-> R_114021_C04["卡拉莫基溪 (114021-C04)"]
+    R_114020["新店溪 (114020)"] -.-> R_114020_C01["平廣溪 (114020-C01)"]
+    R_114020["新店溪 (114020)"] -.-> R_114020_C02["磺窟溪 (114020-C02)"]
+    R_114020["新店溪 (114020)"] -.-> R_114020_C03["粗坑溪 (114020-C03)"]
+    R_114023["景美溪 (114023)"] -.-> R_114023_C01["石碇溪 (114023-C01)"]
+    R_114023["景美溪 (114023)"] -.-> R_114023_C02["大溪墘溪 (114023-C02)"]
+    R_114010["大漢溪 (114010)"] -.-> R_114010_C01["草嶺溪 (114010-C01)"]
+    R_114010["大漢溪 (114010)"] -.-> R_114010_C02["三民溪 (114010-C02)"]
+    R_114010["大漢溪 (114010)"] -.-> R_114010_C03["奎輝溪 (114010-C03)"]
+    R_114010["大漢溪 (114010)"] -.-> R_114010_C04["霞雲溪 (114010-C04)"]
+    R_114010["大漢溪 (114010)"] -.-> R_114010_C05["宇內溪 (114010-C05)"]
+    R_114010["大漢溪 (114010)"] -.-> R_114010_C06["寶里苦溪 (114010-C06)"]
+    R_114010["大漢溪 (114010)"] -.-> R_114010_C07["卡拉溪 (114010-C07)"]
+    R_114011["三峽溪 (114011)"] -.-> R_114011_C01["五寮溪 (114011-C01)"]
+    R_11401B["大豹溪 (11401B)"] -.-> R_11401B_C01["蚋仔溪 (11401B-C01)"]
+    R_11401B["大豹溪 (11401B)"] -.-> R_11401B_C02["熊空溪 (11401B-C02)"]
+    R_114030["基隆河 (114030)"] -.-> R_114030_C01["竿蓁林溪 (114030-C01)"]
+    R_114030["基隆河 (114030)"] -.-> R_114030_C02["火燒寮溪 (114030-C02)"]
+    R_114030["基隆河 (114030)"] -.-> R_114030_C03["灰窯溪 (114030-C03)"]
+    R_114030["基隆河 (114030)"] -.-> R_114030_C04["尪子上天溪 (114030-C04)"]
+    R_114030["基隆河 (114030)"] -.-> R_114030_C05["魚桀魚坑溪 (114030-C05)"]
+    R_114036["保長坑溪 (114036)"] -.-> R_114036_C01["姜子寮溪 (114036-C01)"]
+    R_11402A["桶後溪 (11402A)"] -.-> R_11402A_C01["阿玉溪 (11402A-C01)"]
+    R_114021["南勢溪 (114021)"] -.-> R_114021_C05["波露溪 (114021-C05)"]
+    R_114021["南勢溪 (114021)"] -.-> R_114021_C06["露門溪 (114021-C06)"]
+    R_11402F["金瓜寮溪 (11402F)"] -.-> R_11402F_C01["九芎根溪 (11402F-C01)"]
+    R_11402E["灣潭溪 (11402E)"] -.-> R_11402E_C01["子口溪 (11402E-C01)"]
+    R_11402E["灣潭溪 (11402E)"] -.-> R_11402E_C02["南勢子溪 (11402E-C02)"]
+    R_11401B["大豹溪 (11401B)"] -.-> R_11401B_C03["水車寮溪 (11401B-C03)"]
+    R_11401B_C01["蚋仔溪 (11401B-C01)"] -.-> R_11401B_C01_C01["蚋仔溪次級支流 (11401B-C01-C01)"]
+    R_114018["玉峰溪(馬里闊丸溪) (114018)"] -.-> R_114018_C01["薩克亞金溪 (114018-C01)"]
+
+    class R_114000,R_114010,R_114011,R_11401B,R_11401C,R_11401D,R_11401E,R_11401F official;
+    class R_11401G,R_114012,R_114013,R_114014,R_114015,R_114016,R_114017,R_114018 official;
+    class R_114019,R_11401A,R_11401H,R_11401I,R_11401J,R_11401K,R_114020,R_114021 official;
+    class R_11402A,R_11402P,R_11402Q,R_114022,R_11402B,R_11402C,R_11402D,R_11402E official;
+    class R_11402F,R_11402G,R_11402H,R_11402O,R_114023,R_11402I,R_11402J,R_11402K official;
+    class R_11402L,R_11402M,R_11402N,R_114024,R_114030,R_114031,R_114032,R_114033 official;
+    class R_114034,R_114035,R_114036,R_114037,R_114038,R_114039,R_11403A,R_11403B official;
+    class R_11403C,R_11403D,R_11403E,R_11403F,R_11403G,R_11403R,R_11403H,R_11403S official;
+    class R_11403T,R_11403U,R_11403I,R_11403J,R_11403K,R_11403L,R_11403M,R_11403N official;
+    class R_11403O,R_11403P official;
+    class R_114021_C01,R_114021_C02,R_114021_C03,R_114021_C04,R_114020_C01,R_114020_C02,R_114020_C03,R_114023_C01 civilian;
+    class R_114023_C02,R_114010_C01,R_114010_C02,R_114010_C03,R_114010_C04,R_114010_C05,R_114010_C06,R_114010_C07 civilian;
+    class R_114011_C01,R_11401B_C01,R_11401B_C02,R_114030_C01,R_114030_C02,R_114030_C03,R_114030_C04,R_114030_C05 civilian;
+    class R_114036_C01,R_11402A_C01,R_114021_C05,R_114021_C06,R_11402F_C01,R_11402E_C01,R_11402E_C02,R_11401B_C03 civilian;
+    class R_11401B_C01_C01,R_114018_C01 civilian;
+```
+
+---
+
 > **AI 協作聲明**：
 > 本文由筆者提供原始遊記草稿與心情隨筆，由 AI 助手 Antigravity 彙整架構與修辭。結合了 WalkGIS 的地理紀錄特點與哈爸筆記的敘事風格，展現人機協作下的流域探索成果。中英文與數字間保留半形空格，完美紀錄現場實遊軌跡。
