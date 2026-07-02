@@ -7,6 +7,7 @@ categories:
   - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - 哈爸實驗室
 tags:

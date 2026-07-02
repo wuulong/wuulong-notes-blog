@@ -2,24 +2,25 @@
 title: "Sovereign Health Agent 研發歷程回顧：自主健康數據主權與地端 AI 代理人的實踐"
 date: 2026-06-30T20:50:00+08:00
 categories:
-  - Personal AI Empowerment (個人 AI 賦能)
-  - System Engineering (系統工程)
+  - Agentic AI (代理程式 AI)
+  - Announcements (公告)
   - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
+  - System Engineering (系統工程)
 series: ["個人AI賦能方法論"]
 locations:
   - 新竹
 tags:
-  - Agentic AI
-  - Sovereign Health Agent
-  - FHIR
+  - AI Agent
   - SQLite
+  - Sovereign Health Agent
 cover:
   image: "cover.jpg"
   alt: "Sovereign Health Agent Research and Development Journey"
   relative: true
 draft: false
 ---
-
 這幾個星期，我把大半的精力投入在了一個名為 **Sovereign Health Agent (SHA, 自主健康代理人)** 的地端專案中。隨著「大書」手冊（共 12 章 Guides）的發布與倉庫物理重建，這個專案終於迎來了一個階段性的穩態。
 
 今天在白板前，我不打算細細羅列最新的改版日誌，而是想和大家分享這段 **「個人自主健康數據代理人」從無到有的研發歷程**，以及我們在人機協作、資料庫架構與隱私防守中所體會到的心法。

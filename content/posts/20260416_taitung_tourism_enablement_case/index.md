@@ -15,6 +15,7 @@ basins:
 locations:
   - 台東
 
+tags:
 ---
 # AI 賦能實戰：台東旅宿與數位導覽的碰撞
 

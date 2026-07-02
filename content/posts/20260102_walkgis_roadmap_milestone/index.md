@@ -7,6 +7,7 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - Maker & Hardware (創客與硬體)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
   - GIS

@@ -3,6 +3,7 @@ title: "[高屏溪外傳] 珊瑚礁與海龜：小琉球一日島嶼走查 (實�
 date: 2026-03-19
 draft: false
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-高屏溪"]
@@ -13,6 +14,7 @@ basins:
 locations:
   - 小琉球
 
+tags:
 ---
 ![P3190309.JPG](P3190309.JPG)
 

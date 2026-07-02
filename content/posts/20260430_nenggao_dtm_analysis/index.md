@@ -6,6 +6,7 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
 tags:
   - Antigravity

@@ -10,6 +10,7 @@ categories:
   - Enterprise AI Transformation (企業 AI 轉型)
   - GenAI (生成式 AI)
   - Methodology (方法論)
+  - Software Engineering (軟體工程)
 series: ["企業AI轉型全書"]
 ---
 昨天才剛完成《企業生成式 AI 轉型全書》的 v1.0.0 基礎版本，今天在與 AI 代理人進行了三個跨產業案例（製造、電商、醫療）的模擬演練後，我立刻意識到：**「理論在與現實碰撞的瞬間，才真正開始產生生命力。」**

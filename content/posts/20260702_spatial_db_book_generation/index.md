@@ -3,23 +3,23 @@ title: "個人 AI 賦能：用空間資料庫與 AI 協作幫工讀生兒子提�
 date: 2026-07-02T08:53:00+08:00
 draft: false
 categories:
-  - "Personal AI Empowerment (個人 AI 賦能)"
-  - "GIS & Mapping (地理資訊與地圖)"
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - "個人AI賦能方法論"
 tags:
-  - "SQLite"
-  - "SpatiaLite"
-  - "QGIS"
-  - "GDAL"
-  - "Antigravity"
-  - "Sovereign Writing"
+  - Antigravity
+  - QGIS
+  - SQLite
 cover:
   image: "cover.jpg"
   alt: "空間資料庫與 AI 協作的實戰手冊"
   relative: true
 ---
-
 大二的小兒子目前在當工讀生，工讀的內容是做政府標案的開放資料整理。我看他每天在處理一堆雜亂的 CSV 檔案，並在 QGIS 軟體中手動轉檔、製作 Shapefile，雖然他對 QGIS 已經有基礎，但我總覺得他在資料處理的實踐上「缺乏章法」。
 
 資料整理的本質是結構化思維。如果只會用試算表或手動拉 UI，一旦資料量變大、欄位變多，就會陷入版本混亂與髒資料的泥淖。我認為他非常需要建立「資料庫」的觀念。

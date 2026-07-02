@@ -12,6 +12,7 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - Digital Archaeology (數位考古)
   - GIS & Mapping (地理資訊與地圖)
+  - History & Culture (歷史與文化)
   - Software Engineering (軟體工程)
 series: ["台灣史探索"]
 description: "延續 QGIS 專案自動化 POC 的基礎，我們在第二、三階段挑戰了更深水的區域。本文詳細拆解 POC2 如何解決『地圖美學與標籤』，以及 POC3 如何實現『不改原始檔的空間分析』，並記錄了我們在 XML 惡戰中的實踐智慧。"

@@ -2,14 +2,15 @@
 title: "解碼水利署官方資料：淡水河水系拓樸的 Python 萃取與 Mermaid 樹狀視覺化實踐"
 date: 2026-06-24T11:00:00+08:00
 tags:
-  - WalkGIS
-  - Python
   - Mermaid
   - Open Data
+  - Python
+  - WalkGIS
 categories:
   - GIS & Mapping (地理資訊與地圖)
-  - Software Engineering (軟體工程)
   - Personal AI Empowerment (個人 AI 賦能)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-淡水河"]
 cover:
   image: "tamsui_topology_cover.png"
@@ -19,7 +20,6 @@ map_id: "2026xxxx_tamsui_exploration"
 basins:
   - 淡水河
 ---
-
 # 解碼水利署官方資料：淡水河水系拓樸的 Python 萃取與 Mermaid 樹狀視覺化實踐
 
 在河流地學與 GIS 探索中，理解一條大河的「水系拓樸（River Network Topology）」是核心基石。拓樸關係告訴我們哪條溪是主流，哪條是支流，水流又是如何從小溪匯入大河，最終流向大海的。這不僅是空間幾何，更是史前先民定居、現代水利發電與防洪工程設計的底層邏輯。

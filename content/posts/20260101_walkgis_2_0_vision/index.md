@@ -7,6 +7,7 @@ categories:
   - Methodology (方法論)
 series: ["WalkGIS"]
 summary: "如果不只是我在做地圖，而是每個人都能擁有自己的地理資料庫？本文提出 WalkGIS 的下一步計畫：將其從單一網站昇華為一種類似 Podcast 的去中心化協議，讓每個人都能成為地圖創作者，並透過開放市集共享成果。"
+tags:
 ---
 在 [WalkGIS App 架構解密](/posts/20251230_walkgis_app_architecture/) 一文中，我們驗證了「Serverless + SQLite Browser」技術的可行性。但這只是一小步。
 

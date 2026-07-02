@@ -10,6 +10,7 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-曾文溪"]
 basins:
   - 曾文溪

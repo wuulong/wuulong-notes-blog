@@ -11,6 +11,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 description: "如何使用 n8n 串接 Google Drive 讀取私人 Markdown 文件，並結合 Gemini AI 進行問答？本文紀錄了解決 Google OAuth 403 驗證錯誤的關鍵步驟。"
 summary: "繼 Discord Bot 之後，今天挑戰讓 AI 讀取我的「私人知識庫」。利用 n8n 的 Google Drive 節點下載文件，透過 Extract Text 解析，最後餵給 Gemini 進行問答。過程中踩了 Google OAuth '測試使用者' 的坑。"
 images: ["n8n_drive_workflow.png"]

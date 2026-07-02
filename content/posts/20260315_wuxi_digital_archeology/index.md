@@ -9,6 +9,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - Methodology (方法論)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-烏溪"]
 basins:
   - 烏溪

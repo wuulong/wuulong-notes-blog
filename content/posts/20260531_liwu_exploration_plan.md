@@ -20,6 +20,7 @@ locations:
 destinations:
   - 武嶺
 
+tags:
 ---
 # 立霧溪流域五天深度探索計畫 (5/31 - 6/4)
 

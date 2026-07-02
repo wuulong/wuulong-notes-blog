@@ -12,6 +12,7 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["GenAI實驗"]
 description: "這篇文章紀錄了如何突破 CLI 與 API 的限制，成功讓 AI Agent (Antigravity) 接入 Google Maps Grounding Lite MCP，並實戰應用於自行車道美食搜尋。"

@@ -11,6 +11,7 @@ categories:
   - GenAI (生成式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
 series: ["企業AI轉型全書"]
 ---
 ![featured](featured.png)

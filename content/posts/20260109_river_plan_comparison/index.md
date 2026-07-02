@@ -6,6 +6,7 @@ tags:
   - 河流探索
   - 車宿
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - Outdoor & Camping (戶外與車宿)
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)

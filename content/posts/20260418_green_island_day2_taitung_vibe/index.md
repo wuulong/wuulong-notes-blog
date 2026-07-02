@@ -3,6 +3,7 @@ title: "實地探勘：綠島 Day 2，從沈重的禁錮地景回到台東的電
 description: "跨越政治受難者的歷史刻痕，我們從綠洲山莊的封閉空間，回航至台東的人間煙火。這是一場關於時空錯動與生命韌性的紀錄。"
 date: 2026-04-18
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)
@@ -19,6 +20,7 @@ destinations:
   - 不義遺址
   - 宮廟文化
 
+tags:
 ---
 ![綠島人權紀念碑地景](./header.png)
 

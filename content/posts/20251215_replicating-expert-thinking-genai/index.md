@@ -7,6 +7,7 @@ categories:
   - GenAI (生成式 AI)
   - Methodology (方法論)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 tags:
   - AI Agent
 summary: "傳統的知識管理只能存下專家的產出，卻存不下專家的「思考方式」。本文介紹一種基於生成式 AI 的新方法論，透過「行為模擬」與「持續校正」，打造出真正像專家一樣思考與行動的 AI 代理人。"

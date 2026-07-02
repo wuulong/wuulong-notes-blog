@@ -6,8 +6,10 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 description: "在不到四小時內完成書籍第一篇的核心撰寫，這是一場關於意志、證據與系統自動化升級的極限協作。"
+tags:
 ---
 # 數位演化的「完美銜接」：個人賦能第一篇完稿紀實
 

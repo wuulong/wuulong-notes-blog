@@ -10,6 +10,7 @@ categories:
   - Enterprise AI Transformation (企業 AI 轉型)
   - GenAI (生成式 AI)
   - Methodology (方法論)
+  - Software Engineering (軟體工程)
 series: ["企業AI轉型全書"]
 image: cover.png
 ---

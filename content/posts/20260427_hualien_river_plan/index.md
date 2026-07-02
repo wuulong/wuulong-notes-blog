@@ -10,6 +10,7 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-花蓮溪"]
 author: "Antigravity/哈爸"

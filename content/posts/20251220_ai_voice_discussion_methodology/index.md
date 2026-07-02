@@ -8,6 +8,7 @@ categories:
 series: ["GenAI實驗"]
 summary: "分享一套利用 AI 語音討論的方法論，將對話轉化為具備「無限開放性」與「邏輯紀錄」的思考深化工具。"
 
+tags:
 ---
 ![AI Voice Discussion](ai_voice_discussion.png)
 

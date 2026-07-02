@@ -10,6 +10,7 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - Maker & Hardware (創客與硬體)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["哈爸實驗室"]
 ---
 在「哈爸實驗室」雙周會 #1 結束後，我嘗試建立了一套「低阻力」的會議後處理流程。目標很明確：**不要讓產出會議記錄變成一種負擔**，而是透過 AI 工具鏈，在幾分鐘內完成從音訊到 GitHub 存檔的全部動作。

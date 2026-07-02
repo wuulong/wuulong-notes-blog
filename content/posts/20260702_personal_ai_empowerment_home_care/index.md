@@ -3,22 +3,23 @@ title: "個人 AI 賦能：行一診所在宅醫療的雙核共生實戰分享"
 date: 2026-07-02T07:33:47+08:00
 draft: false
 categories:
-  - "Personal AI Empowerment (個人 AI 賦能)"
-  - "Talks & Sharing (演講與分享)"
+  - Agentic AI (代理程式 AI)
+  - GenAI (生成式 AI)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - "演講與分享 (Talks)"
 tags:
-  - "GenAI"
-  - "NotebookLM"
-  - "Antigravity"
-  - "Sovereign Health Agent"
-  - "在宅醫療"
+  - Antigravity
+  - NotebookLM
+  - Sovereign Health Agent
 cover:
   image: "cover.jpg"
   alt: "在宅醫療與 AI 協同的科技溫馨畫面"
   relative: true
 ---
-
 在宅醫療的醫護人員每天在案家與診所間奔波，而最耗費他們日常頻寬的，往往不是臨床診斷本身，而是繁瑣的行政病歷打字。
 
 昨天去台北新生南路的 [行一診所](https://xingyiclinic.tw/) 做了一場 2 小時的內部訓練分享，主題是「個人 AI 賦能（Personal AI Empowerment）」。這次的對象是在宅醫療第一線的醫師與護理師，我分享了如何利用 AI 工具將繁雜的行政與病歷紀錄減量，並現場展示了地端 AI 代理人（Agentic AI）在醫療情境下的實務運用。

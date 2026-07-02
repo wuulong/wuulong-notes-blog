@@ -11,6 +11,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
 ---
 > **寫在升級後**：

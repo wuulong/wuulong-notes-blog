@@ -7,6 +7,7 @@ categories:
 series: ["n8n"]
 summary: "紀錄如何在 n8n 中透過 HTTP Request 節點實作 Google 搜尋功能，包括 API Key 申請、CSE 設定、網站驗證與除錯技巧。"
 
+tags:
 ---
 ## 🎯 核心目標
 

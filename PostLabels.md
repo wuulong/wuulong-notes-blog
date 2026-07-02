@@ -25,7 +25,6 @@ tags:
 - Digital Archaeology (數位考古)
 - Community & Networking (社群與交流)
 - Announcements (公告)
-- Talks & Sharing (演講與分享)
 
 # Basins (流域)
 - 二仁溪

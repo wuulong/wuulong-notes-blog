@@ -7,6 +7,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["WalkGIS"]
 tags:

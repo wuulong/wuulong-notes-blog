@@ -9,6 +9,7 @@ series: ["GCP學習旅程"]
 categories:
   - Agentic AI (代理程式 AI)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 description: "以前面對 GCP 複雜的 Web Console 和記不完的 CLI 命令總是很頭痛，也不知道該選什麼服務才划算。現在發現透過 AI Agent (Antigravity) 搭配 gcloud，只需要用口語下指令，就能輕鬆完成複雜的雲端維運，甚至連計費模式都能問得清清楚楚。"
 summary: "雲端服務最讓人卻步的往往不是技術本身，而是那複雜到像迷宮的控制台介面，以及永遠搞不懂的計費陷阱。這篇文章分享我如何使用 AI Agent (Antigravity)，把原本痛苦的 GCP 系統管理工作，變成了一場輕鬆的對話。不用再查文件、不用背指令，只要「出一隻嘴」，機器就開好了，錢也省下來了。"
 top: false

@@ -3,6 +3,7 @@ title: "地景解碼實戰：讀懂台東天后宮的石碑與匾額，看見後
 description: "透過對台東天后宮現場碑文與匾額的深度解析，我們發現了文獻與實物間的「美麗誤會」，並重新連結了清末大庄事件與現代台東的地景記憶。"
 date: 2026-04-19
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
@@ -15,6 +16,7 @@ basins:
 destinations:
   - 台東天后宮
 
+tags:
 ---
 ![台東天后宮](./IMG_7021.jpg)
 

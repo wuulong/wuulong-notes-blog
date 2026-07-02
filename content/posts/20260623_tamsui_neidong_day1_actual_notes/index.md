@@ -2,14 +2,16 @@
 title: "淡水河探索 202606 之第一天：烏來泰雅文化、信賢懸谷瀑布奇觀與內洞三疊瀑布的溪谷功耗實踐 (實遊筆記)"
 date: 2026-06-23T15:15:00+08:00
 tags:
+  - Relive
   - WalkGIS
   - 車宿
-  - Relive
 categories:
-  - Travel & Geography (旅行與地理)
-  - River Exploration (河流探索)
+  - GIS & Mapping (地理資訊與地圖)
+  - History & Culture (歷史與文化)
   - Outdoor & Camping (戶外與車宿)
-  - Life & Reflections (生活與隨筆)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-淡水河"]
 cover:
     image: "neidong_actual_cover.png"
@@ -27,7 +29,6 @@ destinations:
   - 烏來瀑布
   - 烏來溫泉
 ---
-
 # 淡水河探索 202606 之第一天：烏來泰雅文化、信賢懸谷瀑布奇觀與內洞三疊瀑布的溪谷功耗實踐
 
 當我開著車沿著新店溪一路上溯，在雙溪口轉入南勢溪谷的那一刻，水文系統上便正式宣告進入了淡水河流域最核心的「水源之心」—— 烏來南勢溪流域。

@@ -5,6 +5,7 @@ series: ["GenAI實驗"]
 categories:
   - Agentic AI (代理程式 AI)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 tags:
   - AI Agent
 summary: "醫療資訊系統整合總是卡關？如果我們不強求系統對接，而是讓每個角色都有一個「AI 秘書」來幫忙傳話呢？這篇文章探討 Agent-to-Agent (A2A) 架構如何繞過技術債，用更彈性、更像人類協作的方式解決資訊孤島問題。"

@@ -12,6 +12,7 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Methodology (方法論)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["鄉鎮導航"]
 description: "記錄如何利用 AI 與 GIS 技術，在短時間內初始化全台 390 個行政區劃，並透過 Deep Research 實現高品質人文地誌加厚的完整過程。"

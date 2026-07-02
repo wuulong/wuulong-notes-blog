@@ -6,6 +6,7 @@ tags:
   - 計劃
 categories:
   - GIS & Mapping (地理資訊與地圖)
+  - History & Culture (歷史與文化)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-淡水河"]
 cover:
@@ -16,7 +17,6 @@ map_id: "2026xxxx_tamsui_exploration"
 basins:
   - 淡水河
 ---
-
 # 【海口故事】關渡與淡水港口歷史探索計畫
 
 * **建議探索順序**：1 (作為淡水河探索的起點)

@@ -2,14 +2,18 @@
 title: "建構民間自主水網拓樸：相容水利署官方河川代碼的 WRA-Civ 延伸編碼規範"
 date: 2026-06-24T11:45:00+08:00
 tags:
-  - WalkGIS
+  - AI協作
   - Methodology
   - Open Data
-  - AI協作
+  - WalkGIS
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-淡水河"]
 cover:
   image: "wra_civ_spec_cover.png"
@@ -19,7 +23,6 @@ map_id: "2026xxxx_tamsui_exploration"
 basins:
   - 淡水河
 ---
-
 # 建構民間自主水網拓樸：相容水利署官方河川代碼的 WRA-Civ 延伸編碼規範
 
 當我們成功透過 Python 從水利署（WRA）官方 PDF 中萃取出淡水河水系的完整拓樸後，我們發現了一個實踐上的痛點：**官方資料庫中只登錄了達到「中央管河川」或主要排水規模的河段，無數微細的主流源頭、山區溪谷或野溪（如烏來的加九寮溪、給里瀨溪等），在官方拓樸中是完全懸空或付諸闕如的。**

@@ -6,6 +6,7 @@ categories:
   - Enterprise AI Transformation (企業 AI 轉型)
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
 tags:
   - GIS

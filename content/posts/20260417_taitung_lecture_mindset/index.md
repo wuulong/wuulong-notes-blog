@@ -2,6 +2,7 @@
 title: "從日常漫遊到地景解碼：我在台東分享的 AI 賦能心法"
 date: 2026-04-17T07:10:00+08:00
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Personal AI Empowerment (個人 AI 賦能)
   - River Exploration (河流探索)
@@ -14,6 +15,7 @@ basins:
 locations:
   - 台東
 
+tags:
 ---
 # 演講現場的震撼教育：當簡報失效，才是賦能的開始
 

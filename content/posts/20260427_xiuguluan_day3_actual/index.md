@@ -2,6 +2,7 @@
 title: "秀姑巒溪探索實錄（Day 3）：從光復到花蓮的人文觀察與北返歸途"
 date: 2026-04-28
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)

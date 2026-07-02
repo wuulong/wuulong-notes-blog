@@ -5,6 +5,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - Announcements (公告)
   - Enterprise AI Transformation (企業 AI 轉型)
+  - Software Engineering (軟體工程)
 series: ["企業AI轉型全書"]
 tags:
   - Antigravity

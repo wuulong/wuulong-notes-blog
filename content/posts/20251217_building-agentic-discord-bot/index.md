@@ -11,6 +11,7 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - Community & Networking (社群與交流)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 description: "這篇文章紀錄了我的 Discord Bot 成長三部曲：從最基礎的 Echo Bot，到接上 Google Gemini 大腦，最後透過 n8n 的 Agent 節點賦予它使用工具 (計算機、維基百科) 的能力，真正實現 Agentic AI。"
 summary: "為了解決機器人「已讀不回」的問題痛了一整晚後，我決定不只要修好它，還要讓它變聰明。本文分享如何利用 n8n 的 AI Agent 節點，結合 Google Gemini 模型與外部工具 (Calculator, Wikipedia)，打造一個不只能聊天，還能「思考」並「主動查證」的智慧助理。"
 top: true

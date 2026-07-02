@@ -3,8 +3,10 @@ title: "大阪旅遊的 AI 助手實驗：從 NotebookLM 到 Agentic AI 的深�
 date: 2025-12-25T09:00:00+09:00
 categories:
   - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 tags:
   - AI Agent

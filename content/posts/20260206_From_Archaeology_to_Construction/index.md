@@ -10,6 +10,7 @@ categories:
   - History & Culture (歷史與文化)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
   - System Engineering (系統工程)
 series: [個人AI賦能方法論]
 summary: "在完成了橫跨三年的數位考古後，接下來的挑戰是如何將這些碎裂的數據轉化為具備邏輯的書稿。本文紀錄我如何利用「數位格律」與「建構紀錄」制度，指揮 AI 進行精確施工，並正式在 GitHub 上釋出《個人賦能》的前兩章內容。"

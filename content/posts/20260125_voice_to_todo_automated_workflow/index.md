@@ -10,6 +10,7 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 ---
 在繁忙的工作與移動中，最珍貴也最易逝的是那些「隨口說出」的靈感。最近我實驗了一套流程，成功將散落在手機錄音中的碎片思緒，轉化為生產力工具中實實在在的待辦事項。

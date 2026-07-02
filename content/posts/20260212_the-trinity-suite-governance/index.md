@@ -5,6 +5,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 tags:
   - Antigravity

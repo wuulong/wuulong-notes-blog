@@ -4,6 +4,7 @@ date: 2026-05-15
 tags:
   - 河流探索
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)

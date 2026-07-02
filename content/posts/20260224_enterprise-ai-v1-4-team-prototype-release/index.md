@@ -6,6 +6,7 @@ categories:
   - Announcements (公告)
   - Enterprise AI Transformation (企業 AI 轉型)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
 series: ["企業AI轉型全書"]
 tags:
   - Antigravity

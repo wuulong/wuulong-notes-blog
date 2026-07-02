@@ -5,6 +5,8 @@ categories:
   - Agentic AI (代理程式 AI)
   - Maker & Hardware (創客與硬體)
   - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["哈爸實驗室"]
 tags:
   - AI Agent

@@ -6,6 +6,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
   - AI Agent

@@ -3,6 +3,7 @@ title: "實地探勘：綠島 Day 1，在 0 光害的黑潮盡頭尋找繁星"
 description: "從卑南溪口出海，跨越黑潮抵達火燒島。這是一場關於體能極限、海底視覺盛宴與零光害震撼的真實紀錄。"
 date: 2026-04-17
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)
 series:
@@ -16,6 +17,7 @@ locations:
 destinations:
   - 朝日溫泉
 
+tags:
 ---
 ![綠島星空與寂靜](./header.png)
 

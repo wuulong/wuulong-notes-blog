@@ -7,6 +7,7 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 tags:
   - Antigravity
   - NotebookLM

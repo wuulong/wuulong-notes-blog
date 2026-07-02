@@ -2,14 +2,15 @@
 title: "淡水河探索 202606 之第二天：紅河谷原始步道蝴蝶盛宴、屈尺與廣興水文聚落及碧潭的感潮段終點巡禮 (實遊筆記)"
 date: 2026-06-24T15:15:00+08:00
 tags:
+  - Relive
   - WalkGIS
   - 車宿
-  - Relive
 categories:
-  - Travel & Geography (旅行與地理)
-  - River Exploration (河流探索)
+  - GIS & Mapping (地理資訊與地圖)
   - Outdoor & Camping (戶外與車宿)
-  - Life & Reflections (生活與隨筆)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-淡水河"]
 cover:
     image: "redrivervalley_actual_cover.png"
@@ -27,7 +28,6 @@ destinations:
   - 方格斯手作坊
   - 碧潭
 ---
-
 # 淡水河探索 202606 之第二天：紅河谷原始步道蝴蝶盛宴、屈尺與廣興水文聚落及碧潭的感潮段終點巡禮
 
 當我結束第一天娃娃谷的負離子洗禮後，第二天的任務轉向了南勢溪中下游的交界點 —— 紅河谷步道。順著新店溪的奔流，一路巡禮屈尺、廣興等歷史堰堤，最終在碧潭這個感潮段的邊界點，完成了這趟淡水河「水源之心」兩日探索。

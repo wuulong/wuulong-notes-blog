@@ -5,6 +5,7 @@ draft: false
 categories:
   - Agentic AI (代理程式 AI)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 tags:
   - AI Agent

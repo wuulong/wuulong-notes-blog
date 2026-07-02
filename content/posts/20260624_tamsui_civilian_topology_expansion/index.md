@@ -2,14 +2,16 @@
 title: "點亮消失的水網：淡水河流域民間自主拓樸 (WRA-Civ) 大量擴充與協作指引"
 date: 2026-06-24T12:50:00+08:00
 tags:
-  - WalkGIS
   - Methodology
-  - TamsuiRiver
-  - OpenSource
+  - WalkGIS
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - Community & Networking (社群與交流)
   - GIS & Mapping (地理資訊與地圖)
   - Methodology (方法論)
-  - Community (社群共創)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-淡水河"]
 cover:
   image: "tamsui_civilian_topology_cover.png"
@@ -19,7 +21,6 @@ map_id: "2026xxxx_tamsui_exploration"
 basins:
   - 淡水河
 ---
-
 # 點亮消失的水網：淡水河流域民間自主拓樸 (WRA-Civ) 大量擴充與協作指引
 
 在先前的文章中，我們探討了如何利用 **WRA-Civ（官方資訊 ＋ 民間自訂）** 延伸編碼規範，來解決官方水利署（WRA）6 碼河川拓樸長度用罄與層級無法自指的限制。

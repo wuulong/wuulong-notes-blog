@@ -2,19 +2,18 @@
 title: "高含金量 2026GAI年會 被啟發項目的萃取經驗與內容"
 date: 2026-06-28T09:10:09+08:00
 categories:
-  - "Enterprise AI Transformation (企業 AI 轉型)"
-  - "Personal AI Empowerment (個人 AI 賦能)"
-  - "Community & Networking (社群與交流)"
+  - Community & Networking (社群與交流)
+  - Enterprise AI Transformation (企業 AI 轉型)
+  - GenAI (生成式 AI)
+  - Maker & Hardware (創客與硬體)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
 series:
   - "企業AI轉型全書"
   - "個人AI賦能方法論"
 tags:
-  - "GenAI實驗"
-  - "哈爸實驗室"
-  - "聚會"
 marp: true
 ---
-
 聽完一整天精彩的 2026 生成式 AI 年會，腦子被塞得滿滿的。下巴士走回家的時間中，我發現我正在分享與構思的企業 AI 賦能書，有好多可以修正與補充的點。但因為尊重智財，我沒有現場錄音，原本預期可以用 AI 直接整理現場錄音的方法完全派不上用場。再加上年會的資訊量實在太大，只覺得很豐富、啟發很多，但走出会場後自己幾乎都忘了。
 
 此時的挑戰目標，是如何將腦袋裡被啟發的零散想法萃取出來，變成未來可以修正書本的材料清單。

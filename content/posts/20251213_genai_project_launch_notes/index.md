@@ -5,6 +5,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - GenAI (生成式 AI)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["架構推動"]
 tags:
   - AI協作
