@@ -5,6 +5,7 @@ draft: false
 categories:
   - Personal AI Empowerment (個人 AI 賦能)
   - Methodology (方法論)
+  - AI Education (AI 教育)
 series:
   - 個人 AI 賦能方法論
 tags:
