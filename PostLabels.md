@@ -15,7 +15,6 @@ tags:
 - System Engineering (系統工程)
 - Enterprise AI Transformation (企業 AI 轉型)
 - Personal AI Empowerment (個人 AI 賦能)
-- AI Education (AI 教育)
 - Productivity & KM (生產力與知識管理)
 - Maker & Hardware (創客與硬體)
 - Outdoor & Camping (戶外與車宿)
