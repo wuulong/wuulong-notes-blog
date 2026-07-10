@@ -5,7 +5,7 @@ categories:
   - "AI Education (AI 教育)"
   - "Personal AI Empowerment (個人 AI 賦能)"
 series:
-  - "個人 AI 賦能方法論"
+  - "AI教學歷程"
 basins: []
 locations:
   - "台東"

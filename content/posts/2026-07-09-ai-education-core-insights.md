@@ -7,7 +7,7 @@ categories:
   - Methodology (方法論)
   - AI Education (AI 教育)
 series:
-  - 個人 AI 賦能方法論
+  - "AI教學歷程"
 tags:
   - GenAI
   - AI教育

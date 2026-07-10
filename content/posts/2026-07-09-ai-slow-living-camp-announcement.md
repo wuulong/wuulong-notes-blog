@@ -7,7 +7,7 @@ categories:
   - Announcements (公告)
   - AI Education (AI 教育)
 series:
-  - 個人 AI 賦能方法論
+  - "AI教學歷程"
 locations:
   - 台東
   - 東河
