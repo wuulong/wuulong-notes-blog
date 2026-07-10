@@ -2,8 +2,8 @@
 title: "都蘭 AI 慢活共創營：從竹科架構到泥土情懷的教學歷程自動化構想"
 date: 2026-07-09T20:43:52+08:00
 categories:
-  - "AI Education (AI 教育)"
-  - "Personal AI Empowerment (個人 AI 賦能)"
+  - Automation & Workflows (自動化與工作流程)
+  - Personal AI Empowerment (個人 AI 賦能)
 series:
   - "AI教學歷程"
 basins: []
@@ -13,16 +13,12 @@ locations:
 destinations:
   - "都蘭"
 tags:
-  - "GitHub"
-  - "Google Docs"
-  - "Google Drive"
-  - "Prompt"
+  - GitHub
 cover:
   image: "assets/images/20260709_dulan_ai_hub_vision.jpg"
   alt: "都蘭 AI Hub 結合農村與科技的慢活共創願景"
   relative: false
 ---
-
 概念是我以為 AI 時代，我們終於有機會對學生做客製化引導與陪伴，但真的做得到嗎？怎麼做？又為什麼非得這麼做不可？這我是真沒把握。這堂課，就是給我最好的練兵場。
 
 情境是：都蘭的學員背景截然不同——有的是想用 AI 寫品牌故事的洛神花小農，有的是想用拍照管果醬庫存的民宿老闆，還有想做在地導覽的青年。

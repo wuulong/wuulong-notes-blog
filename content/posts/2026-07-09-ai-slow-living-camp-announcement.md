@@ -3,9 +3,11 @@ title: "【哈爸AI課程公告】一手拿滑鼠，一手摸泥土：台東都�
 date: 2026-07-09T19:10:00+08:00
 draft: false
 categories:
-  - Personal AI Empowerment (個人 AI 賦能)
   - Announcements (公告)
-  - AI Education (AI 教育)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Travel & Geography (旅行與地理)
 series:
   - "AI教學歷程"
 locations:
@@ -14,15 +16,12 @@ locations:
 destinations:
   - 都蘭
 tags:
-  - GenAI
-  - 慢活
   - AI教育
 cover:
   image: "assets/images/20260709_ai_slow_living_camp_cover.jpg"
   alt: "Hapa 的 AI 慢活共創營活動海報"
   relative: false
 ---
-
 > **哈爸筆記**：在上一篇 [【哈爸筆記】當 AI 成為隨身一輩子的工具：我從家教陪伴中看見的 AI 教育與賦能變革]({{< ref "2026-07-09-ai-education-core-insights.md" >}}) 中，我聊到了近期擔任 AI 家教時，對於「權威退場、實體陪伴、問題驅動、許願式學習」的深刻體悟。既然 AI 是一個可以陪伴人一輩子的終身工具，而且「陪伴」是克服科技焦慮的關鍵，那我們何不把這樣的教育實驗帶到台東？這就是「AI 慢活共創營」的起點。這不是一堂冷冰冰的科技課，而是一場專為在地居民、店家、小農與長輩設計的陪伴式共學，讓我們一手滑鼠，一手泥土，探索科技與生活的溫柔融合。
 
 ---

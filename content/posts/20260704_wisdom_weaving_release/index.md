@@ -3,22 +3,23 @@ title: "從《鹿鼎記》的情愛博弈，聊聊我剛釋出的「智慧工程
 date: 2026-07-04T08:12:00+08:00
 draft: false
 categories:
-  - "GenAI (生成式 AI)"
-  - "Agentic AI (代理程式 AI)"
-  - "System Engineering (系統工程)"
+  - Agentic AI (代理程式 AI)
+  - Announcements (公告)
+  - GenAI (生成式 AI)
+  - Maker & Hardware (創客與硬體)
+  - Software Engineering (軟體工程)
+  - System Engineering (系統工程)
 series:
   - "哈爸實驗室"
 tags:
-  - "Python"
-  - "SQLite"
-  - "Gemini"
-  - "Git Submodule"
+  - Gemini
+  - Python
+  - SQLite
 cover:
   image: "assets/images/wisdom_weaving_cover.png"
   alt: "Wisdom Weaving"
   relative: false
 ---
-
 大家好，我是哈爸！
 
 最近我一直在思考一個問題：**我們天天在講 AI Agent，但到底要怎麼做，才能把一個複雜領域的「非結構化文本」，真正有條理、有邏輯地轉化為「高品質的結構化知識庫」？**

@@ -2,20 +2,18 @@
 title: "許願式客製化教學的自動導航：藉由分析 AI 後處理建立一對多教學的起手式"
 date: 2026-07-10T08:10:00+08:00
 categories:
-  - "AI Education (AI 教育)"
-  - "Personal AI Empowerment (個人 AI 賦能)"
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Travel & Geography (旅行與地理)
 series:
   - "AI教學歷程"
 tags:
-  - "AI 教育"
-  - "客製化教學"
-  - "Luthier"
-  - "個人 AI 賦能"
-  - "N8N"
-  - "哈爸筆記"
+  - n8n
+  - 哈爸筆記
 draft: false
 ---
-
 在展開個人 AI 賦能家教（專案代號：Luthier，學員為補習班英文老師）的過程中，我一直秉持著「需求驅動、實作先行」的信念。這是一門完全「許願式」的課程——沒有僵化的教科書，學員想要出考題、想做音樂教室 App、想用 N8N 實作招生自動化，課程就直接往那裡去。
 
 然而，這種高度活潑、隨需求生長的教學，也帶來了極大的挑戰：**身為教練，我該如何確保學員的知識地圖是完整的？我又該如何把這種極度消耗頻寬的一對一陪伴，拓展成一對多的客製化教學？**

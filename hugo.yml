@@ -45,6 +45,7 @@ params:
   TocOpen: true
   disableSpecial1stPost: false
   googleSiteVerification: "5e0a771dcada7b8f"
+  comments: true
 
   # Social Icons (Replace URLs with your actual links)
   socialIcons:
@@ -110,5 +111,17 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+related:
+  threshold: 80
+  toLower: false
+  includeNewer: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 80
+    - name: date
+      weight: 10
 
 

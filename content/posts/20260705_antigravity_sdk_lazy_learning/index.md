@@ -3,22 +3,21 @@ title: "實戰派的懶人 AI 學習法：以執行、檢視、改 code 來肉�
 date: 2026-07-05T09:25:00+08:00
 draft: false
 categories:
-  - "Agentic AI (代理程式 AI)"
-  - "Software Engineering (軟體工程)"
-  - "Personal AI Empowerment (個人 AI 賦能)"
+  - Agentic AI (代理程式 AI)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
 series:
   - "個人 AI 賦能方法論"
 tags:
-  - "Antigravity"
-  - "Python"
-  - "Agent"
-  - "CLI"
+  - AI Agent
+  - Antigravity
+  - Python
 cover:
   image: "assets/images/20260705_antigravity_sdk_lazy_learning.jpg"
   alt: "Antigravity SDK 實戰練習"
   relative: false
 ---
-
 最近這陣子人變得很慵懶，老實說，有點快跟不上這波狂飆的 AI 最新進展。但心裡很清楚，對於 Google Antigravity SDK 的新架構，我勢必得做一次紮實的掌握。
 
 以往面對新技術，直覺就是去翻那幾百頁、結構繁複的官方文件，讀得昏昏欲睡。這次我決定換個方式——來一場**「實戰派的懶人學習法」**。

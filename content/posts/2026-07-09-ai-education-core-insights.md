@@ -3,16 +3,16 @@ title: "【哈爸筆記】當 AI 成為隨身一輩子的工具：我從家教�
 date: 2026-07-09T16:30:00+08:00
 draft: false
 categories:
-  - Personal AI Empowerment (個人 AI 賦能)
+  - Enterprise AI Transformation (企業 AI 轉型)
+  - GenAI (生成式 AI)
   - Methodology (方法論)
-  - AI Education (AI 教育)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
 series:
   - "AI教學歷程"
 tags:
-  - GenAI
   - AI教育
 ---
-
 > **哈爸筆記**：這一陣子，我當了幾組夥伴的 AI 家教，近距離輔導他們學習 AI。這段陪伴的過程，讓我對「個人 AI 賦能」與「企業 AI 賦能」有了全新的體悟。當我們親眼看著一個學員從不敢碰科技，到能夠用語音、拍照與 AI 流暢對話時，我意識到，這不僅僅是工具的普及，而是一場顛覆傳統教育的範式轉移（Paradigm Shift）。
 
 ---
