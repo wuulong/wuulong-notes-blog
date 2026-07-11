@@ -1,0 +1,346 @@
+{
+  "repos": [
+    {
+      "name": "ATOSP",
+      "html_url": "https://github.com/wuulong/ATOSP",
+      "description": "ATOSP-Advancing Taiwan's Open Source Practice",
+      "ai_description": "推動台灣開源實踐（ATOSP）專案。專注於匯集與推廣台灣開源軟體生態系的實務經驗、社群協作模式及專家會議記錄，旨在加速在地開源產業的成熟與轉型。",
+      "updated_at": "2025-11-08T00:44:11Z",
+      "pushed_at": "2025-11-08T00:44:08Z",
+      "is_fork": false
+    },
+    {
+      "name": "bmad-personal-assistant",
+      "html_url": "https://github.com/wuulong/bmad-personal-assistant",
+      "description": "",
+      "ai_description": "個人 AI 助理（BMAD PA）的核心專案。基於代理人架構，整合知識庫與個人工作流，協助使用者在日常學習、寫作與 GIS 探索中實現高度自動化與生產力提升。",
+      "updated_at": "2025-09-26T06:38:22Z",
+      "pushed_at": "2025-08-21T08:33:05Z",
+      "is_fork": false
+    },
+    {
+      "name": "bookgen",
+      "html_url": "https://github.com/wuulong/bookgen",
+      "description": "generate a book for your learning",
+      "ai_description": "基於 AI 的書籍生成工具。旨在協助使用者針對特定學習主題，自動化搜集資料、組織大綱並撰寫生成結構化的學習專書，建立個人專屬的認知鷹架與知識庫。",
+      "updated_at": "2025-06-26T01:07:28Z",
+      "pushed_at": "2025-06-26T01:07:25Z",
+      "is_fork": false
+    },
+    {
+      "name": "CIoT_DataDoc",
+      "html_url": "https://github.com/wuulong/CIoT_DataDoc",
+      "description": "",
+      "ai_description": "民生公共物聯網（CIoT）資料文件管理專案。收集並整理台灣物聯網感測數據的規格說明與 API 文件，為後續資料介接與自動化分析提供結構化的基礎。",
+      "updated_at": "2023-03-15T10:59:38Z",
+      "pushed_at": "2022-03-11T05:02:33Z",
+      "is_fork": false
+    },
+    {
+      "name": "DevZone",
+      "html_url": "https://github.com/wuulong/DevZone",
+      "description": "",
+      "ai_description": "開發者測試與沙盒實驗專區。主要用於測試新型開發工具、環境設定以及存放暫時性的開發驗證代碼，確保主專案的穩定與乾淨。",
+      "updated_at": "2024-11-17T11:12:09Z",
+      "pushed_at": "2024-11-17T11:12:05Z",
+      "is_fork": false
+    },
+    {
+      "name": "dulan-ai-hub",
+      "html_url": "https://github.com/wuulong/dulan-ai-hub",
+      "description": "",
+      "ai_description": "都蘭 AI 共創知識庫。為在地社群與 AI 協作設計的知識匯流平台，保存各項地方創生、文化紀錄與 AI 應用實驗的對話與成果。",
+      "updated_at": "2026-07-07T04:02:22Z",
+      "pushed_at": "2026-07-07T04:02:18Z",
+      "is_fork": false
+    },
+    {
+      "name": "EnterpriseGenAIAdoption",
+      "html_url": "https://github.com/wuulong/EnterpriseGenAIAdoption",
+      "description": "AI生成書籍與方法：企業生成式 AI 轉型全書：從知識底座到自主代理人的實踐路徑",
+      "ai_description": "《企業生成式 AI 轉型全書》專案。系統化整理企業導入 GenAI 的方法論，涵蓋知識工程、RAG 架構、多代理人協作設計及組織變革管理的實踐路徑。",
+      "updated_at": "2026-07-08T03:17:48Z",
+      "pushed_at": "2026-07-08T03:17:44Z",
+      "is_fork": false
+    },
+    {
+      "name": "gov_openapi_agent",
+      "html_url": "https://github.com/wuulong/gov_openapi_agent",
+      "description": "政府開放資料 api adk agent",
+      "ai_description": "政府開放資料 API 的 ADK（Agent Development Kit）代理人。針對台灣政府開放平台（Open Data）設計，能自動解析 API 規格並進行數據抓取與清洗。",
+      "updated_at": "2025-11-18T02:08:45Z",
+      "pushed_at": "2025-11-03T09:51:31Z",
+      "is_fork": false
+    },
+    {
+      "name": "habalab",
+      "html_url": "https://github.com/wuulong/habalab",
+      "description": "哈爸實驗室",
+      "ai_description": "哈爸實驗室（HabaLab）的個人開源實驗專案。收錄各式自製硬體、開源軟體原型以及物聯網（IoT）硬體控制的實驗程式碼與紀錄。",
+      "updated_at": "2026-02-06T21:03:46Z",
+      "pushed_at": "2026-02-06T21:03:41Z",
+      "is_fork": false
+    },
+    {
+      "name": "idswak",
+      "html_url": "https://github.com/wuulong/idswak",
+      "description": "Tool to manage IDs in datasets",
+      "ai_description": "資料集 ID 管理工具。專門用於處理與維護大型結構化資料集中的唯一識別碼（IDs），避免資料庫合併或更新時產生 ID 衝突與混亂。",
+      "updated_at": "2020-11-08T07:44:33Z",
+      "pushed_at": "2020-11-08T07:44:31Z",
+      "is_fork": false
+    },
+    {
+      "name": "indigenous-culture-atlas",
+      "html_url": "https://github.com/wuulong/indigenous-culture-atlas",
+      "description": "",
+      "ai_description": "原住民文化時空地圖專案。結合中研院 GIS 空間圖資與歷史文本，將台灣原住民族群的遷移、部落位置及文化資產進行結構化的地理資訊標記。",
+      "updated_at": "2026-04-29T03:51:46Z",
+      "pushed_at": "2026-04-29T03:51:43Z",
+      "is_fork": false
+    },
+    {
+      "name": "KDrama_Decoding",
+      "html_url": "https://github.com/wuulong/KDrama_Decoding",
+      "description": "",
+      "ai_description": "韓劇文明解碼器專案。透過文化、心理學與社會學視角，深入解析熱門韓劇背後的社會現象與文明密碼，將觀影感悟系統化整理為深度文章。",
+      "updated_at": "2026-05-26T00:42:18Z",
+      "pushed_at": "2026-05-26T00:42:13Z",
+      "is_fork": false
+    },
+    {
+      "name": "law_meta",
+      "html_url": "https://github.com/wuulong/law_meta",
+      "description": "law metadata framework",
+      "ai_description": "法律元數據（Law Metadata）框架。旨在建構標準化的法律條文、法規關聯與司法判決的結構化欄位，為法律科技（LegalTech）的 AI 應用提供資料基底。",
+      "updated_at": "2025-07-09T08:03:19Z",
+      "pushed_at": "2025-07-09T08:03:16Z",
+      "is_fork": false
+    },
+    {
+      "name": "LJMeta",
+      "html_url": "https://github.com/wuulong/LJMeta",
+      "description": " Legal Judgment Metadata",
+      "ai_description": "司法判決書元數據解析專案。專注於台灣法院判決書的結構化提取，自動識別案號、法官、主文及法條引用，以便進行量化分析與智慧檢索。",
+      "updated_at": "2025-04-25T14:42:01Z",
+      "pushed_at": "2025-03-30T05:54:49Z",
+      "is_fork": false
+    },
+    {
+      "name": "mdri",
+      "html_url": "https://github.com/wuulong/mdri",
+      "description": "MDRI (Mata'an Disaster Recovery Initiative) - 馬太鞍災害復原倡議",
+      "ai_description": "馬太鞍災害復原倡議（MDRI）專案。結合 GIS 空間分析與在地文史，針對馬太鞍地區的防災、減災與災害復原規劃提供數據支持與實踐方案。",
+      "updated_at": "2025-10-06T07:22:30Z",
+      "pushed_at": "2025-10-06T04:42:10Z",
+      "is_fork": false
+    },
+    {
+      "name": "mhp",
+      "html_url": "https://github.com/wuulong/mhp",
+      "description": "ModernHackathonPlaybook (MHP): 新世代黑客松技法",
+      "ai_description": "新世代黑客松技法手冊（MHP）專案。系統化整理現代黑客松的企劃、組隊、敏捷開發與 AI 輔助開發的實戰指引，提升敏捷開發團隊的產出效率。",
+      "updated_at": "2025-11-18T02:09:55Z",
+      "pushed_at": "2025-11-04T05:39:49Z",
+      "is_fork": false
+    },
+    {
+      "name": "moenv_openapi_agent",
+      "html_url": "https://github.com/wuulong/moenv_openapi_agent",
+      "description": "環保署開放資料 api 的 adk agent",
+      "ai_description": "環境部（原環保署）開放資料 API 的智慧代理人。自動對接台灣環境監測 API（如 AQI、水質、噪音等），實現即時數據抓取、警報與分析。",
+      "updated_at": "2025-09-24T01:53:46Z",
+      "pushed_at": "2025-09-21T00:35:11Z",
+      "is_fork": false
+    },
+    {
+      "name": "mountain-hydrology-atlas",
+      "html_url": "https://github.com/wuulong/mountain-hydrology-atlas",
+      "description": "",
+      "ai_description": "山區水文知識地圖專案。整理台灣高山流域、古道與水文環境的時空數據，將水文調查方法論與 GIS 圖層結合，建構高山水文的結構化資料庫。",
+      "updated_at": "2026-06-02T01:52:02Z",
+      "pushed_at": "2026-06-02T01:51:59Z",
+      "is_fork": false
+    },
+    {
+      "name": "PersonalAI-Empowerment",
+      "html_url": "https://github.com/wuulong/PersonalAI-Empowerment",
+      "description": "",
+      "ai_description": "個人 AI 賦能計畫。探索個人如何透過 AI 工具、腳本自動化與提示詞工程，重塑日常工作與學習流程，實現個體生產力的最大化。",
+      "updated_at": "2026-06-05T21:10:55Z",
+      "pushed_at": "2026-06-05T21:10:50Z",
+      "is_fork": false
+    },
+    {
+      "name": "RecallDataAnalyzer",
+      "html_url": "https://github.com/wuulong/RecallDataAnalyzer",
+      "description": "2025大罷免沃草報導資料分析",
+      "ai_description": "2025 罷免專案資料分析工具。針對沃草等媒體報導與公開數據，進行罷免連署、投票數據的整理與視覺化分析，增進公民參與的資訊透明度。",
+      "updated_at": "2025-03-22T09:26:50Z",
+      "pushed_at": "2025-03-22T09:26:47Z",
+      "is_fork": false
+    },
+    {
+      "name": "river-exploration-blog",
+      "html_url": "https://github.com/wuulong/river-exploration-blog",
+      "description": "",
+      "ai_description": "河流流域探索部落格。紀錄台灣河流流域探索的實地行程、GIS 圖資準備、照片與個人遊記，將水文實踐與地方文史撰寫為精美文章。",
+      "updated_at": "2025-12-18T20:08:44Z",
+      "pushed_at": "2025-12-18T20:08:40Z",
+      "is_fork": false
+    },
+    {
+      "name": "RiverExploration",
+      "html_url": "https://github.com/wuulong/RiverExploration",
+      "description": "AIBook: 《流域導航：台灣母親之河的深度探索與實踐指南》",
+      "ai_description": "《流域導航》AI 專書專案。深度探索台灣母親之河的時空脈絡，將實地水文調查與 GIS 數據合流，提供讀者系統化的河流探索實踐指南。",
+      "updated_at": "2026-06-24T05:28:41Z",
+      "pushed_at": "2026-06-24T05:28:37Z",
+      "is_fork": false
+    },
+    {
+      "name": "robotbitnet",
+      "html_url": "https://github.com/wuulong/robotbitnet",
+      "description": "robot microbit network",
+      "ai_description": "基於 Micro:bit 與 Robotbit 的無線網路通訊專案。實作微型機器人與感測器之間的點對點通訊及網狀網路，用於 STEM 教育與自製小車控制。",
+      "updated_at": "2020-12-22T15:18:06Z",
+      "pushed_at": "2020-12-22T06:42:18Z",
+      "is_fork": false
+    },
+    {
+      "name": "RodeRunner",
+      "html_url": "https://github.com/wuulong/RodeRunner",
+      "description": "Rode Runner - python cocos2d practice",
+      "ai_description": "基於 Python Cocos2d 的遊戲開發練習專案。實作經典的跑酷或避障遊戲邏輯，用於學習 Python 2D 遊戲引擎、精靈動畫與碰撞偵測。",
+      "updated_at": "2021-06-22T20:09:23Z",
+      "pushed_at": "2021-02-09T09:46:49Z",
+      "is_fork": false
+    },
+    {
+      "name": "sovereign-health-agent",
+      "html_url": "https://github.com/wuulong/sovereign-health-agent",
+      "description": "",
+      "ai_description": "自主健康代理人專案。旨在開發個人私有的健康 AI 助理，整合生理量測數據與醫療指南，在保障隱私的前提下提供日常健康指引與諮詢。",
+      "updated_at": "2026-06-30T11:38:59Z",
+      "pushed_at": "2026-06-30T11:38:54Z",
+      "is_fork": false
+    },
+    {
+      "name": "sovereign-research-methodology",
+      "html_url": "https://github.com/wuulong/sovereign-research-methodology",
+      "description": "",
+      "ai_description": "自主研究方法論專案。建立一套不依賴第三方封閉平台、由 AI 與個人高度協作的學術自審與論文寫作框架，死守人類的思考手感與品質。",
+      "updated_at": "2026-06-11T12:57:52Z",
+      "pushed_at": "2026-06-11T12:55:52Z",
+      "is_fork": false
+    },
+    {
+      "name": "SurfaceWaterMonitor-Study",
+      "html_url": "https://github.com/wuulong/SurfaceWaterMonitor-Study",
+      "description": "",
+      "ai_description": "地表水體監測研究專案。利用衛星遙測影像與水利公開數據，分析台灣特定水庫與河川的水體面積變化、泥沙淤積及水資源管理現況。",
+      "updated_at": "2020-11-23T02:07:01Z",
+      "pushed_at": "2020-11-23T02:06:59Z",
+      "is_fork": false
+    },
+    {
+      "name": "synchub-prototype",
+      "html_url": "https://github.com/wuulong/synchub-prototype",
+      "description": "",
+      "ai_description": "Synchub（同步中樞）原型專案。旨在解決跨平台、跨裝置之間的個人筆記、工作流與資料庫自動化同步需求，打造去中心化的資料流通道。",
+      "updated_at": "2026-05-26T00:43:40Z",
+      "pushed_at": "2026-05-26T00:43:37Z",
+      "is_fork": false
+    },
+    {
+      "name": "taitung-tourism-enablement-walkgis",
+      "html_url": "https://github.com/wuulong/taitung-tourism-enablement-walkgis",
+      "description": "",
+      "ai_description": "台東觀光賦能與 WalkGIS 專案。結合台東在地 POI 與 WalkGIS app 的空間引導功能，設計深度主題路線，以數位科技賦能地方永續旅遊。",
+      "updated_at": "2026-04-25T00:49:04Z",
+      "pushed_at": "2026-04-25T00:49:00Z",
+      "is_fork": false
+    },
+    {
+      "name": "taiwan-history-atlas",
+      "html_url": "https://github.com/wuulong/taiwan-history-atlas",
+      "description": "台灣通史db",
+      "ai_description": "《台灣通史》時空知識圖譜專案。將《台灣通史》等古籍進行語意清洗、實體提取，並對接百年歷史地圖，建構跨時空的台灣文史資料庫。",
+      "updated_at": "2026-06-11T12:54:31Z",
+      "pushed_at": "2026-06-11T12:54:27Z",
+      "is_fork": false
+    },
+    {
+      "name": "taiwan-township-exploration",
+      "html_url": "https://github.com/wuulong/taiwan-township-exploration",
+      "description": "流域導航 書與walkgis系統",
+      "ai_description": "台灣鄉鎮探索與流域導航專案。結合 WalkGIS 行動系統，針對台灣各鄉鎮進行深度人文與水文探索，建立可攜式的離線地理資訊導覽平台。",
+      "updated_at": "2026-02-05T01:46:26Z",
+      "pushed_at": "2026-02-05T01:46:23Z",
+      "is_fork": false
+    },
+    {
+      "name": "vc_sample",
+      "html_url": "https://github.com/wuulong/vc_sample",
+      "description": "vibe coding sample project with BDD/TDD method framework",
+      "ai_description": "Vibe Coding（氛圍程式設計）範例專案。展示如何在行為驅動開發（BDD）與測試驅動開發（TDD）框架下，與 AI 進行高效的配對編程。",
+      "updated_at": "2025-09-30T11:31:48Z",
+      "pushed_at": "2025-09-30T11:31:45Z",
+      "is_fork": false
+    },
+    {
+      "name": "vibe_coding_learn1",
+      "html_url": "https://github.com/wuulong/vibe_coding_learn1",
+      "description": "",
+      "ai_description": "Vibe Coding 的學習與實踐紀錄專案。紀錄在無痛程式碼生成、AI 自動測試與快速迭代過程中的心法、提示詞技巧與失敗案例分析。",
+      "updated_at": "2025-07-09T08:58:51Z",
+      "pushed_at": "2025-07-09T08:58:47Z",
+      "is_fork": false
+    },
+    {
+      "name": "walkgis-sample",
+      "html_url": "https://github.com/wuulong/walkgis-sample",
+      "description": "for test walkgis-temple ",
+      "ai_description": "WalkGIS 範例專案。用於測試與展示 WalkGIS 地圖樣板的核心功能，提供開發者一個可快速複製、修改的離線地圖應用範本。",
+      "updated_at": "2026-01-01T07:47:08Z",
+      "pushed_at": "2026-01-01T07:47:05Z",
+      "is_fork": false
+    },
+    {
+      "name": "walkgis-template",
+      "html_url": "https://github.com/wuulong/walkgis-template",
+      "description": "walkgis-template",
+      "ai_description": "WalkGIS 離線地圖應用樣板。定義了 WalkGIS 的資料結構、地圖圖層樣式與前端互動介面，方便快速生成不同主題的地理導覽網頁。",
+      "updated_at": "2026-01-01T05:01:42Z",
+      "pushed_at": "2026-01-01T05:01:39Z",
+      "is_fork": false
+    },
+    {
+      "name": "WalkGISApp",
+      "html_url": "https://github.com/wuulong/WalkGISApp",
+      "description": "WalkGISApp",
+      "ai_description": "WalkGIS 主應用程式。一款專為田野調查、水文探索與文史踏查設計的行動地圖 App，支援離線地圖、軌跡記錄與 POI 自訂富化。",
+      "updated_at": "2026-02-04T10:14:49Z",
+      "pushed_at": "2026-02-04T10:14:46Z",
+      "is_fork": false
+    },
+    {
+      "name": "wisdom-weaving",
+      "html_url": "https://github.com/wuulong/wisdom-weaving",
+      "description": "",
+      "ai_description": "智慧工程沙盒實驗（Wisdom Weaving）專案。專注於 Hybrid RAG、GraphRAG、多代理人拓撲及動態知識工程的架構研發與實驗沙盒。",
+      "updated_at": "2026-07-04T13:45:49Z",
+      "pushed_at": "2026-07-04T13:45:45Z",
+      "is_fork": false
+    },
+    {
+      "name": "wuulong-notes-blog",
+      "html_url": "https://github.com/wuulong/wuulong-notes-blog",
+      "description": "哈爸筆記",
+      "ai_description": "《哈爸筆記》Hugo 部落格源碼。整理並發布作者在 AI 科技、水文探索、地方文史、個人成長等多個主題的系統化思考與讀書筆記。",
+      "updated_at": "2026-07-11T01:23:11Z",
+      "pushed_at": "2026-07-11T01:23:08Z",
+      "is_fork": false
+    }
+  ]
+}
