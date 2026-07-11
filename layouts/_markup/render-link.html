@@ -1,0 +1,10 @@
+{{- $destination := .Destination -}}
+{{- if strings.HasSuffix $destination ".py" -}}
+  {{- $githubRepo := default "https://github.com/wuulong/wuulong-notes-blog" .Page.Site.Params.githubRepo -}}
+  {{- $branch := default "main" .Page.Site.Params.githubBranch -}}
+  {{- $destination = printf "%s/blob/%s/content/%s%s" $githubRepo $branch .Page.File.Dir (strings.TrimPrefix "./" $destination) -}}
+{{- else if .Page.Site.Params.BookPortableLinks -}}
+  {{- $destination = partial "docs/links/portable-link" . -}}
+{{- end -}}
+<a href="{{ $destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /**/ -}}

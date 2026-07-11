@@ -1,7 +1,7 @@
 baseURL: "https://your-username.github.io/wuulong-notes-blog/"
 languageCode: "zh-tw"
 title: "哈爸筆記"
-theme: "PaperMod"
+theme: ["PaperMod", "hugo-book"]
 
 outputs:
     home:
@@ -25,6 +25,9 @@ minify:
 
 params:
   env: production
+  BookSection: kb
+  githubRepo: "https://github.com/wuulong/wuulong-notes-blog"
+  githubBranch: "main"
   title: "台灣河川探索誌"
   description: "紀錄大甲溪與台灣各大河川的深度探訪之旅"
   keywords: [Blog, Portfolio, PaperMod, Taiwan, River]
@@ -102,6 +105,10 @@ menu:
       name: Planning
       url: /planning/
       weight: 20
+    - identifier: kb
+      name: kb
+      url: /kb/
+      weight: 15
     - identifier: posts
       name: Posts
       url: /posts/
