@@ -1,0 +1,4 @@
+/* Force cover images to display on taxonomy term list pages (like Series, Tags, Categories) */
+.tag-entry .entry-cover {
+    display: block;
+}
