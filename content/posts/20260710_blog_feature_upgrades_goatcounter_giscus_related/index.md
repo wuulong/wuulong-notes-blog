@@ -5,6 +5,7 @@ draft: false
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
@@ -22,6 +23,8 @@ cover:
 1. **計數器/流量分析**：了解哪些文章比較受歡迎。
 2. **留言系統**：與讀者互動、搜集反饋。
 3. **相關文章推薦**：將零散的筆記串聯成知識網。
+
+<!--more-->
 
 我今天成功地為我的 Hugo (PaperMod 主題) 部落格一次裝上了這三個功能。這次的改造過程，我再次驗證了我的 **「雙核人機協作方法論」**：**先在網頁版 AI 中選型發想、整理成結構化 AIQA，再交給地端 Agentic AI (Antigravity) 進行無摩擦代碼落地。** 
 
