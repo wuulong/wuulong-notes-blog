@@ -49,6 +49,18 @@ weight: 20
 * **Lab 25: 即時人機對話詢問與回填**
   * [Lab25_human_in_the_loop.py](./Lab25_human_in_the_loop.py) — 實現衝堂時 Suspend 推理，詢問決策回填後 Resume 完成預約。
   * 👉 [技術學習導引](./logs/logs_lab25_explain.md)
+* **Lab 26: 心智基因碼突變與黃金軌跡回測**
+  * [Lab26_genetic_agentops.py](./Lab26_genetic_agentops.py) — Generator Agent Prompt 突變與黃金場景軌跡回測。
+  * 👉 [技術學習導引](./logs/explain_lab26.md)
+* **Lab 27: 對抗式 Jailbreak 盲測與動態防護政策攔截**
+  * [Lab27_adversarial_defense.py](./Lab27_adversarial_defense.py) — PreToolCallDecideHook 安全阻斷與錯誤反思自癒降級。
+  * 👉 [技術學習導引](./logs/explain_lab27.md)
+* **Lab 28: 心智手風琴壓縮與長週期記憶接力**
+  * [Lab28_cognitive_accordion.py](./Lab28_cognitive_accordion.py) — 軌跡 resolve 記憶快照壓縮，全新 Agent 載入快照無縫接力。
+  * 👉 [技術學習導引](./logs/explain_lab28.md)
+* **Lab 29: 代理人共識與 RAFT 衝突調度機制**
+  * [Lab29_agent_consensus.py](./Lab29_agent_consensus.py) — 模擬多代理人（教務、財務、總監）立場衝突辯論與總監 RAFT 共識仲裁。
+  * 👉 [技術學習導引](./logs/explain_lab29.md)
 * **📖 Antigravity SDK 與 Agentic 2.0 觀念自測題庫**
   * 👉 [sdk_quiz.md](./sdk_quiz.md) — 整理了 30 題涵蓋基礎 SDK 原理、工具與安全 Hook 治理、快照 Session 持久化，以及 Agentic 2.0 軟體架構設計（如限流自癒、資訊屏障、專家分權路由等）的折疊式離線問答集。
 * **其他基礎測試**

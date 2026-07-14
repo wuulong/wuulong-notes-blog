@@ -113,4 +113,63 @@
 
 本部分 Labs 聚焦於企業級落地所需的核心工程能力，包含跨服務的標準化工具介接、安全沙盒治理、聲明式規則注入、軌跡可觀測性以及即時人機協作。這些 Lab 旨在協助您將 AI 應用從單純的「腳本包裝」提升至「軟體工程級別的代理人系統」。
 
+### 🔌 Lab 21：【MCP 整合】標準化工具接入與結構化輸出
+*   **教學觀念**：**Model Context Protocol (MCP) 自主工具發現與結構化輸出 (Structured Output)**。
+*   **實踐重點**：
+    1.  **本地 Stdio MCP 串接**：使用 Python 模擬標準 stdio MCP 伺服器，動態曝露 Google Sheets 寫入與 Slack 通知工具，解耦傳統硬編碼。
+    2.  **Pydantic 結構約束**：強制指定 `response_schema`，並在客戶端呼叫 `await response.structured_output()` 提取 100% 合規的強型別資料對象。
+
+### 🛡️ Lab 22：【動態安全網】執行期 Hook 攔截與錯誤自癒
+*   **教學觀念**：**PreToolCallDecideHook 攔截、權限隔離與自癒規劃 (Self-Correction)**。
+*   **實踐重點**：
+    1.  **敏感操作攔截**：註冊安全 Hook，當 Agent 企圖呼叫 `delete_record` 等高風險 API 時剛性阻斷並拋出 `Permission Denied` 錯誤。
+    2.  **錯誤自癒 (Error-as-Feedback)**：Agent 在 Thoughts 串流中感知到權限錯誤後，自動調整策略，轉而呼叫許可權限內的 `update` 備用方案完成任務。
+
+### 🗂️ Lab 23：【聲明式規則】軟體定義 Rules 治理與動態適應
+*   **教學觀念**：**宣告式 Skills 載入與 .agents/AGENTS.md 動態 Rules 治理**。
+*   **實踐重點**：
+    1.  **自攜 Skill 封裝**：配置 `skills_paths` 聲明式載入颱風天停課等 YAML SOP 模組。
+    2.  **無代碼變更 Rules 治理**：展示在不改動任何 Python 程式碼的前提下，僅修改專案的 `AGENTS.md` 補課次數上限限制，Agent 在同一提問中的判定行為自動從「婉拒」演變為「核准」。
+
+### 🔍 Lab 24：【軌跡可觀測性】非同步任務軌跡與自動化審計
+*   **教學觀念**：**心智流軌跡序列化、可觀測性 (Observability) 與 LLM-as-a-Judge 評估**。
+*   **實踐重點**：
+    1.  **心智軌跡導出**：調用 `response.resolve()` 擷取扁平 Thoughts 與 ToolCall 歷史，序列化導出為結構化的 `trajectory.json` 檔案。
+    2.  **自動化評估裁判**：實例化 `Evaluator Agent` 讀取該 JSON，評估 Agent 的 Looping Rate (死迴圈率) 與規劃偏離度，給出系統優化審計報告。
+
+### 💬 Lab 25：【即時人機協同】推理中斷 Suspend 與 Callback Resume
+*   **教學觀念**：**人機交互 (Human-in-the-Loop)、中斷掛起 (Suspend) 與即時回填 (Resume)**。
+*   **實踐重點**：
+    1.  **衝突中斷**：Agent 排課時偵測到老師額滿，自動暫停推理 (Suspend)，拋出替代方案並等候人類決策。
+    2.  **回填恢復**：在終端互動（或背景非 TTY 模擬下）回填選擇並觸發 Callback 恢復推理 (Resume)，呼叫預約工具完成閉環。
+
 ---
+
+## 📂 第四部分：前沿認知架構與認知對抗篇 (Lab 26-29)
+
+本部分 Labs 專門為挑戰 Agentic Engineering 2.0 的理論與架構極限而設計，著重於自動化認知進化、高強度越獄攻防、長週期記憶壓縮以及分散式代理共識，指引未來 AgentOps 的最高階實踐。
+
+### 🧬 Lab 26：【認知進化】心智基因碼突變與黃金軌跡 Regression 回測 (Genetic AgentOps)
+*   **教學觀念**：**Agent Prompt (心智基因) 的自我進化與回測評估**。
+*   **設計架構**：
+    1.  **基因突變 (Mutation)**：實例化一個 `Generator Agent` 對目標 Agent 的 `system_instructions`（心智基因碼）進行微小語意變異或雜交，繁殖出 10 個變異代代理人。
+    2.  **軌跡回溯測試 (Backtesting)**：將 10 個變異 Agent 丟入本地沙盒，跑 30 個經典業務場景的「黃金測試集」。
+    3.  **淘汰淘汰篩選**：由 Judge Agent 計算 Looping Rate、Token 成本與合規得分，篩選出適應度 (Fitness) 最優的 2 個 Agent 進入下一代演化，實作 AI 原生的心智自動進化系統。
+
+### 🛡️ Lab 27：【認知攻防】對抗式 Jailbreak 盲測與動態防護政策攔截 (Adversarial Defense)
+*   **教學觀念**：**自動化 Jailbreak 攻防測試與動態防禦規則自癒**。
+*   **設計架構**：
+    1.  **紅軍攻擊盲測**：實例化紅軍 Agent 模擬駭客，載入 50 種 Prompt 注入與越獄 Payload，試圖誘騙藍軍 Agent 透露敏感病歷或越權改寫資料庫。
+    2.  **動態防禦 Hook**：在底層掛載 Hook 實時掃描 Thoughts 串流，一旦發現語意漂移，剛性阻斷並拋回拒絕資訊，同時將紅軍的最新攻擊特徵動態寫入 `AGENTS.md` 規則中，完成安全防線的實時自癒。
+
+### 🌌 Lab 28：【心智手風琴】基於 Trajectory 壓縮的超長週期對話接力 (Cognitive Accordion)
+*   **教學觀念**：**超長週期任務下的 Context 手風琴式語意壓縮與記憶斷點續傳**。
+*   **設計架構**：
+    1.  **手風琴收縮 (Compression)**：面對數天、數十萬 Token 的長週期任務，定期調用 `response.resolve()`。由 `Archiver Agent` 提取 Trajectory 中間過程，忽略冗長的內心獨白，僅提煉決策節點與實體狀態變化，生成極精煉的「認知快照 (Cognitive Snapshot)」。
+    2.  **認知接力 (Handover)**：當下一階段 Agent 或進程重啟時，加載該 Snapshot，無痛承接超長週期前的記憶斷點，解決 LLM Context 溢出與記憶衰退痛點。
+
+### 🕸️ Lab 29：【代理人共識】基於 RAFT 協議的分散式多代理決策與投票 (Distributed Agent Consensus)
+*   **教學觀念**：**多代理系統 (MAS) 中的分散式決策共識與衝突調度**。
+*   **設計架構**：
+    1.  **決策分歧**：在排課與財務衝突時（如名額有限但 VIP 學生強行要求插班），排課 Agent、招生 Agent 與財務 Agent 各持互斥的決策邏輯。
+    2.  **共識機制 (RAFT 協議)**：多代理之間透過 send_message 發起自主提案、挑戰與投票。只有當超過 2/3 的專家 Agent 投下贊成票，且 Supervisor 裁決後，Exit Condition 才達成並釋放資料庫 write_db 鎖。展現分散式自主 AI 社會的決策雛形。
