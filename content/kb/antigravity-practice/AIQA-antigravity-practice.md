@@ -2,6 +2,9 @@
 tags:
   - AIQA
   - 自學心法
+categories:
+  - Agentic AI (代理程式 AI)
+
 ---
 # 背景說明
 - 模型與環境： antigravity with Gemini 3.0 Flash Think,  ...

@@ -2,22 +2,20 @@
 title: "Agent 時代的軟體設計變革：對抗式規格生成與 Token 刺客防禦實戰"
 date: 2026-07-12T07:55:00+08:00
 categories:
-  - "Agentic AI (代理程式 AI)"
-  - "System Engineering (系統工程)"
-  - "Methodology (方法論)"
+  - Agentic AI (代理程式 AI)
+  - Enterprise AI Transformation (企業 AI 轉型)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
+  - System Engineering (系統工程)
 series:
   - "個人AI賦能方法論"
 tags:
-  - "Google Antigravity"
-  - "Agentic Engineering"
-  - "AgentOps"
-  - "Token Optimization"
 cover:
   image: "assets/images/adversarial_spec_cover.webp"
   alt: "紅藍軍規格對抗與心智除錯概念圖"
   relative: false
 ---
-
 在 AI Agent 時代，我們發現傳統寫代碼 (Code) 的工法正被「定義 Goal、推理迴圈 (Loop) 與結束條件 (Exit Conditions)」所徹底顛覆。
 
 在學習 Google Antigravity SDK 時，我慢慢體會到新的開發概念與傳統寫 Code 的根本性不同。當我們要建構一個新的 Agent 軟體或平台時，到底該如何提供精確的 Initial Prompt 與系統規格？這篇文章就來聊聊我這陣子在個人環境下，利用 **「對抗式規格生成」** 進行系統工程開發，以及如何死守錢包、擊退 **「Token 刺客」** 的第一手踩坑與自癒實戰。

@@ -3,21 +3,21 @@ title: "AI 協作防禦工程：從 Rules 分流、偏好編譯、本體論降�
 date: 2026-07-14T09:44:00+08:00
 draft: false
 categories:
-  - "Agentic AI (代理程式 AI)"
-  - "Software Engineering (軟體工程)"
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Software Engineering (軟體工程)
 series:
   - "個人AI賦能方法論"
 tags:
-  - "Antigravity"
-  - "Python"
-  - "CLI"
+  - Antigravity
+  - Python
 cover:
-  image: "assets/images/cover_image.png"
+  image: "cover_image.jpg"
   alt: "AI 協作防禦工程"
-  relative: false
+  relative: true
 ---
-
-
 在與高階 AI 代理人（如 Antigravity）進行深度 Pair Programming 的過程中，開發者很快會面臨一個經典的系統挑戰——**「熵增 (Entropy Increase)」**。
 
 當你沒有為 AI 建立邊界約束時，AI 會隨手寫出大量一次性的 ad-hoc 腳本、在每次對話初始化時重複載入十多個散落的規則檔、甚至在遇到大型文件時，產生 verbose 且昂貴的 Thoughts Token 刺客。

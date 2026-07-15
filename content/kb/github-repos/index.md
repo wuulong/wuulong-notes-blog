@@ -3,8 +3,12 @@ title: "哈爸 GitHub 公開專案清單"
 date: 2026-07-11T09:37:47+08:00
 draft: false
 weight: 10
----
+categories:
+  - Life & Reflections (生活與隨筆)
 
+tags:
+
+---
 # 🔗 GitHub 公開專案清單
 
 此頁面由自動化腳本與 AI 協作維護，列出我的 GitHub 公開專案，並依最近修改時間排序。

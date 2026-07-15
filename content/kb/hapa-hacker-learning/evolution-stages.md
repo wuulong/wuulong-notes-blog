@@ -2,8 +2,12 @@
 title: "自學心法的三個演化階段 (Three Eras of Self-Learning)"
 date: 2026-07-11T14:02:00+08:00
 draft: false
----
+categories:
+  - Personal AI Empowerment (個人 AI 賦能)
 
+tags:
+
+---
 # 📅 自學心法的三個演化階段
 
 本篇記錄了哈爸自學心法在不同時代的演化歷程。從沒有 AI 的時代，到生成式 AI 的啟蒙，再到如今追求「主權與架構」的個人 AI 賦能階段，作為未來彙整成完整自學方法的演化地圖與背景參考。
