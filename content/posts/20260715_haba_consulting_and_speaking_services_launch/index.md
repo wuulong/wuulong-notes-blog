@@ -10,6 +10,7 @@ categories:
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - "哈爸筆記網站"
 tags:

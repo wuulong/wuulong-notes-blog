@@ -3,9 +3,8 @@ name: music-ops
 description: 提供音樂教室營運的 SOP 資訊，包含颱風天停課退費標準。
 categories:
   - Agentic AI (代理程式 AI)
-
+  - Software Engineering (軟體工程)
 tags:
-
 ---
 # 音樂教室營運政策技能 (Music Ops SKILL)
 

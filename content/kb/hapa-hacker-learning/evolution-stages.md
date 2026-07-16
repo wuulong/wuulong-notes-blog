@@ -4,9 +4,7 @@ date: 2026-07-11T14:02:00+08:00
 draft: false
 categories:
   - Personal AI Empowerment (個人 AI 賦能)
-
 tags:
-
 ---
 # 📅 自學心法的三個演化階段
 
