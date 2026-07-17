@@ -10,6 +10,7 @@ categories:
   - Travel & Geography (旅行與地理)
 series:
   - "AI教學歷程"
+  - "公告"
 locations:
   - 台東
   - 東河
