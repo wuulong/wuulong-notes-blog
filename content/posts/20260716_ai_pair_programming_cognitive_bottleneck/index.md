@@ -10,7 +10,7 @@ categories:
   - Productivity & KM (生產力與知識管理)
   - Life & Reflections (生活與隨筆)
 series:
-  - "哈爸筆記網站"
+  - "atp-agent"
 tags:
   - 系統工程
   - 認知重構
