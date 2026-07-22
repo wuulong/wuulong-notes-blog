@@ -4,22 +4,18 @@ date: 2026-07-18T21:30:00+08:00
 draft: false
 categories:
   - GenAI (生成式 AI)
-  - Personal AI Empowerment (個人 AI 賦能)
   - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
 series:
   - "AI教學歷程"
 tags:
   - NotebookLM
-  - 語音輸入
-  - 課程設計
-  - 高齡數位賦能
 cover:
   image: "assets/images/20260718_notebooklm_slides_elderly.jpg"
   alt: "透過 NotebookLM 為高齡學員自動化生成的手機操作簡報示意圖"
   relative: false
 ---
-
 > **哈爸筆記**：最近我們在台東剛開辦了「都蘭 ╳ 台東在地限定：AI 慢活共創營」，對象主要是當地的店家、小農與樂齡長輩。在進行這堂課的課程設計時，我踩出了一套極具體感的新工作流——「錄音 ➔ NotebookLM ➔ 投影片大綱與簡報」。這套方法轉出來的教學效果異常驚人，讓我最近在備課時愛不釋手。今天就來聊聊這個讓科技溫馨落地的協作心得。
 
 ---

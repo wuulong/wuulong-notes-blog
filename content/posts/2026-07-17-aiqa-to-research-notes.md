@@ -3,22 +3,23 @@ title: "【哈爸筆記】從 AIQA 到研究筆記：一種更符合人性的兩
 date: 2026-07-17T18:00:00+08:00
 draft: false
 categories:
+  - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
   - GenAI (生成式 AI)
-  - Productivity & KM (生產力與知識管理)
-  - Personal AI Empowerment (個人 AI 賦能)
   - Methodology (方法論)
+  - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - "AI教學歷程"
 tags:
   - AIQA
   - 知識管理
-  - 人機協作
 cover:
   image: "assets/images/20260717_aiqa_to_research_notes.jpg"
   alt: "從 AIQA 聊天對話萃取為工整研究筆記的示意圖"
   relative: false
 ---
-
 > **哈爸筆記**：在帶領都蘭 AI 慢活共創營與日常技術探索中，我一直在思考：怎樣才是最省 tokens、最不累、也最符合人類大腦認知的人機協作學習法？今天把我們如何將零散的 AIQA 對話，一鍵萃取並沉澱為系統化「研究筆記」的過程與背後的心法寫下來。這是一套「先碎步前進、後架構合龍」的兩階段輕量級學習法。
 
 ---

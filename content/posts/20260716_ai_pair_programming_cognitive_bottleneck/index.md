@@ -4,24 +4,22 @@ date: 2026-07-16T11:00:00+08:00
 draft: false
 categories:
   - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - History & Culture (歷史與文化)
   - Methodology (方法論)
-  - Software Engineering (軟體工程)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
-  - Life & Reflections (生活與隨筆)
+  - Software Engineering (軟體工程)
+  - System Engineering (系統工程)
 series:
   - "atp-agent"
 tags:
-  - 系統工程
-  - 認知重構
-  - AI 協作
-  - Agentic AI
+  - AI Agent
 cover:
   image: "cover.jpg"
   alt: "Human-AI Cognitive Bottleneck showing brain mapping to agent architecture via systems engineering"
   relative: true
 ---
-
 最近在嘗試將一套複雜的方法論（預立醫療照護諮商與代理人系統，簡稱 ATP）重構並開發為一個運行的 Multi-Agent 系統時，我與 Antigravity 進行了一場極為密集的對話與對抗。
 
 這場設計實戰讓我對新時代的人機協作有了更深一層的體悟：
