@@ -2,7 +2,15 @@
 title: "立霧溪五天極致探索 Day 2：清水斷崖的地學凝視、天祥山野滋味與武嶺上的台韓救援變奏 (實遊筆記)"
 date: 2026-06-01T22:00:00+08:00
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 知識管理
+  - 立霧溪
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

@@ -3,7 +3,14 @@ title: "[高屏溪Day2] 掏空與重啟：廢墟上的生態綠洲 (行前計劃
 date: 2026-02-04
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
   - WalkGIS
+  - 河流探索
+  - 計劃
+  - 高屏溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)

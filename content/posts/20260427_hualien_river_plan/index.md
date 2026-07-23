@@ -2,9 +2,22 @@
 title: "AI 代理與河流探索：花蓮溪流域計畫的建構實踐與 GIS 踩坑筆記"
 date: 2026-04-27
 tags:
+  - AI
   - AI Agent
+  - ATAK
+  - Antigravity
+  - Deep Research
   - GIS
+  - Google My Maps
+  - KML
+  - Mermaid
+  - Python
+  - Relive
   - WalkGIS
+  - 卑南溪
+  - 河流探索
+  - 知識管理
+  - 花蓮溪
 categories:
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)

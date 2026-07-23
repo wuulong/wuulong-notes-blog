@@ -2,6 +2,12 @@
 title: "不要被 AI 掏空！硬核學術研究者的「數位主權」革命 —— 從 VRES 實戰到《個人賦能》v1.1 改版"
 date: 2026-05-20
 tags:
+  - AI
+  - AIQA
+  - Antigravity
+  - GitHub
+  - Methodology
+  - Python
   - SQLite
 categories:
   - Academic Research (學術研究)

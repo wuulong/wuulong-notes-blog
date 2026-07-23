@@ -3,7 +3,14 @@ title: "[濁水溪Day3] 水利心臟與電力之源：集集、水里到日月�
 date: 2026-01-15
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 河流探索
+  - 濁水溪
+  - 知識管理
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

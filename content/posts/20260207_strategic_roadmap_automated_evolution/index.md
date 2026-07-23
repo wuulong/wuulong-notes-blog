@@ -11,9 +11,16 @@ categories:
   - Software Engineering (軟體工程)
 series: ["哈爸實驗室"]
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - GIS
   - Mermaid
+  - WalkGIS
+  - 哈爸筆記
+  - 工作流程
   - 知識管理
+  - 自動化
 description: "長期困擾於日常記錄過於碎片化，導致難以看清大方向進展。透過建立「策略羅盤管理員」Skill，我們成功將碎瑣日誌轉化為宏觀的年度與月度戰略視角。"
 ---
 # 戰略羅盤自動化：解決「進展太快、記錄太細、方向模糊」的個人數位革命

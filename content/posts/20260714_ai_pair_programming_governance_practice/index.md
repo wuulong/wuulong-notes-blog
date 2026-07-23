@@ -11,7 +11,13 @@ categories:
 series:
   - "個人AI賦能方法論"
 tags:
+  - AI
+  - AIQA
   - Antigravity
+  - GIS
+  - Gemini
+  - GitHub
+  - Methodology
   - Python
 cover:
   image: "cover_image.jpg"

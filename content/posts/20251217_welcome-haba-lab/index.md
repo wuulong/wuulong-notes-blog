@@ -12,6 +12,12 @@ summary: "一個人埋頭苦幹，不如一群人一起實驗！「哈爸實驗�
 top: true
 
 tags:
+  - AI
+  - AI Agent
+  - GCP
+  - n8n
+  - 工作流程
+  - 自動化
 ---
 ## 🧪 關於哈爸實驗室 (Haba Lab)
 

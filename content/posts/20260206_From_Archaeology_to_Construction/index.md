@@ -3,7 +3,11 @@ title: "從數據挖掘到實務施工：建構《個人賦能》書稿與開源
 date: 2026-02-06
 draft: false
 tags:
+  - AI
+  - AI Agent
   - Antigravity
+  - GitHub
+  - Methodology
 categories:
   - Agentic AI (代理程式 AI)
   - Digital Archaeology (數位考古)

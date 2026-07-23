@@ -2,7 +2,15 @@
 title: "立霧溪五天極致探索 Day 1：封閉的太魯閣、門戶的文明衝擊與新城夜雨 (實遊筆記)"
 date: 2026-05-31T22:00:00+08:00
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 知識管理
+  - 立霧溪
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

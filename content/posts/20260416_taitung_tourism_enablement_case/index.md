@@ -16,6 +16,17 @@ locations:
   - 台東
 
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - Deep Research
+  - GIS
+  - Gemini
+  - Mermaid
+  - Places API
+  - WalkGIS
+  - 卑南溪
+  - 河流探索
 ---
 # AI 賦能實戰：台東旅宿與數位導覽的碰撞
 

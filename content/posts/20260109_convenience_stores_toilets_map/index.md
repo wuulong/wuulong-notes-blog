@@ -3,11 +3,16 @@ title: "WalkGIS 實戰：如何製作「有廁所的便利商店」地圖 (Googl
 date: 2026-01-09
 description: "為了河流探索的補給需求，利用 OpenStreetMap 開放資料與 Python 腳本，篩選出全台「有廁所」的便利商店，並成功匯入 Google My Maps 與 ATAK 進行離線導航。"
 tags:
+  - AI
   - ATAK
+  - Antigravity
   - GIS
   - Google My Maps
+  - KML
+  - Open Data
   - Python
   - WalkGIS
+  - 河流探索
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Maker & Hardware (創客與硬體)

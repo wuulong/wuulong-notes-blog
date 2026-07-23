@@ -11,8 +11,15 @@ categories:
   - Travel & Geography (旅行與地理)
 series: ["WalkGIS"]
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - Deep Research
+  - GIS
+  - Gemini
   - WalkGIS
+  - 大甲溪
+  - 自動化
 summary: "傳統的 GIS 地圖只告訴你「這裡有什麼」，卻很少告訴你「這裡發生過什麼」。為了解決深度探索的資訊落差，我開始嘗試在 WalkGIS 的每份地圖文件中嵌入專屬的 Deep Research Prompt。這不僅是節省使用者的複製貼上時間，更是一種「將地圖視為知識索引」的產品設計思維。"
 ---
 ![地圖即提示：AI導遊](地圖即提示：AI導遊.png)

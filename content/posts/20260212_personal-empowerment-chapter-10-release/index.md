@@ -10,7 +10,12 @@ categories:
   - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 tags:
+  - AI
   - Antigravity
+  - GitHub
+  - Methodology
+  - 哈爸筆記
+  - 自動化
 description: "分享撰寫《個人 AI 賦能》第十章的心路歷程，探討如何從 AI 使用者轉化為數位系統統御者，並發布三位一體治理套件。"
 ---
 ### **哈爸筆記：從「使用」到「統御」——《個人 AI 賦能》第十章發布實錄**

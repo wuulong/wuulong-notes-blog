@@ -6,9 +6,14 @@ categories:
   - Productivity & KM (生產力與知識管理)
 series: ["台灣史探索"]
 tags:
+  - AI
   - DTM
   - GIS
+  - HGIS
+  - QGIS
   - 哈爸筆記
+  - 知識管理
+  - 頭前溪
 ---
 ![hgis-series-01-dtm-curiosity.png](hgis-series-01-dtm-curiosity.png)
 一切的起點，源自於對家鄉地名的好奇。

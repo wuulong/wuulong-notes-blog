@@ -9,8 +9,18 @@ categories:
   - Software Engineering (軟體工程)
 series: ["哈爸實驗室"]
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - Methodology
+  - WalkGIS
+  - n8n
+  - 二仁溪
+  - 哈爸筆記
+  - 曾文溪
+  - 濁水溪
   - 知識管理
+  - 自動化
 description: "面對高速的 AI 協作，如何確保每一天的努力都不會隨風而逝？透過建立「產出導向」的工作日誌系統，我們成功回溯並重整了從 2025 年底至今的數位演化路徑。"
 ---
 # 數位演化的黑盒解密：從流水帳到「產出導向」的工作日誌系統

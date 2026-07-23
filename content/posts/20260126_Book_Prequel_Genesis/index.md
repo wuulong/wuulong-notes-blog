@@ -3,7 +3,13 @@ title: "這本書是「說」出來的：AI 如何幫我從錄音筆記生出書
 date: 2026-01-26
 draft: false
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - Gemini
+  - Methodology
   - NotebookLM
+  - 知識管理
 categories:
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)

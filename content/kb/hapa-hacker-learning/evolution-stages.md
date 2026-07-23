@@ -5,6 +5,14 @@ draft: false
 categories:
   - Personal AI Empowerment (個人 AI 賦能)
 tags:
+  - AI
+  - AIQA
+  - Antigravity
+  - GitHub
+  - Python
+  - 知識管理
+  - 自動化
+  - 自學心法
 ---
 # 📅 自學心法的三個演化階段
 

@@ -15,6 +15,10 @@ locations:
   - 小琉球
 
 tags:
+  - GIS
+  - Relive
+  - 河流探索
+  - 高屏溪
 ---
 ![P3190309.JPG](P3190309.JPG)
 

@@ -4,8 +4,13 @@ date: 2026-01-12
 draft: false
 tags:
   - AI
+  - Antigravity
+  - GIS
+  - Places API
   - Python
   - WalkGIS
+  - 河流探索
+  - 濁水溪
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

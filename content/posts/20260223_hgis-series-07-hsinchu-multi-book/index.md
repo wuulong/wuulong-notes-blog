@@ -4,8 +4,16 @@ date: 2026-02-23T17:00:00+08:00
 draft: false
 tags:
   - AI
+  - GIS
+  - GitHub
+  - Google My Maps
   - HGIS
+  - Open Data
+  - QGIS
+  - SQLite
   - WalkGIS
+  - 知識管理
+  - 自動化
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)

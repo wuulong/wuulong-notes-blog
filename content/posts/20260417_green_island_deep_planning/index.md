@@ -13,7 +13,16 @@ categories:
 series:
   - "2026台灣河流探索-卑南溪"
 tags:
+  - AI
+  - Antigravity
   - Deep Research
+  - GIS
+  - Gemini
+  - WalkGIS
+  - 卑南溪
+  - 哈爸筆記
+  - 河流探索
+  - 知識管理
 basins:
   - 卑南溪
 

@@ -8,9 +8,16 @@ categories:
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 tags:
+  - GIS
+  - Gemini
+  - GitHub
   - Google My Maps
   - KML
   - Open Data
+  - Python
+  - 大甲溪
+  - 河流探索
+  - 知識管理
 author: "Wuulong"
 summary: "本實驗記錄了從政府開放資料平台取得水利署河川流域 Shapefile 資料，並將其中「大甲溪」流域資料篩選後，使用 GDAL/ogr2ogr 工具轉換為 Google My Maps 支援的 KML 格式的完整過程。"
 basins:

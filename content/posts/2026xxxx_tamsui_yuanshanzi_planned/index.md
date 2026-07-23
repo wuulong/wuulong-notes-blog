@@ -2,7 +2,11 @@
 title: "淡水河探索計畫 05：【地景奇蹟】基隆河分洪與平溪煤礦 (計畫貼文)"
 date: 2026-06-22T08:25:00+08:00
 tags:
+  - GIS
+  - Google My Maps
   - WalkGIS
+  - 河流探索
+  - 淡水河
   - 計劃
 categories:
   - GIS & Mapping (地理資訊與地圖)

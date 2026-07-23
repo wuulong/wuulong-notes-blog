@@ -3,7 +3,15 @@ title: "[濁水溪Day4] 山湖與平原的對話：日月潭騎行與鳥嘴潭�
 date: 2026-01-16
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - NotebookLM
+  - Relive
   - WalkGIS
+  - 河流探索
+  - 濁水溪
+  - 知識管理
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)

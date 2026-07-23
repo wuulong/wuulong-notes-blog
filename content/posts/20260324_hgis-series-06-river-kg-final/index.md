@@ -8,7 +8,17 @@ categories:
   - River Exploration (河流探索)
 series: ["台灣史探索"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - HGIS
+  - KML
+  - SQLite
+  - WalkGIS
   - 哈爸筆記
+  - 河流探索
+  - 知識管理
+  - 頭前溪
 basins:
   - 頭前溪
 

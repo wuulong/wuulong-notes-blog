@@ -5,8 +5,14 @@ draft: false
 tags:
   - AI
   - DTM
+  - GIS
+  - Gemini
+  - GitHub
   - HGIS
   - WalkGIS
+  - 哈爸筆記
+  - 曾文溪
+  - 河流探索
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)

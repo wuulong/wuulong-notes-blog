@@ -8,9 +8,16 @@ categories:
   - Travel & Geography (旅行與地理)
 series: ["智慧導遊"]
 tags:
+  - AI
+  - Antigravity
   - GIS
   - Gemini
   - Open Data
+  - Python
+  - SQLite
+  - WalkGIS
+  - 哈爸筆記
+  - 知識管理
 draft: false
 ---
 最近兩天，我跟我的 AI 夥伴 (Antigravity) 泡在 `Travel-Advisor-HUD` 這個專案裡。目標很單純：**讓我的行車助理不再只是「唸出路名」，而是像個真正懂我的「私人導遊」。**

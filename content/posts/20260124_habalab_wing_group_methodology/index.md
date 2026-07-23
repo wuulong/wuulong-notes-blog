@@ -3,8 +3,13 @@ title: "「Wing Group」運作實踐：利用 NotebookLM 打造社群知識的�
 date: 2026-01-24
 description: "分享哈爸實驗室 Wing Group 的核心運作方式：如何將長篇會議轉化為具備代號、易於檢索且視覺化的知識資產。"
 tags:
+  - AI
+  - Antigravity
+  - GitHub
+  - Methodology
   - NotebookLM
   - 知識管理
+  - 自動化
 categories:
   - Community & Networking (社群與交流)
   - Maker & Hardware (創客與硬體)

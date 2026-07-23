@@ -3,10 +3,17 @@ title: "WalkGIS 實戰：ATAK 碎裂軌跡合併與 Google My Maps 輕量化指�
 date: 2026-01-09
 description: "解決 ATAK 自動分段記錄導致的軌跡碎裂問題，以及如何透過 Python 進行合併與抽稀，以突破 Google My Maps 的單一圖層 2000 點限制。"
 tags:
+  - AI
   - ATAK
+  - Antigravity
+  - GIS
   - Google My Maps
+  - KML
   - Python
   - WalkGIS
+  - 大甲溪
+  - 濁水溪
+  - 自動化
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Maker & Hardware (創客與硬體)

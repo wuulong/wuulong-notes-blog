@@ -7,7 +7,12 @@ categories:
   - Travel & Geography (旅行與地理)
 series: ["2025日本行"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
   - 哈爸筆記
+  - 知識管理
 draft: false
 ---
 這是我日本行的第二天。今天主要前往奈良看鹿，晚上回到大阪享用美食。

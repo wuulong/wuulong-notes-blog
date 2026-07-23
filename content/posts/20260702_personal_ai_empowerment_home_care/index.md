@@ -12,9 +12,18 @@ categories:
 series:
   - "演講與分享 (Talks)"
 tags:
+  - AI
   - Antigravity
+  - Deep Research
+  - Gemini
+  - Methodology
   - NotebookLM
+  - Python
   - Sovereign Health Agent
+  - 哈爸筆記
+  - 數位轉型
+  - 知識管理
+  - 自動化
 cover:
   image: "cover.jpg"
   alt: "在宅醫療與 AI 協同的科技溫馨畫面"

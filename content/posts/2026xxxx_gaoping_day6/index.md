@@ -3,7 +3,14 @@ title: "[高屏溪Day6] 溯源原鄉：挺立於高山的避難方舟與森林�
 date: 2026-02-09
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
   - WalkGIS
+  - 河流探索
+  - 計劃
+  - 高屏溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)

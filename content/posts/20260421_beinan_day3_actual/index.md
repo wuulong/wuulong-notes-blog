@@ -3,7 +3,13 @@ title: "[卑南溪Day3] 三千年的石板記憶與知本之湧：史前館、�
 date: 2026-04-21
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 卑南溪
+  - 河流探索
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

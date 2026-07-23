@@ -3,8 +3,15 @@ title: "[技術隨筆] 當 Hugin 投降時：我與 AI 協作拼接珍貴地圖�
 date: 2026-02-02
 draft: false
 tags:
+  - AI
   - AI協作
+  - Antigravity
+  - GIS
+  - Python
   - 哈爸筆記
+  - 曾文溪
+  - 河流探索
+  - 知識管理
 categories:
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)

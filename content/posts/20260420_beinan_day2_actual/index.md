@@ -3,7 +3,13 @@ title: "[卑南溪Day2] 從高空泰皮山到地表利吉惡地：葉笛、少�
 date: 2026-04-20
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 卑南溪
+  - 河流探索
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

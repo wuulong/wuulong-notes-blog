@@ -3,7 +3,13 @@ title: "[曾文溪Day4] 從文明解構到海口回望：在大圳與神榕間�
 date: 2026-01-31
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 曾文溪
+  - 河流探索
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)

@@ -11,8 +11,16 @@ categories:
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
+  - AIQA
+  - Antigravity
   - Deep Research
+  - GIS
   - Gemini
+  - 二仁溪
+  - 河流探索
+  - 知識管理
+  - 立霧溪
 summary: "面對艱澀的學術專著，如何透過 Podcast、AI 預習與深度研究，在翻開書本前就建立起自己的專業領航圖？一場從工程視角跨越到人文田野的認知冒險。"
 ---
 ## 🌊 從工程水文到人文田野：那一座溝通的反向橋樑

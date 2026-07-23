@@ -6,7 +6,13 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"]
 tags:
+  - GIS
+  - KML
   - Open Data
+  - Relive
+  - 大甲溪
+  - 河流探索
+  - 車宿
 draft: false
 ShowToc: true
 TocOpen: true

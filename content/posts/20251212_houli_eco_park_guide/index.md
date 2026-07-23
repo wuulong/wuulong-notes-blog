@@ -6,6 +6,8 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"] 
 tags:
+  - 大甲溪
+  - 河流探索
   - 車宿
 draft: false
 basins:

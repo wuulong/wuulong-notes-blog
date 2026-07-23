@@ -2,7 +2,20 @@
 title: "立霧溪大縱走 Day 1：在牌樓與綠松石水色前，重新定義河流探索的靈魂 (哈爸筆記)"
 date: 2026-05-29
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
+  - GitHub
+  - KML
+  - Places API
+  - Python
   - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 濁水溪
+  - 知識管理
+  - 立霧溪
   - 車宿
 categories:
   - Agentic AI (代理程式 AI)

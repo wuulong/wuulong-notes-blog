@@ -10,9 +10,20 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Google My Maps
+  - KML
   - Mermaid
   - NotebookLM
+  - Python
   - SQLite
+  - WalkGIS
+  - 大甲溪
+  - 河流探索
+  - 知識管理
+  - 自動化
 summary: "驗證 WalkGIS 系統的擴充性：透過標準化流程，快速部署「大甲溪水利溯源」與「智慧水圳」兩條全新路線，並整合 Google Maps 導航與 AI 內容生成。"
 basins:
   - 大甲溪

@@ -6,8 +6,14 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
   - Mermaid
   - Open Data
+  - WalkGIS
+  - 大甲溪
 draft: false
 ---
 我們很高興宣布 **WalkGIS Project V0.1** 正式釋出！ 🎉

@@ -3,8 +3,13 @@ title: "零錢袋裡的統計學：與 AI 共舞的存錢明細分析"
 date: 2026-03-14T11:40:00+08:00
 draft: false
 tags:
+  - AI
+  - AIQA
   - Gemini
+  - Python
   - 哈爸筆記
+  - 知識管理
+  - 自動化
 categories:
   - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)

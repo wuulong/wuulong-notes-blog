@@ -3,7 +3,14 @@ title: "[濁水溪Day2] 繞行溪州、重逢二水與集集車宿的悠閒午�
 date: 2026-01-14
 draft: false
 tags:
+  - AI
+  - ATAK
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 河流探索
+  - 濁水溪
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

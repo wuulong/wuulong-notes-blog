@@ -13,7 +13,17 @@ categories:
 series:
   - "哈爸筆記網站"
 tags:
+  - AI
+  - AIQA
   - Antigravity
+  - GIS
+  - Gemini
+  - GitHub
+  - Methodology
+  - 哈爸筆記
+  - 工作流程
+  - 知識管理
+  - 自動化
 cover:
   image: "cover.jpg"
   alt: "Blog Optimization Hub showing visitor charts, comments and related posts nodes"

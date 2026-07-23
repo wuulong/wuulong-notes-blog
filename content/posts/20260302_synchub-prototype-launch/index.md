@@ -3,7 +3,15 @@ title: "從個人沙盒到企業大腦：團隊 AI 賦能實驗 (SyncHub) 正式
 date: 2026-03-02T08:00:00+08:00
 draft: false
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - GitHub
+  - Mermaid
+  - Python
+  - 工作流程
   - 知識管理
+  - 自動化
 categories:
   - Automation & Workflows (自動化與工作流程)
   - Enterprise AI Transformation (企業 AI 轉型)

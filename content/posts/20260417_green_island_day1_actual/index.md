@@ -18,6 +18,13 @@ destinations:
   - 朝日溫泉
 
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
+  - 卑南溪
+  - 哈爸筆記
+  - 河流探索
 ---
 ![綠島星空與寂靜](./header.png)
 

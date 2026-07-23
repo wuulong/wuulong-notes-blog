@@ -2,7 +2,11 @@
 title: "淡水河探索計畫 02：【都會脈動】大稻埕、社子島與都會防洪 (計畫貼文)"
 date: 2026-06-22T08:10:00+08:00
 tags:
+  - GIS
+  - Google My Maps
   - WalkGIS
+  - 河流探索
+  - 淡水河
   - 計劃
 categories:
   - GIS & Mapping (地理資訊與地圖)

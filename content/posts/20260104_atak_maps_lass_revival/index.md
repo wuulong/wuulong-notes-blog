@@ -5,7 +5,11 @@ description: 透過 AI 協助修復舊版 ATAK 地圖擴充包，解決 HTTPS �
 tags:
   - AI
   - ATAK
+  - GIS
+  - Gemini
+  - WalkGIS
   - 工作流程
+  - 自動化
 categories:
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)

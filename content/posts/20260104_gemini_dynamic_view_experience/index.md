@@ -9,8 +9,14 @@ categories:
   - Productivity & KM (生產力與知識管理)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - Antigravity
   - Deep Research
+  - GIS
   - Gemini
+  - WalkGIS
+  - 大甲溪
+  - 知識管理
 summary: "在將 Deep Research 應用於 WalkGIS 的過程中，我意外發現了 Gemini 'Dynamic View' 的強大之處。透過幾個簡單的 Prompt，一份幾萬字的枯燥水利工程報告，瞬間被轉化為精美的時間軸、比較表與行程卡片。這不僅是視覺化工具，更是新一代的知識策展神器。"
 ---
 ![懶人包](懶人包.png)

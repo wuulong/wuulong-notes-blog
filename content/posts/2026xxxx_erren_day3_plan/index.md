@@ -7,7 +7,11 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-二仁溪"]
 tags:
+  - GIS
   - WalkGIS
+  - 二仁溪
+  - 河流探索
+  - 計劃
 description: "直之下游污染遺址，見證二仁溪如何從黑龍江重回生態標竿。"
 draft: false
 basins:

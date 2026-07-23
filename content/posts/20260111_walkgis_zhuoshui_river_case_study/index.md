@@ -4,10 +4,22 @@ date: 2026-01-11
 draft: false
 tags:
   - AI
+  - AI Agent
+  - Antigravity
   - Deep Research
   - GIS
+  - Gemini
+  - KML
+  - Mermaid
+  - NotebookLM
+  - Places API
   - Python
+  - SQLite
   - WalkGIS
+  - 工作流程
+  - 河流探索
+  - 濁水溪
+  - 知識管理
   - 自動化
 categories:
   - Academic Research (學術研究)

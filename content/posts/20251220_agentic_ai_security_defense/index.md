@@ -8,7 +8,12 @@ categories:
   - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - Gemini
+  - NotebookLM
+  - 自動化
 summary: "探討 Agentic AI 帶來的安全挑戰，提出監控、即時阻攔與長線溯源結合的「全戰線」防禦機制。"
 ---
 ![Agentic AI Security](defense_in_depth.png)

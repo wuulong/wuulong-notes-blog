@@ -3,7 +3,12 @@ title: "[流域終章] 曾文溪五日史詩：從阿里山腳到台江內海的
 date: 2026-02-02
 draft: false
 tags:
+  - AI
   - AI協作
+  - Antigravity
+  - 哈爸筆記
+  - 曾文溪
+  - 河流探索
 categories:
   - Agentic AI (代理程式 AI)
   - History & Culture (歷史與文化)

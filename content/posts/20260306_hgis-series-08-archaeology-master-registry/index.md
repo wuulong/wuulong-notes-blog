@@ -4,8 +4,18 @@ date: 2026-03-06T10:00:00+08:00
 draft: false
 tags:
   - AI
+  - AI Agent
+  - Antigravity
+  - GIS
+  - Gemini
+  - GitHub
   - HGIS
+  - Open Data
   - WalkGIS
+  - 哈爸筆記
+  - 曾文溪
+  - 河流探索
+  - 知識管理
 categories:
   - Digital Archaeology (數位考古)
   - GIS & Mapping (地理資訊與地圖)

@@ -3,8 +3,14 @@ title: "從錄影到 GitHub：雙周會會議記錄的 AI 自動化工作流實�
 date: 2026-01-24
 description: "分享如何利用 AI Agent 與 NotebookLM，將長達一小時的社群雙周會錄影，快速轉化為高品質的結構化會議記錄，並自動發布至 GitHub 的完整過程。"
 tags:
+  - AI
+  - AI Agent
   - Antigravity
+  - GitHub
   - NotebookLM
+  - 工作流程
+  - 知識管理
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)

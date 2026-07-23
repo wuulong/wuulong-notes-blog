@@ -3,7 +3,13 @@ title: "[曾文溪Day3] 水道古蹟、跨河渡槽與大圳生命線：從百�
 date: 2026-01-30
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 曾文溪
+  - 河流探索
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)

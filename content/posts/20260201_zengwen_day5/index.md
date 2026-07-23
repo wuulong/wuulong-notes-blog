@@ -3,7 +3,13 @@ title: "[曾文溪Day5] 台江餘韻與海口盛宴：解鎖消失的內海傳�
 date: 2026-02-01
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 曾文溪
+  - 河流探索
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)

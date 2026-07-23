@@ -8,8 +8,11 @@ categories:
   - Software Engineering (軟體工程)
 series: ["birdsong-processing-kit"]
 tags:
+  - AI
   - Gemini
   - Python
+  - 工作流程
+  - 自動化
 ---
 面對數百首從 CD 轉錄、檔名雜亂、標籤缺失的鳥鳴音訊檔，你會選擇手動一首首修改，還是開發一套具備「生物學智商」的自動化系統？
 

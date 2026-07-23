@@ -3,8 +3,12 @@ title: "企業升級：邁向『有機賦能 OS』——企業 AI 轉型方法�
 date: 2026-01-25T07:55:00+08:00
 draft: false
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - Methodology
   - 數位轉型
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Enterprise AI Transformation (企業 AI 轉型)

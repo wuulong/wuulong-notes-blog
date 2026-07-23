@@ -10,8 +10,17 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - GIS
+  - GitHub
   - NotebookLM
+  - Python
+  - SQLite
+  - WalkGIS
+  - 工作流程
+  - 知識管理
   - 自動化
 summary: "這不是一篇理論文，而是一次真實的踩坑紀錄。本文記錄了我如何使用 WalkGIS Template，配合 AI Agent 的自動化任務，從零打造一份包含 16 個景點、具備 GPS 定位與詳細介紹的「清大夜市美食地圖」。文中包含基礎設施架設、AI 內容協作到最終資料治理的完整流程。"
 ---

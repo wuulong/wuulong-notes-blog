@@ -3,10 +3,17 @@ title: "Python 與 ATAK 的通訊實戰：如何用 TCP 發送動態 CoT 標點"
 date: 2026-01-10T07:00:00+08:00
 draft: false
 tags:
+  - AI
+  - AI Agent
   - ATAK
+  - Antigravity
+  - CoT
   - GIS
+  - Places API
   - Python
   - WalkGIS
+  - 工作流程
+  - 自動化
 categories:
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)

@@ -9,6 +9,10 @@ description: "如何將 GCP 上的 PostgreSQL 資料庫成本最佳化？紀錄�
 summary: "近期為了優化個人專案的雲端成本，我對 GCP 上的 PostgreSQL 資料庫進行了一次「大手術」。將原本掛載的 500GB 閒置硬碟移除，改用 Docker 部署在 10GB 的系統碟上，並配置了固定 IP 與防火牆。這篇文章紀錄了如何從每月數百元的硬碟費中解套，同時建立更安全、標準化的 DB 架構。"
 top: false
 tags:
+  - AI
+  - Antigravity
+  - GCP
+  - Gemini
 ---
 最近在整理手邊的 Side Project 時，發現 GCP 的帳單上有個顯眼的項目：一顆 500GB 的 Persistent Disk。
 

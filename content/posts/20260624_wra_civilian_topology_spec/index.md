@@ -2,10 +2,21 @@
 title: "建構民間自主水網拓樸：相容水利署官方河川代碼的 WRA-Civ 延伸編碼規範"
 date: 2026-06-24T11:45:00+08:00
 tags:
+  - AI
   - AI協作
+  - Antigravity
+  - GIS
+  - GitHub
+  - Mermaid
   - Methodology
   - Open Data
+  - Python
   - WalkGIS
+  - 哈爸筆記
+  - 工作流程
+  - 河流探索
+  - 淡水河
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)

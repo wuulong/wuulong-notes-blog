@@ -8,8 +8,15 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - Antigravity
   - GIS
+  - GitHub
+  - KML
+  - NotebookLM
   - SQLite
+  - WalkGIS
+  - 知識管理
 summary: "揭秘如何利用 SQLite WebAssembly 與靜態網頁技術，以零後端成本打造高效能的 GIS 應用程式，實現資料庫前端查詢與 Markdown 動態載入的混合架構。"
 ---
 [WalkGIS App](https://walkgis-544663807110.us-west1.run.app/)

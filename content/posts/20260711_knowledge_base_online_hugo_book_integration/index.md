@@ -12,7 +12,16 @@ categories:
 series:
   - "哈爸筆記網站"
 tags:
+  - AI
   - Antigravity
+  - GitHub
+  - Methodology
+  - Obsidian
+  - Python
+  - 哈爸筆記
+  - 工作流程
+  - 知識管理
+  - 自動化
 cover:
   image: "cover.jpg"
   alt: "Knowledge Base interface displaying tree menu, categories, and code files"

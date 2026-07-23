@@ -6,9 +6,15 @@ tags:
   - AI
   - Antigravity
   - GIS
+  - GitHub
+  - KML
   - Python
   - QGIS
   - WalkGIS
+  - 河流探索
+  - 濁水溪
+  - 知識管理
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)

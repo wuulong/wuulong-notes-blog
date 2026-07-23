@@ -3,7 +3,14 @@ title: "[曾文溪Day2] 歷史、信仰與惡地的交響：從噍吧哖到左�
 date: 2026-01-29
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
+  - Relive
   - WalkGIS
+  - 曾文溪
+  - 河流探索
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)

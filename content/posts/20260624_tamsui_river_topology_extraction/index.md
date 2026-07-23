@@ -2,10 +2,17 @@
 title: "解碼水利署官方資料：淡水河水系拓樸的 Python 萃取與 Mermaid 樹狀視覺化實踐"
 date: 2026-06-24T11:00:00+08:00
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - GitHub
   - Mermaid
   - Open Data
   - Python
   - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 淡水河
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Personal AI Empowerment (個人 AI 賦能)

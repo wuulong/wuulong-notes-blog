@@ -3,7 +3,14 @@ title: "[卑南溪Day1] 烏龍泛舟、雨中龍蝦、與這片土地最脆的�
 date: 2026-04-19
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GCP
+  - GIS
   - WalkGIS
+  - 卑南溪
+  - 河流探索
+  - 計劃
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

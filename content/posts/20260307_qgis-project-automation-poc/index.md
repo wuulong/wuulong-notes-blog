@@ -4,9 +4,15 @@ date: 2026-03-07T12:15:00+08:00
 draft: false
 tags:
   - AI
+  - GIS
+  - GitHub
   - HGIS
+  - KML
   - Python
   - QGIS
+  - SQLite
+  - 工作流程
+  - 曾文溪
   - 自動化
 categories:
   - Automation & Workflows (自動化與工作流程)

@@ -9,8 +9,15 @@ categories:
 series:
   - "2026台灣河流探索-秀姑巒溪"
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - 哈爸筆記
   - 河流探索
+  - 知識管理
+  - 秀姑巒溪
+  - 花蓮溪
 author: "哈爸"
 cover:
   image: ""

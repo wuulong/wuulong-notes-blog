@@ -2,8 +2,17 @@
 title: "點亮消失的水網：淡水河流域民間自主拓樸 (WRA-Civ) 大量擴充與協作指引"
 date: 2026-06-24T12:50:00+08:00
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - GitHub
+  - Mermaid
   - Methodology
   - WalkGIS
+  - 工作流程
+  - 河流探索
+  - 淡水河
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)

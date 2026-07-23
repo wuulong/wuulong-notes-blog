@@ -9,7 +9,19 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-立霧溪"]
 tags:
+  - AI
+  - Antigravity
+  - DTM
+  - GIS
+  - HGIS
+  - Mermaid
   - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 濁水溪
+  - 烏溪
+  - 立霧溪
+  - 車宿
 cover:
     image: "images/posts/20260530_liwu_guide_cover.png"
     alt: "立霧溪大理石峽谷與歷史古道現地對照示意圖"

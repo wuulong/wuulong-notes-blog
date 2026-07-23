@@ -15,7 +15,15 @@ series:
   - "公告"
   - "顧問"
 tags:
+  - AI
   - AI Agent
+  - AI協作
+  - GitHub
+  - Methodology
+  - n8n
+  - 數位轉型
+  - 知識管理
+  - 自動化
 cover:
   image: "cover.jpg"
   alt: "Corporate AI consulting and speaking services presentation"

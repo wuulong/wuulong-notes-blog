@@ -8,9 +8,18 @@ categories:
   - River Exploration (河流探索)
 series: ["台灣史探索"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
   - HGIS
+  - Python
   - WalkGIS
+  - 二仁溪
   - 哈爸筆記
+  - 曾文溪
+  - 河流探索
+  - 濁水溪
+  - 知識管理
 basins:
   - 曾文溪
 

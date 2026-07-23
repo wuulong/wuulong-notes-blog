@@ -9,9 +9,17 @@ categories:
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
+  - Antigravity
   - GIS
+  - KML
+  - Mermaid
+  - Python
+  - SQLite
   - WalkGIS
   - 數位轉型
+  - 河流探索
+  - 自動化
 description: "記錄如何將 112MB 的 PDF 手冊與 KMZ 圖資，轉化為具備深度敘事與 Web 跳轉能力的 WalkGIS 動態地圖系統。"
 ---
 # 從「靜態手冊」到「動態地圖」：山海圳國家綠道的數位敘事化轉型實錄

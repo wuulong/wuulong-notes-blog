@@ -6,6 +6,9 @@ categories:
   - GenAI (生成式 AI)
 series: ["GenAI實驗"]
 tags:
+  - AI
+  - Antigravity
+  - 工作流程
   - 自動化
 description: "記錄 Idea Pool 系統的開發心得：分享如何從一個簡單的「想記錄點子」需求，意外演化出一套具備展開與轉化能力的完整自動化架構。"
 ---

@@ -79,6 +79,10 @@ menu:
       name: Search
       url: /search/
       weight: 5
+    - identifier: kb
+      name: 🧠 知識庫 (KB)
+      url: /kb/
+      weight: 6
     - identifier: categories
       name: categories
       url: /categories/
@@ -111,10 +115,6 @@ menu:
       name: Planning
       url: /planning/
       weight: 20
-    - identifier: kb
-      name: kb
-      url: /kb/
-      weight: 35
     - identifier: posts
       name: Posts
       url: /posts/

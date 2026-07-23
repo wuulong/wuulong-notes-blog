@@ -3,7 +3,14 @@ title: "[濁水溪Day1] 計劃趕不上變化：鹿港美食、麥寮海風與�
 date: 2026-01-13
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 河流探索
+  - 濁水溪
+  - 計劃
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

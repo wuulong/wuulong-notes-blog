@@ -3,7 +3,13 @@ title: "二仁溪探索 Day 2：惡地源頭與環境救贖之舞 (行前計畫)
 date: 2026-03-23
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
   - WalkGIS
+  - 二仁溪
+  - 河流探索
+  - 高屏溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)

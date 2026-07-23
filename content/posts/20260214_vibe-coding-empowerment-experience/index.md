@@ -3,7 +3,11 @@ title: "Vibe Coding：當意圖與美學跨越技術的高牆"
 date: 2026-02-14T07:15:00+08:00
 draft: false
 tags:
+  - AI
   - Antigravity
+  - GIS
+  - GitHub
+  - Methodology
   - WalkGIS
 categories:
   - Agentic AI (代理程式 AI)

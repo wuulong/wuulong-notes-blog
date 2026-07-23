@@ -5,6 +5,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - Software Engineering (軟體工程)
 tags:
+  - AI
 ---
 # 音樂教室營運政策技能 (Music Ops SKILL)
 

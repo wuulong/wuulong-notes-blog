@@ -11,6 +11,13 @@ categories:
 series:
   - "個人AI賦能方法論"
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - Methodology
+  - Python
+  - 哈爸筆記
+  - 自動化
 cover:
   image: "assets/images/adversarial_spec_cover.webp"
   alt: "紅藍軍規格對抗與心智除錯概念圖"

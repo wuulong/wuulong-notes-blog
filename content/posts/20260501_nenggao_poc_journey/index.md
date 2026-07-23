@@ -2,7 +2,15 @@
 title: "從虛擬到真實：能高古道水文地景解碼的 POC 實證歷程"
 date: 2026-05-01T09:55:00+08:00
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
   - DTM
+  - GIS
+  - GitHub
+  - Methodology
+  - 知識管理
+  - 自動化
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)

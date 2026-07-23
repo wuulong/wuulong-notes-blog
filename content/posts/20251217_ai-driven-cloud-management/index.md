@@ -3,8 +3,11 @@ title: "出一隻嘴做系統管理：AI Agent 讓 GCP 變得像點餐一樣簡�
 date: 2025-12-17T10:00:00+08:00
 draft: false
 tags:
+  - AI
   - AI Agent
   - Antigravity
+  - GCP
+  - Gemini
 series: ["GCP學習旅程"]
 categories:
   - Agentic AI (代理程式 AI)

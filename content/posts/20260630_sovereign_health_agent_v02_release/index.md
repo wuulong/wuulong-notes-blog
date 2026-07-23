@@ -12,9 +12,15 @@ series: ["個人AI賦能方法論"]
 locations:
   - 新竹
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - GitHub
+  - Methodology
   - SQLite
   - Sovereign Health Agent
+  - WalkGIS
+  - 哈爸筆記
 cover:
   image: "cover.jpg"
   alt: "Sovereign Health Agent Research and Development Journey"

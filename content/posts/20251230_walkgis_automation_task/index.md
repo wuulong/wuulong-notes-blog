@@ -8,7 +8,18 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - KML
+  - Mermaid
+  - NotebookLM
   - Python
+  - SQLite
+  - WalkGIS
+  - 大甲溪
+  - 工作流程
+  - 自動化
 summary: "記錄如何將地圖製作流程封裝成可重複執行的 Agent Task，並以「新竹智慧水圳地圖」進行壓力測試與迭代修正的過程。"
 ---
 在上一篇 [WalkGIS 實戰案例](/posts/20251229_walkgis_case_study/) 中，我們雖然成功建立了台中大甲溪與智慧水圳地圖，但過程仍包含許多「人工介入」：手動下指令搜尋座標、手動修復 SQL、手動執行腳本。

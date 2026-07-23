@@ -3,7 +3,18 @@ title: "[卑南溪] 2026 卑南溪流域探索：追尋傳說中的卑南王與�
 date: 2026-03-16
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Google My Maps
+  - KML
   - WalkGIS
+  - 二仁溪
+  - 卑南溪
+  - 曾文溪
+  - 河流探索
+  - 計劃
+  - 高屏溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)

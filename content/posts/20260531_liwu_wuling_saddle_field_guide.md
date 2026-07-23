@@ -8,8 +8,17 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-立霧溪"]
 tags:
+  - AI
+  - Antigravity
   - DTM
+  - GIS
+  - WalkGIS
   - 哈爸筆記
+  - 河流探索
+  - 濁水溪
+  - 烏溪
+  - 知識管理
+  - 立霧溪
 cover:
     image: "images/posts/20260531_wuling_guide_cover.png"
     alt: "武嶺埡口黑色片岩與公路選線現地探訪示意圖"

@@ -13,9 +13,16 @@ categories:
 series:
   - "個人 AI 賦能方法論"
 tags:
+  - AI
+  - AIQA
   - Antigravity
   - Gemini
+  - Mermaid
+  - Methodology
+  - Python
+  - 哈爸筆記
   - 工作流程
+  - 自動化
 cover:
   image: "cover.jpg"
   alt: "Stage 1 Human Brainstorming and Stage 2 AI Execution Bridge"

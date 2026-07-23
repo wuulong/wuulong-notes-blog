@@ -9,6 +9,21 @@ series: ["公告"]
 summary: "為了集中創作能量與技術資源，原獨立的「2026 台灣河流探索」網站正式併入「哈爸筆記」，未來將作為本站的核心系列持續更新。"
 
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - GIS
+  - Gemini
+  - GitHub
+  - Mermaid
+  - Python
+  - n8n
+  - 哈爸筆記
+  - 大甲溪
+  - 河流探索
+  - 知識管理
+  - 自動化
+  - 車宿
 ---
 ## 為什麼要「匯流」？
 

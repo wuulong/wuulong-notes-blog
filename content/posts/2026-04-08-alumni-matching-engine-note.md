@@ -10,9 +10,13 @@ categories:
 series:
   - 機械系50
 tags:
+  - AI
+  - Antigravity
   - Python
   - SQLite
   - 數位轉型
+  - 知識管理
+  - 自動化
 ---
 # 薪火五十的數位轉型：交大機械系友資源對位引擎開發筆記
 

@@ -3,6 +3,10 @@ title: "[秀姑巒溪Day1] 板塊擠壓與隱形分水嶺：從池上北望，�
 date: 2026-04-25
 draft: false
 tags:
+  - Relive
+  - 卑南溪
+  - 河流探索
+  - 秀姑巒溪
   - 車宿
 categories:
   - Outdoor & Camping (戶外與車宿)

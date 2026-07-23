@@ -3,8 +3,17 @@ title: "[河流探索] 從流浪到開拓：烏溪流域數位資產的「事後
 date: 2026-03-15
 draft: false
 tags:
+  - AI
   - AI協作
+  - Antigravity
+  - Google My Maps
+  - KML
+  - Methodology
+  - WalkGIS
+  - 哈爸筆記
   - 河流探索
+  - 烏溪
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Methodology (方法論)

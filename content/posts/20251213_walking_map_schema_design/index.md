@@ -7,8 +7,15 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - GIS
+  - Python
   - QGIS
   - SQLite
+  - WalkGIS
+  - 大甲溪
+  - 河流探索
+  - 自動化
 draft: false
 ShowToc: true
 TocOpen: true

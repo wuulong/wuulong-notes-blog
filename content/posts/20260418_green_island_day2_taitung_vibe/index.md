@@ -21,6 +21,13 @@ destinations:
   - 宮廟文化
 
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
+  - 卑南溪
+  - 哈爸筆記
+  - 河流探索
 ---
 ![綠島人權紀念碑地景](./header.png)
 

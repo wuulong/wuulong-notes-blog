@@ -11,7 +11,18 @@ categories:
 series:
   - 哈爸實驗室
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - GCP
+  - GIS
+  - Gemini
+  - GitHub
+  - n8n
+  - 哈爸筆記
+  - 工作流程
+  - 知識管理
+  - 自動化
 ---
 在鹿野高台的咖啡廳中，享受著雨中的美景，我完成了一件惦記已久的大事：學著在 GCP 上為我的數位助理「龍蝦 (Lobster)」建立新家，並賦予它一套完整的「自律邏輯」。
 

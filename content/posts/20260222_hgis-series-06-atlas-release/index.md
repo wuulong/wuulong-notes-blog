@@ -8,9 +8,17 @@ categories:
   - Productivity & KM (生產力與知識管理)
 series: ["台灣史探索"]
 tags:
+  - AI
+  - Antigravity
+  - DTM
+  - GIS
+  - GitHub
   - HGIS
   - Open Data
+  - Python
   - 哈爸筆記
+  - 河流探索
+  - 知識管理
 ---
 在先前的系列中，我們完成了從原始文本（Layer 0）到結構實體（Layer 1）的跨越。透過 Python 腳本，我們讓幾十萬字的《臺灣通史》變成了資料庫中清晰的人名、地名與座標。
 

@@ -8,7 +8,14 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-卑南溪"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
   - WalkGIS
+  - 卑南溪
+  - 哈爸筆記
+  - 河流探索
 draft: false
 basins:
   - 卑南溪

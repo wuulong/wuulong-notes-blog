@@ -3,7 +3,15 @@ title: "[曾文溪Day1] 逆流而上：從高速公路到深山溫泉的移動�
 date: 2026-01-28
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 曾文溪
+  - 河流探索
+  - 濁水溪
+  - 高屏溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)

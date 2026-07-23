@@ -6,6 +6,16 @@ weight: 10
 categories:
   - Life & Reflections (生活與隨筆)
 tags:
+  - AI
+  - GIS
+  - GitHub
+  - Methodology
+  - Open Data
+  - Python
+  - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 自動化
 ---
 # 🔗 GitHub 公開專案清單
 

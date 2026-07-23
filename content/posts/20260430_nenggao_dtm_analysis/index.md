@@ -9,9 +9,16 @@ categories:
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
   - Antigravity
   - DTM
   - GIS
+  - GitHub
+  - KML
+  - QGIS
+  - SQLite
+  - 河流探索
+  - 自動化
 featured_image: "featured.png"
 description: "透過 20m DTM 與全量頂點提取技術，我們在數位空間中完整還原了能高古道東西橫貫的拓樸結構。本篇記錄了如何克服數據斷層，並以能量成本模擬證明古道選線的『結構性最優解』。"
 ---

@@ -12,7 +12,13 @@ categories:
 series:
   - "哈爸實驗室"
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
   - Gemini
+  - GitHub
+  - HGIS
+  - Mermaid
   - Python
   - SQLite
 cover:

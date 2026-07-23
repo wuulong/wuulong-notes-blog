@@ -9,8 +9,15 @@ categories:
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Places API
   - Python
+  - SQLite
   - WalkGIS
+  - 工作流程
+  - 河流探索
   - 自動化
 description: "分享如何利用 AI 與 Python 自動化流程，為數百個 GIS 點位精準匹配封面影像，並克服名稱雜訊與 API 限制的實戰經驗。"
 ---

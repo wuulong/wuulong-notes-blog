@@ -7,7 +7,15 @@ categories:
   - Personal AI Empowerment (個人 AI 賦能)
 series: ["個人AI賦能方法論"]
 tags:
+  - AI
+  - AI Agent
+  - AIQA
+  - Antigravity
   - Gemini
+  - GitHub
+  - Methodology
+  - NotebookLM
+  - 自動化
 description: "將第一篇的演化領悟轉化為第二篇的實踐手冊，這是一場關於教學設計、工具格律與習慣養成的深度重構。"
 ---
 # 從敘事到實踐：個人賦能第二篇的骨架成形記

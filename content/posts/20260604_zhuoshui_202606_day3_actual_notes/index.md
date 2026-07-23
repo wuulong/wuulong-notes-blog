@@ -2,7 +2,16 @@
 title: "濁水溪探索 202606 之第三天：武界日出雲海、枇杷城湧泉橡皮壩與百年興大演習林大冒險 (實遊筆記)"
 date: 2026-06-04T22:00:00+08:00
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 濁水溪
+  - 知識管理
+  - 立霧溪
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

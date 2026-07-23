@@ -3,7 +3,13 @@ title: "[卑南溪Day4] 黑潮日出、河口鳥群與縱谷蔬食：都蘭、�
 date: 2026-04-23
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 卑南溪
+  - 河流探索
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

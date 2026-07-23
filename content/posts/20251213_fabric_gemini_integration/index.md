@@ -9,6 +9,11 @@ categories:
   - GenAI (生成式 AI)
   - Software Engineering (軟體工程)
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - Gemini
+  - GitHub
   - Python
   - 工作流程
   - 自動化

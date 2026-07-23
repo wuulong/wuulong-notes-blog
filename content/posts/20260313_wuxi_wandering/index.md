@@ -3,8 +3,20 @@ title: "[烏溪流浪] 2026台灣河流探索：從水管導覽到霧峰大花�
 date: 2026-03-13
 draft: false
 tags:
+  - AI
+  - AIQA
   - AI協作
+  - Antigravity
+  - GIS
+  - Gemini
+  - KML
+  - Mermaid
+  - NotebookLM
   - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 烏溪
+  - 車宿
 categories:
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)

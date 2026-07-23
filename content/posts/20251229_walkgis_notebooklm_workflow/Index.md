@@ -9,8 +9,16 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
+  - Mermaid
   - NotebookLM
   - SQLite
+  - WalkGIS
+  - 工作流程
+  - 知識管理
   - 自動化
 summary: "如何將生硬的 GIS 數據變成生動的旅遊故事？本文分享我的 WalkGIS 自動化工作流：使用 Shell Script 從 SQLite 精準萃取地圖資料，餵給 Google NotebookLM，一鍵生成卡通風格導覽與投影片大綱。"
 ---

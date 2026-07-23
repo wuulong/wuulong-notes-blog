@@ -9,6 +9,9 @@ draft: true
 ShowToc: true
 TocOpen: true
 tags:
+  - AI
+  - Python
+  - 河流探索
 ---
 # 一個人，多個興趣，該開幾個 Discord？
 

@@ -11,6 +11,10 @@ categories:
   - System Engineering (系統工程)
 series: ["哈爸實驗室"]
 tags:
+  - AI
+  - Antigravity
+  - GitHub
+  - Methodology
   - NotebookLM
   - Python
   - 工作流程

@@ -8,7 +8,14 @@ categories:
   - Productivity & KM (生產力與知識管理)
 series: ["n8n"]
 tags:
+  - AI
   - Gemini
+  - GitHub
+  - n8n
+  - 哈爸筆記
+  - 工作流程
+  - 知識管理
+  - 自動化
 summary: "Google Search 找不到剛發布的文章？本篇介紹如何利用 n8n 直接讀取 GitHub Repo 原始碼，結合 Gemini 的長文本能力，實作真正的「即時」問答機器人。"
 ---
 ![n8n_github_rag.png](n8n_github_rag.png)

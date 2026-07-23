@@ -3,7 +3,10 @@ title: "企業升級：從理論到實戰 OS——企業 AI 轉型方法論 v1.1
 date: 2026-01-20T06:55:00+08:00
 draft: false
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - Methodology
   - 數位轉型
 categories:
   - Agentic AI (代理程式 AI)

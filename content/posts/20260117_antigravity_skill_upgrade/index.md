@@ -3,9 +3,14 @@ title: "Antigravity 升級體驗：從 Task 到 Skill，為我的河流探索法
 date: 2026-01-17
 draft: false
 tags:
+  - AI
   - AI協作
   - Antigravity
+  - Python
+  - 大甲溪
   - 工作流程
+  - 河流探索
+  - 濁水溪
   - 自動化
 categories:
   - Agentic AI (代理程式 AI)

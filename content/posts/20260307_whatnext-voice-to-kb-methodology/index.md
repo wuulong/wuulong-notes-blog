@@ -3,7 +3,16 @@ title: "發想即資產：WhatNext (WN) 晨間語音發想轉化系統實踐筆�
 date: 2026-03-07T10:05:00+08:00
 draft: false
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - GitHub
+  - Methodology
+  - NotebookLM
+  - QGIS
+  - 工作流程
   - 知識管理
+  - 自動化
 categories:
   - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)

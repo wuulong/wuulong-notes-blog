@@ -13,7 +13,13 @@ categories:
 series:
   - "AI教學歷程"
 tags:
+  - AI
   - AIQA
+  - Antigravity
+  - Gemini
+  - Methodology
+  - Python
+  - 哈爸筆記
   - 知識管理
 cover:
   image: "assets/images/20260717_aiqa_to_research_notes.jpg"

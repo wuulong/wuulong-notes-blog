@@ -3,7 +3,14 @@ title: "[秀姑巒溪Day2] 漂流中的視角與消失的聚落：從峽谷激�
 date: 2026-04-26
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - Relive
   - 哈爸筆記
+  - 河流探索
+  - 知識管理
+  - 秀姑巒溪
+  - 車宿
 categories:
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)

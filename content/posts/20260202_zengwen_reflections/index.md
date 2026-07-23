@@ -3,7 +3,14 @@ title: "[流域隨筆] 從計畫到流浪：曾文溪探訪的深度實務與反
 date: 2026-02-02
 draft: false
 tags:
+  - AI
   - AI協作
+  - Antigravity
+  - 哈爸筆記
+  - 曾文溪
+  - 河流探索
+  - 計劃
+  - 車宿
 categories:
   - Agentic AI (代理程式 AI)
   - River Exploration (河流探索)

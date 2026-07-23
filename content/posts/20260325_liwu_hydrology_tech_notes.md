@@ -2,10 +2,16 @@
 title: "立霧溪水化：從 20m DTM 萃取「絕對連通」潛勢溪流的技術長征"
 date: 2026-03-25T11:30:00+08:00
 tags:
+  - AI
   - AI協作
+  - Antigravity
   - DTM
+  - GIS
   - Google My Maps
+  - KML
+  - Python
   - 河流探索
+  - 立霧溪
 categories:
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)

@@ -6,7 +6,11 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-烏溪"]
 tags:
+  - GIS
   - WalkGIS
+  - 河流探索
+  - 烏溪
+  - 計劃
 basins:
   - 烏溪
 

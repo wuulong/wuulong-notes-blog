@@ -8,8 +8,13 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - Antigravity
   - GIS
   - Python
+  - SQLite
+  - WalkGIS
+  - 工作流程
   - 自動化
 summary: "在 WalkGIS 2.0 的開發過程中，我發現早期的地圖資料存在嚴重的 GPS 誤差。本文記錄了如何利用 Google Maps API 進行批次自動化校正，並解決了「台灣中心點」歸零問題、路徑檔被誤改以及資料一致性維護的技術挑戰。"
 ---

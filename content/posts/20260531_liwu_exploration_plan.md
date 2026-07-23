@@ -21,6 +21,14 @@ destinations:
   - 武嶺
 
 tags:
+  - Antigravity
+  - GitHub
+  - WalkGIS
+  - 河流探索
+  - 濁水溪
+  - 烏溪
+  - 立霧溪
+  - 車宿
 ---
 # 立霧溪流域五天深度探索計畫 (5/31 - 6/4)
 

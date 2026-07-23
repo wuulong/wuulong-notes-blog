@@ -8,8 +8,19 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-頭前溪"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
+  - GitHub
+  - Google My Maps
   - HGIS
+  - KML
+  - WalkGIS
   - 哈爸筆記
+  - 河流探索
+  - 知識管理
+  - 頭前溪
 cover:
     image: "/Users/wuulong/.gemini/antigravity/brain/4367c524-67eb-432c-bbc3-f696abfd047b/touqian_river_kg_cover_1774351249791.png"
     alt: "頭前溪知識圖譜與科技地景"

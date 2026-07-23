@@ -3,6 +3,10 @@ title: "正式釋出：企業生成式 AI 轉型方法論 v1.1.0——一套可�
 date: 2026-01-20T07:35:00+08:00
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GitHub
+  - Methodology
   - 數位轉型
 categories:
   - Announcements (公告)

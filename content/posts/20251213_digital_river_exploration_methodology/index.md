@@ -8,8 +8,17 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
+  - DTM
   - GIS
+  - KML
+  - Methodology
   - Open Data
+  - 二仁溪
+  - 大甲溪
+  - 河流探索
+  - 車宿
+  - 頭前溪
 draft: false
 ---
 # 為什麼我們要重新學習「看見」河流？

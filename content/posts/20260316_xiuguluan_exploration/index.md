@@ -21,6 +21,14 @@ destinations:
   - 秀姑巒溪大橋
 
 tags:
+  - GIS
+  - Google My Maps
+  - KML
+  - Mermaid
+  - WalkGIS
+  - 河流探索
+  - 秀姑巒溪
+  - 計劃
 ---
 # 秀姑巒溪流域探索計劃
 

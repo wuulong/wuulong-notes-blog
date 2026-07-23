@@ -7,9 +7,12 @@ categories:
   - Software Engineering (軟體工程)
 series: ["台灣史探索"]
 tags:
+  - AI
   - GIS
+  - Google My Maps
   - HGIS
   - 哈爸筆記
+  - 知識管理
 ---
 經過前三篇的努力，我們左手握有中研院的「1920年代空間圖資」，右手拿著從《臺灣通史》榨取出來的「600+ 個古地名與基建列表」。
 

@@ -2,7 +2,10 @@
 title: "從看戲到寫書：AI 如何幫我完成一場「跨文明」的深度解碼？"
 date: 2026-05-08T13:25:00+08:00
 tags:
+  - AI
+  - GitHub
   - 哈爸筆記
+  - 知識管理
 categories:
   - GenAI (生成式 AI)
   - Personal AI Empowerment (個人 AI 賦能)

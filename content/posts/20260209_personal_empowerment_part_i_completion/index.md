@@ -10,6 +10,13 @@ categories:
 series: ["個人AI賦能方法論"]
 description: "在不到四小時內完成書籍第一篇的核心撰寫，這是一場關於意志、證據與系統自動化升級的極限協作。"
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - GitHub
+  - Methodology
+  - 工作流程
+  - 自動化
 ---
 # 數位演化的「完美銜接」：個人賦能第一篇完稿紀實
 

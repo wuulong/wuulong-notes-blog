@@ -3,9 +3,15 @@ title: "「鄉鎮導航」地圖：AI 與 GIS 協作的全台行政區劃深耕�
 date: 2026-02-04T20:03:00+08:00
 draft: false
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
   - Deep Research
   - GIS
+  - Gemini
+  - Methodology
   - WalkGIS
+  - 自動化
 categories:
   - Academic Research (學術研究)
   - Agentic AI (代理程式 AI)

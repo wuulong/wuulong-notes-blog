@@ -8,9 +8,20 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
+  - Antigravity
+  - Deep Research
+  - GIS
+  - Google My Maps
+  - KML
+  - Mermaid
+  - Methodology
   - WalkGIS
+  - 二仁溪
   - 哈爸筆記
   - 河流探索
+  - 知識管理
+  - 蘭陽溪
 description: "記錄二仁溪探索計畫中，如何透過 AI 協作將地圖資產從『點線面資料』轉化為具备『敘事靈魂』的環境博物館導覽。"
 basins:
   - 二仁溪

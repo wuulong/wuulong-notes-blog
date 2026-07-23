@@ -3,8 +3,15 @@ title: "數位考古實作：三種方法挖掘隱藏在 Log 中的賦能數據"
 date: 2026-01-27
 draft: false
 tags:
+  - AI
+  - AI Agent
+  - AIQA
+  - Antigravity
+  - GIS
   - Gemini
+  - Methodology
   - Python
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Digital Archaeology (數位考古)

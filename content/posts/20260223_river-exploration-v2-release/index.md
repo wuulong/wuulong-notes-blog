@@ -9,9 +9,17 @@ categories:
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - GitHub
   - HGIS
   - WalkGIS
+  - 二仁溪
   - 哈爸筆記
+  - 曾文溪
+  - 河流探索
+  - 知識管理
 basins:
   - 二仁溪
   - 曾文溪

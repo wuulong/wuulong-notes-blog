@@ -10,9 +10,12 @@ categories:
 series:
   - "個人 AI 賦能方法論"
 tags:
+  - AI
   - AI Agent
   - Antigravity
+  - Methodology
   - Python
+  - 哈爸筆記
 cover:
   image: "assets/images/20260705_antigravity_sdk_lazy_learning.jpg"
   alt: "Antigravity SDK 實戰練習"

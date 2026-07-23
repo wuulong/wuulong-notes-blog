@@ -13,7 +13,14 @@ locations:
 destinations:
   - "都蘭"
 tags:
+  - AI
+  - Antigravity
   - GitHub
+  - Python
+  - QGIS
+  - 哈爸筆記
+  - 工作流程
+  - 自動化
 cover:
   image: "assets/images/20260709_dulan_ai_hub_vision.jpg"
   alt: "都蘭 AI Hub 結合農村與科技的慢活共創願景"

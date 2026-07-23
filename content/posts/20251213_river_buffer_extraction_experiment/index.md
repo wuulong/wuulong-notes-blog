@@ -8,7 +8,15 @@ categories:
   - River Exploration (河流探索)
 series: ["GIS學習旅程"]
 tags:
+  - GIS
+  - Gemini
+  - GitHub
+  - Google My Maps
   - KML
+  - SQLite
+  - 大甲溪
+  - 河流探索
+  - 知識管理
 author: "Wuulong"
 summary: "本實驗使用 GDAL/ogr2ogr 工具，從中央管河川區域 Shapefile 中萃取大甲溪河流範圍，解決 Big5 編碼篩選問題，進行 1 公里緩衝分析 (Buffer)，並透過 SQL ST_Union 合併多個圖層特徵，最終產出 KML 檔案。"
 basins:

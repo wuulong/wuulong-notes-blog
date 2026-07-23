@@ -10,8 +10,17 @@ categories:
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
+  - Antigravity
   - Deep Research
+  - GIS
+  - GitHub
   - WalkGIS
+  - 卑南溪
+  - 大甲溪
+  - 河流探索
+  - 濁水溪
+  - 秀姑巒溪
 draft: false
 ---
 這不只是一本書，這是我這陣子在台灣河床邊、在螢幕前，與 AI 進行的一場深入土地靈魂的對話。

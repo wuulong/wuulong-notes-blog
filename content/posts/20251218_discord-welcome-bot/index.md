@@ -3,6 +3,12 @@ title: "社群經營自動化暖身：用 n8n 打造 Discord 每日歡迎機器�
 date: 2025-12-18T12:00:00+08:00
 draft: false
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - Gemini
+  - n8n
+  - 工作流程
   - 自動化
 series: ["n8n"]
 categories:

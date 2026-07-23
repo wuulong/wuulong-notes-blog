@@ -12,9 +12,17 @@ categories:
 series:
   - "個人AI賦能方法論"
 tags:
+  - AI
+  - AI Agent
   - Antigravity
+  - GIS
+  - Methodology
+  - Python
   - QGIS
   - SQLite
+  - 哈爸筆記
+  - 知識管理
+  - 自動化
 cover:
   image: "cover.jpg"
   alt: "空間資料庫與 AI 協作的實戰手冊"

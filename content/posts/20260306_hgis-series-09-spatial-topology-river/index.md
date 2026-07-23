@@ -4,8 +4,14 @@ date: 2026-03-06T11:00:00+08:00
 draft: false
 tags:
   - AI
+  - AI Agent
+  - GIS
+  - GitHub
   - HGIS
   - WalkGIS
+  - 哈爸筆記
+  - 曾文溪
+  - 河流探索
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)

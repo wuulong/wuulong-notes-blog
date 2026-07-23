@@ -8,7 +8,13 @@ categories:
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - GitHub
+  - Methodology
   - SQLite
+  - WalkGIS
 summary: "首席架構師開發日誌：揭秘 V2 升級如何透過 DataSourceContext 實現從「內容網站」到「通用瀏覽器」的範式轉移，以及如何解決 WASM 重啟與跨域資源映射的技術挑戰。"
 ---
 ![WalkGIS2.0地理資訊新革命.png](WalkGIS2.0地理資訊新革命.png)

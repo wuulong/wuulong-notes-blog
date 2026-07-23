@@ -7,9 +7,13 @@ categories:
   - Software Engineering (軟體工程)
 series: ["台灣史探索"]
 tags:
+  - AI
+  - GIS
+  - HGIS
   - Python
   - SQLite
   - 哈爸筆記
+  - 知識管理
 ---
 上一篇我們用 Python 打造了能解讀歷史座標的「時光羅盤」。但羅盤只會告訴你地名，無法告訴你歷史。真正的歷史，藏在文言文的汪洋大海中。
 

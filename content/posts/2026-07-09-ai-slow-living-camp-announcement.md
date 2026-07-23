@@ -17,7 +17,12 @@ locations:
 destinations:
   - 都蘭
 tags:
+  - AI
   - AI教育
+  - Antigravity
+  - GIS
+  - GitHub
+  - 哈爸筆記
 cover:
   image: "assets/images/20260709_ai_slow_living_camp_cover.jpg"
   alt: "Hapa 的 AI 慢活共創營活動海報"

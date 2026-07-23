@@ -9,7 +9,17 @@ categories:
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
 tags:
+  - AI
   - Antigravity
+  - DTM
+  - GitHub
+  - Methodology
+  - QGIS
+  - SQLite
+  - 哈爸筆記
+  - 河流探索
+  - 知識管理
+  - 自動化
 featured_image: "featured.png"
 description: "如何管理一本書、一個資料庫與一段實地走訪的關係？本篇介紹我們在山脈水文專案中實踐的『三柱架構』，以及如何透過 AI 代理人的技能體系實現複雜地理分析的自動化。"
 ---

@@ -3,8 +3,14 @@ title: "【實戰】我的 Discord Bot 進化史：從鸚鵡學舌到 Agentic AI
 date: 2025-12-17T15:30:00+08:00
 draft: false
 tags:
+  - AI
   - AI Agent
+  - Antigravity
   - Gemini
+  - Python
+  - n8n
+  - 工作流程
+  - 自動化
 series: ["n8n"]
 categories:
   - Agentic AI (代理程式 AI)

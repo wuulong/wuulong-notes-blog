@@ -10,6 +10,9 @@ draft: false
 ShowToc: true
 TocOpen: true
 tags:
+  - AI
+  - 大甲溪
+  - 河流探索
 ---
 # 我們如何連結彼此？社群運作的思考
 

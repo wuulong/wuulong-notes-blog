@@ -2,7 +2,13 @@
 title: "蘭陽溪探索 Day 4 (實際行程)：從源頭雪山口到海口水鳥保護區，全流域縱走完結篇"
 date: 2026-05-18
 tags:
+  - AI
+  - Antigravity
+  - Relive
+  - WalkGIS
+  - 思源埡口
   - 河流探索
+  - 蘭陽溪
 categories:
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)

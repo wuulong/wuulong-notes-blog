@@ -14,7 +14,14 @@ categories:
 series:
   - "atp-agent"
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - GIS
+  - Methodology
+  - SQLite
+  - 知識管理
+  - 自動化
 cover:
   image: "cover.jpg"
   alt: "Human-AI Cognitive Bottleneck showing brain mapping to agent architecture via systems engineering"

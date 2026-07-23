@@ -3,7 +3,9 @@ title: "從理論到實戰：我如何用 AI 打造一套『企業轉型 OS』"
 date: 2026-01-19
 draft: false
 tags:
+  - AI
   - AI Agent
+  - Methodology
   - 數位轉型
 categories:
   - Agentic AI (代理程式 AI)

@@ -3,7 +3,16 @@ title: "2026 大甲溪河流探索 Day 4：八仙山森林浴與新社的香菇�
 date: 2026-01-09
 description: "大甲溪之旅第四天，深入八仙山森林遊樂區重溫舊夢，品嚐松鶴部落的五葉松汁。午後轉往新社台地，體驗各式各樣的香菇料理，並在白冷圳的圓堀終點，為這趟水利探索畫下完美句點。"
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - NotebookLM
+  - Relive
   - WalkGIS
+  - 大甲溪
+  - 河流探索
+  - 計劃
+  - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Outdoor & Camping (戶外與車宿)

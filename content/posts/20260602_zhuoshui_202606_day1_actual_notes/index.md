@@ -2,7 +2,16 @@
 title: "濁水溪探索 202606 之第一天：清境草原馬術秀、合歡東峰首登百岳與白牆花季的巧克力小確幸 (實遊筆記)"
 date: 2026-06-02T22:00:00+08:00
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 哈爸筆記
+  - 河流探索
+  - 濁水溪
+  - 知識管理
+  - 立霧溪
   - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)

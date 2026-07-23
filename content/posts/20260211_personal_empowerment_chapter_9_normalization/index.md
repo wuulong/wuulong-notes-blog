@@ -9,7 +9,15 @@ categories:
   - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 tags:
+  - AI
+  - AI Agent
+  - Antigravity
+  - Gemini
+  - GitHub
+  - Methodology
   - NotebookLM
+  - 知識管理
+  - 自動化
 description: "記錄《個人賦能》第九章的建構過程：從在地語氣的校準、知識資產的定錨，到面對系統延遲時精彩的人機補位瞬間。"
 ---
 # 從碎片到建築師：第九章的「定錨」與人機協作實錄

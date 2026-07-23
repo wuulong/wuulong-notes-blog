@@ -11,8 +11,13 @@ categories:
 series:
   - GenAI實驗
 tags:
+  - AI
   - AI Agent
   - Antigravity
+  - DTM
+  - GitHub
+  - Obsidian
+  - 工作流程
   - 知識管理
   - 自動化
 summary: 長期以來，AI 代理程式雖然能思考、能寫碼，但在作業系統與應用程式之間，總像隔著一層玻璃。透過 Obsidian 1.12.x 全新釋出的 CLI 工具，AI 終於擁有了能直接操作 UI 的「手腳」。

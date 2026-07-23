@@ -3,6 +3,12 @@ title: "【踩坑筆記】用 n8n 打造 Discord Bot：那些官方文件沒說�
 date: 2025-12-17T12:00:00+08:00
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - Gemini
+  - n8n
+  - 工作流程
+  - 知識管理
   - 自動化
 series: ["n8n"]
 categories:

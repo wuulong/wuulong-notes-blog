@@ -8,6 +8,11 @@ categories:
 series:
   - 機械系50
 tags:
+  - AI
+  - Antigravity
+  - Gemini
+  - 哈爸筆記
+  - 工作流程
   - 自動化
 draft: false
 ---

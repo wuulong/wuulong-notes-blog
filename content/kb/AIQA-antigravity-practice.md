@@ -1,6 +1,20 @@
 ---
 tags:
+  - AI
   - AIQA
+  - Antigravity
+  - Deep Research
+  - GCP
+  - Gemini
+  - GitHub
+  - Mermaid
+  - Methodology
+  - NotebookLM
+  - Python
+  - SQLite
+  - 哈爸筆記
+  - 數位轉型
+  - 自動化
   - 自學心法
 categories:
   - Agentic AI (代理程式 AI)

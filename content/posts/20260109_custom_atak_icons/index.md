@@ -3,10 +3,15 @@ title: "WalkGIS 實戰：為 ATAK 打造專屬的「河川探索」戰術圖示�
 date: 2026-01-09
 description: "如何使用 Python 強大的繪圖庫，不依賴網路素材，自動生成高辨識度、風格統一的中文單字圖示，並打包成 ATAK 專用的 Data Package，讓戶外探索地圖一目瞭然。"
 tags:
+  - AI
   - ATAK
+  - Antigravity
   - GIS
   - Python
   - WalkGIS
+  - 曾文溪
+  - 濁水溪
+  - 車宿
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Maker & Hardware (創客與硬體)

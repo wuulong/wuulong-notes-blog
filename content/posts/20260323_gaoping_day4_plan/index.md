@@ -3,7 +3,13 @@ title: "[高屏溪Day4] 空間規訓與紀念：在規訓園區與清代古墓�
 date: 2026-03-23
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Gemini
   - WalkGIS
+  - 河流探索
+  - 高屏溪
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)

@@ -6,7 +6,11 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-二仁溪"]
 tags:
+  - GIS
   - WalkGIS
+  - 二仁溪
+  - 河流探索
+  - 計劃
 description: "進入中游沖積平原，觀察地理學大曲流與橫跨兩市的治理基礎設施。"
 draft: false
 basins:

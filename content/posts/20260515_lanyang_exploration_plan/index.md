@@ -2,7 +2,15 @@
 title: "蘭陽溪流域探索計畫 (Plan)：從雪山山脈到太平洋的四日垂直地景巡禮"
 date: 2026-05-15
 tags:
+  - AI
+  - Antigravity
+  - GitHub
+  - KML
+  - WalkGIS
+  - 思源埡口
   - 河流探索
+  - 蘭陽溪
+  - 車宿
 categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-蘭陽溪"]

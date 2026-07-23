@@ -7,8 +7,20 @@ categories:
   - Software Engineering (軟體工程)
 series: ["架構推動"]
 tags:
+  - AI
+  - GCP
+  - GIS
+  - Gemini
+  - KML
+  - Mermaid
   - QGIS
   - SQLite
+  - n8n
+  - 哈爸筆記
+  - 大甲溪
+  - 河流探索
+  - 自動化
+  - 車宿
 draft: false
 ShowToc: true
 TocOpen: true

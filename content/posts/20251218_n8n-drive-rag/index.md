@@ -3,8 +3,13 @@ title: "[實戰] n8n + Google Drive + Gemini：打造能讀懂私人文件的 AI
 date: 2025-12-18T18:45:00+08:00
 draft: false
 tags:
+  - AI
   - AI Agent
+  - Antigravity
+  - GCP
   - Gemini
+  - n8n
+  - 工作流程
   - 自動化
 series: ["n8n"]
 categories:

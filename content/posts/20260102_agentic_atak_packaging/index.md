@@ -3,10 +3,18 @@ title: Agentic 實戰：讓 AI 幫我開發 WalkGIS 到 ATAK 的地圖打包功�
 date: 2026-01-02
 description: 紀錄如何透過 Agentic Workflow，快速理解 ATAK Data Package 格式，並實作一鍵匯出 WalkGIS 地圖的功能，即刻銜接離線協作需求。
 tags:
+  - AI
   - ATAK
+  - GIS
+  - Gemini
   - KML
   - Python
   - WalkGIS
+  - 大甲溪
+  - 工作流程
+  - 河流探索
+  - 知識管理
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)

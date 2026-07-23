@@ -6,6 +6,8 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-二仁溪"]
 tags:
+  - 二仁溪
+  - 河流探索
   - 車宿
 description: "二仁溪探索的前哨站，選擇在台南安定車宿。從廟宇、市場到夜市，紀錄一段充滿地方生活感與科學燒烤美學的探索前奏。"
 draft: false

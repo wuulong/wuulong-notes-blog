@@ -3,11 +3,18 @@ title: "從對話遺骸到 Agent 技能：一場無痛的數位賦能實踐"
 date: 2026-01-18
 draft: false
 tags:
+  - AI
   - AI Agent
   - Antigravity
+  - GIS
   - WalkGIS
   - 工作流程
   - 數位轉型
+  - 曾文溪
+  - 河流探索
+  - 濁水溪
+  - 自動化
+  - 蘭陽溪
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)

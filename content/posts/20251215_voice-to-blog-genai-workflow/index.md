@@ -9,10 +9,14 @@ categories:
   - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 tags:
+  - AI
   - Antigravity
+  - GitHub
   - NotebookLM
+  - 哈爸筆記
   - 工作流程
   - 知識管理
+  - 自動化
 summary: "很多精彩的想法都消失在會議室的空氣中？本文分享我的一套 GenAI 工作流：從手機錄音開始，透過 Google NotebookLM 生成摘要與圖表，再經由 Agentic AI (Antigravity) 改寫，最後自動部署到個人的 Hugo 網誌。這是一條讓「隨機討論」快速變成「結構化知識」的高速公路。"
 draft: false
 ---

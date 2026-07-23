@@ -9,9 +9,13 @@ categories:
   - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 tags:
+  - AI
   - AI Agent
   - Antigravity
+  - GIS
+  - Gemini
   - NotebookLM
+  - 知識管理
 series: ["2025日本行"]
 draft: false
 ---

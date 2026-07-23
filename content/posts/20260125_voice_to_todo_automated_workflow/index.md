@@ -3,8 +3,14 @@ title: "從隨手錄音到 ATC 任務帳本：一場關於「思緒自動化」�
 date: 2026-01-25
 description: "記錄如何透過手機錄音捕捉碎片靈感，利用 NotebookLM 跨越雜訊提取核心，最終在 AI Agent 的協作下推展至結構化的 TASKS 任務管理系統，完成思緒從「捕捉」到「落地」的完整閉環。"
 tags:
+  - AI
+  - AI Agent
   - Antigravity
+  - GitHub
   - NotebookLM
+  - 工作流程
+  - 知識管理
+  - 自動化
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)

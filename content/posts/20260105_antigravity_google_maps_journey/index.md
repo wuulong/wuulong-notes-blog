@@ -4,8 +4,13 @@ date: 2026-01-05T07:50:00+08:00
 draft: false
 tags:
   - AI
+  - AI Agent
   - Antigravity
+  - GCP
+  - GIS
   - Gemini
+  - Python
+  - 工作流程
   - 自動化
 categories:
   - Agentic AI (代理程式 AI)

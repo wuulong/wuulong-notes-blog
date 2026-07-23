@@ -17,6 +17,12 @@ destinations:
   - 台東天后宮
 
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - 卑南溪
+  - 哈爸筆記
+  - 河流探索
 ---
 ![台東天后宮](./IMG_7021.jpg)
 

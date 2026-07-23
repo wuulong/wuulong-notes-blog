@@ -3,8 +3,17 @@ title: "[GIS筆記] SHP 轉檔的亂碼陷阱：從「百年舊堤」案例看�
 date: 2026-01-11
 draft: false
 tags:
+  - AI
+  - Antigravity
   - GIS
+  - KML
   - Python
+  - QGIS
+  - SQLite
+  - WalkGIS
+  - 濁水溪
+  - 知識管理
+  - 自動化
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)

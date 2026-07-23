@@ -3,7 +3,13 @@ title: "[卑南溪Day5] 縱谷水理與豆香地記：從池上大坡池到進�
 date: 2026-04-24
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GIS
+  - Relive
   - WalkGIS
+  - 卑南溪
+  - 河流探索
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)

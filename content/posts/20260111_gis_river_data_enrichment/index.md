@@ -4,7 +4,14 @@ date: 2026-01-11
 draft: false
 tags:
   - AI
+  - Antigravity
   - GIS
+  - WalkGIS
+  - 大甲溪
+  - 曾文溪
+  - 河流探索
+  - 濁水溪
+  - 知識管理
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)

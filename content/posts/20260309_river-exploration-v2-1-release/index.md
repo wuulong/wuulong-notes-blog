@@ -10,8 +10,13 @@ categories:
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
 tags:
+  - GIS
+  - GitHub
   - HGIS
   - 哈爸筆記
+  - 曾文溪
+  - 河流探索
+  - 知識管理
 destinations:
   - 南科遺址
 

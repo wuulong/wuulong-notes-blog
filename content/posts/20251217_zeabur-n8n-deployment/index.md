@@ -3,6 +3,13 @@ title: "自架 n8n 不求人：用 Zeabur 輕鬆部署自動化神器"
 date: 2025-12-17T11:30:00+08:00
 draft: false
 tags:
+  - AI
+  - Antigravity
+  - GCP
+  - Gemini
+  - SQLite
+  - n8n
+  - 工作流程
   - 自動化
 series: ["n8n"]
 categories:
