@@ -4,6 +4,8 @@ date: 2026-02-14T08:00:00+08:00
 categories:
   - Agentic AI (代理程式 AI)
   - Announcements (公告)
+  - Automation & Workflows (自動化與工作流程)
+  - Enterprise AI Transformation (企業 AI 轉型)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
   - Software Engineering (軟體工程)
@@ -15,6 +17,7 @@ tags:
   - Mermaid
   - Methodology
   - Python
+  - 工作流程
   - 數位轉型
   - 自動化
 description: "歷時三年的數位考古與演化實驗，全書 13 章集成達成。紀錄第十三章的入軌設計、全書自動化合併，以及對抗平庸的語言校準風暴。"

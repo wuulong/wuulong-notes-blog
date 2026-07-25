@@ -13,9 +13,12 @@ tags:
   - 哈爸筆記
   - 曾文溪
   - 河流探索
+  - 知識管理
 categories:
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - History & Culture (歷史與文化)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 series: ["台灣史探索"]
 description: "HGIS 系列第十篇：引入 20m DTM (數值地形模型) 賦予遺址 Z 軸深度，透過南科考古館的變遷分階段還原地貌演化，並揭示 AI 助理如何自動生成具備「大歷史感」的敘事脈絡。"

@@ -3,9 +3,11 @@ title: "Agent 時代的軟體設計變革：對抗式規格生成與 Token 刺�
 date: 2026-07-12T07:55:00+08:00
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - Enterprise AI Transformation (企業 AI 轉型)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
   - System Engineering (系統工程)
 series:
@@ -17,6 +19,8 @@ tags:
   - Methodology
   - Python
   - 哈爸筆記
+  - 工作流程
+  - 知識管理
   - 自動化
 cover:
   image: "assets/images/adversarial_spec_cover.webp"

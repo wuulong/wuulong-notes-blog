@@ -3,7 +3,9 @@ title: "打造 AI-First GIS 系統：從 SpatiaLite 到 WKT 的架構演進 (Wal
 date: 2025-12-29T16:00:00+08:00
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
@@ -18,6 +20,7 @@ tags:
   - QGIS
   - SQLite
   - WalkGIS
+  - 工作流程
   - 知識管理
   - 自動化
 draft: false

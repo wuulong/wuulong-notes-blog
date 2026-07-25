@@ -11,10 +11,13 @@ tags:
   - Gemini
   - Methodology
   - Python
+  - 工作流程
   - 自動化
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - Digital Archaeology (數位考古)
+  - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - History & Culture (歷史與文化)
   - Methodology (方法論)

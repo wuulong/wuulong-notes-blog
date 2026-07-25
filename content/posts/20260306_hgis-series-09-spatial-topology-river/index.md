@@ -12,10 +12,14 @@ tags:
   - 哈爸筆記
   - 曾文溪
   - 河流探索
+  - 知識管理
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["台灣史探索"]
 description: "HGIS 系列第九篇：跳脫傳統圖資限制，運用 Layer 4 空間拓樸技術，計算全台 2,249 個遺址與流域河道的距離規律，解讀史前先民在曾文溪流域的選址智慧。"
 basins:

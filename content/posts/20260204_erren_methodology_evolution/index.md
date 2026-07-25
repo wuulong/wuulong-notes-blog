@@ -2,10 +2,14 @@
 title: "從「空間數據」到「流域敘事」：二仁溪探索計畫中的 WalkGIS 方法論進化"
 date: 2026-02-04
 categories:
+  - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Methodology (方法論)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
 tags:
   - AI

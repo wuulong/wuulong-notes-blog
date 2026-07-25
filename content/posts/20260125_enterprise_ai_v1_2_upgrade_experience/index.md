@@ -7,10 +7,12 @@ tags:
   - AI Agent
   - Antigravity
   - Methodology
+  - 工作流程
   - 數位轉型
   - 自動化
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - Enterprise AI Transformation (企業 AI 轉型)
   - GenAI (生成式 AI)
   - Methodology (方法論)

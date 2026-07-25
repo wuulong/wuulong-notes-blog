@@ -3,6 +3,7 @@ title: "[高屏溪Day1] 南疆平原與大樹地層：從肉丸到鳳梨罐頭�
 date: 2026-03-20
 draft: false
 categories:
+  - Outdoor & Camping (戶外與車宿)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-高屏溪"]
 description: "結束小琉球的外傳，我們重回陸地，從東港出發，一路掃描高屏溪下游的屏東平原地景。從大鵬灣的自然工法到大樹的工業史紀錄，這是一場高密度的「下游敘事」。"

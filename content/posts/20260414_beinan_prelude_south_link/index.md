@@ -3,9 +3,13 @@ title: "[卑南溪] 從楓港到卑南：南迴跨域的歷史與空間感知 (�
 description: "本次探訪將南迴公路視為清代『開山撫番南路』的時空載體，透過為期兩天的慢行，建立從屏東平原過渡到台東縱谷的空間感知。"
 date: 2026-04-14
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - History & Culture (歷史與文化)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-卑南溪"]
 tags:
   - AI
@@ -16,6 +20,7 @@ tags:
   - 卑南溪
   - 哈爸筆記
   - 河流探索
+  - 知識管理
 draft: false
 basins:
   - 卑南溪

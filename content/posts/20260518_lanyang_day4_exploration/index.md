@@ -4,14 +4,18 @@ date: 2026-05-18
 tags:
   - AI
   - Antigravity
+  - GIS
   - Relive
   - WalkGIS
   - 思源埡口
   - 河流探索
   - 蘭陽溪
 categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-蘭陽溪"]
 cover:
     image: "assets/images/lanyang_day4_cover.png"

@@ -9,6 +9,7 @@ categories:
   - GenAI (生成式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series:
   - "個人 AI 賦能方法論"
@@ -22,6 +23,7 @@ tags:
   - Python
   - 哈爸筆記
   - 工作流程
+  - 知識管理
   - 自動化
 cover:
   image: "cover.jpg"

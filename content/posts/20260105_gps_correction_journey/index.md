@@ -3,6 +3,7 @@ title: "WalkGIS 資料治理實戰：從「差不多準」到「精確定位」�
 date: 2026-01-05T07:20:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - Software Engineering (軟體工程)

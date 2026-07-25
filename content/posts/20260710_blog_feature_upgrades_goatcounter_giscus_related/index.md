@@ -6,6 +6,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)

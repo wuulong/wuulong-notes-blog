@@ -8,13 +8,17 @@ tags:
   - GitHub
   - Methodology
   - NotebookLM
+  - 工作流程
   - 知識管理
   - 自動化
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - Community & Networking (社群與交流)
   - Maker & Hardware (創客與硬體)
   - Methodology (方法論)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["哈爸實驗室"]
 ---
 在「哈爸實驗室」的社群架構中，**Wing Group（側翼組）** 扮演著知識萃取與支撐的關鍵角色。很多人會問：側翼組具體要怎麼「動起來」？

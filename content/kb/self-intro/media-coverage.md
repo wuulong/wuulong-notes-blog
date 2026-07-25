@@ -4,12 +4,15 @@ date: 2026-07-22T09:12:00+08:00
 draft: false
 weight: 10
 categories:
-  - Life & Reflections (生活與隨筆)
+  - Automation & Workflows (自動化與工作流程)
+  - Enterprise AI Transformation (企業 AI 轉型)
+  - River Exploration (河流探索)
 tags:
   - AI
   - n8n
   - 工作流程
   - 數位轉型
+  - 河流探索
   - 淡水河
   - 濁水溪
   - 秀姑巒溪

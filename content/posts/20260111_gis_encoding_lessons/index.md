@@ -11,12 +11,17 @@ tags:
   - QGIS
   - SQLite
   - WalkGIS
+  - 工作流程
+  - 河流探索
   - 濁水溪
   - 知識管理
   - 自動化
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 ---

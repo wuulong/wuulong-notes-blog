@@ -7,6 +7,8 @@ categories:
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - Maker & Hardware (創客與硬體)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
@@ -23,6 +25,8 @@ tags:
   - WalkGIS
   - 大甲溪
   - 工作流程
+  - 河流探索
+  - 知識管理
   - 自動化
 summary: "整理 WalkGIS 專案從 2025/12/13 發想至今的完整演進歷程。透過 Mermaid 圖表與詳細里程碑表格，記錄了這個專案如何從單純的「散步地圖概念」，經由 Agentic AI 的輔助，一路進化為去中心化協議 (V2)，並最終整合至軍規 ATAK 系統的技術路徑。"
 ---

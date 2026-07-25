@@ -13,11 +13,15 @@ tags:
   - 卑南溪
   - 曾文溪
   - 河流探索
+  - 知識管理
   - 計劃
   - 高屏溪
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-卑南溪"]
 basins:
   - 卑南溪

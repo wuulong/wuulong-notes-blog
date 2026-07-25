@@ -3,9 +3,12 @@ title: "從「單兵」到「內閣」——《個人 AI 賦能》第 11 章實�
 date: 2026-02-13T08:00:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - Announcements (公告)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 description: "分享撰寫《個人 AI 賦能》第 11 章的心路歷程，探討如何透過 BMAD-METHOD 建立虛擬專家團隊，並實現從單純執行到策略治理的跨越。"
 tags:
@@ -14,6 +17,7 @@ tags:
   - GitHub
   - Methodology
   - 哈爸筆記
+  - 知識管理
 ---
 ### **哈爸筆記：從「單兵」到「內閣」——《個人 AI 賦能》第 11 章實踐指南發布實錄**
 

@@ -3,8 +3,15 @@ title: "[公告] 匯流成河：河川探索計畫正式併入哈爸筆記"
 date: 2025-12-19T05:40:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - Announcements (公告)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Outdoor & Camping (戶外與車宿)
   - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["公告"]
 summary: "為了集中創作能量與技術資源，原獨立的「2026 台灣河流探索」網站正式併入「哈爸筆記」，未來將作為本站的核心系列持續更新。"
 
@@ -20,6 +27,7 @@ tags:
   - n8n
   - 哈爸筆記
   - 大甲溪
+  - 工作流程
   - 河流探索
   - 知識管理
   - 自動化

@@ -3,9 +3,11 @@ title: "武嶺鞍部地學解碼與現地探訪筆記：站在搶水戰爭的最
 date: 2026-05-31T12:00:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-立霧溪"]
 tags:
   - AI

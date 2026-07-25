@@ -19,8 +19,11 @@ tags:
   - 知識管理
   - 花蓮溪
 categories:
+  - Academic Research (學術研究)
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - Maker & Hardware (創客與硬體)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)

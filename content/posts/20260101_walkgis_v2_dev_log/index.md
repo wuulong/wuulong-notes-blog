@@ -3,6 +3,7 @@ title: "WalkGIS V2：從「網站」進化為「地理資訊瀏覽器」"
 date: 2026-01-01T09:10:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - Methodology (方法論)
   - Software Engineering (軟體工程)

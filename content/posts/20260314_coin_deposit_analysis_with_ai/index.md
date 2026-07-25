@@ -8,11 +8,14 @@ tags:
   - Gemini
   - Python
   - 哈爸筆記
+  - 工作流程
   - 知識管理
   - 自動化
 categories:
+  - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 ---
 今天去國泰世華銀行的零錢機存了一大袋累積已久的零錢。因為機器限制一次只能投入 100 枚硬幣，我分了三次才存完。回到家後，我看著這三張明細單，心血來潮想跟 Gemini 來一場關於「零錢隨機性」的小實驗。

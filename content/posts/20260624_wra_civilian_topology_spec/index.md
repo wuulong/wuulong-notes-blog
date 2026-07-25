@@ -16,6 +16,7 @@ tags:
   - 工作流程
   - 河流探索
   - 淡水河
+  - 知識管理
   - 自動化
 categories:
   - Agentic AI (代理程式 AI)
@@ -23,6 +24,7 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-淡水河"]

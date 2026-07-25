@@ -3,10 +3,12 @@ title: "【專案釋出】《流域導航》：我與 AI 共同編寫的一本�
 date: 2026-01-22T12:45:00+08:00
 categories:
   - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
   - Announcements (公告)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
 tags:

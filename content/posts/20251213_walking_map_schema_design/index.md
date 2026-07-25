@@ -2,6 +2,7 @@
 title: "大甲溪散步地圖：SQLite Schema 設計 (AI 友善 WKT 版本)"
 date: 2025-12-14T07:45:00+08:00
 categories:
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
@@ -14,6 +15,7 @@ tags:
   - SQLite
   - WalkGIS
   - 大甲溪
+  - 工作流程
   - 河流探索
   - 自動化
 draft: false

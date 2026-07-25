@@ -5,6 +5,7 @@ categories:
   - Agentic AI (代理程式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 tags:
@@ -13,6 +14,7 @@ tags:
   - GitHub
   - Methodology
   - 哈爸筆記
+  - 知識管理
 description: "記錄在撰寫《個人 AI 賦能》第十章時，如何透過三位一體治理架構與 Skill 封裝，克服認知熵增並奪回數位主權的實戰經驗。"
 ---
 ### **哈爸筆記：從「抗重力」到「奪回主權」——三位一體治理套件的誕生實錄**

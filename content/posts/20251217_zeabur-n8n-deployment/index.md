@@ -13,7 +13,9 @@ tags:
   - 自動化
 series: ["n8n"]
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
+  - GenAI (生成式 AI)
   - Software Engineering (軟體工程)
 description: "分享如何利用 Zeabur 平台快速部署 n8n 自動化工具。相比傳統 Docker 部署，Zeabur 解決了繁瑣的維運問題，讓開發者能專注於打造 Workflow，同時保有自架的彈性與隱私。"
 summary: "自架 n8n 是許多自動化愛好者的首選，但維護 Docker 和 SSL 憑證往往令人卻步。這篇文章分享我如何使用 Zeabur 平台，在 GCP 基礎設施上快速部署 n8n (SQLite 版本)。透過 Zeabur 的託管服務，我不需要處理底層繁瑣設定，就能擁有一套穩定、易維護且開箱即用的自動化中樞。"

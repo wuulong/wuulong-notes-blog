@@ -4,6 +4,7 @@ date: 2026-07-10T08:10:00+08:00
 categories:
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
   - Travel & Geography (旅行與地理)

@@ -3,8 +3,10 @@ title: "[秀姑巒溪Day3] 溯源歸途：從花東縱谷到西北沿海的長�
 date: 2026-04-27
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-秀姑巒溪"]
 basins:

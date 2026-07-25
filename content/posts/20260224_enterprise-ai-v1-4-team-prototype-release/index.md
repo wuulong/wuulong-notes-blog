@@ -4,6 +4,7 @@ date: 2026-02-24T17:10:00+08:00
 categories:
   - Agentic AI (代理程式 AI)
   - Announcements (公告)
+  - Automation & Workflows (自動化與工作流程)
   - Enterprise AI Transformation (企業 AI 轉型)
   - Personal AI Empowerment (個人 AI 賦能)
   - Software Engineering (軟體工程)
@@ -12,6 +13,7 @@ tags:
   - AI
   - Antigravity
   - GitHub
+  - 工作流程
   - 自動化
 description: "如果 v1.3.0 是確立了層次化賦能的「地圖」，那麼 v1.4.0 就是為 5 人小組準備好的「行軍裝備」。本次更新正式發布第 0 章：虛擬企業實踐原型，解決從個人沙盒過渡到團隊協作的對合難題。"
 ---

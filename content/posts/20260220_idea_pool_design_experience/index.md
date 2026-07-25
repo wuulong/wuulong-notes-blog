@@ -2,8 +2,10 @@
 title: "意外的「全壘打」：點子池從記錄到自動轉化的開發實錄"
 date: 2026-02-20T07:25:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 tags:
   - AI

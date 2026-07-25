@@ -2,14 +2,18 @@
 title: "大甲溪流域深度探索 (Dajia River Deep Exploration) - 露營/車宿版"
 date: 2025-12-12T07:42:37+08:00
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"] 
 tags:
+  - GIS
   - Google My Maps
   - KML
   - 大甲溪
   - 河流探索
+  - 知識管理
   - 車宿
 draft: false
 basins:

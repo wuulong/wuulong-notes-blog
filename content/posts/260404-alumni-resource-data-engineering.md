@@ -2,9 +2,13 @@
 title: "從意願到落點：系友資源網絡的數據工程實踐"
 date: 2026-04-04T18:28:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - Community & Networking (社群與交流)
+  - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - 機械系50
 tags:
@@ -13,6 +17,7 @@ tags:
   - Gemini
   - 哈爸筆記
   - 工作流程
+  - 知識管理
   - 自動化
 draft: false
 ---

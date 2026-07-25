@@ -15,6 +15,7 @@ tags:
   - 工作流程
   - 自動化
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - Maker & Hardware (創客與硬體)

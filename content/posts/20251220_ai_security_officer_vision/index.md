@@ -5,6 +5,7 @@ draft: false
 categories:
   - Agentic AI (代理程式 AI)
   - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 tags:
@@ -13,6 +14,7 @@ tags:
   - Antigravity
   - Gemini
   - NotebookLM
+  - 知識管理
 summary: "探討 AI 代理人化後的管理挑戰，提出「AI 安全官」概念，從行為意圖、特徵值到本質進行多層次安全監控。"
 ---
 ![AI Security Officer](ai_security_officer.png)

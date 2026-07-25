@@ -3,8 +3,10 @@ title: "實作筆記：從 SQLite 到 NotebookLM，自動化產製卡通風格�
 date: 2025-12-29T18:15:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]

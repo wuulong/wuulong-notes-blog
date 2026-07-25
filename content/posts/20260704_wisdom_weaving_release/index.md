@@ -5,6 +5,7 @@ draft: false
 categories:
   - Agentic AI (代理程式 AI)
   - Announcements (公告)
+  - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
   - Software Engineering (軟體工程)
@@ -15,6 +16,7 @@ tags:
   - AI
   - AI Agent
   - Antigravity
+  - GIS
   - Gemini
   - GitHub
   - HGIS

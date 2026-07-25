@@ -3,12 +3,14 @@ title: "社區 GIS 圖層分類學：通用型分類架構參考"
 date: 2025-12-13T22:45:37+08:00
 categories:
   - GIS & Mapping (地理資訊與地圖)
+  - River Exploration (河流探索)
 series: ["WalkGIS"]
 tags:
   - GIS
   - Open Data
   - WalkGIS
   - 大甲溪
+  - 河流探索
 draft: false
 ShowToc: true
 TocOpen: true

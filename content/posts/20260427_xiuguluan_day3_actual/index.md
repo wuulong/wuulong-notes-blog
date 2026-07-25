@@ -2,9 +2,11 @@
 title: "秀姑巒溪探索實錄（Day 3）：從光復到花蓮的人文觀察與北返歸途"
 date: 2026-04-28
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series:
   - "2026台灣河流探索-秀姑巒溪"

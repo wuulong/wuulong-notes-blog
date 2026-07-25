@@ -3,7 +3,11 @@ title: "幕後紀實：GenAI 如何協助我從零啟動「台灣河流探索」
 date: 2025-12-13T07:06:56+08:00
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["架構推動"]
@@ -18,7 +22,9 @@ tags:
   - Python
   - SQLite
   - 大甲溪
+  - 工作流程
   - 河流探索
+  - 知識管理
   - 自動化
   - 車宿
 draft: false

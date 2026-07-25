@@ -4,7 +4,12 @@ date: 2026-07-11T09:37:47+08:00
 draft: false
 weight: 10
 categories:
-  - Life & Reflections (生活與隨筆)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
+  - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 tags:
   - AI
   - GIS
@@ -14,7 +19,9 @@ tags:
   - Python
   - WalkGIS
   - 哈爸筆記
+  - 工作流程
   - 河流探索
+  - 知識管理
   - 自動化
 ---
 # 🔗 GitHub 公開專案清單

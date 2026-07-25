@@ -3,7 +3,9 @@ title: "2026 台灣河流探索：秀姑巒溪流域 (行前計劃)"
 date: 2026-03-16
 description: "跨越海岸山脈的奇蹟：從瑞穗泛舟、奇美部落文化到長虹橋出海口的深度探索。"
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-秀姑巒溪"]
 image: "/walkgis_prj/assets/images/placeholder_river.png"
@@ -27,6 +29,7 @@ tags:
   - Mermaid
   - WalkGIS
   - 河流探索
+  - 知識管理
   - 秀姑巒溪
   - 計劃
 ---

@@ -5,6 +5,7 @@ draft: false
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
@@ -15,6 +16,7 @@ tags:
   - AI Agent
   - Antigravity
   - DTM
+  - GIS
   - GitHub
   - Obsidian
   - 工作流程

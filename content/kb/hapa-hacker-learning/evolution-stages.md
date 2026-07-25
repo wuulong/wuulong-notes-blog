@@ -3,13 +3,18 @@ title: "自學心法的三個演化階段 (Three Eras of Self-Learning)"
 date: 2026-07-11T14:02:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 tags:
   - AI
   - AIQA
   - Antigravity
   - GitHub
   - Python
+  - 工作流程
   - 知識管理
   - 自動化
   - 自學心法

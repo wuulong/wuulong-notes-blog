@@ -2,10 +2,13 @@
 title: "頭前溪流域：知識圖譜與權力維度探索 (Master Plan)"
 date: 2026-03-24T19:15:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - History & Culture (歷史與文化)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-頭前溪"]
 tags:
   - AI

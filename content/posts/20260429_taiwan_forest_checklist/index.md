@@ -12,14 +12,18 @@ tags:
   - 大甲溪
   - 河流探索
   - 淡水河
+  - 知識管理
   - 秀姑巒溪
   - 立霧溪
   - 蘭陽溪
   - 頭前溪
   - 高屏溪
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: 
   - 2026台灣河流探索

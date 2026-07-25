@@ -12,8 +12,11 @@ tags:
   - 自動化
 series: ["n8n"]
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - Community & Networking (社群與交流)
+  - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 description: "在打造複雜的 AI Agent 之前，我們先來個社群自動化的暖身操。這篇文章教學如何使用 n8n 建立一個「Discord 每日歡迎機器人」，不但能定時整理新加入的夥伴名單，還能自動抓取社群討論內容，透過 Gemini 生成「昨日懶人包」，讓歡迎訊息變得更有料！"
 summary: "覺得 Discord 的 MEE6 歡迎訊息太制式？本文分享如何用 n8n 自幹一個「每日歡迎機器人」。這個自動化流程會在每天中午定時執行，除了整理新成員名單，還串接了 Google Gemini，自動閱讀 #general 频道的討論串並生成「每日社群懶人包」。文中包含完整的權限設定與 AI 摘要實作教學。"
 ---

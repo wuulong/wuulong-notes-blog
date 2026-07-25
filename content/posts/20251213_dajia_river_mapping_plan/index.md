@@ -3,6 +3,8 @@ title: "專案計畫：大甲溪散步地圖資料建構 (Data Collection Plan)"
 date: 2025-12-13T18:35:20+08:00
 categories:
   - GIS & Mapping (地理資訊與地圖)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-大甲溪"]
 tags:
@@ -12,6 +14,7 @@ tags:
   - Relive
   - 大甲溪
   - 河流探索
+  - 知識管理
   - 車宿
 draft: false
 ShowToc: true

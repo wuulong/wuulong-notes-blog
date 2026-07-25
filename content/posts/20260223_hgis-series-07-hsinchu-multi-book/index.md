@@ -12,12 +12,15 @@ tags:
   - QGIS
   - SQLite
   - WalkGIS
+  - 工作流程
   - 知識管理
   - 自動化
 categories:
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["台灣史探索"]
 description: "探討如何利用 L0-L1-L2 三層架構，將《新竹縣採訪冊》等五部地區方志，從 9000 多筆破碎文本中提煉出 821 個帶有精準座標的歷史 POI，並發布竹塹五書歷史知識地圖。"
 locations:

@@ -6,17 +6,23 @@ tags:
   - AI
   - AI協作
   - Antigravity
+  - GIS
   - Google My Maps
   - KML
   - Methodology
   - WalkGIS
   - 哈爸筆記
+  - 工作流程
   - 河流探索
   - 烏溪
+  - 知識管理
   - 自動化
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-烏溪"]

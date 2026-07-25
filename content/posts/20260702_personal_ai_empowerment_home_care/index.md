@@ -3,7 +3,10 @@ title: "個人 AI 賦能：行一診所在宅醫療的雙核共生實戰分享"
 date: 2026-07-02T07:33:47+08:00
 draft: false
 categories:
+  - Academic Research (學術研究)
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - Enterprise AI Transformation (企業 AI 轉型)
   - GenAI (生成式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
@@ -21,6 +24,7 @@ tags:
   - Python
   - Sovereign Health Agent
   - 哈爸筆記
+  - 工作流程
   - 數位轉型
   - 知識管理
   - 自動化

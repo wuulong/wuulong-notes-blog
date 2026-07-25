@@ -5,9 +5,12 @@ draft: false
 series: ["GIS學習旅程"]
 categories:
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 tags:
+  - AI
   - GIS
   - Gemini
   - GitHub

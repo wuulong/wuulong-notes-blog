@@ -5,6 +5,7 @@ draft: false
 categories:
   - Agentic AI (代理程式 AI)
   - Announcements (公告)
+  - Automation & Workflows (自動化與工作流程)
   - Community & Networking (社群與交流)
   - Enterprise AI Transformation (企業 AI 轉型)
   - Methodology (方法論)
@@ -21,6 +22,7 @@ tags:
   - GitHub
   - Methodology
   - n8n
+  - 工作流程
   - 數位轉型
   - 知識管理
   - 自動化

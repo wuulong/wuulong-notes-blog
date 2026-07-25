@@ -3,6 +3,8 @@ title: "山脈水文探索的三柱架構：邏輯、證據與實踐的數位循
 date: 2026-04-30T11:00:00+08:00
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - Methodology (方法論)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
@@ -12,11 +14,13 @@ tags:
   - AI
   - Antigravity
   - DTM
+  - GIS
   - GitHub
   - Methodology
   - QGIS
   - SQLite
   - 哈爸筆記
+  - 工作流程
   - 河流探索
   - 知識管理
   - 自動化

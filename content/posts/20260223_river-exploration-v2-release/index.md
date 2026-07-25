@@ -2,10 +2,12 @@
 title: "給數位田野的升級指引：從敘事到技能，《流域導航》v2.0 正式釋出與 HGIS 三層架構實踐"
 date: 2026-02-23T15:10:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - Announcements (公告)
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索"]
 tags:

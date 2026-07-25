@@ -13,6 +13,7 @@ tags:
 categories:
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
 series: ["WalkGIS"]
 ---

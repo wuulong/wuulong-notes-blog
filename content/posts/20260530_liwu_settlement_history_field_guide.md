@@ -3,10 +3,14 @@ title: "立霧溪大縱走現地歷史對照指南：從得其黎到人止關的
 date: 2026-05-30T09:00:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - Maker & Hardware (創客與硬體)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-立霧溪"]
 tags:
   - AI
@@ -20,6 +24,7 @@ tags:
   - 河流探索
   - 濁水溪
   - 烏溪
+  - 知識管理
   - 立霧溪
   - 車宿
 cover:

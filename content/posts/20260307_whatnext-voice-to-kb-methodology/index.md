@@ -6,6 +6,7 @@ tags:
   - AI
   - AI Agent
   - Antigravity
+  - GIS
   - GitHub
   - Methodology
   - NotebookLM
@@ -14,11 +15,14 @@ tags:
   - 知識管理
   - 自動化
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 author: "哈爸"
 description: "如何將晨間運動時天馬行空的語音靈感，在短短一小時內轉化為結構化的知識庫 (KB) 與多項專案開發策略？本文分享我們最新實作的 WhatNext (WN) 轉化系統，探討『逐字稿優先』如何降低從點子到產出的摩擦力。"

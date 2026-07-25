@@ -4,6 +4,8 @@ date: 2025-12-13T07:53:46+08:00
 categories:
   - Community & Networking (社群與交流)
   - Personal AI Empowerment (個人 AI 賦能)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["社群經營"]
 draft: true
 ShowToc: true

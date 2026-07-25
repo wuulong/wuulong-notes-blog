@@ -9,10 +9,12 @@ tags:
   - Methodology
   - 數位轉型
 categories:
+  - Agentic AI (代理程式 AI)
   - Announcements (公告)
   - Enterprise AI Transformation (企業 AI 轉型)
   - GenAI (生成式 AI)
   - Methodology (方法論)
+  - Software Engineering (軟體工程)
 series: ["企業AI轉型全書"]
 ---
 經歷了密集的理論建構與多產業案例（製造業、醫療業、電商業）的壓力測試，我決定將這套 **《企業生成式 AI 轉型方法論 (v1.1.0)》** 正式分離為獨立專案，並在 GitHub 上開源釋出。

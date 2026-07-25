@@ -4,6 +4,7 @@ date: 2026-04-19T16:50:00+08:00
 categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
   - Productivity & KM (生產力與知識管理)

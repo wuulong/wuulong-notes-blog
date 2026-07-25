@@ -11,10 +11,12 @@ tags:
   - Gemini
   - Methodology
   - WalkGIS
+  - 工作流程
   - 自動化
 categories:
   - Academic Research (學術研究)
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Methodology (方法論)

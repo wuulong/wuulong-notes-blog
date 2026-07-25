@@ -17,11 +17,14 @@ tags:
   - 河流探索
   - 知識管理
 categories:
+  - Agentic AI (代理程式 AI)
   - Digital Archaeology (數位考古)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - History & Culture (歷史與文化)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["台灣史探索"]
 description: "HGIS 系列第八篇：探討如何整合文資局與中研院多方數據，建立全台 2,563 處遺址的 Master Registry，並運用 AI Agent 進行 Layer 1 至 Layer 2 的知識建模與血緣追蹤。"
 basins:

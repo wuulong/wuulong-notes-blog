@@ -3,8 +3,11 @@ title: "實地探勘：綠島 Day 1，在 0 光害的黑潮盡頭尋找繁星"
 description: "從卑南溪口出海，跨越黑潮抵達火燒島。這是一場關於體能極限、海底視覺盛宴與零光害震撼的真實紀錄。"
 date: 2026-04-17
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series:
   - "2026台灣河流探索-卑南溪"
@@ -25,6 +28,7 @@ tags:
   - 卑南溪
   - 哈爸筆記
   - 河流探索
+  - 知識管理
 ---
 ![綠島星空與寂靜](./header.png)
 

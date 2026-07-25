@@ -12,8 +12,11 @@ tags:
   - 秀姑巒溪
   - 車宿
 categories:
+  - Agentic AI (代理程式 AI)
+  - Outdoor & Camping (戶外與車宿)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-秀姑巒溪"]
 image: "https://www.relive.com/view/vZqNKW9kJGv/gif"
 basins:

@@ -3,6 +3,7 @@ title: "從數據看見祖靈的腳蹤：原住民文化體系資料庫與數位
 date: 2026-04-30T14:00:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - History & Culture (歷史與文化)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)

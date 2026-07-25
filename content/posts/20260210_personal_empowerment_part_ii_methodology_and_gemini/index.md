@@ -2,9 +2,13 @@
 title: "從敘事到實踐：個人賦能第二篇的骨架成形記"
 date: 2026-02-10
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 tags:
   - AI
@@ -15,6 +19,8 @@ tags:
   - GitHub
   - Methodology
   - NotebookLM
+  - 工作流程
+  - 知識管理
   - 自動化
 description: "將第一篇的演化領悟轉化為第二篇的實踐手冊，這是一場關於教學設計、工具格律與習慣養成的深度重構。"
 ---

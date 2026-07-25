@@ -3,8 +3,10 @@ title: "WalkGIS 2.0 願景：打造去中心化的地理資訊協議 (Protocol)"
 date: 2026-01-01T06:20:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - Methodology (方法論)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 summary: "如果不只是我在做地圖，而是每個人都能擁有自己的地理資料庫？本文提出 WalkGIS 的下一步計畫：將其從單一網站昇華為一種類似 Podcast 的去中心化協議，讓每個人都能成為地圖創作者，並透過開放市集共享成果。"
 tags:

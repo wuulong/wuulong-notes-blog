@@ -2,9 +2,11 @@
 title: "[哈爸筆記] 讓 AI 擁有地理動向的靈魂：智慧行車導遊兩日開發實錄"
 date: 2026-03-11T09:10:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["智慧導遊"]
 tags:

@@ -5,6 +5,8 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Methodology (方法論)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
 tags:
@@ -17,6 +19,7 @@ tags:
   - 二仁溪
   - 大甲溪
   - 河流探索
+  - 知識管理
   - 車宿
   - 頭前溪
 draft: false

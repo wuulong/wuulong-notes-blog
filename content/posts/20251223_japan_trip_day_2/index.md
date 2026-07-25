@@ -2,8 +2,11 @@
 title: "日本行 Day 2: 奈良公園、東大寺與大阪美食"
 date: 2025-12-23T09:00:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["2025日本行"]
 tags:

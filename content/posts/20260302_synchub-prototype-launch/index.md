@@ -13,10 +13,12 @@ tags:
   - 知識管理
   - 自動化
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - Enterprise AI Transformation (企業 AI 轉型)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["團隊AI賦能實驗"]
 author: "哈爸"
 description: "我們總是談論AI如何賦能個人，或是直接跳到遙不可及的企業級Agent應用。但中間的斷層呢？今天，我們將正式啟動『團隊 AI (SyncHub)』實驗計畫，透過 Inbox/Outbox 的非同步設計，讓個人的高效率工作手感無縫對齊團隊戰略。"

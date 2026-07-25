@@ -13,11 +13,19 @@ tags:
   - Python
   - SQLite
   - 哈爸筆記
+  - 工作流程
   - 數位轉型
+  - 知識管理
   - 自動化
   - 自學心法
 categories:
+  - Academic Research (學術研究)
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - Enterprise AI Transformation (企業 AI 轉型)
+  - GenAI (生成式 AI)
+  - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 ---
 # 背景說明

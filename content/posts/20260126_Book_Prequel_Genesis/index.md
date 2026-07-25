@@ -11,9 +11,12 @@ tags:
   - NotebookLM
   - 知識管理
 categories:
+  - Agentic AI (代理程式 AI)
+  - GenAI (生成式 AI)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: [個人AI賦能方法論]
 summary: "這不是一本傳統方式寫成的書。它始於一段散亂的口語錄音，透過 NotebookLM 的萃取技術，轉化為核心觀點清單，最終生長出完整的書籍架構。這篇文章紀錄了這個「從聲音到結構」的 AI 協作過程。"
 ---

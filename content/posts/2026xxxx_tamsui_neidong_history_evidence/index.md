@@ -2,11 +2,13 @@
 title: "淡水河探索：【水源之心】歷史文獻與地學對合 (文史素材)"
 date: 2026-06-22T08:20:00+08:00
 tags:
+  - GIS
   - Mermaid
   - WalkGIS
   - 河流探索
   - 淡水河
 categories:
+  - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-淡水河"]

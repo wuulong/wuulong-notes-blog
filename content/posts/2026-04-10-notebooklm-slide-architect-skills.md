@@ -4,9 +4,13 @@ date: 2026-04-10T08:35:00+08:00
 draft: false
 description: "總結如何利用 AI 進行事實厚度採掘、設計 Master Prompt 與在地用語校對，將雜亂的校友資料轉化為具備領袖張力的 50 週年系慶演講稿。"
 categories:
+  - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: 
   - "機械系50"
 tags:
@@ -15,6 +19,7 @@ tags:
   - Deep Research
   - NotebookLM
   - 哈爸筆記
+  - 工作流程
   - 知識管理
   - 自動化
 ---

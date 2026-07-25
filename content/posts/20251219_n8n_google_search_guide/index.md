@@ -3,7 +3,10 @@ title: "實戰 n8n 整合 Google Custom Search：從踩坑到成功"
 date: 2025-12-19T10:40:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
+  - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 series: ["n8n"]
 summary: "紀錄如何在 n8n 中透過 HTTP Request 節點實作 Google 搜尋功能，包括 API Key 申請、CSE 設定、網站驗證與除錯技巧。"
 

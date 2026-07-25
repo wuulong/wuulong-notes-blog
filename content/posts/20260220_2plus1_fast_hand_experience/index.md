@@ -2,13 +2,17 @@
 title: "「2+1 快手」開發實錄：打破 AI 與現實世界的「摩擦力」"
 date: 2026-02-20T07:10:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
+  - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 description: "分享「2+1 快手」架構的設計經驗：如何透過感官層、大腦層與反饋層的解構，讓 AI 協作從「聊天框」走進現實生活與行車場景。"
 tags:
   - AI
   - Antigravity
   - Gemini
+  - 工作流程
   - 自動化
 ---
 在開發 AI 應用的過程中，起初我並非直接針對「與 AI 對話」的體驗進行設計，而是希望能有一套自動化工具的支援，來 **Offload (卸載) LLM 的使用負擔**。但在開發過程中，意外地發展出一套極其高效的自動化開發與探勘環境，這就是 **「2+1 快手」** 的由來。

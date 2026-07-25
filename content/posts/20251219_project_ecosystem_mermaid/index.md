@@ -2,8 +2,13 @@
 title: "哈爸實驗室：技術與應用生態全景圖"
 date: 2025-12-19T00:00:00+08:00
 categories:
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["架構推動"]
 tags:
@@ -18,7 +23,9 @@ tags:
   - n8n
   - 哈爸筆記
   - 大甲溪
+  - 工作流程
   - 河流探索
+  - 知識管理
   - 自動化
   - 車宿
 draft: false

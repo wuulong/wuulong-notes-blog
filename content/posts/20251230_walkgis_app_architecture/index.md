@@ -3,8 +3,10 @@ title: "WalkGIS App 架構解密：打造 Serverless 的地理資訊探索器"
 date: 2025-12-30T14:10:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:

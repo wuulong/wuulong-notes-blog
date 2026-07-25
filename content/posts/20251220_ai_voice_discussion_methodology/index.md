@@ -3,8 +3,12 @@ title: "不再擔心「句點王」：如何透過 AI 語音對談達成高效�
 date: 2025-12-20T06:45:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
   - Methodology (方法論)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 summary: "分享一套利用 AI 語音討論的方法論，將對話轉化為具備「無限開放性」與「邏輯紀錄」的思考深化工具。"
 
@@ -14,6 +18,8 @@ tags:
   - Gemini
   - Methodology
   - NotebookLM
+  - 工作流程
+  - 知識管理
   - 自動化
 ---
 ![AI Voice Discussion](ai_voice_discussion.png)

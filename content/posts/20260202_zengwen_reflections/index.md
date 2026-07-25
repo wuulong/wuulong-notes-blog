@@ -9,10 +9,13 @@ tags:
   - 哈爸筆記
   - 曾文溪
   - 河流探索
+  - 知識管理
   - 計劃
   - 車宿
 categories:
   - Agentic AI (代理程式 AI)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-曾文溪"]

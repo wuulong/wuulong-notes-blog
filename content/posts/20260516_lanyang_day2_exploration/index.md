@@ -2,14 +2,19 @@
 title: "蘭陽溪探索 Day 2 (實際行程)：高山林業與感官地層 —— 太平山、見晴與鳩之澤"
 date: 2026-05-16
 tags:
+  - AI
   - Antigravity
+  - GIS
   - Relive
   - WalkGIS
   - 河流探索
   - 蘭陽溪
 categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-蘭陽溪"]
 cover:
     image: "assets/images/lanyang_day2_actual_cover.png"

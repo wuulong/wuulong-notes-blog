@@ -3,8 +3,11 @@ title: "WalkGIS 自動化之路：打造「地圖生成代理人」與新竹水�
 date: 2025-12-30T06:00:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
@@ -19,6 +22,8 @@ tags:
   - WalkGIS
   - 大甲溪
   - 工作流程
+  - 河流探索
+  - 知識管理
   - 自動化
 summary: "記錄如何將地圖製作流程封裝成可重複執行的 Agent Task，並以「新竹智慧水圳地圖」進行壓力測試與迭代修正的過程。"
 ---

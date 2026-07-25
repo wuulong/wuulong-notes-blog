@@ -4,6 +4,7 @@ date: 2026-04-17T07:10:00+08:00
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
+  - Outdoor & Camping (戶外與車宿)
   - Personal AI Empowerment (個人 AI 賦能)
   - River Exploration (河流探索)
   - Travel & Geography (旅行與地理)

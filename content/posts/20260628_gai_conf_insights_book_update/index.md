@@ -2,12 +2,15 @@
 title: "高含金量 2026GAI年會 被啟發項目的萃取經驗與內容"
 date: 2026-06-28T09:10:09+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - Community & Networking (社群與交流)
   - Enterprise AI Transformation (企業 AI 轉型)
   - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - "企業AI轉型全書"
   - "個人AI賦能方法論"

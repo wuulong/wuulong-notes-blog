@@ -3,10 +3,13 @@ title: "【哈爸AI課程公告】一手拿滑鼠，一手摸泥土：台東都�
 date: 2026-07-09T19:10:00+08:00
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - Announcements (公告)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series:
   - "AI教學歷程"
@@ -23,6 +26,7 @@ tags:
   - GIS
   - GitHub
   - 哈爸筆記
+  - 知識管理
 cover:
   image: "assets/images/20260709_ai_slow_living_camp_cover.jpg"
   alt: "Hapa 的 AI 慢活共創營活動海報"

@@ -2,8 +2,12 @@
 title: "都蘭 AI 慢活共創營：從竹科架構到泥土情懷的教學歷程自動化構想"
 date: 2026-07-09T20:43:52+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series:
   - "AI教學歷程"
 basins: []
@@ -15,11 +19,13 @@ destinations:
 tags:
   - AI
   - Antigravity
+  - GIS
   - GitHub
   - Python
   - QGIS
   - 哈爸筆記
   - 工作流程
+  - 知識管理
   - 自動化
 cover:
   image: "assets/images/20260709_dulan_ai_hub_vision.jpg"

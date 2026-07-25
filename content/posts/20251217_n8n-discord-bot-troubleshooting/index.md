@@ -12,8 +12,10 @@ tags:
   - 自動化
 series: ["n8n"]
 categories:
+  - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - Community & Networking (社群與交流)
+  - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 description: "紀錄使用 n8n 開發 Discord Bot 時遇到的三大地雷：收不到訊息 Trigger、權限 Intent 設定陷阱，以及 Workflow 卡死無法刪除的解決方案。"

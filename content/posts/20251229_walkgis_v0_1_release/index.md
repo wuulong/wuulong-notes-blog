@@ -2,8 +2,12 @@
 title: "WalkGIS V0.1 釋出：如果地圖是一本可讀的故事書"
 date: 2025-12-29T16:30:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - Announcements (公告)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
   - AI
@@ -14,6 +18,7 @@ tags:
   - Open Data
   - WalkGIS
   - 大甲溪
+  - 河流探索
 draft: false
 ---
 我們很高興宣布 **WalkGIS Project V0.1** 正式釋出！ 🎉

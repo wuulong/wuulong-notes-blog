@@ -4,6 +4,7 @@ date: 2026-02-22T13:10:00+08:00
 categories:
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
 series: ["台灣史探索"]
 tags:
   - AI
@@ -12,6 +13,7 @@ tags:
   - HGIS
   - QGIS
   - 哈爸筆記
+  - 河流探索
   - 知識管理
   - 頭前溪
 ---

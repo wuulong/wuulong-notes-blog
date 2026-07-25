@@ -2,10 +2,13 @@
 title: "AI 賦能實戰：如何為台東旅宿打造「深度導覽生活圈」數位地圖"
 date: 2026-04-16T13:40:00+08:00
 categories:
+  - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Personal AI Empowerment (個人 AI 賦能)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series:
   - "2026台灣河流探索-卑南溪"

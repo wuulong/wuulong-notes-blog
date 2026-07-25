@@ -4,7 +4,9 @@ date: 2025-12-20T06:15:00+08:00
 draft: false
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 tags:
@@ -13,6 +15,8 @@ tags:
   - Antigravity
   - Gemini
   - NotebookLM
+  - 工作流程
+  - 知識管理
   - 自動化
 summary: "探討 Agentic AI 帶來的安全挑戰，提出監控、即時阻攔與長線溯源結合的「全戰線」防禦機制。"
 ---

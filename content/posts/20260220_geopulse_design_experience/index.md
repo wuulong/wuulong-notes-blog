@@ -2,7 +2,10 @@
 title: "GeoPulse：從地理數據迷霧到精準感知的「空間大腦」設計實錄"
 date: 2026-02-20T07:00:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["GIS學習旅程"]
 description: "分享 GeoPulse 空間感知引擎的設計歷程：如何透過虛擬化架構，將散落的硬碟圖資轉化為 AI 可讀、實時感知的空間導航核心。"
 tags:
@@ -12,6 +15,7 @@ tags:
   - KML
   - SQLite
   - WalkGIS
+  - 知識管理
 ---
 在 AI 密集開發的時代，我們常說 AI 是大腦，但大腦若沒有「感官」來感知現實世界的空間脈絡，它的建議就容易流於空泛。這篇文章記錄了我與 AI 代理程式（Antigravity）共同打造 **GeoPulse** —— 一個空間感知與導航引擎的設計經驗。
 

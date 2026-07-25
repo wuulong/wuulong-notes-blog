@@ -13,6 +13,7 @@ tags:
   - 濁水溪
   - 車宿
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - Outdoor & Camping (戶外與車宿)
   - River Exploration (河流探索)

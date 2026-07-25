@@ -3,7 +3,12 @@ title: "[卑南溪] (實遊記) 南迴跨域第一日：蓮霧的味道、落山
 description: "實際走過 175 里的征途，從楓港的老街、雙流的瀑布到大武的暮色。這是一場關於滋味、聲音與地景的深度對話。"
 date: 2026-04-14
 categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Outdoor & Camping (戶外與車宿)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-卑南溪"]
 draft: false
 basins:
@@ -18,11 +23,13 @@ locations:
 tags:
   - AI
   - Antigravity
+  - GIS
   - Relive
   - WalkGIS
   - 卑南溪
   - 哈爸筆記
   - 河流探索
+  - 知識管理
   - 車宿
 ---
 > **哈爸筆記**：

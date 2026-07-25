@@ -5,8 +5,10 @@ draft: false
 categories:
   - Academic Research (學術研究)
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["WalkGIS"]
@@ -19,6 +21,8 @@ tags:
   - Gemini
   - WalkGIS
   - 大甲溪
+  - 工作流程
+  - 河流探索
   - 自動化
 summary: "傳統的 GIS 地圖只告訴你「這裡有什麼」，卻很少告訴你「這裡發生過什麼」。為了解決深度探索的資訊落差，我開始嘗試在 WalkGIS 的每份地圖文件中嵌入專屬的 Deep Research Prompt。這不僅是節省使用者的複製貼上時間，更是一種「將地圖視為知識索引」的產品設計思維。"
 ---

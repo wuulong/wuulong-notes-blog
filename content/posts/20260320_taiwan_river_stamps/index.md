@@ -3,6 +3,8 @@ title: "[流域印章] 從數位到實體：用 nano banana 2 打造 11 個台�
 date: 2026-03-20
 draft: false
 categories:
+  - GenAI (生成式 AI)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
 description: "這是一個關於跨越數位生成與實體腳蹤的計畫。我們利用 nano banana 2 設計了 11 個台灣主要流域的圖章，準備在實地走查時，與當地的實體印章結合，蓋出一枚枚獨一無二的「齊縫章」。"
@@ -17,6 +19,7 @@ tags:
   - 河流探索
   - 淡水河
   - 濁水溪
+  - 知識管理
   - 秀姑巒溪
   - 立霧溪
   - 蘭陽溪

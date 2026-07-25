@@ -3,8 +3,10 @@ title: "從「靜態手冊」到「動態地圖」：山海圳國家綠道的數
 date: 2026-02-03
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - Enterprise AI Transformation (企業 AI 轉型)
   - GIS & Mapping (地理資訊與地圖)
+  - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索"]
@@ -17,8 +19,10 @@ tags:
   - Python
   - SQLite
   - WalkGIS
+  - 工作流程
   - 數位轉型
   - 河流探索
+  - 知識管理
   - 自動化
 description: "記錄如何將 112MB 的 PDF 手冊與 KMZ 圖資，轉化為具備深度敘事與 Web 跳轉能力的 WalkGIS 動態地圖系統。"
 ---

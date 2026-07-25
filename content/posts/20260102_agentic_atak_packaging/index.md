@@ -19,8 +19,10 @@ categories:
   - Agentic AI (代理程式 AI)
   - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Maker & Hardware (創客與硬體)
   - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 ---

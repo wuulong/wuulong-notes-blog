@@ -9,12 +9,17 @@ tags:
   - GIS
   - GitHub
   - Methodology
+  - 工作流程
   - 知識管理
   - 自動化
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
+  - Methodology (方法論)
   - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: ["mountain-hydrology-atlas"]
 locations:
   - 能高古道

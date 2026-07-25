@@ -3,6 +3,7 @@ title: "散步地圖的概念與應用：從移動軌跡看見在地紋理"
 date: 2025-12-13T18:33:47+08:00
 categories:
   - GIS & Mapping (地理資訊與地圖)
+  - River Exploration (河流探索)
 series: ["WalkGIS"]
 tags:
   - GIS

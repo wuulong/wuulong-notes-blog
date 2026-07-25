@@ -3,9 +3,11 @@ title: "[卑南溪] 意外的序章：知識交換、高級民宿與當代打工
 description: "河流探索正式開始前的一個奇怪開場。這不是傳統的商業交易，而是一場關於知識共享與地緣熱情的深度對話。"
 date: 2026-04-13
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-卑南溪"]
 draft: false

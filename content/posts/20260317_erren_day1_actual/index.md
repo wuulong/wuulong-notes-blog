@@ -2,6 +2,7 @@
 title: "2026 河流探索 - Day 1：從界河到海口，變更計畫的南部水文大合奏"
 date: 2026-03-17
 categories:
+  - Outdoor & Camping (戶外與車宿)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-二仁溪"]
 description: "因應行程變動，Day 1 改由海線切入二仁溪下游。從安定的牛肉湯出發，橫跨滯洪池與濕地，見證界河兩岸的生命力。"

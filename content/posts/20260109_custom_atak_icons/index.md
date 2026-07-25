@@ -10,11 +10,15 @@ tags:
   - Python
   - WalkGIS
   - 曾文溪
+  - 河流探索
   - 濁水溪
   - 車宿
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - Maker & Hardware (創客與硬體)
+  - Outdoor & Camping (戶外與車宿)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: [WalkGIS]
 params:

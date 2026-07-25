@@ -5,13 +5,17 @@ url: "/planning/"
 summary: "哈爸個人筆記網站的內容架構與未來文章規劃"
 weight: 1
 categories:
+  - Agentic AI (代理程式 AI)
   - Personal AI Empowerment (個人 AI 賦能)
   - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 tags:
   - AI
   - AI Agent
   - 哈爸筆記
   - 大甲溪
+  - 河流探索
   - 知識管理
   - 計劃
 ---

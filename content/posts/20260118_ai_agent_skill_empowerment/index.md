@@ -22,6 +22,7 @@ categories:
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Personal AI Empowerment (個人 AI 賦能)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
 image: cover.png

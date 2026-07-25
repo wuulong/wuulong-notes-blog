@@ -3,10 +3,14 @@ title: "為了這本書，我啟動了一場數位考古：尋找遺失的三種
 date: 2026-01-27
 draft: false
 categories:
+  - Agentic AI (代理程式 AI)
   - Digital Archaeology (數位考古)
+  - GenAI (生成式 AI)
   - History & Culture (歷史與文化)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
+  - Software Engineering (軟體工程)
 series: [個人AI賦能方法論]
 summary: "書的架構有了，但證據在哪裡？為了證明「AI 賦能」不是自我感覺良好的雞湯，我決定對自己過去三年的數位足跡進行一場考古。本文定義了這場考古的三大目標地層：從早期的對話存檔 (Archive)、中期的指令洪流 (Stream)，到近期的協作軌跡 (Trace)。"
 tags:
@@ -18,6 +22,7 @@ tags:
   - Methodology
   - NotebookLM
   - Python
+  - 知識管理
 ---
 上一篇提到，透過 NotebookLM 的協助，我成功將混亂的語音筆記轉化為一份結構嚴謹的書籍目錄 (`00_Book_Planning.md`)。
 

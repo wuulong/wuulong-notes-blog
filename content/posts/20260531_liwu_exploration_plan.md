@@ -2,7 +2,11 @@
 title: "立霧溪五天極致探索計畫：橫跨大理石峽谷與脊樑分水嶺的生命之刃 (行前計畫)"
 date: 2026-05-29
 categories:
+  - Agentic AI (代理程式 AI)
+  - GIS & Mapping (地理資訊與地圖)
+  - Outdoor & Camping (戶外與車宿)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-立霧溪"]
 cover:
     image: "/assets/images/liwu_gorge_cover.png"
@@ -21,7 +25,9 @@ destinations:
   - 武嶺
 
 tags:
+  - AI
   - Antigravity
+  - GIS
   - GitHub
   - WalkGIS
   - 河流探索

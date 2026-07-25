@@ -2,10 +2,13 @@
 title: "從地名到建構 HGIS 的數位鏈金術 (6)：Layer 2 知識中樞的誕生與《台灣歷史知識地圖》開源釋出"
 date: 2026-02-22T19:40:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
   - Announcements (公告)
   - GIS & Mapping (地理資訊與地圖)
   - History & Culture (歷史與文化)
   - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["台灣史探索"]
 tags:
   - AI

@@ -2,6 +2,8 @@
 title: "薪火五十的數位轉型：交大機械系友資源對位引擎開發筆記"
 date: 2026-04-08T20:43:00+08:00
 categories:
+  - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
   - Community & Networking (社群與交流)
   - Enterprise AI Transformation (企業 AI 轉型)
   - Maker & Hardware (創客與硬體)
@@ -14,6 +16,7 @@ tags:
   - Antigravity
   - Python
   - SQLite
+  - 工作流程
   - 數位轉型
   - 知識管理
   - 自動化

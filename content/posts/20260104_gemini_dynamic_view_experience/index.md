@@ -4,9 +4,12 @@ date: 2026-01-04T11:30:00+08:00
 draft: false
 categories:
   - Academic Research (學術研究)
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - GenAI (生成式 AI)
   - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["WalkGIS"]
 tags:
   - AI
@@ -16,6 +19,7 @@ tags:
   - Gemini
   - WalkGIS
   - 大甲溪
+  - 河流探索
   - 知識管理
 summary: "在將 Deep Research 應用於 WalkGIS 的過程中，我意外發現了 Gemini 'Dynamic View' 的強大之處。透過幾個簡單的 Prompt，一份幾萬字的枯燥水利工程報告，瞬間被轉化為精美的時間軸、比較表與行程卡片。這不僅是視覺化工具，更是新一代的知識策展神器。"
 ---

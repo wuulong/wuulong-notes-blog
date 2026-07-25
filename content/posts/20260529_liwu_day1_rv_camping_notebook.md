@@ -20,6 +20,7 @@ tags:
 categories:
   - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
+  - GenAI (生成式 AI)
   - Outdoor & Camping (戶外與車宿)
   - Productivity & KM (生產力與知識管理)
   - River Exploration (河流探索)

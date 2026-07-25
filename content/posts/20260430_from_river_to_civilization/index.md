@@ -3,6 +3,7 @@ title: "從水流到文明：探究路徑的必然性與 AI 賦能的合理結�
 date: 2026-04-30T12:00:00+08:00
 categories:
   - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - Personal AI Empowerment (個人 AI 賦能)
   - River Exploration (河流探索)
 series: ["2026台灣河流探索"]
@@ -11,6 +12,7 @@ description: "為什麼流域探索最終必然走向文明探究？本篇深入
 tags:
   - AI
   - DTM
+  - GIS
   - GitHub
   - HGIS
   - 二仁溪

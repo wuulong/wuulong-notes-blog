@@ -11,8 +11,10 @@ tags:
   - 河流探索
   - 高屏溪
 categories:
+  - Agentic AI (代理程式 AI)
   - GIS & Mapping (地理資訊與地圖)
   - River Exploration (河流探索)
+  - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-二仁溪"]
 description: "從高屏溪月世界的邊界接回，我們正式進入二仁溪的中上游核心。今日將觀察龍崎泥岩的刷洗力道，並在阿蓮大曲流與仁德滯洪池間，解讀人與河流最激烈的互動地層。"
 basins:

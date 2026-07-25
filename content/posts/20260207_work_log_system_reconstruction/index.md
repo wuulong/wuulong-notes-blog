@@ -3,21 +3,27 @@ title: "數位演化的黑盒解密：從流水帳到「產出導向」的工作
 date: 2026-02-07
 categories:
   - Agentic AI (代理程式 AI)
+  - Automation & Workflows (自動化與工作流程)
+  - GIS & Mapping (地理資訊與地圖)
   - Maker & Hardware (創客與硬體)
   - Methodology (方法論)
   - Productivity & KM (生產力與知識管理)
+  - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["哈爸實驗室"]
 tags:
   - AI
   - AI Agent
   - Antigravity
+  - GIS
   - Methodology
   - WalkGIS
   - n8n
   - 二仁溪
   - 哈爸筆記
+  - 工作流程
   - 曾文溪
+  - 河流探索
   - 濁水溪
   - 知識管理
   - 自動化

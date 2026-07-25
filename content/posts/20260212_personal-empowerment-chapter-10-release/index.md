@@ -5,8 +5,10 @@ draft: false
 categories:
   - Agentic AI (代理程式 AI)
   - Announcements (公告)
+  - Automation & Workflows (自動化與工作流程)
   - Methodology (方法論)
   - Personal AI Empowerment (個人 AI 賦能)
+  - Productivity & KM (生產力與知識管理)
   - Software Engineering (軟體工程)
 series: ["個人AI賦能方法論"]
 tags:
@@ -15,6 +17,8 @@ tags:
   - GitHub
   - Methodology
   - 哈爸筆記
+  - 工作流程
+  - 知識管理
   - 自動化
 description: "分享撰寫《個人 AI 賦能》第十章的心路歷程，探討如何從 AI 使用者轉化為數位系統統御者，並發布三位一體治理套件。"
 ---
