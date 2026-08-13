@@ -1,5 +1,5 @@
 ---
-title: "從文字沼澤到五角圖譜：我是如何用 AI 打造台灣法律判決中繼資料庫 (LJMeta-in)"
+title: "從文字沼澤到五角圖譜：我是如何用 AI 打造台灣法律判決中繼資料庫 (LJMeta)"
 date: 2026-08-05T07:30:00+08:00
 draft: false
 categories:
