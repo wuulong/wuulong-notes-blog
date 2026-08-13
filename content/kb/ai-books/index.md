@@ -37,6 +37,10 @@ tags:
 * **GitHub 專案**：[`wuulong/PersonalAI-Empowerment`](https://github.com/wuulong/PersonalAI-Empowerment)
 * **核心簡介**：探索個體如何透過 AI 工具、腳本自動化、提示詞工程與 Agent 協作，重塑日常工作、學習與寫作流程，實現個人生產力的極致提升。
 
+### 📘 [《主權個人健康管理手冊 (Sovereign Health Agent Book)》](https://github.com/wuulong/sovereign-health-agent)
+* **GitHub 專案**：[`wuulong/sovereign-health-agent`](https://github.com/wuulong/sovereign-health-agent)
+* **核心簡介**：在保障個人隱私前提下，整合健康存摺、醫療報告、用藥資訊與高齡長照/在宅安寧指引，建立個人私有健康 AI 助理與衛教思辨之離線專書。
+
 ### 📘 [《推動台灣開源實踐 (ATOSP)》](https://github.com/wuulong/ATOSP)
 * **GitHub 專案**：[`wuulong/ATOSP`](https://github.com/wuulong/ATOSP)
 * **核心簡介**：應開源大獎主辦單位諮詢請益開源撰寫，匯集台灣開源軟體生態系的實務經驗、社群協作模式及專家會議紀錄，旨在推動在地開源產業的成熟與轉型。
