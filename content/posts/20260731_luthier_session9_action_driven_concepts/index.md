@@ -13,7 +13,7 @@ tags:
   - "Antigravity"
   - "教學方法論"
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "琴師計畫第九堂：知識地圖與流水線"
   relative: true
 ---

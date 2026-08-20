@@ -23,7 +23,7 @@ categories:
   - Travel & Geography (旅行與地理)
 series: ["2026台灣河流探索-淡水河"]
 cover:
-    image: "neidong_actual_cover.png"
+    image: "neidong_actual_cover.webp"
     alt: "烏來內洞信賢步道探索第一天實際遊記封面"
     relative: true
 map_id: "2026xxxx_tamsui_exploration"

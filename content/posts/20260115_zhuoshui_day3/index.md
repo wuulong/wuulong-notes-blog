@@ -36,7 +36,7 @@ destinations:
 > 昨晚在集集的車宿非常安靜，早晨被陽光喚醒。
 > 第三天的行程比預期更加豐富，除了原定的水利設施巡禮，還意外深入了集集的生態保育基地。這是一趟從「農業用水」的攔河堰，轉向「水力發電」的日月潭系統，中間穿插著各式在地美食與深度生態體驗的充實旅程。
 
-![濁水溪relive_day3](濁水溪relive_day3.png)
+![濁水溪relive_day3](濁水溪relive_day3.webp)
 
 今日 [濁水溪 day3 relive](https://www.relive.com/view/vXvLEmxYy7O)
 

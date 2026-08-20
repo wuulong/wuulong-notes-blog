@@ -26,7 +26,7 @@ destinations:
 > **寫在旅程後**：
 > 昨晚宿於善化，這裡不僅是南科的心臟，更是嘉南大圳與曾文溪交會的關鍵地帶。今天的旅程主題是「輸水與淨水」，我們踏訪了百年的水道建築，看前人如何處理溪水，再到壯闊的渡槽橋群，見證水利工程如何跨越天然障礙，滋養整片嘉南平原。最終落腳官田，在埤塘的日落中結束這充實的一天。
 
-![曾文溪Day3_relive](曾文溪Day3_relive.png)
+![曾文溪Day3_relive](曾文溪Day3_relive.webp)
 
 - [今日 relive](https://www.relive.com/view/vmqXzKyzRoO)
 

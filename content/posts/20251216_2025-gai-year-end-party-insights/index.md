@@ -19,10 +19,10 @@ tags:
 
 這次聚會不僅僅是吃飯，更像是一場高品質的腦力激盪。其中有兩個核心洞見，我認為非常值得記錄下來，與大家分享。
 
-![開場](IMG_3094.jpg)
+![開場](IMG_3094.webp)
 *(全場都是 GenAI 講師，含金量高)*
 
-![自己的關鍵心得](忘年會-心得.png)
+![自己的關鍵心得](忘年會-心得.webp)
 *(哈爸的心得，是用語音口述摘要的)*
 
 
@@ -61,7 +61,7 @@ tags:
 這就像是從古早的「手繪建築藍圖」，進化到直接給你看「3D 列印模型」。問題在早期就被解決了，而不是等到蓋樓時才發現樑柱對不上。
 
 
-![東西好吃又豐富](IMG_3092.jpg)
+![東西好吃又豐富](IMG_3092.webp)
 *(聚會的餐點非常豐富美味)*
 
 
@@ -69,7 +69,7 @@ tags:
 - [投影片-親愛的，我把整間公司變成上下文](https://drive.google.com/file/d/1jgUBVU1HI17wkQ_IzuFZcXWDFPzVjwzf/edit?fbclid=IwY2xjawOtletleHRuA2FlbQIxMABicmlkETFYTFZmejFGYXdZZjA0RGQyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnaDXl8iAhYPXGcHx6c1HXokPzqT_c-kxMn5WZEdSSH7LARTV0wM_C37VWu5_aem_nKv_Ta_piuDTm6jJyg-VvA)
 - 這應該是會議上提到的 repo: [company-as-context](https://github.com/chenjackle45/company-as-context)
 - 原來佛心講師之前有[分享影片](https://www.facebook.com/reel/1006034868380087)，附上萃取後的摘要圖，以及摘要：[AI驅動的工作流程革新：小型團隊的PDCA永動機](AI驅動的工作流程革新：小型團隊的PDCA永動機.txt)
-![會議PDCA](會議PDCA.png)
+![會議PDCA](會議PDCA.webp)
 
 
 

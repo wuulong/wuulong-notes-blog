@@ -26,7 +26,7 @@ tags:
   - 知識管理
   - 自動化
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Stage 1 Human Brainstorming and Stage 2 AI Execution Bridge"
   relative: true
 ---

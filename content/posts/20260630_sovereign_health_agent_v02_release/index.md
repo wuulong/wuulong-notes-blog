@@ -26,7 +26,7 @@ tags:
   - 哈爸筆記
   - 知識管理
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Sovereign Health Agent Research and Development Journey"
   relative: true
 draft: false

@@ -27,7 +27,7 @@ tags:
   - 河流探索
   - 知識管理
 ---
-![台東天后宮](./IMG_7021.jpg)
+![台東天后宮](./IMG_7021.webp)
 
 > **哈爸筆記**：
 > 走進一座百年古廟，如果只是拜拜就太可惜了。真正的探索者會去讀牆上的碎裂石碑、抬頭看那些蒙塵的匾額。在那裡，你會發現官方歷史課本裡沒寫的「現場證言」。
@@ -67,18 +67,18 @@ tags:
 
 
 ## 📸 現場實錄
-![Taitung Tianhou Temple Heritage](./IMG_7022.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7023.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7024.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7025.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7026.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7027.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7028.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7029.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7030.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7031.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7032.jpg)
-![Taitung Tianhou Temple Heritage](./IMG_7033.jpg)
+![Taitung Tianhou Temple Heritage](./IMG_7022.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7023.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7024.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7025.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7026.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7027.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7028.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7029.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7030.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7031.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7032.webp)
+![Taitung Tianhou Temple Heritage](./IMG_7033.webp)
 
 ---
 > **AI 協作聲明**：本文由哈爸現場採樣與分析引導，Antigravity 透過 `hugo-content-wizard` 技能將原始探勘紀錄轉化為結構化之歷史地景解碼專文。

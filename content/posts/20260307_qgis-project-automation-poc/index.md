@@ -25,7 +25,7 @@ categories:
 series: ["台灣史探索"]
 description: "探討如何利用 Jinja2 與 Python 實現 QGIS 專案檔 (.qgs) 的自動化產出，消除手動配置 CRS 與圖層的瓶頸，實現『數據更新 -> 一鍵開圖』的軟體定義地圖 (Software-Defined Maps) 流程。"
 ---
-![qgis_poc_screenshot.png](qgis_poc_screenshot.png)
+![qgis_poc_screenshot.webp](qgis_poc_screenshot.webp)
 
 在進行 HGIS（歷史地理資訊系統）研究時，我發現最耗時的往往不是分析數據，而是「準備地圖」。每次要開啟一個新研究，總要重複掛載百年歷史底圖、設定 KML 座標、調整 SQLite 的 SQL 篩選器...。
 
@@ -68,7 +68,7 @@ description: "探討如何利用 Jinja2 與 Python 實現 QGIS 專案檔 (.qgs) 
 - **水理**：自動掛載曾文溪主流、支流與全流域範圍 (KML)。
 - **知識**：直接連結 `history_atlas.db`。為了處理沒有空間欄位的原始 SQLite Table，我們引入了 **OGR VRT 技術**，讓 QGIS 就像讀向量檔一樣，直接讀取資料庫裡的經緯度點位。
 
-![Zengwen HGIS Hub POC 成果圖](qgis_poc_screenshot.png)
+![Zengwen HGIS Hub POC 成果圖](qgis_poc_screenshot.webp)
 
 ### 2. 座標系統的「精準打擊」
 實驗過程中，我們踩到了 QGIS 3.x 對 CRS 解析的嚴謹要求。我們不在只是寫 `EPSG:4326`，而是注入完整的投影描述文字與畫布投影 (Canvas SRS)。目前的產出已能實現「開檔即對準 OSM 底圖」，不再位移。

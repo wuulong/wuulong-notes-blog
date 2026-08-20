@@ -31,7 +31,7 @@ params:
 
 ATAK 內建的軍規符號太過複雜且抽象，網路上抓的圖示又風格不一。於是，我決定自己動手做一套**「WalkGIS 河川探索專用圖示包」**。
 
-![Screenshot_atak_icon](Screenshot_atak_icon.jpg)
+![Screenshot_atak_icon](Screenshot_atak_icon.webp)
 ## 🎯 設計理念：直覺至上
 
 在地圖上（尤其是戶外強光下的手機螢幕），**辨識度**是第一要務。經過幾次嘗試（從下載 icon 到失敗的 fallback），我發現最有效的方法竟然最簡單：

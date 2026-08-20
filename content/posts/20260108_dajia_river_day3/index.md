@@ -41,7 +41,7 @@ destinations:
 
 同時，我也進行了一場關於 **ATAK (Android Team Awareness Kit)** 軟體的實戰實驗：到底把資料「打成一包 (Data Package)」對於旅行紀錄有什麼幫助？
 
-![day3_relive](day3_relive.png)
+![day3_relive](day3_relive.webp)
 
 旅程就看影片：
 [🎥 2026 大甲溪河流探索 Day 3 Relive](https://www.relive.com/zh-TW/view/v7O9gzw5PQq)
@@ -107,11 +107,11 @@ destinations:
 
 結果就是，我在 ATAK 上看我的 GPS 定位，顯示我「在河中間」，其實我是站在舊橋上。
 
-![新龍神橋](20260107_103419.jpg)
-![舊龍神橋](20260107_103520.jpg)
-![國土測繪截圖](Screenshot_20260107-103845087.jpg)
-![魯地圖截圖](Screenshot_20260107-103949701.jpg)
-![googlemap截圖](Screenshot_20260107-104039276.jpg)
+![新龍神橋](20260107_103419.webp)
+![舊龍神橋](20260107_103520.webp)
+![國土測繪截圖](Screenshot_20260107-103845087.webp)
+![魯地圖截圖](Screenshot_20260107-103949701.webp)
+![googlemap截圖](Screenshot_20260107-104039276.webp)
 
 
 ## 🧺 觀察二：巷弄裡的洗衣文化
@@ -123,10 +123,10 @@ destinations:
 問了在地阿伯才知道，旁邊那座不起眼的小橋，就是傳說中的金門橋。
 這告訴我：如果混，那要多靠點運氣。 而這種巷弄裡的驚喜，正是旅行最迷人的地方。
 
-![洗衣](IMG_3833.jpg)
-![門](IMG_3834.jpg)
-![金門橋](IMG_3835.jpg)
-![附近另一次應也可洗衣](IMG_3837.jpg)
+![洗衣](IMG_3833.webp)
+![門](IMG_3834.webp)
+![金門橋](IMG_3835.webp)
+![附近另一次應也可洗衣](IMG_3837.webp)
 
 ---
 ### 🤖 AI 協作宣告

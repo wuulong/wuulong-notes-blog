@@ -13,7 +13,7 @@ tags:
   - "Parquet"
   - "LLM"
 cover:
-  image: "legal_db_blog_cover.jpg"
+  image: "legal_db_blog_cover.webp"
   alt: "AI 法律判決中繼資料庫概念圖"
   relative: true
 ---

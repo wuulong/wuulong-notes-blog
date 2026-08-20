@@ -61,12 +61,12 @@ Agent 做了以下幾件事：
 
 我將生成的 `.zip` 丟進手機的 ATAK，一次成功！所有點位精準顯示，路線顏色正確，甚至因為是標準 Package，安裝即用的體驗非常流暢。
 
-![Screenshot_atak_datapackage](Screenshot_atak_datapackage.jpg)
+![Screenshot_atak_datapackage](Screenshot_atak_datapackage.webp)
 於是，我順勢在 WalkGIS 的地圖頁面中加入了一個新功能：**「匯出 ATAK Data Package」**。
 
 現在，任何一個 WalkGIS 的主題地圖，只要跑一下腳本，就能生成一個軍規等級的離線地圖包。
 
-![walkgis_atak_export](walkgis_atak_export.png)
+![walkgis_atak_export](walkgis_atak_export.webp)
 ### 為什麼這很重要？
 
 這就是 **Agentic Coding** 的威力。它不僅僅是「寫 Code」，而是幫我跨越了「知識獲取 (Research)」到「落地實作 (Implementation)」的鴻溝。我不需要成為 ATAK 格式專家，也能開發出專業的 ATAK 整合功能。

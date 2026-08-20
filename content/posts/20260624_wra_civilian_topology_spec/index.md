@@ -29,7 +29,7 @@ categories:
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-淡水河"]
 cover:
-  image: "wra_civ_spec_cover.png"
+  image: "wra_civ_spec_cover.webp"
   alt: "WRA-Civ 官方與民間水系拓樸編碼規範"
   relative: true
 map_id: "2026xxxx_tamsui_exploration"

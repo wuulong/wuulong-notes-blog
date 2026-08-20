@@ -26,7 +26,7 @@ tags:
   - 知識管理
   - 自動化
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Blog Optimization Hub showing visitor charts, comments and related posts nodes"
   relative: true
 ---

@@ -31,7 +31,7 @@ locations:
 ---
 > **寫在旅程後**：
 > 計畫總趕不上變化，這才是旅行的醍醐味。原訂的「海口溯源」因為一時興起，前半段變成了「老街美食巡禮」。雖然錯過了一些點，但也意外收穫了鹿港的好滋味。
-![濁水溪day1_relive](濁水溪day1_relive.png)
+![濁水溪day1_relive](濁水溪day1_relive.webp)
 - [relive video](https://www.relive.com/zh-TW/view/vXOnzd8JMBO)
 
 ## 今日足跡：從鹿港到西螺

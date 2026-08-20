@@ -25,12 +25,12 @@ categories:
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["GenAI實驗"]
-image: cover.png
+image: cover.webp
 ---
 > **寫在轉化後**：
 > 我們與 AI 的對話往往像是一場漫長的淘金。在過去幾週的「河流探索」專案中，我與 AI 助手累積了數百次關於 GIS 處理、水利考掘與行程規劃的對話。這些對話中隱含著極高的「專業 SOP」，但若不加以整理，它們終將沉沒在歷史紀錄中。本文記錄了我如何讓 AI 「自我解構」，將對話轉化為持續賦能的 Agent Skills。
 
-![AI 技能賦能](cover.png)
+![AI 技能賦能](cover.webp)
 
 ## 1. 發現遺產：在廢墟中尋找規律
 隨著曾文溪、濁水溪探索的展開，我發現每次規劃時，AI 都要重新理解一次我的需求：

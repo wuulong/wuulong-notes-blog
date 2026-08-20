@@ -87,13 +87,13 @@ Tone: Fun, Energetic, Child-friendly, Vibrant.
 ### 1. 資訊圖表化 (Infographic)
 AI 根據我的指令，將 24 個景點轉化為一張充滿冒險感的概念地圖。它不再是線條與點，而是「巨人的鋼鐵手臂（花樑鋼橋）」與「神秘的時光隧道（九號隧道）」。
 
-![WalkGIS資訊圖表](walkgis_infographic.png)
+![WalkGIS資訊圖表](walkgis_infographic.webp)
 *(圖說：NotebookLM 生成的卡通地圖視覺描述與重點摘要)*
 
 ### 2. 自動生成投影片 (Slides)
 我也要求它產出一份 10 頁的投影片大綱，它自動安排了起承轉合：從后里馬場的出發，到石岡水壩的震撼教育，最後在東勢客家園區享用美食。
 
-![WalkGIS投影片](walkgis_slides.png)
+![WalkGIS投影片](walkgis_slides.webp)
 *(圖說：由 AI 規劃的「后豐東豐冒險記」投影片大綱)*
 
 ## 💡 結語

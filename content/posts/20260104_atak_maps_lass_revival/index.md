@@ -23,7 +23,7 @@ series: ["WalkGIS"]
 
 於是我請了 AI 助手協助除錯，沒想到短短幾分鐘內就找出了結構性問題與連結失效的原因，並協助重新打包修復。這篇文章簡單紀錄一下這次的協作修復過程，並分享這個「復活版」的地圖包給大家。
 
-![Screenshot_ATAK-Maps-LASS_Fixed](Screenshot_ATAK-Maps-LASS_Fixed.jpg)
+![Screenshot_ATAK-Maps-LASS_Fixed](Screenshot_ATAK-Maps-LASS_Fixed.webp)
 
 ## 修復過程：AI 如何解決問題？
 

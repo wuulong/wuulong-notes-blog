@@ -23,7 +23,7 @@ categories:
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-淡水河"]
 cover:
-  image: "tamsui_civilian_topology_cover.png"
+  image: "tamsui_civilian_topology_cover.webp"
   alt: "淡水河流域民間自主拓樸擴充成果與協作指引"
   relative: true
 map_id: "2026xxxx_tamsui_exploration"

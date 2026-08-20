@@ -28,7 +28,7 @@ basins:
   - 濁水溪
 
 ---
-![2026流域探索_濁水溪](2026流域探索_濁水溪.png)
+![2026流域探索_濁水溪](2026流域探索_濁水溪.webp)
 
 最近在研究 LASS 社群維護的 「[流域情報開放地圖](https://github.com/LinkItONEDevGroup/BasinStoryMap)」 QGIS 專案，這是一個集結了政府開放資料與民間調適計畫成果的龐大資料庫。
 

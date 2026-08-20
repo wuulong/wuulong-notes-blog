@@ -14,7 +14,7 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-淡水河"]
 cover:
-  image: "guandu_planned.png"
+  image: "guandu_planned.webp"
   alt: "關渡與淡水港口歷史探索計畫"
   relative: true
 map_id: "2026xxxx_tamsui_exploration"

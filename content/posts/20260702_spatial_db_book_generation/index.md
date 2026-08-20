@@ -26,7 +26,7 @@ tags:
   - 知識管理
   - 自動化
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "空間資料庫與 AI 協作的實戰手冊"
   relative: true
 ---

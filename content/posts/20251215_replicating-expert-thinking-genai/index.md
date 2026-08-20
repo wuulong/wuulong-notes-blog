@@ -22,7 +22,7 @@ draft: false
 
 最近我們在研究一種基於生成式 AI (GenAI) 的新方法論，核心概念不再是「複製知識」，而是**「模擬行為」**。我們不只是要打造一個會回答問題的資料庫，而是要建構一個能像專家一樣「思考」與「行動」的 **AI 代理人 (Agent)**。
 
-![摘要圖](replicating-expert-thinking-genai.png)
+![摘要圖](replicating-expert-thinking-genai.webp)
 
 ## 核心理念：從「背書」轉向「實作」
 

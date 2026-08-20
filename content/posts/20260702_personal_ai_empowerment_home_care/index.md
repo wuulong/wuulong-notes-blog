@@ -29,7 +29,7 @@ tags:
   - 知識管理
   - 自動化
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "在宅醫療與 AI 協同的科技溫馨畫面"
   relative: true
 ---

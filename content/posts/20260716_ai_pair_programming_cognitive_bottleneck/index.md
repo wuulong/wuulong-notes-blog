@@ -25,7 +25,7 @@ tags:
   - 知識管理
   - 自動化
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Human-AI Cognitive Bottleneck showing brain mapping to agent architecture via systems engineering"
   relative: true
 ---

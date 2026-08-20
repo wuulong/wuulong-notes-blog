@@ -27,7 +27,7 @@ tags:
   - 知識管理
   - 自動化
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Corporate AI consulting and speaking services presentation"
   relative: true
 ---

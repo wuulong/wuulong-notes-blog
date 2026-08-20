@@ -13,7 +13,7 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-淡水河"]
 cover:
-  image: "neidong_planned.png"
+  image: "neidong_planned.webp"
   alt: "新店溪與南勢溪水源之心探索計畫"
   relative: true
 map_id: "2026xxxx_tamsui_exploration"

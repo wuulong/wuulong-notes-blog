@@ -18,7 +18,7 @@ description: "從虛幻的理論到實體的 L0-L4 載體，v1.3.0 解決了企�
 
 這是一次從「紙上談兵」轉向「物理建設」的轉型大躍進。
 
-![EnterpriseGenAIAdoption_title](EnterpriseGenAIAdoption_title.png)
+![EnterpriseGenAIAdoption_title](EnterpriseGenAIAdoption_title.webp)
 
 ---
 

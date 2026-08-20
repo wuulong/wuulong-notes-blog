@@ -18,7 +18,7 @@ categories:
   - River Exploration (河流探索)
   - Software Engineering (軟體工程)
 series: ["2026台灣河流探索-卑南溪"]
-featured_image: 滑翔傘.png
+featured_image: 滑翔傘.webp
 basins:
   - 卑南溪
 
@@ -47,7 +47,7 @@ destinations:
 今天最核心的體驗是**滑翔傘 (Paragliding)**。
 *   **幸運起飛**：運氣非常好，教官評估後帶我們上到更高的**泰平山起飛場**。那裡的景色極美，雖然高空風大，但視野完全涵蓋了卑南溪的蜿蜒。
 
-![泰平山滑翔傘起飛](滑翔傘.png)
+![泰平山滑翔傘起飛](滑翔傘.webp)
 
 *   **視角轉換**：透過 400元的 GoPro 錄影，讓我用鳥的角度，體驗卑南溪縱谷的美景。
 

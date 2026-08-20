@@ -24,7 +24,7 @@ tags:
   - 河流探索
   - 知識管理
   - 自動化
-featured_image: "featured.png"
+featured_image: "featured.webp"
 description: "如何管理一本書、一個資料庫與一段實地走訪的關係？本篇介紹我們在山脈水文專案中實踐的『三柱架構』，以及如何透過 AI 代理人的技能體系實現複雜地理分析的自動化。"
 ---
 # 山脈水文探索的三柱架構：邏輯、證據與實踐的數位循環

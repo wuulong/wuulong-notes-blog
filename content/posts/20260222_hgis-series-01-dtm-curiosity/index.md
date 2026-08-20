@@ -17,7 +17,7 @@ tags:
   - 知識管理
   - 頭前溪
 ---
-![hgis-series-01-dtm-curiosity.png](hgis-series-01-dtm-curiosity.png)
+![hgis-series-01-dtm-curiosity.webp](hgis-series-01-dtm-curiosity.webp)
 一切的起點，源自於對家鄉地名的好奇。
 
 老爸出生在潭後，但我一直不知道為什麼是這個名字。這裡沒有水潭，何來「潭後」之名？如果只是在 Google Maps 上滑動縮放，這個問題可能永遠得不到解答，因為現代的衛星空照圖，早就被密集的建築與柏油路給覆蓋。

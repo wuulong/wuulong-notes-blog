@@ -28,22 +28,22 @@ draft: false
 來到奈良當然不能錯過著名的奈良公園。
 *   **餵鹿**：這是今天的重頭戲，雖然鹿很可愛，但有時候也挺熱情的，手上的鹿仙貝要拿好喔！
     
-    ![奈良公園餵鹿](奈良公園.jpg)
+    ![奈良公園餵鹿](奈良公園.webp)
 
 ## 🍚 志津香釜飯 (Shizuka)
 [Google Maps](https://share.google/pA7xF84tebtCANiHQ)
 
 午餐選擇了著名的志津香釜飯。排隊人潮通常不少，但堅持傳統風味的釜飯，米飯吸滿了高湯精華，非常值得一試。
 
-![志津香釜飯](志津香釜飯.jpg)
+![志津香釜飯](志津香釜飯.webp)
 
 ## ⛩️ 冰室神社 (Himuro Shrine)
 [官方網站](https://himurojinja.jp/english-translationice-fortune/)
 
 接著參訪了冰室神社，這裡是著名的「製冰業守護神」。除了祈求好運，欣賞神社的靜謐氛圍也是一種享受。
 
-![冰室神社](冰室神社.jpg)
-![大吉](大吉.jpg)
+![冰室神社](冰室神社.webp)
+![大吉](大吉.webp)
 抽了張 第 20 號大吉的籤
 
 ## 🏯 東大寺 (Todaiji Temple)
@@ -53,14 +53,14 @@ draft: false
 *   **大佛布丁 (Daibutsu Pudding)**：[Google Maps](https://share.google/5Lz3ZablTIb1GPr7s)
     *   參拜完特別買了有名的大佛布丁，瓶蓋上有可愛的大佛圖案，口感綿密濃郁，是很好的伴手禮或甜點。
 
-    ![東大寺](東大寺.jpg)
+    ![東大寺](東大寺.webp)
 
 ## 🥘 福太郎 - 梅田店 (Fukutarou)
 [官方網站](https://2951.jp/)
 
 晚餐回到大阪梅田，選擇了福太郎大阪燒。這裡是品嚐正宗大阪燒（Okonomiyaki）與蔥燒（Negiyaki）的好地方，坐在鐵板板前看著師傅料理，香氣四溢，為第二天畫下完美的句點。
 
-![福太郎大阪燒](福太郎-梅田店.jpg)
+![福太郎大阪燒](福太郎-梅田店.webp)
 
 ---
 ### AI 協作宣告 (AI Collaboration Disclosure)

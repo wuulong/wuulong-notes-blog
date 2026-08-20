@@ -28,7 +28,7 @@ draft: false
 
 這套流程的核心在於「讓合適的 AI 做合適的事」。
 
-![資訊圖表](voice-to-blog-genai-workflow.png)
+![資訊圖表](voice-to-blog-genai-workflow.webp)
 
 ### 1. 捕捉 (Capture)：討論時，請記得錄音
 一切的起點很簡單：**拿出手機錄音**。

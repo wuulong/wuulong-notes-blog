@@ -16,7 +16,7 @@ tags:
 series:
   - ATP Agent
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "ATP Agent 架構思考與系統設計圖"
   relative: true
 ---

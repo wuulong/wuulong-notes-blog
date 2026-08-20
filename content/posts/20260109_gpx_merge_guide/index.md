@@ -30,7 +30,7 @@ params:
   ShowToc: true
   TocOpen: true
 ---
-![Day4合併軌跡](Day4合併軌跡.png)
+![Day4合併軌跡](Day4合併軌跡.webp)
 
 在進行長距離的河川探索（如大甲溪、濁水溪）時，我們依賴 **ATAK** (Android Team Awareness Kit) 作為主要的軌跡記錄工具。然而，在實際作業中遇到了一個痛點：
 

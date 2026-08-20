@@ -23,7 +23,7 @@ tags:
   - 知識管理
   - 自動化
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Knowledge Base interface displaying tree menu, categories, and code files"
   relative: true
 ---

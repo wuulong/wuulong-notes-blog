@@ -22,7 +22,7 @@ tags:
   - 知識管理
   - 自動化
 cover:
-  image: "assets/images/20260718_notebooklm_slides_elderly.jpg"
+  image: "assets/images/20260718_notebooklm_slides_elderly.webp"
   alt: "透過 NotebookLM 為高齡學員自動化生成的手機操作簡報示意圖"
   relative: false
 ---

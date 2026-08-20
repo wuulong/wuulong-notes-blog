@@ -28,8 +28,8 @@ destinations:
 
 ## 實際旅程
 - [曾文溪Day5 relive](https://www.relive.com/view/v1vjZB5njYv)
-- ![曾文溪買的東西](曾文溪買的東西.jpg)
-- ![蜜餞](蜜餞.jpg)
+- ![曾文溪買的東西](曾文溪買的東西.webp)
+- ![蜜餞](蜜餞.webp)
 
 ## 今日目標：台江殘影、古廟遺址、海口雙船巡禮與扇形地景
 

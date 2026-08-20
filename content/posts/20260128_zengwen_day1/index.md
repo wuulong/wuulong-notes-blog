@@ -34,7 +34,7 @@ destinations:
 > **寫在旅程開始**：
 > 曾文溪的探索之旅，我們選擇了一條特別的「逆行」路徑。不同於原本規劃的順流而下，我們決定從北南下，直奔流域的最上游，先探訪曾文溪的源頭與蓄水心臟，再隨著水流慢慢往海邊移動。這是一趟公路移動與身心放鬆的序曲。
 
-![曾文溪Day1_relive](曾文溪Day1_relive.png)
+![曾文溪Day1_relive](曾文溪Day1_relive.webp)
 - [今日 relive](https://www.relive.com/view/v1OwkPEV8XO)
 
 ## 今日目標：長途移動、水庫壯景與溫泉夜市

@@ -12,7 +12,7 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-淡水河"]
 cover:
-  image: "tamsui_cover.png"
+  image: "tamsui_cover.webp"
   alt: "淡水河全流域探索計畫"
   relative: true
 map_id: "2026xxxx_tamsui_exploration"

@@ -13,7 +13,7 @@ categories:
   - River Exploration (河流探索)
 series: ["2026台灣河流探索-淡水河"]
 cover:
-  image: "yuanshanzi_planned.png"
+  image: "yuanshanzi_planned.webp"
   alt: "基隆河分洪與平溪煤礦地景探索計畫"
   relative: true
 map_id: "2026xxxx_tamsui_exploration"

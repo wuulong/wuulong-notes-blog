@@ -25,7 +25,7 @@ description: "分享如何克服網路與協定坑洞，使用 Python 透過 TCP
 ---
 在開發 **AI Field Scout (AI 偵查員)** 系統的過程中，我們的一個核心需求是：**讓 AI Agent 能即時把發現的資訊（例如：附近的便利商店、危險地形、或是沿著路徑移動的隊友）投放到使用者的 ATAK 地圖上。**
 
-![Screenshot_coticon](Screenshot_coticon.jpg)
+![Screenshot_coticon](Screenshot_coticon.webp)
 
 ATAK (Android Team Awareness Kit) 是一個非常強大的戰術地圖軟體，它使用 **CoT (Cursor on Target)** 這種 XML 格式來交換訊息。網路上大部分的教學都推薦使用 UDP Multicast，但在實際的開發環境（特別是 Mac 電腦連接 iPhone 熱點，或是複雜的內網環境）中，UDP 經常因為路由、防火牆或廣播限制而撞牆。
 

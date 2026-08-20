@@ -21,7 +21,7 @@ tags:
   - Methodology
   - Python
 cover:
-  image: "cover_image.jpg"
+  image: "cover_image.webp"
   alt: "AI 協作防禦工程"
   relative: true
 ---
