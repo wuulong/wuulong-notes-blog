@@ -25,6 +25,8 @@ cover:
 
 為了徹底解決這個數據燃料痛點，我們歷經了多個迭代的系統工程淬鍊，正式開源釋出 **`tw-med-db` (台灣醫療與健保開放資料庫引擎)**。
 
+* 📦 **GitHub 開源專案**：[https://github.com/wuulong/tw-med-db](https://github.com/wuulong/tw-med-db)
+
 這篇文章想跟大家分享 `tw-med-db` 的架構設計心法、它究竟能做什麼，以及我們如何透過確定性（Deterministic）工程，打造出 0 秒延遲、完全解耦的 AI 生醫數據大腦。
 
 ---
@@ -149,6 +151,8 @@ python src/cli/main.py search "美麗沙而" --db db/med.db
 > AI 時代的基礎建設，不該是把未經整理的亂七八糟文字直接丢給 RAG。**「乾淨、結構化、有 FTS5 與拓撲視圖的 SQLite，才是 AI Agent 最強大、最省 Token 的外掛大腦。」**
 
 `tw-med-db` 現已正式開源，歡迎關心台灣數位健康、生醫資訊、LLM Agent 應用的朋友一起來玩，把台灣優秀的醫療數據變成世界級的 AI 燃料！
+
+* 🔗 **GitHub 專案位址**：[https://github.com/wuulong/tw-med-db](https://github.com/wuulong/tw-med-db)
 
 ---
 
