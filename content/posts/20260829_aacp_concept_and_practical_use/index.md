@@ -12,7 +12,7 @@ tags:
   - "Kaggle"
   - "Hugging Face"
 cover:
-  image: "cover.jpg"
+  image: "cover.webp"
   alt: "Agentic Control Plane (AACP) AI 代理神經控制平面概念圖"
   relative: true
 ---
