@@ -4,7 +4,7 @@ import re
 from shapely.wkt import loads
 
 # 設定路徑
-BASE_PATH = "/Users/wuulong/github/bmad-pa"
+BASE_PATH = "."
 PROJECT_ROOT = f"{BASE_PATH}/events/notes/wuulong-notes-blog/static/walkgis_prj"
 DB_PATH = f"{PROJECT_ROOT}/walkgis.db"
 FEATURES_DIR = f"{PROJECT_ROOT}/features"

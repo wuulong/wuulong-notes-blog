@@ -1,7 +1,7 @@
 import os
 
 # 設定路徑
-BASE_PATH = "/Users/wuulong/github/bmad-pa"
+BASE_PATH = "."
 FEATURES_DIR = f"{BASE_PATH}/events/notes/wuulong-notes-blog/static/walkgis_prj/features"
 
 hsinchu_data = {

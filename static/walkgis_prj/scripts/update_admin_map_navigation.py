@@ -4,7 +4,7 @@ import datetime
 import json
 
 # 路徑設定
-BASE_PATH = "/Users/wuulong/github/bmad-pa"
+BASE_PATH = "."
 PROJECT_ROOT = f"{BASE_PATH}/events/notes/wuulong-notes-blog/static/walkgis_prj"
 DB_PATH = f"{PROJECT_ROOT}/walkgis.db"
 MAP_FILE = f"{PROJECT_ROOT}/maps/taiwan_admin_enrichment.md"

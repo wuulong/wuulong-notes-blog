@@ -2,7 +2,7 @@
 import zipfile
 import os
 
-KMZ_PATH = "/Users/wuulong/github/bmad-pa/events/notes/data/濁水溪景點設施.kmz"
+KMZ_PATH = "./events/notes/data/濁水溪景點設施.kmz"
 
 def main():
     with zipfile.ZipFile(KMZ_PATH, 'r') as z:

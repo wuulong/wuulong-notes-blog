@@ -3,7 +3,7 @@ import json
 import os
 
 # Define the file path
-JSON_PATH = "/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/data/20260111_ia_central_canals_pois.json"
+JSON_PATH = "./events/notes/wuulong-notes-blog/static/walkgis_prj/data/20260111_ia_central_canals_pois.json"
 
 # Load existing data
 if os.path.exists(JSON_PATH):

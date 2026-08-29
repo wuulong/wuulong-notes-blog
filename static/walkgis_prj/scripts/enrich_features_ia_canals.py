@@ -2,7 +2,7 @@
 import os
 import re
 
-FEATURES_DIR = "/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/features"
+FEATURES_DIR = "./events/notes/wuulong-notes-blog/static/walkgis_prj/features"
 FILE_PATTERN = re.compile(r"20260111_ia_central_canals_(\d+)_+(.*)\.md")
 
 # Data dictionary based on research

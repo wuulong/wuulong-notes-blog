@@ -5,7 +5,7 @@ import ast
 import glob
 
 # Configuration
-BASE_DIR = "/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj"
+BASE_DIR = "./events/notes/wuulong-notes-blog/static/walkgis_prj"
 FEATURES_DIR = os.path.join(BASE_DIR, "features")
 OUTPUT_DIR = os.path.join(BASE_DIR, "atak_packages")
 PACKAGE_NAME = "daan_dajia_pipeline_mission_package"

@@ -19,7 +19,7 @@ def load_dotenv():
 # =============================================================================
 # 📁 專案規則檔 (.agents/AGENTS.md) 讀寫工具
 # =============================================================================
-AGENTS_MD_PATH = "/Users/wuulong/github/bmad-pa/.agents/AGENTS.md"
+AGENTS_MD_PATH = "./.agents/AGENTS.md"
 
 def backup_rules() -> str:
     with open(AGENTS_MD_PATH, "r", encoding="utf-8") as f:

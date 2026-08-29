@@ -4,8 +4,8 @@ import os
 import json
 from xml.dom import minidom
 
-KMZ_PATH = "/Users/wuulong/github/bmad-pa/events/notes/data/濁水溪景點設施.kmz"
-OUTPUT_JSON = "/Users/wuulong/github/bmad-pa/events/notes/wuulong-notes-blog/static/walkgis_prj/data/20260111_zhuoshui_facilities.json"
+KMZ_PATH = "./events/notes/data/濁水溪景點設施.kmz"
+OUTPUT_JSON = "./events/notes/wuulong-notes-blog/static/walkgis_prj/data/20260111_zhuoshui_facilities.json"
 
 def parse_kml(kml_content):
     dom = minidom.parseString(kml_content)
