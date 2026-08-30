@@ -56,6 +56,39 @@ cover:
 
 ---
 
+### 🛠️ 專用萬用水文拓樸 CLI 工具：`river_cli.py`
+
+整理資料是一回事，隨心所欲地「查詢與轉換資料」又是另一回事！
+
+為了讓大家探索這 998 筆水脈時能想怎麼查就怎麼查、格式怎麼轉都方便，專書 v2.3 正式推出了全新的萬能拓樸 CLI 工具 [`scripts/river_cli.py`](https://github.com/wuulong/RiverExploration/blob/main/scripts/river_cli.py)（說明書請參閱 [`scripts/manuals/river_cli.md`](https://github.com/wuulong/RiverExploration/blob/main/scripts/manuals/river_cli.md)）。
+
+#### 🌳 1. 終端機文字樹狀圖 (Tree)
+直接執行 `python3 scripts/river_cli.py search -b "頭前溪"`，終端機就會秒級印出層層下鑽的彩色彩色樹狀脈絡：
+
+```text
+🌊 頭前溪 (130000) [官方] (階層:1)
+└── 豆子埔溪 (130000-C01) [民間] (階層:2)
+    └── 東山溪 (130000-C01-C01) [民間] (階層:3)
+└── 冷水坑溪 (1300E0) [官方] (階層:2)
+└── 柯子湖溪 (130000-C02) [民間] (階層:2)
+└── 崁下溪 (130000-C03) [民間] (階層:2)
+    └── 九芎溪 (130000-C03-C01) [民間] (階層:3)
+        └── 倒別牛溪 (130000-C03-C01-C01) [民間] (階層:4)
+        └── 水坑溪 (130000-C03-C01-C03) [民間] (階層:4)
+            └── 赤柯寮溪 (130000-C03-C01-C03-C01) [民間] (階層:5)
+└── 油羅溪 (130020) [官方] (階層:2)
+    └── 霞喀羅溪 (130011) [官方] (階層:3)
+```
+
+#### 🔄 2. 多維度查詢與 7 大格式轉譯
+* **模糊搜尋關鍵字**：`python3 scripts/river_cli.py search "霞喀羅"`
+* **獨立篩選官方 6 碼**：`python3 scripts/river_cli.py search --official-only`
+* **向上追溯至出海口主流**：`python3 scripts/river_cli.py trace 130020 --direction up`
+* **一鍵導出 GeoJSON 空間圖資**：`python3 scripts/river_cli.py export -b "頭前溪" -f geojson -o touqian.geojson`
+* **一鍵導出 KML 圖資 (Google Earth / Garmin)**：`python3 scripts/river_cli.py export -b "淡水河" -f kml -o tamsui.kml`
+
+---
+
 ### 🎨 升級黑夜模式 (Dark Mode) 高對比 Mermaid 拓樸圖
 
 為了讓探索者在 Mermaid Live Editor 等工具中檢視關係圖時不再受淺色文字對比不足影響，我們升級了拓樸 CLI 導出器：
@@ -78,7 +111,7 @@ graph TD
 
 現在只要進到專書目錄執行以下 CLI 命令，即可秒級生成高對比雙色關係圖：
 ```bash
-python3 scripts/river_topology_importer.py mermaid -b "頭前溪"
+python3 scripts/river_cli.py export -b "頭前溪" -f mermaid
 ```
 
 ---
