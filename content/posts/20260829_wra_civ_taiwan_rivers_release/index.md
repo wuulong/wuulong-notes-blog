@@ -6,7 +6,7 @@ tags: ["河流探索", "WRA-Civ", "哈爸筆記", "水文拓樸", "兩階段AI�
 categories: ["河流探索"]
 series: ["2026台灣河流探索"]
 cover:
-  image: "wra_civ_taiwan_map.jpg"
+  image: "wra_civ_taiwan_map.webp"
   alt: "全台灣水文拓樸大一統 - WRA-Civ 民間水系地圖"
   caption: "全台灣四大水資源區 WRA-Civ 水文拓樸大一統示意圖"
   relative: true
