@@ -64,7 +64,7 @@ cover:
 ### 1. 第一階：極速 11 秒水系幾何與匯流點演算 (Spec v3.1.0)
 我們首先解決了 OpenStreetMap 圖資對接的問題。透過一次性批次打包 Overpass QL 查詢，我們將頭前溪水系 40 條水脈的幾何抓取時間從 400 秒壓縮到 **11 秒**，並實現了 **「水系唯一 Key (basin_130000_頭前溪_raw.json) 本地 100% 落庫」**，第二次執行 0 秒秒讀連線！
 
-### 2. 第二階：全球高程 API 與河道縱剖面採樣 (`./pa elevation`)
+### 2. 第二階：全球高程 API 與河道縱剖面採樣 (`python scripts/elevation_hydrator.py`)
 接著，我們寫出了全新的 `elevation_hydrator.py` CLI 工具。這個工具能做四件事：
 * `query`：查詢任意座標的海拔高度。
 * `hydrate-atlas`：把高程注入匯流點 JSON。
@@ -73,7 +73,43 @@ cover:
 
 ---
 
-## 🌊 三、實戰驗證：一個 Prompt 算出的內灣暴漲預警報告
+## ⛰️ 三、v2.4 重磅升級：終端機 3D 海拔縱剖面與 AI-Native JSONL 資料庫
+
+為了讓這套 3D 水文拓樸能真正普及給所有開發者與 AI Agent，我們在最新的 **v2.4 版本** 進行了大一統升級：
+
+### 1. 終端機一鍵印出水系 3D 海拔縱剖面 (`river_cli.py profile`)
+我們升級了 [`river_cli.py`](https://github.com/wuulong/bmad-pa/blob/main/events/AIBooks/RiverExploration/scripts/river_cli.py) 萬用工具。現在只需在終端機輸入 `python scripts/river_cli.py profile 頭前溪`，就能直接畫出帶有全形中文字精密對齊、高山至河口降落趨勢的 3D 剖面圖：
+
+```text
+⛰️ 【頭前溪 水系全體水脈 3D 海拔縱剖面與降落趨勢圖】
+📊 已獲取高程: 11 筆 (最高: 1291.0m | 最低: 121.0m) | 待厚化高程: 30 筆
+================================================================================
+  花園溪                 (130010-C01)             | ██████████████████████████████ 1291.0 m
+  爺巴堪溪               (130010-C03)             | ███████████████████████████    1200.0 m
+  麥巴來溪               (130010-C02)             | ███████████████████████        1025.0 m
+  霞喀羅溪               (130011)                 | █████████████████████           932.0 m
+  那羅溪                 (130025)                 | ████████                        372.0 m
+  內灣幹線               (130023)                 | █████                           249.0 m
+  新庄子排水             (130021)                 | ████                            198.0 m
+  大肚溪                 (130000-C04-C02)         | ████                            178.0 m
+  王爺坑溪               (130000-C04-C01)         | ███                             150.0 m
+  油羅溪                 (130020)                 | ██                              121.0 m
+  上坪溪                 (130010)                 | ██                              121.0 m
+-------------------------------------------------------------------------------------
+  📋 [待厚化高程水脈清單]:
+  豆子埔溪               (130000-C01)             | ░░░░░                             ? m (待測量)
+  柯子湖溪               (130000-C02)             | ░░░░░                             ? m (待測量)
+================================================================================
+```
+
+### 2. 全台 1,418 筆水脈 AI-Native JSONL Master 資料庫
+資料庫正式從傳統 CSV 表格全面升級為 **AI-Native 雙軌流式 JSONL (`taiwan_river_topology_registry.jsonl`)**：
+* **全量收納 1,418 條水脈**（727 筆水利署官方 6 碼 + 691 筆民間延伸水脈）。
+* **全量注入 356 筆實體匯流點經緯度與 3D 海拔高度 (`plugins.elevation`)**，並支援 `links` 權威外鏈與 `culture` / `pois` 人文景點擴充！
+
+---
+
+## 🌊 四、實戰驗證：一個 Prompt 算出的內灣暴漲預警報告
 
 當我們把這套底座建好後，我在對話視窗中輸入了一個極簡的 Prompt：
 
@@ -96,12 +132,20 @@ AI Agent 立刻自動發動剛才寫好的 `elevation_hydrator` 進行河道剖�
 2. **洪峰最高暴漲 ($T + 2.5 \sim 3 \text{ 小時}$)**：
    暴雨發動後 **2.5 至 3 小時**，經國大橋迎來最高洪峰水位。
 
-> 📄 **完整水力分析報告已開源歸檔於 GitHub**：
-> [TR_Touqian_Neiwan_Jingguo_Hydraulic_Analysis.md](https://github.com/wuulong/RiverExploration/blob/main/Analysis/TR_Touqian_Neiwan_Jingguo_Hydraulic_Analysis.md)
+---
+
+## 📖 📚 五、想了解更多？歡迎參閱《台灣河流探索專書》與標準規格書
+
+本文討論的所有原始碼、水力算例、CLI 工具說明書與 AI-Native JSON Schema 規格，均已完整開源並收錄於專書中，歡迎點擊以下連結深入閱讀：
+
+1. 🏠 **專書開源主頁**：[《台灣河流探索專書 (RiverExploration Repo)》](https://github.com/wuulong/RiverExploration)
+2. 📘 **專書第 11.6 節 (大一統最新章節)**：[《全台灣 150 主流水系、AI-Native 雙軌 JSONL 資料庫與 3D 拓樸》](https://github.com/wuulong/RiverExploration/blob/main/Chapter_11_6.md)
+3. 🛠️ **CLI 萬用工具手冊**：[《river_cli.py 萬用查詢與 3D 轉譯手冊》](https://github.com/wuulong/RiverExploration/blob/main/scripts/manuals/river_cli.md)
+4. 📜 **JSON Schema 權威規格書**：[《WRA-Civ AI-Native JSONL Master 規格說明書 (Spec v2.4)》](https://github.com/wuulong/RiverExploration/blob/main/specs/jsonl_topology_schema_spec.md)
 
 ---
 
-## 📝 四、結語與心得
+## 📝 六、結語與心得
 
 這次的實驗過程讓我非常興奮。
 
