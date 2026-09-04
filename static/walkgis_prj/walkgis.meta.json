@@ -1,0 +1,32 @@
+{
+  "dgs_version": "2.0",
+  "db_name": "walkgis.db",
+  "rel_path": "events/notes/wuulong-notes-blog/static/walkgis_prj/walkgis.db",
+  "category": "Other",
+  "title": "walkgis.db 資料庫",
+  "description": "收錄 5 個表格之 SQLite 資料庫",
+  "version": "1.0.0",
+  "domain_tags": [
+    "meta_data_templates",
+    "layers",
+    "walking_map_relations",
+    "walkgis",
+    "walking_map_features",
+    "walking_maps"
+  ],
+  "tables": [
+    "layers",
+    "meta_data_templates",
+    "walking_map_features",
+    "walking_maps",
+    "walking_map_relations"
+  ],
+  "udf_requirements": [
+    "regex_match",
+    "calc_jaccard_similarity"
+  ],
+  "engine_config": {
+    "journal_mode": "WAL",
+    "synchronous": "NORMAL"
+  }
+}

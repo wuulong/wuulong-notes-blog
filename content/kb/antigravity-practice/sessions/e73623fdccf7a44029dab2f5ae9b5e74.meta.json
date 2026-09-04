@@ -1,0 +1,45 @@
+{
+  "dgs_version": "2.0",
+  "db_name": "e73623fdccf7a44029dab2f5ae9b5e74.db",
+  "rel_path": "events/notes/wuulong-notes-blog/content/kb/antigravity-practice/sessions/e73623fdccf7a44029dab2f5ae9b5e74.db",
+  "category": "Other",
+  "title": "e73623fdccf7a44029dab2f5ae9b5e74.db 資料庫",
+  "description": "收錄 7 個表格之 SQLite 資料庫",
+  "version": "1.0.0",
+  "domain_tags": [
+    "資料庫",
+    "拓樸",
+    "查詢",
+    "steps",
+    "e73623fdccf7a44029dab2f5ae9b5e74.db",
+    "e73623fdccf7a44029dab2f5ae9b5e74",
+    "executor_metadata",
+    "trajectory_meta",
+    "parent_references",
+    "gen_metadata"
+  ],
+  "tables": [
+    "trajectory_meta",
+    "steps",
+    "gen_metadata",
+    "executor_metadata",
+    "parent_references",
+    "trajectory_metadata_blob",
+    "battle_mode_infos"
+  ],
+  "udf_requirements": [
+    "regex_match",
+    "calc_jaccard_similarity"
+  ],
+  "engine_config": {
+    "journal_mode": "WAL",
+    "synchronous": "NORMAL"
+  },
+  "semantic_summary": "e73623fdccf7a44029dab2f5ae9b5e74.db 領域結構化資料水庫",
+  "business_scenarios": [
+    "全專案資料檢索",
+    "業務分析"
+  ],
+  "llm_enriched": true,
+  "enriched_at": "2026-08-31 22:42:23"
+}
