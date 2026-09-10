@@ -2,7 +2,7 @@
 title: 2026 綠島：黑潮中尋找地景的邊界
 date: 2026-04-17
 description: 聚焦於綠島的火成岩地貌、海岸水系與白色恐怖人權地景的深度探索地圖。這是一場關於地質內營力與人類歷史韌性的時空對合。
-cover_image: "assets/images/green_island_header.png"
+cover_image: assets/images/green_island_header.webp
 ---
 
 ```mermaid

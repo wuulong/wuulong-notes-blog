@@ -3,6 +3,7 @@ map_id: 2025_dajia_river_tour
 name: 大甲溪水利溯源之旅
 region: 台中/和平
 date: 2025-12-29
+cover_image: assets/images/大甲溪水利溯源圖.webp
 ---
 
 # 大甲溪水利溯源之旅 (The Great Dajia River Hydration Tour)

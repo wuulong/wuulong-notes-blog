@@ -3,6 +3,7 @@ id: 20260202_shanhaijun
 title: 山海圳國家綠道 (Mountains to Sea Greenway) - 整合敘事地圖
 date: 2026-02-02
 description: 山海圳國家綠道是一條溯源風土的文化路徑，跨越4大河川流域，穿越台江、西拉雅、鄒、布農四大文化生活圈。
+cover_image: assets/images/山海圳_title.webp
 ---
 
 # 緣起

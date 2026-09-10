@@ -2,6 +2,7 @@
 name: 二仁溪流域探索地圖 (Erren River ISMap)
 date: 2026-02-04
 type: ISMap
+cover_image: assets/images/erren_river_exploration_cover.webp
 ---
 
 # 🌊 二仁溪流域探索地圖 (Erren River ISMap)

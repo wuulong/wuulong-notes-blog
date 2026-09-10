@@ -3,6 +3,7 @@ id: "20260324_liwu_river"
 title: "立霧溪探索計畫：橫跨太魯閣大理石峽谷的生命之刃"
 type: "map"
 date: "2026-03-24"
+cover_image: assets/images/liwu_gorge_cover.webp
 ---
 
 # 立霧溪流域探索：地貌、工程與歷史的交錯實錄

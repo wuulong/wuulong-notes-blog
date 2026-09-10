@@ -2,7 +2,7 @@
 title: 高屏溪：從海到山的生命溯源 (2026)
 date: 2026-02-04
 description: 探索台灣流域面積最大的河流。從海口逆流而上，穿透工業修復的濕地與殖民糖鐵的地景，最後抵達莫拉克災後的主體原鄉。
-cover_image: assets/images/2026xxxx_gaoping_exploration_cover.png
+cover_image: assets/images/2026xxxx_gaoping_exploration_cover.webp
 ---
 
 ![封面圖片](/assets/images/2026xxxx_gaoping_exploration_cover.png)

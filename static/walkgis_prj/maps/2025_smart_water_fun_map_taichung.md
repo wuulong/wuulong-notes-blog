@@ -3,6 +3,7 @@ map_id: 2025_smart_water_fun_map_taichung
 name: 智慧水圳玩樂地圖-臺中管理處
 region: 台中市
 date: 2025-12-29
+cover_image: assets/images/台中智慧水圳地圖.webp
 ---
 
 # 智慧水圳玩樂地圖 - 臺中管理處 (Smart Water Canal Fun Map - Taichung Management Office)

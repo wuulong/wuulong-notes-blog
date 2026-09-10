@@ -2,7 +2,7 @@
 title: 蘭陽溪水路歷史考掘：全流域分段探索地圖 (2026)
 date: 2026-01-18
 description: 從蘭陽溪口的濕地生態，到三星蔥田與蘭陽大橋的水利史。
-cover_image: assets/images/2026xxxx_lanyang_exploration_cover.png
+cover_image: assets/images/2026xxxx_lanyang_exploration_cover.webp
 ---
 
 ```mermaid

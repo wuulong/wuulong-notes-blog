@@ -3,6 +3,7 @@ map_id: 2025_smart_water_fun_map_hsinchu
 name: 智慧水圳玩樂地圖-新竹管理處
 region: 新竹縣市
 date: 2025-12-30
+cover_image: assets/images/新竹智慧水圳地圖.webp
 ---
 
 # 智慧水圳玩樂地圖 - 新竹管理處

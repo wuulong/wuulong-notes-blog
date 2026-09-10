@@ -3,6 +3,7 @@ map_id: taiwan_admin_enrichment
 name: 鄉鎮導航
 region: 台灣
 date: 2026-02-04
+cover_image: assets/images/taiwan_admin_enrichment.webp
 ---
 
 # 鄉鎮導航

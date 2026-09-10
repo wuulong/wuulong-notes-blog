@@ -3,7 +3,7 @@ id: 20260111_zhuoshui_facilities
 name: 濁水溪及其周邊景點設施地圖
 description: 彙整濁水溪流域之交通、水利、人文與自然景點
 region: 中台灣
-cover_image: assets/cover_images/placeholder.jpg
+cover_image: assets/images/20260111_zhuoshui_facilities_cover.webp
 created_at: 2026-01-11
 updated_at: 2026-01-11
 tags: [濁水溪, 景點, 設施]

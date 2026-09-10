@@ -4,7 +4,7 @@ name: 秀姑巒溪流域探索地圖 (Xiuguluan River ISMap)
 region: 花蓮/瑞穗/玉里
 date: 2026-03-16
 type: ISMap
-cover_image: assets/images/20260316_xiuguluan_cover.png
+cover_image: assets/images/xiuguluan_cover.webp
 ---
 
 # 🌊 秀姑巒溪流域探索地圖 (Xiuguluan River ISMap)

@@ -2,7 +2,7 @@
 title: 曾文溪：青瞑蛇下的防禦地誌與流動記憶 (2026)
 date: 2026-01-30
 description: 追蹤「青瞑蛇」曾文溪的歷史改道、精神防禦網絡與現代水利調度，從海口溯源至山區。
-cover_image: assets/images/2026xxxx_zengwen_exploration_cover.png
+cover_image: assets/images/2026xxxx_zengwen_exploration_cover.webp
 ---
 
 ```mermaid

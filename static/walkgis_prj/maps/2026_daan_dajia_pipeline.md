@@ -2,6 +2,7 @@
 title: 大安大甲溪聯通管工程計畫地圖
 date: 2026-01-01
 description: 展示大甲溪輸水管工程與鯉魚潭第二原水管工程的關鍵設施與路徑。
+cover_image: assets/images/聯通管工程進度與效益.webp
 ---
 ```
 graph TD;

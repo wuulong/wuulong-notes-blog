@@ -4,6 +4,7 @@ name: 后豐鐵馬道 & 東豐綠廊精華遊
 region: 台中/后里/豐原/石岡/東勢
 difficulty: Easy
 date: 2025-12-29
+cover_image: assets/images/后豐東豐單車歷史路線.webp
 ---
 
 # 后豐鐵馬道 & 東豐綠廊精華遊

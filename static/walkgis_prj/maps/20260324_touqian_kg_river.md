@@ -3,6 +3,7 @@ title: "20260324-頭前溪：知識圖譜與士紳水權探索"
 id: "20260324_touqian_kg_river"
 region: "新竹"
 category: "台灣河流探索"
+cover_image: assets/images/touqian_cover.webp
 ---
 
 ### 🗺️ 地圖與空間資源

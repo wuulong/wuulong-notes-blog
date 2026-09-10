@@ -2,7 +2,7 @@
 title: "蘭陽溪流域分段探索：從雪山埡口到海的深耕之旅 (2026)"
 date: 2026-03-24
 description: 運用垂直地景與物導向歷史 (OO-History) 方法論，考掘蘭陽溪從 1,948 公尺思源埡口到平原、直達太平洋海口的縱走歷史，以及跨越分水嶺夜宿三重的空間轉換。
-cover_image: assets/images/20260324_lanyang_exploration_cover.png
+cover_image: assets/images/2026xxxx_lanyang_exploration_cover.webp
 ---
 
 ```mermaid

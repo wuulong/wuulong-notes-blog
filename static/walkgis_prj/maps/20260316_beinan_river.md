@@ -4,7 +4,7 @@ name: 卑南溪流域探索地圖 (Beinan River ISMap)
 region: 台東/卑南
 date: 2026-03-16
 type: ISMap
-cover_image: assets/images/20260316_beinan_cover.png
+cover_image: assets/images/20260316_beinan_cover.webp
 ---
 
 # 🌊 卑南溪流域探索地圖 (Beinan River ISMap)

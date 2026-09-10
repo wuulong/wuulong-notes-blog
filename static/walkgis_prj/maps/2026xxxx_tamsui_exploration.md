@@ -4,7 +4,7 @@ title: 淡水河全流域模組化探索地圖 (2026)
 type: "map"
 date: 2026-06-22
 description: 整合大漢溪、新店溪、基隆河三大系統，從都會防洪、水質水源到中上游森林保護區的細緻探索地圖。
-cover_image: assets/images/2026xxxx_tamsui_exploration_cover.png
+cover_image: assets/images/2026xxxx_tamsui_exploration_cover.webp
 ---
 
 ```mermaid

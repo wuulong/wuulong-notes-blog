@@ -3,7 +3,7 @@ id: 20260111_ia_central_canals
 name: 農田水利署中區圳路地圖
 description: 彰化、雲林、南投管理處重要圳路設施
 region: 中台灣
-cover_image: assets/images/20260111_ia_central_canals_cover.png
+cover_image: assets/images/20260111_ia_central_canals_cover.webp
 created_at: 2026-01-11
 updated_at: 2026-01-11
 tags: [水利設施, 圳路, 農田水利署]
